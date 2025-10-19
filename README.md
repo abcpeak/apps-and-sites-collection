@@ -2445,8 +2445,8 @@ Contributions are most welcome
 
 ## 📄License 许可证
 
-MIT License
+This work is licensed under [The MIT License (MIT)](https://opensource.org/licenses/MIT).
 
-This work is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Copyright © 2025
 
-Made with ❤️
+Made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
