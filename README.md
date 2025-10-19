@@ -10,7 +10,7 @@
 | [💼Business](#business-商务)                         | [💪Health & Fitness](#health--fitness-健康健美)      | [📰News](#news-新闻)                  | [✈️Travel](#%EF%B8%8Ftravel-旅游)    |
 | [👨‍💻Developer Tools](#developer-tools-软件开发工具) | [👼Kids](#kids-儿童)                            | [📷Photo & Video](#photo--video-摄影与录像)   | [🛠️Utilities](#%EF%B8%8Futilities-工具) |
 | [🎓Education](#education-教育)                       | [🌿Lifestyle](#lifestyle-生活)                  | [⚡Productivity](#productivity-效率)       | [🌦️Weather](#%EF%B8%8Fweather-天气) |
-| [🍿Entertainment](#entertainment-娱乐)                                  | [🗞️Magazines & Newspapers](#magazines--newspapers-报刊杂志) | [📖Reference](#reference-参考资料)         | [💻OS](#os-操作系统) |
+| [🍿Entertainment](#entertainment-娱乐)                                  | [🗞️Magazines & Newspapers](#%EF%B8%8Fmagazines--newspapers-%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97) | [📖Reference](#reference-参考资料)         | [💻OS](#os-操作系统) |
 | [💰Finance](#finance-财务)                                        | [🏥Medical](#medical-医疗)                    | [🛍️Shopping](#%EF%B8%8Fshopping-购物)              | [🎮Games](#games-游戏) |
 | [🍔Food & Drink](#food--drink-美食佳饮)                               | [🎵Music](#music-音乐)                      | [💬Social Networking](#social-networking-社交网络) |                 |
 
@@ -890,6 +890,7 @@
 - [Phocid](https://github.com/TJYSunset/Phocid) (Android 11+) 本地音乐播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_chrome_extension) [Listen 1](https://listen1.github.io/listen1) (Win, Linux) ![Last Commit](https://img.shields.io/github/release-date/listen1/listen1_chrome_extension)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) (Win, Linux, macOS) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OuterTune/OuterTune) [Music Player](https://github.com/OuterTune/OuterTune) (Android) support local file & YouTube Music
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
   - [Fiiomusic](https://apps.apple.com/us/app/fiio-music-for-audiophiles/id1235959662) (iOS) (最后更新2023.8)
