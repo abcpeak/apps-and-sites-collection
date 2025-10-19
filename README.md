@@ -1,6 +1,6 @@
 # ⭐Apps & Sites Collection
 
-> apps-and-sites-collection, Apps suggestion, Websites recommendation, Websites guide. 软件和网站收集，软件大全、优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台软件(Cross-Platform)、免费开源软件 FOSS(Free and Open Source Software)。
+> Apps suggestion, Websites recommendation, Websites guide. 软件和网站收集，软件大全、优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台软件(Cross-Platform)、免费开源软件 FOSS(Free and Open Source Software)。
 > 
 > Multi-platform: Win, Web, Linux, macOS, iOS, tvOS(Apple TV), watchOS(Apple Watch), Android, Android TV
 
