@@ -1,0 +1,2452 @@
+# ⭐Apps & Sites Collection
+
+> apps-and-sites-collection, Apps suggestion, Websites recommendation, Websites guide. 软件和网站收集，软件大全、优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台软件(Cross-Platform)、免费开源软件 FOSS(Free and Open Source Software)。
+> 
+> Multi-platform: Win, Web, Linux, macOS, iOS, tvOS(Apple TV), watchOS(Apple Watch), Android, Android TV
+
+| Column A                                             | Column B                         | Column C                    | Column D        |
+| ---------------------------------------------------- | -------------------------------- | --------------------------- | --------------- |
+| [📚Books](#books-图书)                               | [🎨Graphics & Design](#graphics--design-图形和设计)    | [🗺️Navigation](#EF%B8%8Fnavigation-导航 )           | [⚽Sports](#sports-体育) |
+| [💼Business](#business-商务)                         | [💪Health & Fitness](#health--fitness-健康健美)      | [📰News](#news-新闻)                  | [✈️Travel](#%EF%B8%8Ftravel-旅游)    |
+| [👨‍💻Developer Tools](#developer-tools-软件开发工具) | [👼Kids](#kids-儿童)                            | [📷Photo & Video](#photo--video-摄影与录像)   | [🛠️Utilities](#%EF%B8%8Futilities-工具) |
+| [🎓Education](#education-教育)                       | [🌿Lifestyle](#lifestyle-生活)                  | [⚡Productivity](#productivity-效率)       | [🌦️Weather](#%EF%B8%8Fweather-天气) |
+| [🍿Entertainment](#entertainment-娱乐)                                  | [🗞️Magazines & Newspapers](#magazines--newspapers-报刊杂志) | [📖Reference](#reference-参考资料)         | [💻OS](#os-操作系统) |
+| [💰Finance](#finance-财务)                                        | [🏥Medical](#medical-医疗)                    | [🛍️Shopping](#%EF%B8%8Fshopping-购物)              | [🎮Games](#games-游戏) |
+| [🍔Food & Drink](#food--drink-美食佳饮)                               | [🎵Music](#music-音乐)                      | [💬Social Networking](#social-networking-社交网络) |                 |
+
+## 📚Books 图书
+
+### 📘PDF (Portable Document Format)
+
+- 在线PDF翻译: [onlinedoctranslator.com](https://www.onlinedoctranslator.com/zh-CN)
+- 在线PDF编辑: [sejda.com/pdf-editor](https://www.sejda.com/pdf-editor)
+- 压缩: [tinywow.com/pdf/compress](https://tinywow.com/pdf/compress)、[pdf2go.com/compress-pdf](https://www.pdf2go.com/compress-pdf)
+- 在线PDF转换工具: [Smallpdf](https://smallpdf.com)、[cleverpdf](https://www.cleverpdf.com/cn)
+- [PDF-XChange Editor Plus](https://www.tracker-software.com/product/downloads) PDF编辑
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF) [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+- [PDFgear](https://www.pdfgear.com) 集合了多种 PDF 处理工具的软件套装
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf) [Sumatra pdf](https://github.com/sumatrapdfreader/sumatrapdf) 电子书阅读器
+- [diff-pdf](https://vslavik.github.io/diff-pdf) A simple tool for visually comparing two PDF files
+- [Icecream PDF Editor](https://icecreamapps.com/PDF-Editor)
+- [PDF mpjex](https://apps.apple.com/app/id6450148824) (iOS)
+- [Photo PDF Converter App](https://apps.apple.com/app/id6477564684) (iOS)JPG to PDF, JPEG Converter
+- [Master PDF Editor](https://code-industry.net/get-masterpdfeditor) (Win, Linux, macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/DDULDDUCK/every-pdf) [Every-PDF](https://github.com/DDULDDUCK/every-pdf) (Win, macOS)
+
+### 📙Reading 看书软件 电子书
+
+- [Audible](https://www.audible.com) 有声电子书
+- ![GitHub Repo stars](https://img.shields.io/github/stars/readest/readest) [Readest](https://github.com/readest/readest) (全平台) 电子书阅读器
+- [Libby, by OverDrive](https://libbyapp.com)
+- [Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011)
+- [静读天下(Moon+ Reader Pro)](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) (Android)
+- [Thorium Reader](https://www.edrlab.org/software/thorium-reader) (Win, macOS and Linux) EPUB reader
+- [Okular](https://okular.kde.org) (Android, Win, Linux) PDF、漫画、Epub、图像、显示标记语言文档等
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gedoor/legado) [Legado 3.0 Book Reader](https://github.com/gedoor/legado) (Android)开源阅读器
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/aoaostar/legado) [legado](https://github.com/aoaostar/legado) 小说书源、订阅源、主题、排版配置
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kovidgoyal/calibre) [Calibre](https://github.com/kovidgoyal/calibre) 电子书制作及阅读软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/foobnix/LibreraReader) [LibreraReader](https://github.com/foobnix/LibreraReader)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/koodo-reader/koodo-reader) [Koodo Reader](https://github.com/koodo-reader/koodo-reader) (Win, macOS, Linux, Web) EPUB, pdf, mobi
+- [Skim](https://skim-app.sourceforge.io) (macOS) PDF reader and note-taker
+- [Evince](https://projects.gnome.org/evince) (Linux) The document viewer
+- ![GitHub Repo stars](https://img.shields.io/github/stars/pacexy/flow) [Flow](https://github.com/pacexy/flow) Browser-based ePub reader
+- ![GitHub Repo stars](https://img.shields.io/github/stars/koreader/koreader) [KOReader](https://github.com/koreader/koreader) (Android, Linux)
+- [NeatReader](https://www.neat-reader.com) ePub Reader
+- [BookFusion](https://www.bookfusion.com) eBook Reader, Manager & Cloud
+- [ePubkit](https://epubkit.app) 将网页转换为 EPUB 电子书
+- [Yomu EBook Reader](https://apps.apple.com/app/id562211012) (iOS)
+- [英阅阅读器(EReader)](https://apps.apple.com/app/id1558805880) (iOS, Android)
+- [PocketBook](https://pocketbook.ch/en-ch/app)
+- [Synopsia](https://apps.apple.com/us/app/synopsia-book-summaries/id6448647429) (iOS)
+- [奇点阅读](https://apps.apple.com/cn/app/奇点阅读/id6651841743) (iOS)
+- [Reader by ElevenLabs](https://apps.apple.com/us/app/reader-by-elevenlabs/id6479373050) 32种语言的数十种声音朗读书籍、文章和PDF
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/omnivore-app/omnivore) [Omnivore](https://github.com/omnivore-app/omnivore) 稍后阅读工具，已被ElevenLabs收购，停止维护
+- [读不舍手](https://apps.apple.com/app//id1662413517) (iOS)仅支持txt
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/shidahuilang/shuyuan) [shuyuan](https://github.com/shidahuilang/shuyuan) 书源
+- [iReadNote](https://apps.apple.com/gb/app/ireadnote/id6450734655) (iOS)爱阅记
+
+### 📓Library Resource Repository 图书资源库
+
+- [Z-library](https://www.reddit.com/r/zlibrary/wiki/index/access) 在线数字图书馆 Zlibrary
+- [Free eBooks](https://www.gutenberg.org) over 75,000 free eBooks
+- [Anna's Archive](https://annas-archive.org) 安娜的档案
+- [中國歷史事件](https://apps.apple.com/app//id595161478) 從傳說時代到清朝
+
+## 💼Business 商务
+
+- [LinkedIn](https://members.linkedin.com/en-gb/download-the-linkedin-app)
+- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+- [Zoom](https://zoom.us/download)
+- [Signature animation](https://codepen.io/kiranpate1/full/ExBpaeW) 生成在线签名字体
+- ![GitHub Repo stars](https://img.shields.io/github/stars/frappe/hrms) [hrms](https://github.com/frappe/hrms) 开源的HR管理软件
+- 公司名单
+  - [955.WLB](https://github.com/formulahendry/955.WLB) 955不加班的公司名单
+  - [996.ICU](https://github.com/996icu/996.ICU) 工作996生病ICU
+
+## 👨‍💻Developer Tools 软件开发工具
+
+### Code RD 编程 开发
+
+- [trendshift](https://trendshift.io)
+
+- [Can I use](https://caniuse.com) Support tables for HTML5, CSS3, etc
+
+- [Apple开发者论坛](https://developer.apple.com/forums) iOS开发 Swift编程
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kefir500/apk-editor-studio) [APK Editor Studio](https://github.com/kefir500/apk-editor-studio)
+
+- [jQuery](https://jquery.com)
+
+- [Algolia](https://www.algolia.com) 提供搜索即服务的 SaaS
+
+- [Hammerspoon](https://www.hammerspoon.org) 免费 自动化工具 编写Lua代码
+
+- [ProxyPin](https://github.com/wanghongenpin/network_proxy_flutter) 跨平台开源免费Http、Https抓包工具
+
+- [t3](https://github.com/still-scene/t3) 实时动态图像
+
+- [dufs](https://github.com/sigoden/dufs) 搭建文件服务器
+
+- [druid](https://github.com/alibaba/druid) 阿里云计算平台DataWorks团队出品，为监控而生的数据库连接池
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/axios/axios) [Axios](https://axios-http.com/zh) 基于 promise 的HTTP客户端库，可以用于浏览器和 node.js
+
+- [redis](https://redis.com) Real-time speed and simplicity
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nostr-protocol/nostr) [nostr](https://github.com/nostr-protocol/nostr) 对抗审查的开放协议 Open protocol
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ripienaar/free-for-dev) [free-for-dev](https://github.com/ripienaar/free-for-dev) 开发者免费服务大全，涵盖主要云厂商的长期免费配额，以及从 CI/CD、监控、CDN、安全认证到数据库、API、存储、部署等服务，所有条目要求具有真实可用的「免费套餐」，有超过 1700 位开发者参与维护、条目十余万
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tweepy/tweepy) [Tweepy](https://github.com/tweepy/tweepy) Twitter for Python Twitter机器人项目
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode) [massCode](https://github.com/massCodeIO/massCode) 代码片段管理器
+
+- 可以显示仓库加星标的数量: [llc.ovh](https://llc.ovh/ )、[shields.io](https://shields.io)
+
+- [Xcode](https://developer.apple.com/xcode) 开发、测试和分发应用程序
+
+- [Swift](https://developer.apple.com/swift)、[SwiftUI](https://developer.apple.com/xcode/swiftui)、[Swift Playgrounds](https://developer.apple.com/swift-playgrounds)
+
+- [Dash](https://kapeli.com/dash) (macOS, Win) API工具
+- [Rapidapi](https://rapidapi.com) API工具
+- [Docker](https://www.docker.com) Docker容器
+
+- [Emacs Org Mode](https://orgmode.org) 语法与 Markdown 类似，但 Emacs 为其赋予了很多功能
+- [Liquid](https://shopify.dev/api/liquid) liquid语法
+- [Markdown](https://github.github.com/gfm)
+  - [mdx](https://mdxjs.com) use JSX in markdown content
+  - [Markdoc](https://markdoc.dev) Stripe开发的markdoc
+- ![GitHub Repo stars](https://img.shields.io/github/stars/apache/echarts) [Apache ECharts](https://github.com/apache/echarts) 基于JavaScript的开源可视化图表库，Charts & Visualizations
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mermaid-js/mermaid) [Mermaid](https://github.com/mermaid-js/mermaid) 基于JavaScript的图表和图表工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/livekit/livekit) [LiveKit](https://github.com/livekit/livekit) 面向开发人员的实时视频、音频和数据
+
+- 包管理
+  - [Homebrew](https://brew.sh) (macOS, Linux) The Missing Package Manager
+  - [Chocolatey](https://chocolatey.org/install) Windows的unix风格包管理器
+  - [npm](https://www.npmjs.com) npm库
+  - [RubyGems](https://rubygems.org)
+
+- Terminal SSH 终端工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) 管理您的 zsh 配置
+  - [warp.dev](https://warp.dev) (macOS) The intelligent terminal
+  - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) 支持多种网络协议，包括 SCP、SSH、Telnet、rlogin 和raw socket connection
+  - [Nezha](https://apps.apple.com/us/app/nezha-mobile/id6596729064) 哪吒监控
+  - [iTerminus](https://apps.apple.com/us/app/sshterm-secure-terminal/id6447374195) (iOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/lollipopkit/flutter_server_box) [Serverbox](https://github.com/lollipopkit/flutter_server_box) (全平台)
+  - [SeverCat](https://apps.apple.com/us/app/servercat-ssh-terminal/id1501532023) (iOS)
+  - [NeoServer - Docker·SSH·SFTP](https://apps.apple.com/us/app/neoserver-docker-ssh-sftp/id6448362669?platform=iphone)
+  - [Termius](https://termius.com) 跨平台的SSH客户端
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/LukeGus/Termix) [Termix](https://github.com/LukeGus/Termix)
+
+- 内网穿透
+  - [Tailscale](https://tailscale.com)
+  - [Ngrok](https://ngrok.com)
+
+- Database 数据库
+  - [Upstash](https://upstash.com) 一个Redis 兼容数据库
+  - [Dbeaver community](https://dbeaver.io) 开源免费的数据库管理软件
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/nocodb/nocodb) [nocodb](https://github.com/nocodb/nocodb) 开源 Airtable 替代方案
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/bram2w/baserow) [Baserow](https://github.com/bram2w/baserow) Open source no-code database and Airtable alternative
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/sequelpro/sequelpro) [Sequel Pro](https://github.com/sequelpro/sequelpro) 开源免费，但功能相对单一
+  - [Navicat Premium Lite](https://www.navicat.com/en/products/navicat-premium-lite) 可以免费用于商业和非商业用途
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/drawdb-io/drawdb) [drawdb](https://github.com/drawdb-io/drawdb) 在线可视化数据库拖拽设计工具，支持 MySQL、PostgreSQL、SQLite等
+
+- Web Scraper 网络与爬虫工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/NaiboWang/EasySpider) [EasySpider](https://github.com/NaiboWang/EasySpider) 开源免费可视化爬虫工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/gocolly/colly) [Colly](https://github.com/gocolly/colly) 优雅的Golang爬虫框架
+  - [visualping](https://visualping.io)
+  - [HARPA](https://harpa.ai)
+  - [make](https://www.make.com/en)
+  - [Sken.io](https://sken.io)
+  - [The Best Web Scraping Discord Servers](https://scrapeops.io/web-scraping-playbook/best-web-scraping-discord-servers)
+  - [Easy Scraper](https://easyscraper.com)
+  - [Distill](https://distill.io)
+
+- Programming language 编程语言：JavaScript, C#, php, C++, Java, go...
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react) [React](https://github.com/facebook/react) 用于构建用户界面的JavaScript框架
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react-native) [React-native](https://github.com/facebook/react-native) 跨平台移动应用开发框架
+  - [Go](https://golang.org/dl) 谷歌开发的编程语言 Golang
+  - [Python](https://www.python.org)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TypeScript) [TypeScript](https://github.com/microsoft/TypeScript) 微软开发，JavaScript的超集
+  - [Java](https://www.java.com) 甲骨文旗下的
+  - [Ruby](https://www.ruby-lang.org/en)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/nodejs/nodejs.org) [Node.js](https://nodejs.org/en) JS运行环境
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/videojs/video.js) [video.js](https://github.com/videojs/video.js) open source HTML5 video player
+  - [Mojo](https://www.modular.com/mojo) 面向 AI 的编程语言
+
+- [GUI Clients](https://git-scm.com/downloads/guis) 图形化客户端 Code Clients, IDEs
+  - [GitHub](https://www.github.com) 全球最大程序员平台，技术栈 集成开发环境（IDE，Integrated Development Environment ）
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop) [GitHub Desktop](https://desktop.github.com/download) 基于electron，typeScript and uses React
+  - [GitButler](https://gitbutler.com) (Win, Linux, macOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/shiftkey/desktop) [GitHub Desktop for Linux](https://github.com/shiftkey/desktop)
+  - [SmartGit](https://www.syntevo.com/smartgit) (Win, Linux, macOS)
+  - [Git Cola](https://git-cola.github.io) (Win, Linux, macOS)
+  - [GitKraken](https://www.gitkraken.com) (Win, Linux, macOS)
+  - [SourceTree](https://www.sourcetreeapp.com) (Win, macOS)
+
+- [GitLab](https://gitlab.com)
+- [Bitbucket](https://bitbucket.org/product)
+- [Stack Overflow](https://stackoverflow.com) IT技术问答社区
+- [WebStorm](https://www.jetbrains.com/webstorm) The JavaScript and TypeScript IDE. WebStorm is free for non-commercial use
+- [Cursor](https://www.cursor.com) The AI Code Editor ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/voideditor/void) [Void](https://github.com/voideditor/void)
+- [JetBrains Rider](https://www.jetbrains.com/rider) .NET and game dev IDE
+- Online code editor 在线代码编辑器
+  - [Visual Studio Code for the Web](https://vscode.dev)
+  - [StackBlitz](https://stackblitz.com)
+  - [CodePen](https://codepen.io)
+  - [CodeSandbox](https://codesandbox.io)
+  - [Gitpod](https://www.gitpod.io)
+  - [Stackedit](https://stackedit.io/app)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook) [GitBook](https://github.com/GitbookIO/gitbook) 现代化的文档平台，支持团队协作。GitBook.com 是一个使用工具链来创建和托管书籍的在线平台
+- [mdBook](https://github.com/rust-lang/mdBook) 从markdown文件创建图书。类似于Gitbook，但在Rust中实现
+- [Google Colab](https://colab.research.google.com) Colaboratory提供免费的GPU资源，笔记本存储在Google云端硬盘
+- 构建程序的框架
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/electron/electron) [Electronjs](https://www.electronjs.org) 构建应用程序的开源软件框架，嵌入了Chromium 和Node.js
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/tauri-apps/tauri) [tauri](https://github.com/tauri-apps/tauri) 前端使用webview2，后端和操作系统集成使用rust
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/wailsapp/wails) [wails](https://github.com/wailsapp/wails) webview+go的后端
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/pojala/electrino) [electrino](https://github.com/pojala/electrino) 使用系统的webview
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/neutralinojs/neutralinojs) [NeutralinoJS](https://github.com/neutralinojs/neutralinojs) 前端嵌入一个webview，后端直接实现一个c++实现的http server
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/chromelyapps/chromely) [Chromely](https://github.com/chromelyapps/chromely) 前端嵌入一个CEF，后端使用.net
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/asticode/go-astilectron) [go-astilectron](https://github.com/asticode/go-astilectron) 基于Electron，后端go语言
+
+### 🚧Webstite Development 网站建设 网页开发 APP开发
+
+> 博客平台 全栈平台 GitHub容器
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/typecho/typecho) [Typecho](https://github.com/typecho/typecho) 开源的PHP博客平台
+- [CloudFlare](https://dash.cloudflare.com) 域名解析服务，免费DNS加速，CDN ⭐
+- [Netlify](https://www.netlify.com) 静态站点托管平台，现代网站自动化系统
+- [Vercel](https://vercel.com) GitHub容器 ⭐
+- [clouDNS](https://www.cloudns.net) 域名解析服务
+- [WordPress](https://wordpress.com) wordpress.com提供付费的托管服务
+- [Ghost](https://ghost.org) 前WordPress核心成员开发，Ghost.org提供付费的托管服务，Ghost是一款基于 Node.js 语言和 MySql 数据库的开源免费的博客引擎
+- [Blogger](https://www.blogger.com) 由Google公司提供的博客平台
+- [4everland](https://www.4everland.org) 静态站点托管平台
+- [Replit](https://replit.com) 线上集成开发环境服务，GitHub容器
+- [Railway](https://railway.app) GitHub容器
+- [Gitpod](https://www.gitpod.io) GitHub容器
+- [goormIDE](https://ide.goorm.io) GitHub容器
+- [bearblog](https://bearblog.dev) A privacy-first, no-nonsense, super-fast blogging platform
+- ![GitHub Repo stars](https://img.shields.io/github/stars/halo-dev/halo) [halo](https://github.com/halo-dev/halo) 开源建站工具Halo
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yournextstore/yournextstore) [yournextstore](https://github.com/yournextstore/yournextstore) 以Next.js和 Stripe为后端的现代商务网站
+- [mataroa](https://mataroa.blog) 极简博客
+- 网站开发 国外主流广告联盟：Google Adsense, Media.net, Adsterra等
+- Awesome Badges Dynamic badge services
+  - [Shields.io](https://shields.io) – Original home of the badges, launched in 2014.
+  - [Badgen.net](https://badgen.net) – Fast badge generating service launched in 2018.
+  - [NodeICO](https://nodei.co) – Large-format status badges for Node.js projects – which were once very popular!
+  - [PlayBadges](https://playbadges.pavi2410.me) – Show off your Play Store™ app's downloads and ratings in your repo
+  - [badge.fury.io](https://badge.fury.io) - Service for version badges of packages like PyPI, npm, RubyGems, etc.
+- Badge tools
+  - [Badgie](https://badgie.me) – Scans the contents of your repository and adds badges based on what it finds.
+  - [Badges](https://github.com/bevry/badges) – Node.js/Deno/Browser npm package for rendering the HTML of various badges
+  - [Projectz](https://github.com/bevry/projectz) – Render Badges into your README based on your package.json configuration
+  - [shields.io Raycast extension](https://www.raycast.com/litomore/badges) – A more convenient UI for creating shields.io badges
+
+- [Google Firebase](https://firebase.google.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/appwrite) [Appwrite](https://appwrite.io)
+- [Back4app](https://www.back4app.com)
+- [Backendless](https://backendless.com)
+- [AWS Amplify](https://aws.amazon.com/amplify)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse) [Lighthouse](https://github.com/GoogleChrome/lighthouse) 网站性能测试，Chrome的产品
+- [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle) 网页离线保存工具
+- SEO工具：[serprobot](https://www.serprobot.com/serp-check) 、[Ahrefs站长工具](https://ahrefs.com/zh/webmaster-tools) 、[Google trends](https://trends.google.com/trends/?hl=zh-CN) 、[Wordtracker](https://www.wordtracker.com) 、[Soovle](https://soovle.com) 、[kwfinder](https://mangools.com/kwfinder)、[keywordseverywhere](https://keywordseverywhere.com)、[Meet Keyword Explorer](https://moz.com/explorer)、[keywordtool](https://keywordtool.io)、[answerthepublic](https://answerthepublic.com)
+- 邮件营销：[Convertkit](https://app.convertkit.com)、[Mailchimp](https://mailchimp.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LloydAsp/nfd) [NFD](https://github.com/LloydAsp/nfd) 一个基于cloudflare worker的Telegram消息转发bot，集成了反欺诈功能
+- 站点统计
+  - [Google Analytics](https://marketingplatform.google.com/)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/electerious/Ackee) [Ackee](https://github.com/electerious/Ackee) 这是一款自托管的开源统计工具，可以在你自己的服务器上搭建，提供了强大的个性化定制和隐私保护功能
+  - [Clarity统计](https://clarity.microsoft.com) 微软推出的统计工具，而且在大陆访问体验很好
+
+### 🔗Domain registration 域名注册
+
+- [Godaddy](https://www.godaddy.com)（支持支付宝）
+- [Namecheap](https://www.namecheap.com)
+- [porkbun](https://porkbun.com)
+- [Namesilo](https://www.namesilo.com)（支持支付宝）⭐
+- [Dynadot](https://www.dynadot.com/zh)（支持支付宝）
+- [Web.com](https://www.web.com)
+- [Squarespace Domains](https://domains.squarespace.com) Google Domains已关闭并转移到Squarespace
+- [Sav](https://www.sav.com)
+- [Netim](https://www.netim.com)
+- [ResellerClub](https://www.resellerclub.com) 印度公司（支持支付宝）
+- [webnic.cc](https://www.webnic.cc) 马来西亚域名经销商（支持支付宝）
+- [1API](https://www.1api.net) 德国注册商（支持支付宝）
+  - [hexonet](https://www.hexonet.net) 1API旗下（支持支付宝）
+- [Name.com](https://www.name.com) 美国Donuts Inc.子公司（支持支付宝）
+- [Shopify domains](https://www.shopify.com/domains)
+- [Domain.com](https://www.domain.com)
+- [Hover](https://www.hover.com)
+- [Bluehost](https://www.bluehost.com)
+- [DreamHost](https://www.dreamhost.com)
+- [Network Solutions](https://www.networksolutions.com)
+- [Squarespace](https://www.squarespace.com/domain-name-search)
+- **Free or Cheap Domain**
+  - [EU.org](https://nic.eu.org) Free eu.org domain. The request is usually approved in 14 days. ⭐
+  - [Namecheap Education Program](https://nc.me)
+  - [names.co.uk](https://www.names.co.uk) 英国公司
+  - [freenom](https://www.freenom.com)
+  - [pp.ua](https://pp.ua) Free pp.ua subdomains.
+  - [digitalplat](https://domain.digitalplat.org) Free dpdns.org subdomains. 前身是us.kg ⭐
+- 域名价格比较：[domcomp](https://www.domcomp.com) 、[tld-list](https://zh-hans.tld-list.com)
+- 域名交易：[sedo](https://sedo.com/cn) 、[dan](https://dan.com)
+- SSL 证书：HubSpot, Let’s Encrypt, Comodo, Cloudflare Free SSL/TLS, GoDaddy, GoGetSSL, zerossl, Sectigo(COMODO), google gts, Buypass Go SSL,lookssl
+
+### CSS framework CSS框架
+
+> 层叠样式表，front-end framework
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/twbs/bootstrap) [Bootstrap](https://getbootstrap.com) 最流行的HTML CSS JavaScript 框架和 UI 组件库
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss) [Tailwindcss](https://tailwindcss.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jgthms/bulma) [Bulma](https://bulma.io)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/foundation/foundation-sites) [Foundation](https://get.foundation)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tabler/tabler) [Bootstrap](https://github.com/tabler/tabler) 开源仪表板模板
+- ![GitHub Repo stars](https://img.shields.io/github/stars/postcss/postcss) [PostCSS](https://github.com/postcss/postcss) 使用 JS 插件转换样式工具
+- [Materialize](https://materializecss.com) based on Google's Material Design guidelines
+- [Semantic UI](https://semantic-ui.com) human-friendly HTML
+
+### Forum Framework 开源论坛框架
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/discourse/discourse) [Discourse](https://github.com/discourse/discourse)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/NodeBB/NodeBB) [NodeBB](https://github.com/NodeBB/NodeBB)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LemmyNet/lemmy) [lemmy](https://github.com/LemmyNet/lemmy)
+
+### SSG JavaScript 框架
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vercel/next.js) [Next.js](https://github.com/vercel/next.js) Vercel开发，基于React，
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gohugoio/hugo) [Hugo](https://github.com/gohugoio/hugo) Go语言
+- ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/docusaurus) [Docusaurus](https://github.com/facebook/docusaurus) JavaScript React
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt/nuxt) [Nuxt](https://github.com/nuxt/nuxt) 直观的VUE框架
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gatsbyjs/gatsby) [Gatsby](https://github.com/gatsbyjs/gatsby) JavaScript using React
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jekyll/jekyll) [Jekyll](https://github.com/jekyll/jekyll) Ruby 静态网站生成器，GitHub官方合作伙伴
+- ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/astro) [Astro](https://github.com/withastro/astro) JavaScript
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hexojs/hexo) [Hexo](https://github.com/hexojs/hexo) JavaScript
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GitbookIO/gitbook) [Gitbook](https://github.com/GitbookIO/gitbook)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/remix-run/remix) [Remix](https://github.com/remix-run/remix) JavaScript using React
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vuejs/vuepress) [Vuepress](https://github.com/vuejs/vuepress) VUE.js
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mkdocs/mkdocs) [Mkdocs](https://github.com/mkdocs/mkdocs) Templates is Jinja2
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sveltejs/kit) [Sveltejs-kit](https://github.com/sveltejs/kit)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/11ty/eleventy) [Eleventy](https://github.com/11ty/eleventy) 11ty JavaScript
+- **SSG Theme** (Static Site Generators Theme)
+  - [Themes - Jamstack Themes](https://jamstackthemes.dev/theme)
+  - Jekyll Theme: [Free Jekyll Themes](https://jekyll-themes.com/free)、[Jekyll-theme · GitHub Topics](https://github.com/topics/jekyll-theme)、[Jekyll Themes](https://jekyllthemes.org)、[Free Jekyll Themes](https://jekyllthemes.io/free)
+
+### Comment System 评论系统
+
+- [Disqus](https://disqus.com) 第三方评论系统，没有匿名评论，托管在美国
+- ![GitHub Repo stars](https://img.shields.io/github/stars/debiki/talkyard) [Talkyard](https://github.com/debiki/talkyard) 为博客添加评论插件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/giscus/giscus) [giscus](https://github.com/giscus/giscus) 基于GitHub Discussions
+- ![GitHub Repo stars](https://img.shields.io/github/stars/utterance/utterances) [Utterances](https://github.com/utterance/utterances) 基于GitHub Issues
+- ![GitHub Repo stars](https://img.shields.io/github/stars/djyde/cusdis) [Cusdis](https://github.com/djyde/cusdis) 轻量级隐私友好的Disqus替代品
+- ![GitHub Repo stars](https://img.shields.io/github/stars/posativ/isso) [Isso](https://github.com/posativ/isso)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/imaegoo/twikoo) [Twikoo](https://github.com/imaegoo/twikoo) 静态网站评论系统
+- ![GitHub Repo stars](https://img.shields.io/github/stars/walinejs/waline) [Waline](https://github.com/walinejs/waline)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gitalk/gitalk) [Gitalk](https://github.com/gitalk/gitalk) 基于GitHub Issue和Preact
+- ![GitHub Repo stars](https://img.shields.io/github/stars/schn4ck/schnack) [Schnack](https://schnack.cool) 自托管
+- [Commento](https://commento.io) 自托管或按需付费云托管，最低$10/月
+- [Hyvor Talk](https://talk.hyvor.com) $4 PER MONTH
+- [Lyket](https://lyket.dev) 添加点赞按钮或拍手按钮，基础4€/month
+- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments)
+- Native Comments、Jetpack Native Enhanced、Postmatic、Muut、wpDiscuz、CommentLuv
+
+### 😃UI设计 图标库 Emoji
+
+- [chakra-ui](https://chakra-ui.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/google/material-design-icons) [Bootstrap](https://github.com/google/material-design-icons) 由Google开源的Material设计图标集
+- ![GitHub Repo stars](https://img.shields.io/github/stars/google/styleguide) [Google开源项目风格指南](https://github.com/google/styleguide)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FortAwesome/Font-Awesome) [Font Awesome](https://fontawesome.com) 图标字体库和CSS框架
+- ![GitHub Repo stars](https://img.shields.io/github/stars/react-icons/react-icons) [React Icons](https://react-icons.github.io)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tabler/tabler-icons) [tabler-icons](https://tabler-icons.io)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/fluentui-emoji) [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) 微软Microsoft开源图标Fluent Emoji
+- ![GitHub Repo stars](https://img.shields.io/github/stars/twitter/twemoji) [Twitter Emoji](https://github.com/twitter/twemoji) Twitter开源的Emoji
+- ![GitHub Repo stars](https://img.shields.io/github/stars/googlefonts/noto-emoji) [Noto Emoji](https://github.com/googlefonts/noto-emoji) Google开发的开源Noto Emoji
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hfg-gmuend/openmoji) [OpenMoji](https://github.com/hfg-gmuend/openmoji) Open source emojis
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mui/material-ui) [Material UI](https://mui.com)
+- Emoji Indexes索引：**[Emojipedia](https://emojipedia.org)**, [EmojiDB](https://emojidb.org), [Emoji Picker](https://github-emoji-picker.vercel.app) or [EmojiBatch](https://www.emojibatch.com)
+- [Figma](https://www.figma.com) 基于云的设计工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/penpot/penpot) [Penpot](https://github.com/penpot/penpot) design and code collaboration
+
+## 🎓Education 教育
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ankitects/anki) [Anki](https://github.com/ankitects/anki) Powerful, intelligent flash cards
+- [Duolingo](https://www.duolingo.com)
+- [Khan Academy](https://www.khanacademy.org)
+- [Ted](https://www.ted.com)
+- [Coursera](https://www.coursera.org)
+- [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)
+- [freeCodeCamp](https://freecodecamp.org) nonprofit organization that offers free online coding education
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ripose-jp/Memento) [Memento](https://github.com/ripose-jp/Memento) (Win、macOS、Linux)专为学习日语设计的播放器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/byoungd/English-level-up-tips) [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+
+### 🔣Translations 翻译 Translators
+
+- [Google Translate](https://translate.google.us)
+- [DeepL](https://www.deepl.com/translator)
+- [VoiceTra](https://apps.apple.com/us/app/voicetra/id581137577) 精准的日语翻译
+- ![GitHub Repo stars](https://img.shields.io/github/stars/CopyTranslator/CopyTranslator) [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) 最后更新2023.2.27
+- [Immersive Translate](https://immersivetranslate.com) 沉浸式翻译(不推荐)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mengxi-ream/read-frog) [Read Frog](https://github.com/mengxi-ream/read-frog) 陪读蛙，开源沉浸式翻译
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Bistutu/FluentRead) [FluentRead](https://github.com/Bistutu/FluentRead)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xiao-zaiyi/illa-helper) [illa-helper](https://github.com/xiao-zaiyi/illa-helper)
+- [Eudic](https://apps.apple.com/app/id367278030) 欧路词典
+  - [LuLu Translate](https://chromewebstore.google.com/detail/djbfechcnkppbknmlhfcaoifgnicolin) 欧路翻译，网页划词翻译工具
+- [ImTranslator](https://imtranslator.net)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/InkTimeRecord/TTime) [TTime](https://github.com/InkTimeRecord/TTime)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/pot-app/pot-desktop) [Pot (派了个萌的翻译器)](https://github.com/pot-app/pot-desktop) 一个跨平台的划词翻译和OCR软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ZGGSONG/STranslate) [STranslate](https://github.com/ZGGSONG/STranslate)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ripperhe/Bob) [Bob](https://github.com/ripperhe/Bob) macOS 平台翻译和 OCR 软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fishjar/kiss-translator) [kiss-translator](https://github.com/fishjar/kiss-translator) translation extension & Greasemonkey script
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate) [libretranslate](https://github.com/LibreTranslate/LibreTranslate) Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup
+- [Trancy](https://www.trancy.org) 翻译插件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator) [openai-translator](https://github.com/openai-translator/openai-translator) 2024.8.1
+- ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator) [RTranslator](https://github.com/niedev/RTranslator) (Android) Offline real-time translation app
+
+### 🗣️English
+
+- [嗯背单词](https://apps.apple.com/app/id6450109182) 学英语
+- [奇蹟背單字](https://apps.apple.com/app/id6741516031)
+
+### 🔭Star 观星 📡Satellite卫星
+
+- sky guide、star chart、night sky4、SkyView® Lite
+- [Star walk 2 Pro](https://apps.apple.com/us/app/star-walk-2-pro-sky-map-live/id892279069)
+
+- [Starlink](https://www.starlink.com) SpaceX的星链
+- [Live Starlink Satellite and Coverage Map](https://satellitemap.space)
+- [Nextrocket.space](https://nextrocket.space) 火箭发射时间表
+- [Rocket Launch](https://rocketlaunch.org) 火箭发射时间表
+
+## 🍿Entertainment 娱乐
+
+### 🎬Movies & TV
+
+- [Youtube](https://youtube.com) 油管
+- [Odysee](https://odysee.com)
+- [Rumble](https://rumble.com)
+- [Max: Stream HBO, TV, &amp; Movies](https://www.max.com)
+- [TikTok](https://www.tiktok.com/en)
+  - Tiktok工具：![GitHub Repo stars](https://img.shields.io/github/stars/pablouser1/ProxiTok) [ProxiTok](https://github.com/pablouser1/ProxiTok)、[TikTok Analyzer](https://urlebird.com)
+- [Ticketmaster](https://www.ticketmaster.com)
+- [Amazon Prime Video](https://www.amazon.com/gp/video/storefront)
+- [Stream](https://www.stremio.com) 媒体中心
+- [IMDB](https://www.imdb.com)
+- [Vimeo](https://vimeo.com)
+- [Netflix](https://www.netflix.com) 网飞
+- [Disney+](https://www.disneyplus.com/home) 迪士尼+
+- [Hulu](https://www.hulu.com)
+- [Pandora](https://pandora.tv)
+- [Dailymotion](https://www.dailymotion.com)
+- [Paramount+](https://www.paramountplus.com) 派拉蒙＋
+- [PeerTube](https://joinpeertube.org)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yuliskov/SmartTube) [SmartTube](https://github.com/yuliskov/SmartTube) (Android TV)
+- [Stremio Lite](https://apps.apple.com/us/app/stremio-lite/id6741710156) (iOS)官方或第三方插件来访问 YouTube、Netflix、公共领域内容等
+
+- [Trakt](https://trakt.tv) 剧集管理
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/michaldrabik/Showly-2.0) [Showly](https://github.com/michaldrabik/Showly-2.0) (Android) Trakt的第三方客户端
+  - [FilmNoir TV Tracker for Trakt](https://apps.apple.com/us/app/filmnoir-tv-tracker-for-trakt/id1528417240) (iOS)
+  
+#### ▶️视频播放器 Video Player
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/moneytoo/Player) [Just (Video) Player](https://github.com/moneytoo/Player) Android 开源视频播放器 ![Latest Release Date](https://img.shields.io/github/release-date/moneytoo/Player)
+- [PlaynPlay](https://apps.apple.com/us/app/playnplay/id1664643965) (iOS, Android)
+- [zFuse](https://apps.apple.com/us/app/zfuse-media-player/id1054505347) (iOS)
+- [TracyPlayer](https://apps.apple.com/tr/app/tracyplayer/id6450770064) (iOS)
+- [Potplayer](https://potplayer.tv) (Win)来自韩国
+- ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc) [VLC media player](https://github.com/videolan/vlc) 开源免费的跨平台多媒体播放器 ![Latest Release Date](https://img.shields.io/github/last-commit/videolan/vlc)
+- [PlayerFab Ultra HD Player](https://www.videohelp.com/software/DVDFab-Media-Player) 蓝光高清播放器
+- [GOM Player Plus](https://www.gomlab.com/gomplayerplus-media-player) 来自韩国播放器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Hiram-Wong/ZyPlayer) [ZyPlayer Hiram-Wong](https://github.com/Hiram-Wong/ZyPlayer) 支持IPTV、主流视频平台解析 ![Latest Release Date](https://img.shields.io/github/release-date/Hiram-Wong/ZyPlayer)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Aleksoid1978/MPC-BE) [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) (Media Player Classic - Black Edition)是从mpc-hc分离出来的，以俄国程序员主打重新编译优化的版本，解码器不同 ![Latest Release Date](https://img.shields.io/github/release-date/Aleksoid1978/MPC-BE)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mpv-player/mpv) [mpv](https://mpv.io) 开源免费跨平台，[mpv用户脚本](https://github.com/mpv-player/mpv/wiki/User-Scripts) 可定制性，没有图形界面，配置靠mpv.conf
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/diana7127/mpv.net-DW) [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) mpv.net_CM的DW版本 ![Latest Release Date](https://img.shields.io/github/release-date/diana7127/mpv.net-DW)
+- [IINA](https://iina.io) (macOS) 现代媒体播放器
+- [Fig Player](https://zh.okaapps.com/product/1612400976#) (macOS) 的音视频播放器
+- [5kplayer](https://www.5kplayer.com) (Win, macOS)
+- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) (Android, iOS)(💵)多媒体播放器
+- [HEVC Video Extension](https://www.free-codecs.com/download/hevc_video_extension.htm) 播放高效视频编码HEVC视频
+- [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&gl=IN)  (Android)
+- [KMPlayer](https://www.kmplayer.com) KMPlayer64是新开发的软件，和32位版本完全不一样
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nova-video-player/aos-AVP) [Nova Video Player](https://github.com/nova-video-player/aos-AVP) Android开源免费的万能影音播放器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/solidSpoon/DashPlayer) [DashPlayer](https://github.com/solidSpoon/DashPlayer) 专为英语学习者设计的视频播放器 ![Latest Release Date](https://img.shields.io/github/release-date/solidSpoon/DashPlayer)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kingslay/KSPlayer) [KSPlayer](https://github.com/kingslay/KSPlayer) TracyPlayer ![Latest Release Date](https://img.shields.io/github/last-commit/kingslay/KSPlayer)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili)  [wiliwili](https://github.com/xfangfang/wiliwili) (Win, macOS, Linux)第三方B站(哔哩哔哩Bilibili)客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xfangfang/wiliwili)
+- [BLBewly](https://apps.apple.com/us/app/blbewly/id6742200021) (macOS)第三方B站客户端
+- ![GitHub Repo stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe) [NewPipe](https://github.com/TeamNewPipe/NewPipe) (Android)第三方YouTube客户端 ![Latest Release Date](https://img.shields.io/github/release-date/TeamNewPipe/NewPipe)
+- [x.app](https://apps.apple.com/us/app/x-app/id1533525753) (iOS)YouTube背景播放
+- [PiP](https://apps.apple.com/us/app/pip-picture-in-picture/id1635796246)(iOS)YouTube窗口化
+- [Tube PiP - PiP for YouTube](https://apps.apple.com/us/app/tube-pip-pip-for-youtube/id6476895094)(iOS)
+- [Vinegar - Tube Cleaner](https://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229) (iOS)(💵)picture-in-picture小窗播放
+- [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)(💵)
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL) [BBLL](https://github.com/xiaye13579/BBLL) (Android TV)第三方B站客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xiaye13579/BBLL)
+
+#### 提词器 Teleprompter
+
+- [PromptSmart Pro](https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756)
+- [Teleprompter Top Script Reader](https://apps.apple.com/us/app/teleprompter-top-script-reader/id6636538421) (iOS)
+- [Teleprompter Videos Recording](https://apps.apple.com/us/app/teleprompter-videos-recording/id6745820694) (iOS)
+
+#### Emby Plex Jellyfin 媒体服务器软件 流媒体服务器
+
+- [Emby](https://emby.media/download.html) iOS需付费解锁或使用脚本破解（正常流程登录，当播放视频时，提示需付费或用解锁脚本进行破解）。家庭媒体库软件，包含服务端和客户端。服务端用于整理电影和剧集，客户端连上服务端后就能播放这些影片。
+- [Kodi](https://kodi.tv) 媒体中心，智能电视的播放软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tsukinaha/tsukimi) [Tsukimi](https://github.com/tsukinaha/tsukimi) (Win, Linux) A simple third-party Emby client
+- [Infuse](https://firecore.com/infuse) (iOS, macOS, AppleTV)，支持HDR和杜比。不支持多版本选择，扫库机制体验较差
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AttemptD/AfuseKt-release) [AfuseKt](https://github.com/AttemptD/AfuseKt-release/releases) 非开源，GitHub发布release版本，不包含任何代码，需安卓11以上，支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘
+- [Plex Media Server](https://www.plex.tv/media-server-downloads) 看IPTV用 Cigaras 或 IPTV.bundle 插件
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/sct/overseerr) [Plex Overseerr](https://overseerr.dev) 与Plex搭配使用
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin) [Jellyfin](https://github.com/jellyfin/jellyfin) The Free Software Media System 官方称由于Emby 3.6开始闭源后，引起了一些核心开发人员的不满，所以最近在Emby的基础上单独开发了Jellyfin媒体服务器
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/fredrikburmester/streamyfin) [Streamyfin](https://github.com/fredrikburmester/streamyfin) a simple and user-friendly Jellyfin client built with Expo
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin-media-player) [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) Jellyfin Desktop Client
+- [SenPlayer](https://apps.apple.com/cn/app/id6443975850) (iOS, macOS, Apple TV) 支持8解码，长按最高8倍速，画中画播放；支持HDR10, HLG集成最新FFMPEG7.0，支持本地视频，相册视频，网络视频, KSPlayer项目的授权并基于该目开发，视频播放直接调用FFmpeg
+- [VidHub](https://apps.apple.com/cn/app/id1659622164) (iOS, macOS, Apple TV) 可连Trakt
+- [Reflix](https://apps.apple.com/app/id6621243955) (iOS)
+- [HamHub](https://apps.apple.com/app/id6458691598) (iOS, Apple TV)
+- [Conflux](https://apps.apple.com/cn/app/id6450330892) (iOS, macOS, Apple TV)目提供强大的串流选项，完美支持Airplay和字幕、广泛支持格式、免步骤串流、画中画、空间频、云盘等
+- [DsCloud](https://apps.apple.com/us/app/id6476057278) (iOS, macOS)
+- [Yamby](https://t.me/yamby_release) (Android) 仅能连接Emby使用
+- [Optimus Player](https://www.optimusplayer.com) (macOS)，真正hdr支持，不是mp套壳，纯手动ffmpeg
+- 影音宝软件家族：[iemc](https://apps.apple.com/app/id1467462861) iOS/iPadOS；[EMTV](https://apps.apple.com/us/app/id1671608662) AppleTV；[yyb](https://apps.apple.com/cn/app/yyb/id1468401388)iOS/iPadOS/macOS/AppleTV；[yybx](https://apps.apple.com/cn/app/id1519723194) (💵)
+- [Filebar](https://apps.apple.com/cn/app/fileball/id1558391784) (iOS, AppleTV) 支持hdr，缓存，字幕，webdav可显示歌词，长按播放按钮可跳转Infuse等外部播放器，可导入字幕
+- [网易爆米花](https://bmh.163.com) 来自网易团队
+- [Forward](https://apps.apple.com/app/id6503940939) (iOS, Apple TV) 新视界
+- [BeeJoy](https://apps.apple.com/us/app/beejoy/id6670792086) (iOS)
+- [IFOX播放器](https://apps.apple.com/us/app/id6737113040) (Apple TV) 来自搜狐团队
+- [BoxPlayer](https://apps.apple.com/cn/app/boxplayer/id6739804060)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/agersant/polaris) [Polaris](https://github.com/agersant/polaris) (Win) Music streaming application自托管音乐流媒体服务器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LibreSpark/LibreTV) [LibreTV](https://github.com/LibreSpark/LibreTV) 一分钟搭建影视站，支持Vercel、Docker等部署方式
+- ![GitHub Repo stars](https://img.shields.io/github/stars/senshinya/MoonTV) [MoonTV](https://github.com/senshinya/MoonTV) 一个开箱即用的、跨平台的影视聚合播放站
+- [DeePlayer](https://apps.apple.com/app/id6744684471)
+- [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=en-US&gl=CN) (Win)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MCDFsteve/NipaPlay-Reload) [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) 支持挂载Emby, Jellyfin媒体库
+- 🗃️Archived
+  - [IIVA](https://apps.apple.com/us/app/iiva/id1614231457) (最后更新2023.10)
+  - [iPlay](https://github.com/ourfor/iPlay)
+
+#### 🛑IPTV
+
+- IPTV直播源：[eja.tv](https://eja.tv) 、[iptv-org](https://iptv-org.github.io) 、[直播源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)、[iptv.shop](https://iptv.shop) 、[直播源搜索引擎](https://www.foodieguide.com/iptvsearch) 、[卫星电视频道的数据库LyngSat](https://www.lyngsat.com)、[iptv-sources](https://github.com/HerbertHe/iptv-sources)
+- [XPTV](https://apps.apple.com/us/app/xptv/id6459409368) ($7.99)
+- [IPTV Live](https://apps.apple.com/us/app/iptv-player-live-stream-m3u/id1662299469)
+- [X IPTV Player Pro](https://apps.apple.com/us/app/x-iptv-player-pro/id6714469354) (iOS)(🟢)IPTV播放器
+- [IPTV Xtream: TV Smart Player](https://apps.apple.com/us/app/iptv-xtream-tv-smart-player/id6744687571) (iOS)(🟢)
+- [Xtreme IPTV](https://apps.apple.com/us/app/iptv-smarters-xtream-iptv/id1573898785)
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500) (💵)
+- [IPTV Player](https://apps.apple.com/us/app/iptv-m3u8-m3u-player/id1642581892) 带自动字幕
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live) [Simple Live](https://github.com/xiaoyaocz/dart_simple_live) (全平台)
+- [TV Cast for Smart TV +](https://apps.apple.com/cn/app/tv-cast-for-smart-tv/id6450428119) (iOS)(🟢)
+
+#### Broadcast, Live streaming 直播
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio) [OBS Studio](https://obsproject.com) (Win, macOS, Linux)Open Broadcaster Software
+  - [VDO.Ninja](https://vdo.ninja) OBS Studio插件
+- [Streamlabs](https://streamlabs.com)
+- [Lightstream Studio](https://www.lightstream.com) 使用浏览器和云端处理
+- [XSplit](https://www.xsplit.com)
+- [Wirecast](https://www.telestream.net/wirecast/overview.htm) Telestream公司开发的专业直播软件
+- [vMix](https://www.vmix.com)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/joschuck/matrix-webcam) [matrix-webcam](https://github.com/joschuck/matrix-webcam) 把摄像头画面变成黑客帝国风格
+- ![GitHub Repo stars](https://img.shields.io/github/stars/chenfan0/fideo-live-record) [Fideo](https://github.com/chenfan0/fideo-live-record) 开源的直播间录制软件
+
+#### 影视资源站（PT站、BT资源网站）
+
+- [M-Team（馒头）](https://www.m-team.cc)
+- [hdsky（天空）](https://hdsky.me)
+- [chdbits（彩虹岛）](https://chdbits.co)
+- [The Pirate Bay（海盗湾）](https://thepiratebay.org)
+- https://rutracker.org/
+- https://1337x.to/
+- https://nyaa.si/
+- https://btdig.com/
+- https://yts.mx/
+- https://eztvx.to/
+- https://www.torrentdownloads.pro/
+- https://idope.se/
+- https://bt4gprx.com/
+- https://glodls.to/
+- https://limetorrent.net/
+- https://torrentz2.io/
+
+### 🏺Art Museum 艺术 在线博物馆 数字展厅
+
+- [Gallerix](https://gallerix.asia) 世界名画档案馆，Gallerix 专门收集世界著名画家的作品
+- [New York Public Library](https://digitalcollections.nypl.org) 纽约公共图书馆（NYPL）
+- [Metropolitan Museum of Art](https://metmuseum.org/art/collection) 美国大都会艺术博物馆
+- [NGA](https://images.nga.gov) 美国国家艺术馆The National Gallery of Art
+- [LOC](https://www.loc.gov/search/?q=#) 美国国会图书馆
+- [Google Art](https://www.googleartproject.com)谷歌艺术计划
+- [Wiki Art](https://www.wikiart.org) 维基艺术
+- [Museivaticani](https://www.museivaticani.va) 梵蒂冈博物馆
+- [Louvre](https://www.louvre.fr) 法国卢浮宫博物馆
+- [British Museum](https://sketchfab.com/britishmuseum) 大英博物馆
+- [Getty Art](https://www.getty.edu/art/collection) 盖蒂博物馆
+- [USEUM](https://useum.org) 数字博物馆涵盖著名经典杰作和世界各地的当代艺术家的所有内容
+- [Paris musees collections](https://parismuseescollections.paris.fr/fr) 巴黎博物馆协会
+- [Rijksmuseum](https://www.rijksmuseum.nl/zh/visit) 荷兰国立博物馆
+- [Kunsthistorisches Museum](https://www.khm.at) 维也纳艺术史博物馆，涵盖从古埃及和古希腊到 18 世纪末的 2100多件艺术品
+
+## 💰Finance 财务
+
+- [Cash App](https://apps.apple.com/us/app/cash-app/id711923939)
+- [PayPal](https://www.paypal.com)
+- [Venmo](https://venmo.com) American mobile payment service
+- [Zelle](https://www.zellepay.com) United States–based digital payments network
+- ![GitHub Repo stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii) [Firefly III](https://github.com/firefly-iii/firefly-iii) 开源、完全自托管和隔离的个人记账系统
+- [Investing.com](https://www.investing.com)
+- [Yahoo Finance](https://finance.yahoo.com) 雅虎财经
+- [Stripe](https://stripe.com)
+  - [link.com](https://link.com) Pay with Link
+- ![GitHub Repo stars](https://img.shields.io/github/stars/actualbudget/actual) [Actual](https://github.com/actualbudget/actual) 部署在本地的个人理财工具
+- [Wise](https://wise.com)
+- [N26](https://n26.com)
+- [Neverless](https://neverless.com)
+- [iFAST Global Bank](https://www.ifastgb.com)
+- [嘉信 Charles Schwab](https://client.schwab.com)
+- [盈透证券主页 Interactive Brokers LLC](https://www.interactivebrokers.com)
+
+### 🪙Crypto 加密货币 ₿ Blockchain Web3
+
+- [Binance](https://www.binance.com/en) 币安，赵长鹏（CZ）是创始人
+- [BitMEX](https://www.bitmex.com) 加密货币交易所和衍生品交易平台，由在塞舌尔注册的HDR全球贸易有限公司拥有并运营
+- [OKX](https://www.okx.com)
+- [KuCoin](https://www.kucoin.com) 交易所于2017年8月正式上线，总部位于塞舌尔，在香港和新加坡设有办事处
+- [Coinbase](https://www.coinbase.com) 美国的数字货币交易所
+  - [GDAX](https://www.gdax.com) Coinbase旗下的全球数字资产交易所，美国。
+- [Kraken](https://www.kraken.com) 美国的数字货币交易所，由其首席执行官、加密货币先驱Jesse Powell于2011年创立，公司位于加利福尼亚州旧金山
+- [Nexo](https://platform.nexo.com)
+- [Bitstamp](https://www.bitstamp.net)
+- [Bitfinex](https://www.bitfinex.com) 2012 年推出，公司于英属维尔京群岛注册，由设在香港的 iFinex Inc. 公司运营。市值最大的稳定币Tether (USDT)，也由 iFinex Inc. 运营。2016年，Bitfinex大概有12万枚比特币通过社交媒体被盗。
+- [Bybit](https://www.bybit.com)
+- [Gate](https://www.gate.com) 2013年，交易所由创始人兼现任CEO LinHan在中国成立，公司位于开曼群岛，io域名换成了com域名
+- [Coinify](https://www.coinify.com) 欧洲丹麦的全球虚拟货币平台，提供个人货币交易、企业经纪、支付处理服务
+- [Mercuryo](https://mercuryo.io) 俄罗斯的老牌虚拟币承兑商
+- [Koinal](https://www.koinal.io)
+- [Banxa](https://banxa.com) 澳大利亚的虚拟货币支付服务提供商，2014年成立，通过提供简单的基于法币的加密货币买卖和交易手段
+- [Wyre](https://www.sendwyre.com) 美国公司
+- [Moonpay](https://www.moonpay.com) 英国伦敦的公司，买卖数字货币
+- [Banxa](https://banxa.com)
+- [Transak](https://transak.com)
+- [Klever Exchange](https://klever.io/en)
+- [OKEX](https://www.okex.com) OKEX创立时获得了Tim Draper参与设立的创业工场百万美金的天使投资，Tim Draper先生同时也是Hotmail、百度、特斯拉等世界顶级企业的投资人。2014年初，OKEX获得了中国著名的风险投资基金策源创投、香港上市公司美图(01357.HK)创始人旗下的隆领投资千万美元的A轮投资。
+- [Poloniex](https://poloniex.com) 成立于2014年，俗称P网
+- [Upbit](https://upbit.com) 韩国，融科技公司Dunamu与美国交易所Bittrex合作推出的数字货币交易所，2017年10月月底上线
+- [athena-alpha](https://www.athena-alpha.com)
+- [robosats](https://learn.robosats.com)
+- [bisq](https://bisq.network)
+- [agoradesk](https://agoradesk.com)
+- [coinsbee](https://www.coinsbee.com) 加密货币购买礼品卡
+- [rotki](https://rotki.com) 开源的加密货币资产管理
+- [Cryptonoshi](https://cryptonoshi.com) 专注于加密货币产品评测的网站 Big List of Crypto Cards
+
+### 👛Crypto Wallet 加密货币钱包
+
+> 钱包搜索：[Find an Ethereum Wallet ethereum.org](https://ethereum.org/en/wallets/find-wallet)、[选择钱包 - 比特币](https://bitcoin.org/zh_CN/choose-your-wallet?step=5&platform=android)、[BiotcoinCash 钱包](https://bch.info/zh/wallets)
+
+- [Trezor](https://trezor.io) 提供加密货币硬件钱包
+- [Ledger](https://shop.ledger.com/zh-cn) 一家领先的硬件钱包供应商，这些钱包从未连接到互联网
+- [Trust Wallet](https://trustwallet.com) 由Viktor Radchenko（美国乌克兰软件开发商）于2017年创立，支持ERC20和ERC223代币，Bitcoin, BNB, and All ERC20 Tokens。2018年，Trust Wallet被币安收购。现在它是Binance DEX的官方钱包。
+- [MetaMask](https://metamask.io) 由ConsenSys于2016年创立，热钱包，只支持以太坊的区块链，不支持比特币
+- [Phantom](https://phantom.app) 专门为Solana区块链设计的去中心化钱包
+- [WalletConnect](https://walletconnect.com) 整合了很多数字货币钱包
+- [Alby](https://getalby.com) 比特币闪电钱包，尽管[NWC](https://nwc.getalby.com)正迅速成为将应用程序安全连接到您的 Alby 钱包的新标准，但许多应用程序都使用 LNDhub。
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ZeusLN/zeus) [Zeus](https://zeusln.com)  self-custodial, open-source Bitcoin wallet
+- [BlueWallet](https://bluewallet.io)
+- [bitpay](https://bitpay.com) 比特币钱包
+- [Bitcoin Suisse](https://www.bitcoinsuisse.com) 成立于2013年，专门从事比特币和加密货币资产存储
+- [Wirex](https://wirexapp.com/en) provider of cryptocurrency wallets linked to physical and virtual Visa debit cards
+- [safe.global](https://safe.global) WALLET
+
+### 💸Crypto News 数字货币新闻 区块链资讯
+
+- [记账科技的千年演化 - 区块链技术指南](https://yeasy.gitbook.io/blockchain_guide/01_history/ledger_history)
+- [Investing.com](https://www.investing.com) 英为财情
+- [Blockchain.com](https://www.blockchain.com/explorer)
+- [ICOholder Ultimate Rated ICO &amp; IEO List](https://icoholder.com)
+- [Bitget](https://www.bitget.com/en)
+- [The Complete List of Crypto Exchange Hacks - ChainSec](https://chainsec.io/exchange-hacks)
+- [Cointelegraph](https://cointelegraph.com) 聚焦全球区块链市场动态
+- [TradingView – Track All Markets](https://www.tradingview.com)
+- [Blockchain.com](https://www.blockchain.com)
+- [CoinDesk](https://www.coindesk.com)
+- [CoinGecko](https://www.coingecko.com)
+  - [geckoterminal](https://www.geckoterminal.com)
+- [Jup.ag](https://jup.ag) DAO
+- [DEX Screener](https://dexscreener.com)
+- [Stockcircle](https://stockcircle.com)
+- [CoinTelegraph](https://cointelegraph.com)
+- [Bitcoin.com](https://news.bitcoin.com)
+- [Forbes crypto](https://www.forbes.com/crypto-blockchain)
+- [TodayOnChain](https://www.todayonchain.com)
+- [Blockchain.info](https://www.blockchain.com)
+- [CoinMarketCap](https://coinmarketcap.com) 2020年4月，CoinMarketCap被币安Binance Capital Mgmt收购
+- [Bitcoin (BTC) news](https://www.newsbtc.com)
+- [Cryptonews](https://cryptonews.com)
+
+### 💷Financial Instruments 金融工具
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Micro-sheep/efinance) [efinance](https://github.com/Micro-sheep/efinance) 可以快速获取基金、股票、债券、期货数据的 Python 库，回测以及量化交易的好帮手
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hummingbot/hummingbot) [Hummingbot](https://github.com/hummingbot/hummingbot) the open source OS for crypto algo traders
+
+## 🍔Food & Drink 美食佳饮
+
+- [McDonald's](https://www.mcdonalds.com) 麦当劳
+- [KFC](https://www.kfc.com) 肯德基
+- [DoorDash - Food Delivery](https://www.doordash.com)
+- [Uber Eats: Food Delivery](https://www.ubereats.com)
+- [Domino's Pizza USA](https://www.dominos.com/en)
+- [Subway®](https://www.subway.com/en-us)
+- [Starbucks](https://www.starbucks.com) 星巴克
+- [Yelp](https://www.yelp.com)
+
+## 🎨Graphics & Design 图形和设计
+
+图片处理 设计排版 Paint 绘图🖌️
+
+- Adobe: [Photoshop](https://www.photoshop.com), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+- [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) 图像查看器
+- [Kiko Card](https://apps.apple.com/us/app/kiko-card-text-post-carousel/id6463467787) 文字生成图片
+- [Tayasui Color](https://apps.apple.com/us/app/tayasui-color/id1106374233)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GNOME/gimp) [GIMP](https://www.gimp.org) 跨平台图像编辑器
+- [Glimpse](https://glimpse-editor.org)
+- [RawTherapee](https://www.rawtherapee.com)
+- [Darktable](https://www.darktable.org) 图片管理编辑软件
+- [Blender](https://www.blender.org) 动画设计 开源免费三维图形图像软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif) [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 屏幕录制GIF工具
+- [Inkscape](https://inkscape.org) 矢量图形编辑器
+- [Krita](https://krita.org/en) 矢量图形编辑器
+- [Scribus](https://www.scribus.net) 设计排版软件
+- [Paint.NET](https://www.getpaint.net)
+- [Krita](https://krita.org/zh) 免费绘画软件
+- [Tayasui Color](https://apps.apple.com/us/app/tayasui-color/id1106374233) 水彩画笔
+- [CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic)
+- [Image Tuner](https://www.glorylogic.com/image-tuner.html) 图片大小批量转换
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/CodeFormer) [CodeFormer](https://github.com/sczhou/CodeFormer) AI视频图片修复软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/style2paints) [style2paints](https://github.com/lllyasviel/style2paints) 线描图画AI上色
+- ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl) [Upscayl](https://github.com/upscayl/upscayl) (Win, Linux, macOS)开源免费AI图像放大工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio) [draw.io](https://github.com/jgraph/drawio) 开源跨平台绘图软件Drawio，基于Eelectron开发
+- ![GitHub Repo stars](https://img.shields.io/github/stars/flxzt/rnote) [Rnote](https://github.com/flxzt/rnote) 基于矢量的开源绘图应用程序
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/inpaint-web) [Inpaint-web](https://github.com/lxfater/inpaint-web) 图片修复、放大
+- [BandiView](https://www.bandisoft.com/bandiview) image viewer，HoneyView的升级版
+- [FotoSketcher](https://fotosketcher.com) 免费软件，将普通照片转换为艺术作品
+- [iMazing Converter](https://imazing.com/zh/converter) 图片格式转换，转换HEIC至JPEG或PNG
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter) [File Converter](https://github.com/Tichau/FileConverter) 文件格式转换
+- ![GitHub Repo stars](https://img.shields.io/github/stars/joye61/pic-smaller) [Pic Smaller](https://github.com/joye61/pic-smaller) 图片压缩工具，支持WebP、PNG、JPEG和Gif图像在线压缩
+- [NXStudio](https://downloadcenter.nikonimglib.com/en/products/564/NX_Studio.html) 尼康的专业图像处理软件
+- [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/T8RIN/ImageToolbox) [ImageToolbox](https://github.com/T8RIN/ImageToolbox) 全能型图片处理工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Ruben2776/PicView) [PicView](https://github.com/Ruben2776/PicView) (Win, macOS)多功能图像查看器
+
+## 💪Health & Fitness 健康健美
+
+- [Impulse - Brain Training](https://apps.apple.com/us/app/impulse-brain-training/id1451295827)
+- [Fitness](https://apps.apple.com/us/app/fitness/id1208224953) Workout
+- [Strava](https://apps.apple.com/us/app/strava-run-bike-hike/id426826309)
+- [Fitbit](https://apps.apple.com/us/app/fitbit-health-fitness/id462638897)
+- [3D anatomy](https://apps.apple.com/us/app/3d-anatomy/id695187101) 三维人体构造
+- [GrowPal](https://apps.apple.com/us/app/growpal-health-fitness/id1560604814)
+- [Nike Run Club](https://apps.apple.com/us/app/nike-run-club-running-coach/id387771637)
+- [Cardiograph Heart Rate](https://apps.apple.com/us/app/cardiograph-heart-rate/id1369890321)
+
+### 💊Medicine 药
+
+- [丁香医生 - 查病·查药·问医生](https://apps.apple.com/app/id911261462)
+
+## 👼Kids 儿童
+
+- [YouTube Kids](https://apps.apple.com/us/app/youtube-kids/id936971630)
+
+## 🌿Lifestyle 生活
+
+- [Pinterest](https://pintrest.com)
+
+## 🗞️Magazines & Newspapers 报刊杂志
+
+- [MoboReader-The Alpha King](https://apps.apple.com/us/app/moboreader-the-alpha-king/id1291247971)
+- [Washington Post](https://www.washingtonpost.com) 华盛顿邮报
+- [The New York Times](https://www.nytimes.com)
+- [The Guardian](https://www.theguardian.com) 英国卫报，免费，靠捐助运行
+- [The Atlantic](https://www.theatlantic.com) 大西洋周刊
+- [CNN](https://edition.cnn.com) 美国有线电视新闻网
+- [huffpost](https://www.huffpost.com) 赫芬顿邮报
+- [Reuters](https://www.reuters.com) 路透
+- [Bloomberg](https://www.bloomberg.com) 彭博社资讯
+- [BBC](https://www.bbc.com)
+- [The Independent](https://www.independent.co.uk)
+- [Time](https://time.com) 时代杂志
+- [The Wall Street Journal](https://www.wsj.com) 华尔街日报
+- [The Economist](https://economist.com)
+- [The New Yorker](https://www.newyorker.com) 纽约客，政治和文化报道与评论
+- [Le Monde](https://www.lemonde.fr)
+- [L’ÉQUIPE](https://www.lequipe.fr)
+- [TechCrunch](https://techcrunch.com)
+- [Forbes](https://www.forbes.com) 福布斯 富比世
+- [Grid](https://www.grid.news) 深度报道
+- [The Pudding](https://pudding.cool) 布丁报道
+
+### ⛩️海外媒体 中文网
+
+- [纽约时报中文网](https://cn.nytimes.com)
+- [美国之音中文网](https://www.voachinese.com)
+- [BBC中文网](https://bbc.co.uk/chinese)
+- [路透社中文网](https://cn.reuters.com)
+- [华尔街日报](https://cn.wsj.com)
+- [德国之声](https://www.dw.com/zh)
+- [法国广播电台](https://www.rfi.fr/cn)
+- [日经中文网](https://cn.nikkei.com)
+- [FT中文网](https://m.ftchinese.com)
+- [朝鲜日报网](https://cnnews.chosun.com)
+- [日本共同网](https://china.kyodonews.net)
+- [新加坡联合早报](https://www.zaobao.com.sg)
+- [台湾联合新闻网](https://udn.com)
+- [台湾中央通讯社](https://www.cna.com.tw)
+- [阿波罗新闻网](https://www.aboluowang.com)
+  - [禁书网 - 禁闻网](https://www.bannedbook.org)
+  - [大纪元新闻网](https://www.epochtimes.com)
+- [中国数字时代 - chinadigitaltimes](https://chinadigitaltimes.net/chinese)
+- [BLOCKY](https://blocky.greatfire.org)
+
+### ⚖政府请愿
+
+- The world’s platform for change：[Change.org](https://www.change.org)
+- 巴西：[立法理念](https://www12.senado.leg.br/ecidadania/principalideia)
+- 欧洲联盟：[欧洲公民倡议](https://ec.europa.eu/citizens-initiative)
+- 芬兰：[公民倡议](https://www.kansalaisaloite.fi)[市级倡议](https://www.kuntalaisaloite.fi)
+- 德国：[德国联邦议院请愿书](https://epetitionen.bundestag.de)
+- 爱尔兰：[议会在线请愿](https://petitions.oireachtas.ie)
+- 苏格兰：[苏格兰议会请愿书](https://www.parliament.scot/gettinginvolved/petitions)
+- 乌克兰：[总统请愿书](https://petition.president.gov.ua)、[政府请愿书](https://petition.kmu.gov.ua)、[议会请愿书](https://itd.rada.gov.ua/petitions)
+- 英国：[英国政府请愿书](https://petition.parliament.uk)
+- 美国：[白宫请愿书](https://petitions.whitehouse.gov)、[投票倡议](https://oag.ca.gov/initiatives)（加利福尼亚州）
+
+## 🏥Medical 医疗
+
+- [MyChart](https://apps.apple.com/us/app/mychart/id382952264)
+- [GoodRx: Prescription Saver](https://apps.apple.com/us/app/goodrx-prescription-coupons/id485357017)
+- [SimplePractice Client Portal](https://apps.apple.com/us/app/simplepractice-client-portal/id1466793305)
+
+## 🎵Music 音乐
+
+### 🎶Music Player 音乐播放软件
+
+- [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) 库乐队，制作手机铃声
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mostafaalagamy/Metrolist) [Metrolist](https://github.com/mostafaalagamy/Metrolist) YouTube Music client for Android
+- [Musify](https://apps.apple.com/us/app/musify-music-player/id1575902185)
+- [Spotify](https://www.spotify.com/us/download/other)  (Win, Android, iOS) 总部位于瑞典斯德哥尔摩，只有Spotify Premium用户可以在移动端播放本地文件
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube) [Spotube](https://github.com/KRTirtho/spotube) 开源免费跨平台 Spotify 第三方客户端 ![Last Commit](https://img.shields.io/github/release-date/KRTirtho/spotube) ![commit-activity](https://img.shields.io/github/commit-activity/m/KRTirtho/spotube)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/whoeevee/EeveeSpotify) [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) spotify修改版，自定义歌词显示 ![Last Commit](https://img.shields.io/github/release-date/whoeevee/EeveeSpotify)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
+- [AIMP](https://www.aimp.ru) (Win, Android, Linux)Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器
+- [MediaMonkey](https://www.mediamonkey.com) (Win, Android)
+- [MusicBee](https://getmusicbee.com) (Win)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Miaoyww/NonsPlayer) [NonsPlayer](https://github.com/Miaoyww/NonsPlayer) (Win) ![Last Commit](https://img.shields.io/github/release-date/Miaoyww/NonsPlayer)
+- [foobar2000](https://www.foobar2000.org) (Win, iOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/dream7180/foobox-cn) [foobox-cn](https://github.com/dream7180/foobox-cn) foobar2000 DUI配置 ![Last Commit](https://img.shields.io/github/release-date/dream7180/foobox-cn)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GStreamer/gstreamer) [GStreamer](https://github.com/GStreamer/gstreamer) GStreamer open-source multimedia framework
+- [Winamp](https://winamp.com) (Android, iOS)
+- [Qmmp](https://qmmp.yloftware.com) (Win)开源的音乐播放器Qt-based Multimedia Player
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicPlayer) [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) (Win, Linux) ![Last Commit](https://img.shields.io/github/release-date/Greedysky/TTKMusicPlayer)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
+- [EverPlay Music](https://everplay.mobi) (Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop) [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop) (Win, Android) ![Last Commit](https://img.shields.io/github/release-date/lyswhut/lx-music-desktop)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nukeop/nuclear) [Nuclear player](https://github.com/nukeop/nuclear) (Win, macOS, Linux) 开源免费的在线音乐播放和下载工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2) [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) (Win) ![Last Commit](https://img.shields.io/github/release-date/zhongyang219/MusicPlayer2)
+- [FluentCast](https://apps.microsoft.com/detail/9pm46jrsdqqr?hl=en-us&gl=US) (Win) Ad-free podcast app
+- ![GitHub Repo stars](https://img.shields.io/github/stars/maxrave-dev/SimpMusic) [SimpMusic](https://github.com/maxrave-dev/SimpMusic) A simple music app using YouTube Music for backend ![Last Commit](https://img.shields.io/github/release-date/maxrave-dev/SimpMusic)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/th-ch/youtube-music) [youtube-music](https://github.com/th-ch/youtube-music) Desktop player for YouTube music ![Last Commit](https://img.shields.io/github/release-date/th-ch/youtube-music)
+- [SoundCloud](https://soundcloud.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Moriafly/SaltPlayerSource) [椒盐音乐 Salt Player](https://github.com/Moriafly/SaltPlayerSource) (Android) ![Last Commit](https://img.shields.io/github/release-date/Moriafly/SaltPlayerSource)
+- 来自EVERAPPZ SL(iOS)：[Evermusic](https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198)、[Flacbox](https://apps.apple.com/jp/app/id1097564256)、[Evertag](https://apps.apple.com/app/id1450763230) 支持WebDAV
+- ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Win) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
+- [Listenify](https://apps.apple.com/us/app/listenify/id6475892753) (iOS)(💵)($5.99)支持歌词API
+- [LMP Music](https://apps.apple.com/us/app/lmp/id6451009326) (iOS)支持歌词API ，不支持infini-cloud，支持koofr
+- [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
+- [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS)(🟢)
+- [Anywhere offine Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)(🟢)
+- [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS)(🟢) 维克音乐，本地lrc自动转为内嵌歌词，默认显示嵌入的专辑封面和歌词，唯一缺点就是目前没有AppleTV端⭐
+- [Ever Play](https://apps.apple.com/app/id1202642773) (iOS)(💵)支持歌词需付费
+- [One Player](https://apps.apple.com/app/id1614115295) (iOS)(💵)支持歌词需付费
+- [Musixmatch](https://apps.apple.com/us/app/musixmatch-lyrics-finder/id448278467) (iOS)
+- [Phocid](https://github.com/TJYSunset/Phocid) (Android 11+) 本地音乐播放器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_chrome_extension) [Listen 1](https://listen1.github.io/listen1) (Win, Linux) ![Last Commit](https://img.shields.io/github/release-date/listen1/listen1_chrome_extension)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) (Win, Linux, macOS) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
+- 🗃️Archived
+  - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
+  - [Fiiomusic](https://apps.apple.com/us/app/fiio-music-for-audiophiles/id1235959662) (iOS) (最后更新2023.8)
+  - [Grover Podcast](https://apps.microsoft.com/detail/9nblggh6c4bc?hl=en-us&gl=US) manage your favorite podcasts on Windows
+  - [Doppler](https://brushedtype.co/doppler) (iOS, macOS)
+- [Pocket Casts Web](https://play.pocketcasts.com) 播客工具
+
+#### 📄Lyrics 歌词 字幕
+
+- 歌词数据来源：Musixmatch、Genius 和 Tekstowo.pl
+- 歌词API：<https://api.lrc.cx/lyrics>, <https://lrc.xms.mx/lyrics> 封面：<https://api.lrc.cx/cover>
+- [opensubtitles](https://www.opensubtitles.org) 全球最大的字幕网站
+- [Versefy](https://versefy.app) view the lyrics
+- ![GitHub Repo stars](https://img.shields.io/github/stars/WXRIW/Lyricify-App) [Lyricify-App](https://github.com/WXRIW/Lyricify-App) 为Spotify等各种应用提供滚动歌词
+- [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) foobar2000的歌词插件
+- [ESLyric](https://github.com/ESLyric/release/releases) foobar2000的歌词插件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/real-zony/ZonyLrcToolsX) [ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) (Win、Linux、Mac)批量下载歌词 ![Last Commit](https://img.shields.io/github/release-date/real-zony/ZonyLrcToolsX)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/91270/MeiamSubtitles) [MeiamSubtitles](https://github.com/91270/MeiamSubtitles) Emby Jellyfin 中文字幕插件
+- [LDDC](https://github.com/chenmozhijin/LDDC) 简单易用的精准歌词(逐字歌词/卡拉OK歌词)下载匹配工具
+
+### 💤White noise 白噪音
+
+- [唯静Serene](https://apps.apple.com/app/id6467129034) (iOS)
+- [Decibel X](https://apps.apple.com/us/app/decibel-x-db-sound-level-meter/id448155923) 分贝检测
+- [Water Eject](https://apps.apple.com/us/app/water-eject/id6717605419) (iOS)清除手机扬声器中积水
+
+### 📻音乐电台 在线播放歌曲
+
+- [publicdomainradio](https://publicdomainradio.org) 公共领域电台
+- [TuneWave - FM](https://apps.apple.com/us/app/tunewave-fm/id6473257501) Chinese FM Radio Station FM广播
+
+## 🗺️Navigation 导航
+
+- [Google Maps](https://maps.google.com) 谷歌地图
+- [Apple Maps](https://maps.apple.com) 苹果地图
+- [Waze](https://www.waze.com)
+- [Latitude and Longitude](https://www.latlong.net) 纬度和经度
+- [Mapcarta - The Open Map](https://mapcarta.com)
+- [OpenStreetMap](https://www.openstreetmap.org)
+- [Noise Map](https://noise-map.com) 噪音地图
+- [mapy](https://mapy.com) 来自捷克Czechia的地图
+- [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus) free, open source and usable online and offline.
+- [Organic Maps](https://organicmaps.app)
+- [Maps.me](https://maps.me) (iOS, Andorid)
+
+## 📰News 新闻
+
+- [X (Formerly Twitter)](https://www.x.com)
+- [Nextdoor](https://nextdoor.com)
+- [Substack](https://substack.com)
+- [Quora](https://www.quora.com) 在线问答网站 新闻
+- [Reddit](https://www.reddit.com) 红迪，社交新闻论坛
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit) [Infinity For Reddit+](https://github.com/Docile-Alligator/Infinity-For-Reddit) (Android)
+
+### 🧱Bypass Paywall
+
+- [paywallbuster](https://paywallbuster.com) 绕过付费墙
+- [Read articles without annoying paywalls](https://www.removepaywall.com)
+- [Bypass Paywalls Clean for Firefox](https://github.com/bpc-clone/bypass-paywalls-firefox-clean)
+- [Bye Bye Paywall](https://byebyepaywall.com/en)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/manualdousuario/marreta) [marreta](https://github.com/manualdousuario/marreta)
+
+## 📷Photo & Video 摄影与录像
+
+### 📸Shoot 拍照(iOS)
+
+- longshot, slow shutter, clone camera pro, Musemage, reverserCam, screenshot, color, Picroll, Tailor, Picsew, Splice, VUE
+- [Leica LUX](https://apps.apple.com/app/id6477182657) 徕卡Pro手动相机
+- [ProCam](https://apps.apple.com/us/app/procam-pro-camera/id730712409) (🟢)
+- [8mm](https://apps.apple.com/us/app/8mm-vintage-camera/id406541444) (🟢)
+- [ProShot](https://apps.apple.com/us/app/proshot/id924438909) (🟢)
+- [FineCam](https://apps.apple.com/us/app/finecam-webcam-for-pc-and-mac/id1616613017)
+- [Shots](https://apps.apple.com/us/app/shots-the-golf-app/id6737066259)
+- [Even Longer](https://apps.apple.com/us/app/even-longer/id1546911907) 长曝光
+- [Pro Camera & Filmmaking](https://apps.apple.com/us/app/pro-camera-filmmaking/id1670798243)
+- [Vintage Camera](https://apps.apple.com/us/app/vintage-camera-vintcam/id1536934005) (🟢)复古滤镜、35毫米效果和怀旧照片
+- [Brushstroke](https://apps.apple.com/us/app/brushstroke/id824421012) (🟢)照片变成绘画
+- [GoPro Quik](https://apps.apple.com/us/app/gopro-quik/id561350520)
+- [Linx: Camera Effects App](https://apps.apple.com/us/app/linx-camera-effects-app/id6737527239)  (🟢)
+- [EpocCam](https://www.elgato.com/us/en/s/epoccam) 手机变成PC摄像头
+- [DroidCam Webcam & OBS Camera](https://apps.apple.com/us/app/droidcam-webcam-obs-camera/id1510258102) Use your phone as a PC Webcam
+- [BlackMagic Camera](https://www.blackmagicdesign.com/products/blackmagiccamera)
+- [Camera+Legacy](https://apps.apple.com/app/id329670577) (🟢)
+- 🗃️Archived
+  - Camera Plus(2017year)
+
+### 🖼️图片管理 看图工具
+
+- [XnView MP](https://www.xnview.com/en)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/d2phap/ImageGlass) [ImageGlass](https://github.com/d2phap/ImageGlass) 免费轻量级、多功能的图像查看器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Lymphatus/caesium-image-compressor) [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) 开源的图像压缩器
+- [IrfanView64](https://www.irfanview.com/64bit.htm)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/szTheory/exifcleaner) [exifcleaner](https://github.com/szTheory/exifcleaner) clean image metadata
+- [Squoosh](https://github.com/GoogleChromeLabs/squoosh) 图片压缩
+- [Xnapper](https://xnapper.com) macOS 多功能智能截图工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot) [Snow Shot](https://github.com/mg-chao/snow-shot) 一键 OCR、录屏、翻译、AI 对话，滚动截图，智能框选
+- [BandiView](https://www.bandisoft.com/bandiview) use the features of Honeyview including further improvements
+  - [Honeyview](https://www.bandisoft.com/honeyview) 已停更
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jark006/jarkViewer) [jarkViewer](https://github.com/jark006/jarkViewer) 基于opencv等库开发的开源看图软件
+- [WebP Codec for Windows](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/WebpCodecSetup.exe)
+- [HEIF 图像扩展](https://apps.microsoft.com/store/detail/heif-图像扩展/9PMMSR1CGPWG?hl=zh-cn&gl=CN)、[HEVC 视频扩展](https://apps.microsoft.com/store/detail/来自设备制造商的-hevc-视频扩展/9N4WGH0Z6VHQ?hl=zh-cn&gl=CN)(Win默认不支持H265格式的视频 装了这个就能播H265格式的视频了， H265即HEVC编码格式)
+
+#### Material Library 素材库 images, videos and music
+
+- [Pinterest](https://www.pinterest.com)
+- [pixabay](https://pixabay.com)
+- [Flickr](https://www.flickr.com) 图片分享的社交网站
+- [Freepik](https://www.freepik.com)
+- [unsplash](https://unsplash.com)
+- [favpng](https://favpng.com)
+- [500px](https://500px.com)
+- [deviantart](https://www.deviantart.com)
+- [storyset](https://storyset.com) SVG和PNG格式
+- [Getty Images](https://www.gettyimages.com) 盖帝图像
+- [pexels](https://www.pexels.com/videos)
+- [coverr](https://coverr.co) Free Stock Video Footage
+- [videvo](https://www.videvo.net)
+- [audiojungle](https://audiojungle.net) free music and audio tracks
+- ![GitHub Repo stars](https://img.shields.io/github/stars/simple-icons/simple-icons) [simpleicons](https://simpleicons.org) SVG素材库
+
+### Image Hosts 图床工具 图库
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Molunerfinn/PicGo) [PicGo](https://github.com/Molunerfinn/PicGo) 图片上传+管理，支持七牛图床, 腾讯云 COS, 又拍云, GitHub, SM.MS, 阿里云 OSS, Imgur
+  - 自建图床：PicGo+GitHub+![GitHub Repo stars](https://img.shields.io/github/stars/jsdelivr/jsdelivr) [jsDelivr](https://github.com/jsdelivr/jsdelivr)组合 （其他cdn厂：cdnjs、unpkg、bootcdn）
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ShareX/ShareX) [ShareX](https://github.com/ShareX/ShareX) 屏幕截图 文件分享 图床工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gee1k/uPic) [uPic](https://github.com/gee1k/uPic) (macOS)图床工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xiebruce/PicUploader) [PicUploader](https://github.com/xiebruce/PicUploader) 图床工具
+- [Chevereto](https://chevereto.com) 图像托管软件，需要PHP，Web服务器，MySQL数据库和CRON
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/rodber/chevereto-free) [chevereto-free](https://github.com/rodber/chevereto-free) 官方已停止维护免费版
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LycheeOrg/Lychee) [Lychee](https://github.com/LycheeOrg/Lychee)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mtlynch/picoshare) [PicoShare](https://github.com/mtlynch/picoshare)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ente-io/ente) [Ente Photos](https://github.com/ente-io/ente) 端到端加密Photos，可自行托管
+- ![GitHub Repo stars](https://img.shields.io/github/stars/photoview/photoview) [Photoview](https://github.com/photoview/photoview) Photo gallery for self-hosted personal servers
+- [Plex Photos](https://www.plex.tv/media-server-downloads/#plex-plexphotos) 查看和管理照片库
+- [ImgBB](https://imgbb.com)
+- [Postimages](https://postimages.org)
+- [Catbox.moe](https://catbox.moe)
+- [AutoWall](https://github.com/SegoCode/AutoWall) Live wallpapers on Windows
+
+### 🎥Video Edit 视频音频剪辑软件
+
+- [kdenlive](https://kdenlive.org/zh) KDE Non-Linear Video Editor 非线性视频编辑器
+- [OpenShot](https://www.openshot.org)
+- [Lightworks](https://lwks.com)
+- [Shotcut](https://shotcut.org)
+- [Scribus](https://www.scribus.net)
+- [AVS Video ReMaker](https://www.avs4you.com/avs-video-remaker.aspx)
+- [Audacity](https://www.audacityteam.org) 音频处理软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut) [LosslessCut](https://github.com/mifi/lossless-cut) 无损剪辑
+- [vocalremover](https://vocalremover.org/zh) AI移除人声
+- [Bandicam](https://www.bandicam.com/downloads) 由韩国开发的高清游戏及视频录制的电脑工具
+- [SAMPLITUDE](https://www.magix.com/us/music-editing/samplitude) 录音混响
+- [Wondershare Filmora](https://filmora.wondershare.com) 音频剪辑
+- [XMedia Recode](https://www.xmedia-recode.de/en) 视频处理
+- [Mp3tag](https://www.mp3tag.de/en) 音频标签编辑器
+- [Monkey&#39;s Audio](https://www.monkeysaudio.com) 无损音频压缩 Lossless audio compressor
+- [Kid3](https://kid3.kde.org) Linux音频标签处理
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fxsound2/fxsound-app) [FxSound](https://github.com/fxsound2/fxsound-app) 用于提高音质、音量和低音的免费软件。包括均衡器、效果和定制音频预设
+- [HD Video Converter Factory](https://www.videoconverterfactory.com/hd-video-converter) 视频转换器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/HandBrake/HandBrake) [HandBrake](https://handbrake.fr) 开源视频转码器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/babysor/MockingBird) [MockingBird](https://github.com/babysor/MockingBird) 5秒内克隆您的声音
+- [Shutter Encoder](https://www.shutterencoder.com) 视频转换器
+- [Any Video Converter Free](https://www.any-video-converter.com) AVC 免费视频转换器
+- [Wondershare Filmora](https://filmora.wondershare.com) 视频剪辑
+- [Vegas](https://www.vegas.com) (💵)视频剪辑
+- [Adobe Premiere](https://www.adobe.com/products/premiere.html) (💵)视频剪辑
+- [Final Cut Pro](https://www.apple.com/final-cut-pro) 视频创作 macOS视频剪辑，苹果店airdrop先到手机再到电脑
+- [VivaCut](https://apps.apple.com/tr/app/vivacut-ai-video-editor/id1489090374) (iOS)
+- [Logic Pro for Mac](https://www.apple.com/logic-pro) macOS上的全能专业音乐创作app
+- [iMovie](https://www.apple.com/imovie) macOS视频剪辑
+- [Ocenaudio](https://www.ocenaudio.com/en) 跨平台音频编辑工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg) [FFmpeg](https://github.com/FFmpeg/FFmpeg) 开源软件，编解码框架
+  - [FFmpeg Batch AV Converter](https://ffmpeg-batch.sourceforge.io) FFmpeg界面版，免费的通用音频和视频编码器
+- [AE(Adobe After Effect)](https://www.adobe.com/products/aftereffects.html)
+
+### 🫀3D (Three-dimensional Modeling) 三维建模
+
+- [RealityCapture](https://www.capturingreality.com) 扫描建模
+- [RealityScan](https://apps.apple.com/us/app/realityscan-3d-scanning-app/id1584832280) Epic 出品手机拍照 APP 应用
+- [3d Scanner App™](https://apps.apple.com/us/app/3d-scanner-app/id1419913995)
+- Autodesk: [3ds Max](https://www.autodesk.com/products/3ds-max/overview), [Maya](https://www.autodesk.com/products/maya/overview), [Autodesk CAD](https://www.autodesk.com/products/autocad/overview)
+- [Cinema 4D (C4D)](https://www.maxon.net/cinema-4d)
+- [Houdini](https://www.sidefx.com)
+- [Shapr3D](https://www.shapr3d.com)
+
+## ⚡Productivity 效率
+
+### 🤖AI
+
+AI Hub 聚合AI平台 人工智能(Artificial Intelligence)
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ai-collection/ai-collection) [ai-collection](https://github.com/ai-collection/ai-collection)
+
+- [DuckDuckGo AI](https://duck.ai) DuckDuckGo
+- [Poe](https://poe.com) Quora搭建的AI产品，支持ChatGPT、Sage、Dragonfly、Claude等💥
+- [Coze](https://www.coze.com)
+- [You.com](https://you.com)
+- [Mistral AI](https://chat.mistral.ai/chat)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL) [ChatALL](https://github.com/sunner/ChatALL) Chat with ALL AI Bots Concurrently
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat) [Lobe Chat](https://github.com/lobehub/lobe-chat) 一键免费拥有你自己的ChatGPT/Gemini/Claude/Ollama应用
+- [Monica](https://monica.im) (全平台)AI助手
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox) [Chatbox](https://github.com/Bin-Huang/chatbox) (全平台)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio) [Cherry Studio](https://github.com/CherryHQ/cherry-studio)
+- [Perplexity](https://www.perplexity.ai)
+- [OpenCat](https://opencat.app) (iOS, macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ChatBot-All/chatbot-app) [ChatBot](https://github.com/ChatBot-All/chatbot-app) (iOS, macOS, Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat) [NextChat](https://github.com/ChatGPTNextWeb/NextChat) (全平台)
+
+- [Grok](https://grok.com) Grok是由xAI开发的人工智能聊天机器人，xAI是一家由Elon Musk于2023年3月创立的公司
+- [ChatGPT](https://chat.openai.com) OpenAI公司研发的Chat Generative Pre-trained Transformer
+  - [DALL·E 2](https://openai.com/product/dall-e-2) OpenAI研发AI绘图工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed) [DeepSpeed](https://github.com/microsoft/DeepSpeed) Microsoft DeepSpeed Chat
+  - [Microsoft Azure](https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/?speed=0&pitch=0#features) Azure AI 语音，微软文本转语音
+- ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3) [Llama 3](https://github.com/meta-llama/llama3) Meta发布的免费商业应用的开源AI模型
+  - [AudioCraft](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio) 文本生成音频和音乐，融合AudioGen、EnCodec和MusicGen三种模型
+- [Google Gemini](https://gemini.google.com) 谷歌的人工智能Gemini
+  - [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech)
+- [Claude in Slack](https://www.anthropic.com/claude-in-slack) Anthropic公司研发，由前OpenAI工程师于2021年创立，谷歌和亚马逊都有投资
+  - [Claude](https://claude.ai)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers) [Transformers](https://github.com/huggingface/transformers) 支持三个最热门的深度学习库：Jax、PyTorch和TensorFlow
+  - [Hugging Face](https://huggingface.co)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableLM) [StableLM](https://github.com/Stability-AI/StableLM) 创业公司Stability AI发布训练的大语言模型
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableDiffusion) [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion) 开源的图像生成模型，文本到图像，也能生成视频
+  - [stablediffusionweb](https://stablediffusionweb.com) 无代码生成图像
+  - [DreamStudio](https://beta.dreamstudio.ai)
+  - [Stable Audio](https://stableaudio.com) 文字生成音乐模型
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/stable-diffusion-webui-colab) [stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/deforum-art/deforum-stable-diffusion) [deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) 由 Deforum 团队制作的一个支持动画视频功能的 Google Colab 版的 Stable Diffusion，可以通过 Google Colab 在线运行，也可以部署到本地运行。
+  - [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) StableDiffusion WebGPU DEMO
+  - [stable-diffusion-webgpu-minimal](https://github.com/dakenf/stable-diffusion-webgpu-minimal) StableDiffusion WebGPU DEMO
+- ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3) [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) 为可扩展和高效的语言处理而设计
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1) [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) 用于推理任务，加强了大模型的深度思考能力
+- [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx) Nvidia英伟达发布的AI工具，可以选择使用 Ilama 或 Mistral 的 AI 模型
+- [Adobe Firefly](https://firefly.adobe.com) Adobe发布的人工智能绘图工具Firefly
+- [Midjourney](https://www.midjourney.com) Midjourney研究实验室，通过文本生成图像的AI
+- ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark) [Bark](https://github.com/suno-ai/bark) 高度逼真的开源、生成式文字转语音模型
+- ![GitHub Repo stars](https://img.shields.io/github/stars/BlinkDL/AI-Writer) [CodeFormer](https://github.com/BlinkDL/AI-Writer) AI写小说
+- ![GitHub Repo stars](https://img.shields.io/github/stars/2noise/ChatTTS) [ChatTTS](https://github.com/2noise/ChatTTS) 为对话场景设计的文本转语音模型，支持音色、大笑、停顿等
+- [ALPHY](https://alphy.app) Turn audio to text, summarize, and generate content with AI
+- [GitMind](https://gitmind.com) 新一代思维导图软件 AI-powered free collaborative mind mapping software
+- [OtterAI](https://otter.ai) AI会议助手
+- [Swapface](https://swapface.org) AI智能视频换脸工具
+- [Eightify](https://eightify.app) Summarize YouTube videos
+- [Midjourney](https://www.midjourney.com) 通过文本生成图像的AI
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 基于GPT4能自主完成任务
+- ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts) [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT) [AgentGPT](https://github.com/reworkd/AgentGPT) 浏览器中运行的任务驱动的自主AI思考工具，需要服务器部署
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt) [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ChatGPT On Wechat via wechaty
+- ![GitHub Repo stars](https://img.shields.io/github/stars/memochou1993/gpt-ai-assistant) [GPT AI Assistant](https://github.com/memochou1993/gpt-ai-assistant) GPT LINE bot on Vercel
+- ![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/OpenChatKit) [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) 前 OpenAI 的团队打造
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant) [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) 由德国的一家非营利组织 LAION 运营的，号称全球最大的 ChatGPT 开源复制品，目前支持35种语言
+- ![GitHub Repo stars](https://img.shields.io/github/stars/go-skynet/LocalAI) [LocalAI](https://github.com/go-skynet/LocalAI) 用于本地推理的与OpenAI API规范兼容的REST API，它允许使用消费级硬件在本地或本地运行模型，支持与 ggml 格式兼容的多个模型系列
+- [Clippy](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T) 基于ChatGPT的大眼夹桌面插件
+- [Chatbase](https://www.chatbase.co) 网站小部件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced) [WebChatGPT](https://github.com/qunash/chatgpt-advanced) 浏览器扩展，Web结果增强ChatGPT提示
+- ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/chatgpt-google-extension) [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension) 浏览器插件
+- [ZipZap](https://www.zipzap.ai) 使用ChatGPT API进行对话聊天
+- [Memo AI](https://memo.ac) Ai-powered podcast, video-to-text, and subtitling tools for immediate experience
+- [Notion AI](https://www.notion.so/product/ai) ($10)
+- [Ai Helper](https://helper.im) ($9.9)
+- [Grammarly AI](https://www.grammarly.com) ($12)
+- 🗃️Archived
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui) [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/lencx/ChatGPT) [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT)
+
+### ✅To do list, Task, Reminder
+
+- [Clear](https://apps.apple.com/app/id493136154)
+- [Microsoft To Do](https://to-do.live.com/tasks/inbox)
+- [Google Tasks](https://tasks.google.com/tasks)
+- [iCloud Reminders](https://www.icloud.com/reminders)
+- [Goblin Tools](https://apps.apple.com/us/app/goblin-tools/id6449003064)
+- 🗃️Archived
+  - [gTasks Pro for Google Tasks](https://apps.apple.com/us/app/gtasks-pro-for-google-tasks/id672241079)
+
+### 📑Note Taking 笔记软件
+
+> 所见即所得（WYSIWYG）编辑器：Marktext、Typora、Obsidian、VS Code（需安装插件）和思源（Siyuan）。本地编辑工具：Typora、Visual Studio Code、Notepad++、Obsidian和Trilium。富文本编辑器（如Word、OneNote）也支持所见即所得。
+>
+> 许多笔记软件不支持原生Markdown，如Obsidian、Joplin、Logseq和Typora都扩展了Markdown语法。Typora和Obsidian在Markdown编辑上存在缺陷，如手动换行和某些LaTeX符号无法。
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy) [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) (Win, macOS, Linux) 使用Rust和Flutter构建
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed) [Zed](https://github.com/zed-industries/zed) (Win, macOS, Linux) code editor
+- ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext) [Marktext](https://github.com/marktext/marktext)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin) [Joplin](https://joplinapp.org) (iOS, Win, Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) [AFFiNE](https://github.com/toeverything/AFFiNE) 集写作、绘画、计划管理与一体的软件，免费10G ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) [Logseq](https://logseq.com) 2022年获410万美元首轮融资 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/usememos/memos) [memos](https://github.com/usememos/memos) 开源轻量级笔记服务
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium) [Trilium](https://github.com/zadam/trilium) (Win, Linux)，笔记数据使用SQLite存储
+- ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline) [Outline](https://github.com/outline/outline) 成长型团队最快的知识库
+- ![GitHub Repo stars](https://img.shields.io/github/stars/VSCodium/vscodium) [VSCodium](https://vscodium.com) VS Code 的自由开源软件二进制文件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/siyuan-note/siyuan) [SiYuan](https://github.com/siyuan-note/siyuan) 思源笔记
+- ![GitHub Repo stars](https://img.shields.io/github/stars/foambubble/foam) [Foam](https://foambubble.github.io/foam)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vnotex/vnote) [Vnote](https://github.com/vnotex/vnote)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/overleaf/overleaf) [overleaf](https://github.com/overleaf/overleaf) A web-based collaborative LaTeX editor
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Zettlr/Zettlr) [Zettlr](https://github.com/Zettlr/Zettlr)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/streetwriters/notesnook) [Notesnook](https://github.com/streetwriters/notesnook) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases) [Obsidian](https://obsidian.md) (macOS、iOS、Win、Android、Linux)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/ghostwriter) [GhostWriter](https://github.com/KDE/ghostwriter)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nuttyartist/notes) [Notes](https://github.com/nuttyartist/notes) Version 2.2.1 Latest on 2024.10.11
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gsantner/markor) [Markor](https://github.com/gsantner/markor)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anyproto/anytype-ts) [Anytype](https://anytype.io) 区块链技术多端同步，去中心化，本地存储，免费100M存储
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Alexey-T/CudaText) [CudaText](https://github.com/Alexey-T/CudaText)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mayneyao/eidos) [Eidos](https://github.com/mayneyao/eidos) Offline alternative to Notion
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Beaver-Notes/Beaver-Notes) [Beaver Notes](https://github.com/Beaver-Notes/Beaver-Notes) 海狸笔记
+- ![GitHub Repo stars](https://img.shields.io/github/stars/portive/wysimark) [wysimark](https://github.com/portive/wysimark) Markdown Web 应用程序
+- [Notepad++](https://notepad-plus-plus.org) note taking app ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vim/vim) [Vim](https://github.com/vim/vim)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim) [Neovim](https://github.com/neovim/neovim) (Win, Linux, MacOS)Vim的一个分支
+- [Sublime Text](https://www.sublimetext.com)
+- [Google Keep](https://keep.google.com) 单个限制2万字符，历史版本仅文本，时间可超半年，支持手绘
+- [Kate](https://kate-editor.org)
+- [UpNote](https://getupnote.com) 免费版本只能导入TXT和导出TXT与HTML格式
+- ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) [docmost](https://github.com/docmost/docmost) 协作 wiki 和文档软件
+- [Notion](https://www.notion.so) (cross-platform) Note-Taking ⭐
+- [Tana](https://tana.inc)
+- [Coda](https://coda.io) All-in-One Doc for Teams，基于 Google Chrome，类似Notion
+- [Bear](https://bear.app/cn) 熊掌记(macOS, iOS)
+- [Craft](https://www.craft.do) (macOS, iOS、Win, Web)
+- [Drafts](https://getdrafts.com) (macOS, iOS) 本地，支持TOC，语音输入转文字，拖动行排列，右上角选markdown可以预览md，全文搜索，find section区域内搜索
+- [Effie](https://www.effie.co)
+- [Goodnotes](https://www.goodnotes.com) (macOS, iOS, Win, Android)
+- [Notability](https://notability.com/zh-Hans) (iOS)
+- [OneNote](https://www.onenote.com) 微软旗下
+- [Microsoft Loop](https://loop.microsoft.com) 微软旗下
+- [Roam Research](https://roamresearch.com)
+- [Simplenote](https://simplenote.com) (macOS, iOS, Win, Android, Linux)
+- [Standard Notes](https://standardnotes.com) Proton旗下，E2EE 同步、静态加密、U2F 支持和独立安全审计。专业计划完全值得购买
+- [iA Writer](https://ia.net/writer) (macOS, Win, iOS and Android) (💵)
+- [EmEditor](https://www.emeditor.com)
+- [cherrytree](https://www.giuspen.net/cherrytree)
+- [RJ TextEd](https://www.rj-texted.se)
+- [Geany](https://www.geany.org)
+- [Hekapad](https://hekasoft.com/hekapad)
+- [notepad3](https://www.rizonesoft.com/downloads/notepad3)
+- [brackets](https://brackets.io)
+- [Helix](https://helix-editor.com)
+- [Typora](https://typora.io)（$14.99）(Win, macOS)，Markdown工具
+- [Scrivener](https://www.literatureandlatte.com/scrivener/overview) (💵)，长篇小说写作软件(Win, macOS, iOS)
+- [MarginNote](https://www.marginnote.com) (macOS, iOS)
+- [AsciiDoc](https://asciidoc.org)
+- [Marker](https://fabiocolacio.github.io/Marker) (Linux)
+- [Ulysses](https://ulysses.app) (macOS, iOS)
+- [Dendron](https://www.dendron.so)
+- [Octarine](https://octarine.app/releases) (Win, macOS, Linux)
+- [Nextcloud Notes](https://github.com/nextcloud/notes)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/stxapps/justnote-client) [justnote](https://justnote.cc) (Android, iOS) 端到端加密和开源
+- [RemNote](https://www.remnote.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/orayemre/Notemod) [Notemod](https://github.com/orayemre/Notemod)
+- [Digital Notes](https://apps.apple.com/app/id1480653765) (iOS)
+
+### 👩🏻‍💻Office 办公软件
+
+- [Microsoft Office](https://www.office.com) 微软Office
+- [LibreOffice](https://www.libreoffice.org/download/download-libreoffice)
+- [iWork](https://www.apple.com/iwork) (macOS)免费办公套件
+- [OpenOffice](https://www.openoffice.org/download) 甲骨文和Apache基金会旗下
+- [Calligre Suite](https://calligra.org)
+- [KDE Office](https://apps.kde.org/categories/office)
+- [Google Docs](https://docs.google.com)
+
+### 📧Mail 电子邮箱 Email E-Mail
+
+- [Gmail](https://gmail.com) 谷歌邮箱
+- [Notion Mail](https://mail.notion.so) 人工智能驱动的电子邮件客户端，支持Gmail
+- [Outlook.com](https://www.outlook.com) 美国，微软旗下，订阅了office 365就没有广告了
+  - [Microsoft Outlook Lite](https://play.google.com/store/apps/details?id=com.microsoft.outlooklite&hl=en_US) 针对存储空间不大的入门级Android手机市场
+- [Yahoo Mail](https://mail.yahoo.com) 雅虎邮箱 ⭐
+- [Mail.ru](https://mail.ru) 俄罗斯
+- [Yandex Mail](https://mail.yandex.com) 俄罗斯
+- [GMX Mail](https://signup.gmx.com) 德国
+- [Naver Mail](https://mail.naver.com) 韩国，36个月不登录会删除账号
+- [Posteo](https://posteo.de) 总部位于德国，每年12欧元，还有一个日历应用
+- [Soverin](https://soverin.net)
+- [Thexyz](https://www.thexyz.com)
+- [Kolab Now](https://kolabnow.com)
+- [shortwave](https://www.shortwave.com) Agentic AI that helps you organize, write, search, schedule, and more with just a prompt
+- [Mailbox.org](https://mailbox.org)
+- [StartMail](https://www.startmail.com) 每月2.5USD
+- [eM Client](https://www.emclient.com) (Win, macOS, Android, iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bkaankose/Wino-Mail) [Wino Mail](https://github.com/bkaankose/Wino-Mail) (Win) 三账号以上需要购买高级版
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Foundry376/Mailspring) [Mailspring](https://github.com/Foundry376/Mailspring) (macOS, Linux, Win)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/M66B/FairEmail) [FairEmail](https://github.com/M66B/FairEmail) (Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vladimiry/ElectronMail) [ElectronMail](https://github.com/vladimiry/ElectronMail) 支持Tuta和ProtonMail，Unofficial ProtonMail Desktop App
+- [PreVeil](https://www.preveil.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tutao/tutanota) [Tuta](https://github.com/tutao/tutanota/releases) 位于德国，全平台开源的加密邮箱。如果帐户超过六个月未被访问，则会将其删除，但如果用户知道密码并订阅付费版本，则允许恢复。
+- [Guerrilla Mail](https://www.guerrillamail.com)
+- [ProtonMail](https://protonapps.com) 位于瑞士的安全电子邮件 ⭐
+  - [Proton Mail Bridge](https://proton.me/mail/bridge) 使用Apple Mail、Outlook、Thunderbird等访问ProtonMail
+- [Mailfence](https://mailfence.com) 位于比利时的OpenPGP电子邮件服务
+- [Fastmail](https://www.fastmail.com)
+- [Zoho Mail](https://www.zoho.com)
+- [Rackspace](https://apps.rackspace.com/login)
+- [Thunderbird](https://www.thunderbird.net/en-US) 雷鸟邮件客户端
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android)
+- [Spark Mail](https://sparkmailapp.com) 乌克兰公司Readdle的邮箱产品
+- [Mailbird](https://www.getmailbird.com)
+- [Airmail](https://airmailapp.com) (macOS, iOS)
+- [Vivaldi Webmail](https://webmail.vivaldi.net) 位于冰岛
+
+#### Mail Forwarding 邮件转发 别名邮箱 临时邮件
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/simple-login/app) [SimpleLogin](https://simplelogin.io) 开源，在欧洲制作和托管，已被Proton收购
+- [Firefox Relay](https://relay.firefox.com) 每封电子邮件的大小上限为10MB
+- [DuckDuckGo Email Protection](https://duckduckgo.com/email)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anonaddy/anonaddy) [Addy.io](https://github.com/anonaddy/anonaddy) AnonAddy 免费版每月带宽限制10M
+- [AdGuard Mail](https://adguard-mail.com) 临时电子邮件地址
+- [Free Temporary Gmail Go24](https://freegmail.go24.info)
+
+#### 邮箱工具
+
+- [SOGo](https://www.sogo.nu) SOGo相比Roundcube邮箱界面更加简洁
+- [Roundcube](https://roundcube.net) 免费、开源的Webmail程序，很多著名的安全类邮箱都使用Roundcube作为邮箱的Webmail，如Riseup、A/I、cock.li等
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Mail-0/Mail-0) [Mail-0](https://github.com/Mail-0/Mail-0) self-host email app
+- [Resend](https://resend.com/emails) 免费1个域名，Up to 3,000 emails/month
+- [SelfMailKit](https://selfmailkit.com) 免费Up to 5,000 emails/month
+- [flodesk](https://flodesk.com) 使用Flodesk获得更多打开次数、更多点击次数和更多销售额
+
+### 🆕RSS feed 订阅
+
+- MailtoRSS：[kill the newsletter](https://kill-the-newsletter.com)
+- RSStoMail：[follow.it](https://follow.it/enter-website)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rss-translator/RSS-Translator) [RSS-Translator](https://github.com/rss-translator/RSS-Translator) 开源、简洁、可自部署的RSS翻译器
+- [FetchRSS](https://fetchrss.com) Generate RSS from any. 自动抓取任何网页变化，并将此变化生成RSS地址用于订阅。免费版本适用于低频监控网页变化，付费版本可实现更高频率的抓取。
+- [Feedbin](https://feedbin.com) Web三栏式 (💵)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Athou/commafeed) [CommaFeed](https://github.com/Athou/commafeed) Web展开式
+- ![GitHub Repo stars](https://img.shields.io/github/stars/miniflux/v2) [Miniflux 2](https://github.com/miniflux/v2) Web单栏式
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS) [FreshRSS](https://github.com/FreshRSS/FreshRSS) 自建 RSS
+- [RSS.app](https://rss.app) 从任何 URL 即时生成 RSS 提要
+- [Inoreader](https://www.inoreader.com)
+- [Feedly](https://feedly.com)
+- [Newsblur](https://www.newsblur.com)
+- [FeedFlow](https://www.feedflow.dev) 开源免费，RSS Reader for Android, iOS, and macOS
+- [Pintap: An RSS Reader](https://apps.apple.com/us/app/pintap-an-rss-reader/id6463398545)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/spacecowboy/Feeder) [Feeder](https://github.com/spacecowboy/Feeder) Android RSS reader app
+- [feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490) (iOS, macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/DIYgod/RSSHub) [RSSHub](https://github.com/DIYgod/RSSHub) RSS feed generator
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/DIYgod/RSSHub-Radar) [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) Browser extension
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/RSSNext/follow) [Follow](https://github.com/RSSNext/follow) Next generation information browser, [Filo for iOS](https://apps.apple.com/us/app/folo-follow-everything/id6739802604) ⭐
+- [Readwise Reader](https://readwise.io) 一站式的资讯阅读，整合RSS订阅、邮件通讯、稍后读等多种功能
+- ![GitHub Repo stars](https://img.shields.io/github/stars/brentsimmons/NetNewsWire) [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) (macOS, iOS)RSS reader
+- [Reeder.](https://www.reederapp.com) (💵)
+- [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) (iOS, macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) 多功能的RSS/ATOM提要阅读器
+- [qireader](https://www.qireader.com) (Web-App)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/damoeb/rss-proxy) [RSS-proxy](https://github.com/damoeb/rss-proxy) RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/johnwarne/upvote-rss) [RSS-proxy](https://github.com/johnwarne/upvote-rss) 从 Reddit、Hacker News、Lemmy、Mbin 等网站生成个性化的 RSS 订阅源
+
+### 🔐Password Manager 密码管理 PWM
+
+- 密码泄露检测: [Firefox Monitor](https://monitor.firefox.com)、[HaveIbeenPwned](https://haveibeenpwned.com)、[Intelligence X](https://intelx.io)、[Dehashed](https://www.dehashed.com)
+
+- [Apple Passwords App](https://apps.apple.com/us/app/passwords/id6473799789)
+- [Microsoft Password Manager in Edge](https://www.microsoft.com/en-us/edge/download)
+- [Google Password Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager&pli=1) (Android)
+  - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605) Jun 26, 2024
+- [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
+- [pCloud Pass](https://www.pcloud.com/pass/download.html)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients/releases) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州
+- [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Win, Linux, macOS)开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) A KeePass/Password Safe Client 需付费
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassium/KeePassium) [KeePassium](https://github.com/keepassium/KeePassium) (iOS, macOS) 需付费
+- ![GitHub Repo stars](https://img.shields.io/github/stars/authpass/authpass) [AuthPass](https://github.com/authpass/authpass) based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible
+- [Enpass](https://www.enpass.io) (💵)(Win, macOS, Linux)可以设置webdav同步
+- [pwSafe - Password Safe](https://pwsafe.org) pwSafe
+- [Wilhelmina Password Manager](https://www.byteptr.com/wilhelmina)
+- [Keeper Password Manager](https://www.keepersecurity.com)
+- [Proton Pass](https://proton.me/pass)
+  - [Proton Auth](https://proton.me/authenticator)
+- [1Password 8](https://1password.com/product)
+  - [1Password 7](https://apps.apple.com/cn/app/1password-password-manager/id568903335)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop) [Buttercup](https://github.com/buttercup/buttercup-desktop) (iOS, Android)Passwords & Secrets Vault 最后更新May 4, 2024
+- [Password Manager SafeInCloud 2](https://safe-in-cloud.com/en)
+- [Secrets](https://apps.apple.com/app/id1591056366) (macOS, iOS)
+- [LastPass](https://www.lastpass.com) 不推荐
+- [Norton Password](https://my.norton.com/extspa/passwordmanager)
+- [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) 免费版限制50个密码
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://apps.apple.com/us/app/2fa-authenticator-2fas/id1217793794) (iOS, Android)
+- [MEGA Pass](https://mega.io/pass) (💵) €0.99 per month
+- 🗃️Archived
+  - Dropbox Passwords 已关闭
+  - [Avira Password Manager](https://www.avira.com/en/password-manager)
+  - [Dashlane Password Manager](https://www.dashlane.com) 宣布于2025年9月16日停止免费计划
+
+### 🗝️2FA secret key(TOTP) 二次验证 2步验证
+
+- [Bitwarden Authenticator](https://apps.apple.com/us/app/bitwarden-authenticator/id6497335175) (iOS, Android) 不支持同步，只能导入
+- [Authy](https://authy.com) (iOS, Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jamie-mh/AuthenticatorPro) [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) 适用于Android + Wear OS的双因素身份验证（2FA）客户端
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ente-io/ente) [Ente Auth](https://github.com/ente-io/ente) 两步认证 2 step verification⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/raivo-otp/ios-application) [RaivoOTP](https://github.com/raivo-otp/ios-application) iOS本地、轻量级和安全的一次性密码（OTP）解决方案
+- [Duo mobile](https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/freeotp/freeotp-ios) [FreeOTP](https://github.com/freeotp)
+- [Authe for Google Authenticator](https://apps.apple.com/us/app/authe-for-google-authenticator/id6480513197)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/beemdevelopment/Aegis) [Aegis](https://github.com/beemdevelopment/Aegis) (Android) 没有云端同步
+- ![GitHub Repo stars](https://img.shields.io/github/stars/stratumauth/app) [Stratum](https://stratumauth.com) (Android)
+- [Step Two](https://steptwo.app) (iOS, macOS)
+
+### 🔐Encryption 文件磁盘加密
+
+- [Cryptomator](https://cryptomator.org) 开源免费，支持多平台的网盘文件加密
+- [Veracrypt](https://www.veracrypt.fr) 开源免费磁盘加密软件，文件加密和分区加密
+- [Picocrypt](https://github.com/HACKERALERT/Picocrypt) 非常小（因此称为“Pico”），非常简单，但非常安全的文件加密工具
+- [Bitlocker](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker) 微软出品，Win专业版以上自带
+
+## 📖Reference 参考资料
+
+- [Bible](https://apps.apple.com/us/app/bible/id282935706)
+
+## 🛍️Shopping 购物
+
+- [Temu](https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558)
+- [SHEIN](https://us.shein.com)
+- [Target](https://www.target.com)
+- [Amazon.com](https://www.amazon.com) 美国亚马逊
+  - [Amazon.jp](https://www.amazon.co.jp) 日本亚马逊
+  - [Amazon.de](https://www.amazon.de) 德国亚马逊
+  - [Amazon.uk](https://www.amazon.co.uk) 英国亚马逊
+- [eBay](https://www.ebay.com)
+- [Nike](https://nike.com) 耐克
+- [Finish Line](https://www.finishline.com) 终点线
+- [mixxmix](https://www.mixxmix.com) 韩国女性服装
+- [UNIQLO](https://www.uniqlo.com) 优衣库
+- [Ashford](https://www.ashford.com) 美国名表珠宝商城
+- [iHerb](https://www.iherb.com) 美国的保健产品商城
+- [Myprotein](https://www.myprotein.com) 欧洲电运动营养品牌
+- [Pharmacy](https://lloydspharmacy.com) 澳洲的药品电商
+- [Bodyguard Apotheke](https://www.ba.de) 德国的药品电商
+- [computer universe](https://www.computeruniverse.net/en) 德国的电子产品在线商城
+- [Luisa Via Roma](https://www.luisaviaroma.com) 意大利的奢侈品牌店
+- [Newegg](https://www.newegg.com) 新蛋
+- [Best Buy](https://www.bestbuy.com) 百思买
+- [Walmart](https://www.walmart.com) 沃尔玛
+- [RakutenGlobalMarket](https://globalexpress.rakuten.co.jp)日本乐天市场国际版
+- [Sam&#39;s Club](https://www.samsclub.com) 山姆会员商店
+- [Costco](https://www.costco.com) 开市客
+- [eneba](https://www.eneba.com) 游戏, 礼品卡
+- [AliExpress](https://best.aliexpress.com)
+
+## 💬Social Networking 社交网络
+
+- [Life360: Find Friends &amp; Family](https://www.life360.com)
+- [Google LLC](https://about.google)
+  - [Google Duo](https://duo.google.com)
+  - [Google Meet](https://workspace.google.com/products/meet)
+- [Meta company (formerly Facebook)](https://about.meta.com)
+  - [Facebook](https://www.facebook.com) 脸书
+  - [Facebook Messenger](https://www.messenger.com)
+  - [Instagram](https://www.instagram.com)
+  - [Threads](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002) built by the Instagram team
+  - [Whatsapp](https://www.whatsapp.com) Meta的产品
+- [What's going on? Friend Diary](https://apps.apple.com/ai/app/whats-going-on-journal-diary/id6471529194) (iOS) 你最社交的日记
+- [Gettr](https://gettr.com)
+- [Truth Social](https://truthsocial.com)
+- [Gab](https://gab.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mastodon/mastodon) [Mastodon](https://github.com/mastodon/mastodon)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/LucasGGamerM/moshidon) [Moshidon](https://github.com/LucasGGamerM/moshidon) (Android)
+- [fediverse](https://www.fediverse.to)项目：Diaspora、Hubzilla、Pleroma、Peertube、Misskey、Friendica、Hoot.it
+- [Nostr](https://nostr.com) 生态应用：Damus、Branle、Anigma、Nvote、Amethyst
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bluesky-social/social-app) [Bluesky](https://bsky.app)
+- [Pill](https://www.spill.com)
+- [Parler](https://parler.com)
+- [MeWe](https://mewe.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/HuLaSpark/HuLa) [HuLa](https://github.com/HuLaSpark/HuLa) 基于Tauri v2+Vue3的跨平台即时通讯
+- ![GitHub Repo stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop) [Telegram](https://github.com/telegramdesktop/tdesktop) 来自俄罗斯的加密通讯软件
+  - [iMe](https://apps.apple.com/us/app/ime-ai-messenger-for-telegram/id1450480822) (Android, iOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Swiftgram/Telegram-iOS) [Swiftgram](https://swiftgram.app)
+  - [Nicegram](https://nicegram.app) 开发者频道有2百多万订阅
+  - [Turrit](https://apps.apple.com/us/app/turrit-messenger-for-telegram/id6471781238?mt=8) (Android, iOS) 位于新加坡的独立开发团队
+  - [Lingogram](https://apps.apple.com/app/id6742133443) (Android, iOS)
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/groupultra/telegram-search) [Telegram Search](https://github.com/groupultra/telegram-search) Intent的一个开源项目
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Nekogram/Nekogram) [Nekogram](https://github.com/Nekogram/Nekogram) (Android)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/NextAlone/Nagram) [Nagram](https://github.com/NextAlone/Nagram) (Android) 轻量级客户端
+  - [Plus Messenger](https://plusmessenger.org)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Android) [Signal](https://signal.org) 独立的非营利机构，加密通信
+- [Discord](https://discord.com)
+- [Element](https://element.io/get-started)
+- [Slack](https://slack.com)
+- [Snapchat](https://www.snapchat.com)
+- [LINE](https://line.me) 2013年成立于韩国
+- [Jami](https://jami.net) 前生是GNU Ring,SFLphone，是由加拿大公司Savoir-faire Linux开发
+- [Jitsi Meet](https://jitsi.org/jitsi-meet)
+- [BigBlueButton](https://bigbluebutton.org)
+- [Viber](https://www.viber.com) Ratuken(日本乐天)运营的一款通讯工具
+- [Olvid](https://olvid.io) 法国的一款通讯工具
+- [Threema](https://threema.ch/en) 由Manuel Kasper于2012年12月成立
+- ![GitHub Repo stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat) [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+- [Talkatone](https://apps.apple.com/us/app/talkatone-wifi-text-calls/id397648381)
+- [Text Free](https://apps.apple.com/us/app/text-free-second-call-number/id399355755)
+
+- Social media management tools 社交媒体管理工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/thilobillerbeck/skymoth) [Skymoth](https://github.com/thilobillerbeck/skymoth) Mastodon to Bluesky crossposter
+  - [Mastogram](https://mastogr.am) Bridge your Mastodon, Telegram and Bluesky
+  - [Buffer](https://buffer.com) 免费版支持3个平台
+
+### 💏Dating Platform 婚恋平台 交友平台
+
+- [Tinder](https://tinder.com)
+- [Match](https://www.match.com)
+- [eHarmony](https://www.eharmony.com)
+- [OkCupid](https://www.okcupid.com)
+- [POF](https://www.pof.com) Plenty of Fish
+- [Zoosk](https://www.zoosk.com)
+
+### 🤝Sponsor 提供赞助服务 打赏 会员
+
+- [Ko-fi](https://ko-fi.com) All you need to make money doing what you love
+- [AFDIAN](https://afdian.com)
+- [Buy Me a Coffee](https://buymeacoffee.com) Fund your creative work
+- [Patreon](https://www.patreon.com)
+- [WEBTOON](https://www.webtoons.com/en)
+- [BobaMe](https://getstarted.anyonelab.com/zh/bobame) 小额赞助工具
+
+### Sex
+
+- [Onlyfans](https://onlyfans.com)
+
+## ⚽Sports 体育
+
+- [ESPN](https://www.espn.com)
+- [MLB](https://www.mlb.com)
+- [NBA](https://www.nba.com)
+
+## ✈️Travel 旅游
+
+- [Uber - Request a ride](https://www.uber.com)
+- [Airbnb](https://www.airbnb.com)
+- [Lyft](https://www.lyft.com)
+- [Expedia: Hotels, Flights &amp; Car](https://www.expedia.com/Hotels)
+- [Hopper: Flights, Hotels &amp; Cars](https://www.hopper.com)
+- [Booking.com: Hotels &amp; Travel](https://www.booking.com)
+- [Vrbo Vacation Rentals](https://www.vrbo.com/vacation-rentals)
+- [American Airlines](https://www.aa.com/homePage.do?locale=en_US)
+- [Google Earth](https://apps.apple.com/us/app/google-earth/id293622097) 谷歌地球
+- [Peakvisor](https://peakvisor.com) helps you identify and explore mountains all over the world
+- [Momego](https://apps.apple.com/us/app/momego-live-transit-tracker/id1281251210) (iOS) 实时交通追踪器
+- [kayak](https://www.kayak.com)
+- [GetYourGuide](https://www.getyourguide.com) 难忘的旅行经历
+
+## 🛠️Utilities 工具
+
+- **Boot Disk 启动盘制作**
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/pbatard/rufus) [Rufus](https://github.com/pbatard/rufus) USB启动盘工具 制作linux&win启动u盘
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/ventoy/Ventoy) [Ventoy](https://github.com/ventoy/Ventoy) 开源多合一启动盘工具，支持多达338种操作系统的启动
+  - [Etcher](https://etcher.balena.io) 启动盘制作
+  - [balenaEtcher](https://etcher.balena.io) 免费的开源启动盘制作程序
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/VirtualHotBar/HotPEToolBox) [HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox) HotPE 工具箱
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/mtniehaus/MediaTool) [OofhoursMediaTool](https://github.com/mtniehaus/MediaTool/blob/main/OofhoursMediaTool.zip) Win11启动盘制作
+- 🧮 **Calculator 计算器**
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Qalculate/libqalculate) [Qalculate!](https://github.com/Qalculate/libqalculate) (Win)多功能计算器
+  - [Numms](https://apps.apple.com/cn/app/id1644598526), [Calcbot 2](https://apps.apple.com/us/app/calcbot-2/id376694347)(Nov 15, 2021), [Calculator with History+](https://apps.apple.com/us/app/calculator-with-history/id1458583388), [Desktop Calculator](https://apps.apple.com/us/app/desktop-calculator/id6450638014), [Calculator mini](https://apps.apple.com/us/app/calculator-mini-combo/id1672581992)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/clementwzk/OpenCalc) [OpenCalc](https://github.com/clementwzk/OpenCalc) (Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AutoDarkMode/Windows-Auto-Night-Mode) [Windows Auto Dark Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) 根据本地时间自动启用黑暗模式
+- [NetLimiter](https://www.netlimiter.com) 程序网络控制 change network configuration
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sammwyy/MikuMikuBeam) [MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (Win, Linux, macOS, Android)只需创建代理列表、用户代理列表文件即可开始测压。支持实时攻击可视化、基于工作线程的攻击处理等
+- [iMazing](https://imazing.com/zh) (macOS, Win)iOS设备管理器
+- [AutoOff](https://www.starcodec.com/en/autooff) 自动关机，最后更新2023.8.10
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lukaslangrock/ShutdownTimerClassic) [ShutdownTimerClassic](https://github.com/lukaslangrock/ShutdownTimerClassic) 自动关机，最后更新2025.2.3
+- [Automate mouse clicks](https://www.opautoclicker.com) 鼠标自动点击器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/koekeishiya/yabai) [yabai for macOS](https://github.com/koekeishiya/yabai) macOS内置窗口管理器的扩展
+- [GitHub Repo stars](https://img.shields.io/github/stars/MrKai77/Loop) [Loop](https://github.com/MrKai77/Loop) WmacOS窗口管理
+- [ShortCat](https://shortcat.app) (macOS)用键盘操作mac电脑
+- ![GitHub Repo stars](https://img.shields.io/github/stars/noah-nuebling/mac-mouse-fix) [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) macOS, makes your mouse better
+- OCR 图片文字识别
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR) [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) 文字识别工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/TheJoeFin/Text-Grab) [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+  - [CamScanner +](https://apps.apple.com/us/app/camscanner-ocr-scanner/id388624839) (iOS) OCR Scanner
+  - [Fish IdentifierㆍScuba Dive Log](https://apps.apple.com/app/id1457338313)
+- Microsoft Official App 微软官方软件
+  - [微软开源项目](https://opensource.microsoft.com)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Microsoft/vscode) [Visual Studio Code](https://code.visualstudio.com) 微软研发的代码编辑器VS Code 集成开发环境（IDE）
+  - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) 微软官方免费提供的系统工具集
+    - [ZoomIt](https://learn.microsoft.com/zh-cn/sysinternals/downloads/zoomit) 用于演示的屏幕缩放、批注和录制工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PowerToys) [Microsoft PowerToys](https://github.com/microsoft/PowerToys) 微软系统增强功能 Windows system utilities to maximize productivity
+  - [Microsoft PC Manager](https://pcmanager.microsoft.com) 微软电脑管家
+  - [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install-browser-extensions) 微软自动化工具
+  - [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD?hl=en-us&gl=us)
+  - [Windows File Recovery](https://apps.microsoft.com/detail/9n26s50ln705?hl=zh-cn&gl=CN) 微软出品的完全免费的删除文件数据恢复工具
+  - [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) Change Startup Programs
+- ![GitHub Repo stars](https://img.shields.io/github/stars/BornToBeRoot/NETworkManager) [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) 管理网络和解决网络问题的强大工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Caldis/Mos) [Mos](https://github.com/Caldis/Mos) (macOS) 平滑鼠标滚动效果
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lihaoyun6/AirBattery) [AirBattery](https://github.com/lihaoyun6/AirBattery) 在macOS上显示所有设备电量信息在Dock、状态栏、小组件上
+- [MagicKit Pro](https://apps.apple.com//app/id6746649752) (iOS)智能工具箱
+
+- 🗃️Archived
+  - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) 纯粹的Windows右键菜单管理程序，最后更新2021.8
+  - [Car Dashboard](https://apps.apple.com/us/app/car-dashboard-music-maps/id6654923547) (iOS) Music & Maps Nov 22, 2024
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/arkane-systems/mousejiggler) [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) Microsoft Defender检测未木马，将“虚假”输入推送到 Windows 输入队列中，这正是几乎每个远程控制木马为启用远程控制而必须做的事情
+
+### 📞Call & SMS Block 来电拦截 短信拦截
+
+- [熊猫吃短信 - 旧版](https://apps.apple.com//app/id1319191852) (iOS)
+- [小鱼短信](https://apps.apple.com//app/id1515035333)
+- [Message Keyword Filter](https://apps.apple.com/us/app/message-keyword-filter/id1672730162)
+- [拦截猫](https://apps.apple.com/app/id6476010032)
+- [短信拦截 - 垃圾短信防骚扰](https://apps.apple.com/app/id1639460076)
+- [Jima Caller ID](https://apps.apple.com/us/app/jima-caller-id/id910656808) 香港号码来电☎️识别阻拦
+- [Spam Call Blocker: Stop Scam](https://apps.apple.com/us/app/spam-call-blocker-stop-scam/id1505796584)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/metowolf/vCards) [vCards](https://github.com/metowolf/vCards) (iOS, macOS) 导入常用联系人头像
+- [Contact Cleanup](https://apps.apple.com/us/app/contact-cleanup/id717884032) (iOS)联系人清理
+- ![GitHub Repo stars](https://img.shields.io/github/stars/octoshrimpy/quik)[quik](https://github.com/octoshrimpy/quik) Android 第三方短信应用
+
+### 📛Adblock 去广告 Block ads
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xM4ddy/OFGB) [OFGB](https://github.com/xM4ddy/OFGB) 关闭 Win11 各处广告的小工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Win, macOS, Linux)通过代理阻止广告
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android)搞快点，自动跳过开屏广告
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) 浏览器去广告插件：[uBlock Origin Lite](https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh) Manifest V3、[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) Manifest V2
+  - [uBlock Origin Lite for iOS](https://apps.apple.com/au/app/ublock-origin-lite/id6745342698)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter. [Subscriptions](https://iorate.github.io/ublacklist/subscriptions)
+  - [uBlacklist for Safari](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640)
+  - [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) 屏蔽搜索引擎的 AI 生成内容
+  - [chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead) 零误伤的黑名单列表
+- YouTube AdBlock
+  - [YouTube AdBlock - Coffee Break for YouTube](https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap)
+  - [AdShield - Ultimate Ad Blocker for YouTube](https://chromewebstore.google.com/detail/adshield-ultimate-ad-bloc/gmjaaefflbggfiacjihajgijemdlhkeb)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/goodtube4u/goodtube) [GoodTube](https://github.com/goodtube4u/goodtube) 100% 免费使用
+
+DNS Adblocking
+
+- [DNS Providers](https://adguard-dns.io/kb/general/dns-providers) DNS Provider Index
+- [NextDNS](https://nextdns.io)
+- [ControlD](https://controld.com)
+- [Pi-Hole](https://pi-hole.net) 全网络广告拦截应用程序，DNS级拦截广告
+
+iOS Adblocking
+
+- [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99)
+- [1Blocker](https://apps.apple.com//app/id136553102) ($39.99)Ad Blocker for Safari
+- [Easy Adblock for Safari](https://apps.apple.com/cn/app/easy-adblock-for-safari/id6477549966)
+- [Wipr 2](https://apps.apple.com/us/app/wipr-2/id1662217862)
+- [Ghostery](https://apps.apple.com/us/app/ghostery-privacy-ad-blocker/id6504861501) Block ads, trackers, and popups on Safari
+- [Total Adblock](https://apps.apple.com/us/app/total-adblock-ad-blocker/id1564900435) ($7.99)
+- [Adblock Plus for Safari ABP](https://apps.apple.com/us/app/adblock-plus-for-safari-abp/id1432731683)
+- [AdBlock Pro－Browser Ad Blocker](https://apps.apple.com/cn/app/adblock-pro-browser-ad-blocker/id1018301773)
+- [Adblock Plus for Safari (ABP)](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1028871868)
+
+- 🗃️Archived
+  - [Adblock For Safari - No Porn](https://apps.apple.com/us/app/adblock-for-safari-no-porn/id6737194096)
+  - [Adblock](https://apps.apple.com/us/app/adblock/id691121579)最后更新2021.7
+  - [AdBlock for Mobile](https://getadblock.com/en/iOS) 最后更新2017.1
+  - [Ad Blocker Pro - Secure & Safe](https://apps.apple.com/gb/app/ad-blocker-pro-secure-safe/id6448680871) 最后更新2024.12
+  - [Ad Block One](https://apps.apple.com/app/id1491889901) block baidumap ad 最后更新2024.8
+
+Adblock Filters
+
+- [QuantumultX 小白2.0配置](https://github.com/ddgksf2013) 去广告配置
+- [shadowrocket去广告配置](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、[shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules)
+- [AdRules](https://github.com/Cats-Team/AdRules) List for blocking ads in the Chinese region
+- [AdGuard Chinese filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) 中文广告
+- [LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) Query Parameter Cleaning Rules
+- [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
+- [FilterLists](https://filterlists.com) Filter and host lists directory
+- [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) Unsafe Sites Filter
+- [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
+
+### 📶Network (DNS VPN VPS IDC)
+
+- Network Management 网络管理
+  - [NetSetMan](https://www.netsetman.com/en/freeware) 非商业用途免费，网络管理工具
+  - [Wireshark](https://www.wireshark.org) Unix和Windows上的开源网络协议分析器
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/VREMSoftwareDevelopment/WiFiAnalyzer) [WiFi Analyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) (Android)WiFi分析仪
+  - [WirelessMon](https://www.passmark.com/products/wirelessmonitor) 检测周围 WIFI 信道
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Archeb/opentrace) [OpenTrace](https://github.com/Archeb/opentrace) NextTrace的跨平台GUI界面，可视化路由跟踪工具，在地图上追踪并显示IP地址
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Leo-Corporation/InternetTest) [InternetTest](https://github.com/Leo-Corporation/InternetTest) Win网络测试工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor) [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 显示网速、CPU及内存利用率的桌面悬浮窗软件
+  - [Net Speed Meter](https://netspeedm.com) 显示网速的软件
+  - [Test your IPv6](https://test-ipv6.com)
+  - Speed Test 网速测试：[Speed Cloudflare](https://speed.cloudflare.com) 、[Speedtest](https://www.speedtest.net)、[fast](https://fast.com)、[LibreSpeed](https://librespeed.org)
+  - 网络分析：[Network Analyzer App](https://techet.net/netanalyzer), [WiFiman](https://wifiman.com), [Fing](https://apps.apple.com/us/app/fing-network-scanner/id430921107), [iSocketTool](https://apps.apple.com/us/app/isockettool/id1461652639)
+  - IP查询：[IPinfo](https://ipinfo.io/what-is-my-ip)、[IPCheck.ing](https://ipcheck.ing)、[WHOER](https://whoer.net/zh)、[ping.pe](https://ping.pe)、[IP Address details](https://ipleak.net)、[myip](https://www.myip.com)、[whatismyipaddress](https://whatismyipaddress.com)
+  - Check browser fingerprints：[pixelscan.net](https://pixelscan.net)
+  - 网站在线分析：[pagespeed.web.dev](https://pagespeed.web.dev)、[gtmetrix.com](https://gtmetrix.com)、[tools.pingdom.com](https://tools.pingdom.com)、[webpagetest.org](https://www.webpagetest.org)
+
+- DNS
+  - [YogaDNS](https://yogadns.com) 第三方DNS设置软件
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/zfl9/chinadns-ng) [ChinaDNS](https://github.com/zfl9/chinadns-ng) 判断走国内还是国外DNS
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/pymumu/smartdns) [SmartDNS](https://github.com/pymumu/smartdns) 运行在本地的DNS服务器
+- Public DNS
+  - [Quad9](https://www.quad9.net) IPv4: 9.9.9.9 和 149.112.112.112
+  - [Cloudflare DNS](https://developers.cloudflare.com/1.1.1.1/ip-addresses) IPv4: 1.1.1.1 和 1.0.0.1
+  - [OpenDNS](https://www.opendns.com/setupguide) IPv4: 208.67.222.222 和 208.67.220.220
+  - [Google Public DNS](https://developers.google.com/speed/public-dns) IPv4: 8.8.8.8 和 8.8.4.4
+  - [AdGuard DNS](https://adguard-dns.io) IPv4: 94.140.14.14 和 94.140.15.15
+
+- iOS VPN: [Surge](https://apps.apple.com/us/app/surge-5/id1442620678), [Shadowsocket](https://apps.apple.com/ie/app/shadowrocket/id932747118), [sing-box](https://apps.apple.com/us/app/sing-box-vt/id6673731168), [Potatso](https://apps.apple.com/us/app/potatso/id1239860606), Wingy, [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620), squirrelVPN, nthLink, banana, gitspeed, flyrouter, mumevpn, anyconnect, Kitsunebi, [Outline App](https://apps.apple.com/us/app/outline-app/id1356177741), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [Loon](https://apps.apple.com/us/app/loon/id1373567447), [jamjams](https://apps.apple.com/us/app/jamjams/id6477182037), wireguard, [V2box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690), [Streisand](https://apps.apple.com/us/app/streisand/id6450534064), [Clash Mi](https://apps.apple.com/us/app/clash-mi/id6744321968)
+
+- Android VPN: [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid), [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid), [v2rayNG](https://github.com/2dust/v2rayNG), [Surfboard](https://github.com/getsurfboard/surfboard), [Hiddify Next](https://github.com/hiddify/hiddify-next), [Clash for Flutter](https://github.com/mapleafgo/clash-for-flutter), [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases), [sing-box](https://github.com/SagerNet/sing-box),
+
+- VPS IDC 自建机场
+  - [BandwagonHost VPS](https://bandwagonhost.com) 搬瓦工 老牌VPS服务商
+  - [SockBoom](https://sockboom.love)
+  - [Vultr.com](https://my.vultr.com) 支持支付宝（据说被墙的IP太多）
+  - [Just My Socks](https://justmysocks.net/members/index.php)
+  - [AWS LightSail](https://lightsail.aws.amazon.com) 最低配置一个月$3.5，流量不限，目前的Zone不多，推荐使用日本，新加坡或美国俄勒冈（支持银联卡）。现对2021/8/7之后使用Lightsail的用户提供3个月的免费试用。
+  - [AWS EC2](https://aws.amazon.com/cn) 香港、日本或韩国申请个免费试用一年的EC2 VPS（支持银联卡）。在亚马逊云上建立一个虚拟机服务器(VPS)亚马逊的EC2虚拟机12个月内免费。在PC上用Putty客户端软件和VPS建立一个SSH通道并设置一个SOCKS代理隧道端口，在PC windows建立一个同样的localhost代理服务端口，用户上网的流量都走代理器通过SSH的隧道连到VPS。
+  - [Google Cloud Platform](https://cloud.google.com) 提供免费试用，有赠送
+  - [Linode](https://www.linode.com)
+  - [Conoha](https://www.conoha.jp/zh) 支持支付宝
+  - [Oracle Cloud](https://www.oracle.com/cloud/free) 甲骨文云
+  - [hostwinds](https://www.hostwinds.com/vps/unmanaged-linux)
+  - [DigitalOcean](https://www.digitalocean.com)
+  - [DuyaoSS](https://duyaoss.com) 机场测速和简介
+
+- HOST 代理软件
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/XTLS/Xray-core) [Xray-core](https://github.com/XTLS/Xray-core)
+  - [SwitchHosts](https://swh.app) HOST管理
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [sing-box](https://github.com/SagerNet/sing-box) 创建网络代理服务器、客户端和透明代理
+
+### 🧹Clean 软件卸载&优化
+
+- [CCleaner](https://www.ccleaner.com/ccleaner) ⭐
+- [Revo Uninstaller](https://www.revouninstaller.com)
+- [Registry Finder](https://registry-finder.com)
+- [TweakPower](https://www.kurtzimmermann.com/tweakpowerext_en.html) 系统优化工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rayenghanmi/RyTuneX) [RyTuneX](https://github.com/rayenghanmi/RyTuneX) Windows 优化工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit) [BleachBit](https://www.bleachbit.org) 开源免费的系统清理工具
+- [Wise Registry Cleaner](https://www.wisecleaner.com/wise-registry-cleaner.html)
+- [HiBit Uninstaller](https://hibitsoft.ir) uninstalling Windows software
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller) [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) 卸载神器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher) [Flow-Launcher](https://github.com/Flow-Launcher/Flow.Launcher) Quick file search & app launcher  (Win)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Rem0o/FanControl.Releases) [Fan Control](https://github.com/Rem0o/FanControl.Releases) Windows风扇控制软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kando-menu/kando) [kando](https://github.com/kando-menu/kando) The Cross-Platform Pie Menu
+- ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner) [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer) [Optimizer](https://github.com/hellzerg/optimizer)
+- [Lock Launcher Widgets LockFlow](https://apps.apple.com/us/app/lock-launcher-screen-widgets/id1636719674) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Raphire/Win11Debloat) [Windows 11 Debloater Tool](https://github.com/Raphire/Win11Debloat) 删除预装的Windows臃肿软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/memstechtips/Winhance) [Winhance](https://github.com/memstechtips/Winhance) 删除Windows应用程序（永久）
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jdm-contrib/jdm) [JustDeleteMe](https://github.com/jdm-contrib/jdm) 迅速找到要删除帐户的服务
+- [Doggy Cleaner](https://apps.apple.com/us/app/doggy-cleaner-photo-storage/id6747192774) 相册清理
+- Hardware 检测
+  - [AIDA64 Extreme Edition](https://www.aida64.com/downloads) 系统诊断和基准测试软件
+  - [CPU-z](https://www.cpuid.com/softwares/cpu-z.html) 查看CPU 显卡 主板型号
+  - [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z) 查看CPU GPU温度
+  - [HWiNFO](https://www.hwinfo.com) 硬件检测工具
+  - [Crystal Disk Info](https://crystalmark.info/en/software/crystaldiskinfo) 读取S.M.A.R.T了解硬盘健康状况
+  - [Geekbench AI](https://www.geekbench.com/ai) (Win, macOS, Linux, iOS, Android)跨平台的 AI 基准测试
+  - [Mactracker](https://apps.apple.com/us/app/mactracker/id311421597) (iOS, macOS) information on every Apple Macintosh, iPod, iPhone, and iPad ever made
+  - [BLE](https://apps.apple.com/app/id6742506124) iOS 附近蓝牙检测 Find My Bluetooth Device
+- Hardware Drivers 硬件驱动
+  - [NVIDIA App](https://www.nvidia.com/en-us/software/nvidia-app)
+  - [AMD Drivers](https://www.amd.com/en/support/download/drivers.html)
+  - [Intel Driver](https://www.intel.com/content/www/us/en/download-center/home.html)
+  - [ASUS Driver](https://www.asus.com.cn/support/download-center)
+  - [Snappy Driver Installer](https://sdi-tool.org) 开源的驱动下载更新管理软件
+- 系统美化，系统个性化
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/icon11-community/Folder11-Ico) [Folder11 Community](https://github.com/icon11-community/Folder11-Ico) windows自定义文件夹目录图标
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/eythaann/Seelen-UI) [Seelen UI](https://github.com/eythaann/Seelen-UI) Windows桌面自定义，个性化桌面
+  - [HiDock](https://hidock.app) (macOS)custom Dock settings
+  - [Today •](https://apps.apple.com/us/app/today/id6443714928) Calendar events in menu bar (macOS)
+- 🕒Time 时间
+  - [Time.is](https://time.is) - Check Accuracy of System Clock
+  - [Flip Clock](https://apps.apple.com/us/app/flip-clock-no-ads/id1522242289) (iOS)
+  - [The Clocks](https://apps.apple.com/us/app/the-clocks-alarm-world-clock/id403684793) (iOS)
+  - [Catime](https://github.com/vladelaina/Catime) (Win)🍅番茄时钟
+  - [Flip Clock - Time Widget](https://apps.apple.com/us/app/flip-clock-time-widget/id6739703704) (iOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/pakerwreah/Calendr) [Calendr](https://github.com/pakerwreah/Calendr) (macOS) 菜单栏日历，支持日程提醒，菜单界面自定义
+
+- ⌛️Countdown 倒数日
+  - [Countdown Buddy](https://apps.apple.com/us/app/countdown-buddy/id1534850579)
+  - [Countdown - Pretty Progress](https://apps.apple.com/us/app/countdown-pretty-progress/id1597616326)
+  - [Bears Countdown](https://apps.apple.com/us/app/bears-countdown/id1536711520)
+  - [Happy:Days](https://apps.apple.com/us/app/happy-days/id1564858029)
+
+### 📦Compression 压缩软件
+
+- [7-Zip](https://www.7-zip.org) 免费开源压缩软件，[源代码](https://sourceforge.net/projects/sevenzip)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/mcmilk/7-Zip-zstd) [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) 7z的分支，添加了新的压缩算法
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/M2Team/NanaZip) [NanaZip](https://github.com/M2Team/NanaZip)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/peazip/PeaZip) [PeaZip](https://github.com/peazip/PeaZip)
+- [Bandizip](https://www.bandisoft.com/bandizip)
+- [WinRAR](https://www.win-rar.com)
+- [WinZip(iOS)](https://apps.apple.com/app/id500637987)
+- [Keka](https://www.keka.io/en) (macOS) file archiver
+- [The Unarchiver](https://macpaw.com/the-unarchiver) (macOS)
+- [B1 Free Archiver](https://b1.org) (Win, macOS, Linux, Android) 常见格式（ZIP、RAR 等）
+
+### 🔍Search Engines 搜索引擎
+
+- [Google](https://www.google.com) 谷歌，全球最大的搜索引擎⭐
+  - [Google Scholar](https://scholar.google.com) 谷歌学术
+  - [imghp](https://google.com/imghp) 谷歌图片
+- [DuckDuckGo](https://duckduckgo.com) 位于美国，偏重隐私
+- [Startpage](https://www.startpage.com) 总部位于荷兰，荷兰和欧盟的隐私保护法律
+  - [Vanish AI](https://apps.apple.com/us/app/vanish-private-ai/id6747361472) Startpage的AI产品
+- [Bing](https://www.bing.com) Microsoft微软的搜索引擎
+- [Wikipedia](https://www.wikipedia.org) 维基百科
+- [Internet Archive](https://archive.org) 互联网档案馆，回溯机 Wayback Machine
+- [Yandex](https://yandex.com) 俄罗斯互联网企业
+- [Yahoo](https://search.yahoo.com) 雅虎
+- [Brave Search](https://search.brave.com) 完全独立的索引，无需跟踪
+- [Qwant](https://www.qwant.com) 位于法国，不跟踪用户或个性化结果
+- [Mojeek](https://mojeek.com) 位于英国， 唯一拥有自己的爬虫和索引的真正的搜索引擎
+- [searx - GPMDB](https://searx.thegpm.org) 开源的Metasearch引擎
+- ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng) [SearXNG](https://searx.bndkt.io) a privacy-respecting, open metasearch engine
+- [Naver](https://www.naver.com) 韩国Naver公司旗下的搜索引擎
+- [Ecosia](https://www.ecosia.org) 环保的搜索引擎
+- [MetaGer](https://metager.org) (💵)位于德国，非营利组织运营的Metasearch引擎
+- [Kagi](https://kagi.com) (💵)无广告搜索引擎
+- [Swisscows](https://swisscows.com/en) private and anonymous search engine 
+
+- Reverse Image Search 以图搜图（网站、插件、APP）
+  - [TinEye](https://tineye.com)
+  - [Imagio](https://apps.apple.com/us/app/imagio-reverse-image-search/id6479577243) (iOS)以图搜图
+  - [trace.moe](https://trace.moe) 以图搜动漫
+  - [SauceNAO](https://saucenao.com) 完整图片 P站 及部分推特图
+  - [yandex.ru/images/search](https://yandex.ru/images/search) 不完整图片、完整图片 残图推荐
+  - [ascii2d.net](https://ascii2d.net) 以图搜图 仅限P站以及X
+  - [iqdb.org](https://iqdb.org) 不完整图片、完整图片 图库不全
+
+- ⛏️Dig 数据信息挖掘
+
+1. [中国执行信息公开网](https://zxgk.court.gov.cn)
+2. [爱企查 - 查老赖系统](https://aiqicha.baidu.com/discredit)
+3. [中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww)
+4. [企查查](https://www.qcc.com)
+5. [水滴信用](https://shuidi.cn)
+6. [国家企业信用信息公示系统](https://www.gsxt.gov.cn)
+7. [中国裁判文书网](https://wenshu.court.gov.cn)
+8. [天眼查](https://www.tianyancha.com)
+9. [国家知识产权局](https://cnipa.gov.cn)
+10. [国家版权局](https://ncac.gov.cn)
+11. [信用中国](https://creditchina.gov.cn)
+12. [民政部](https://mca.gov.cn/index.html)
+
+### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) RIME输入法 (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韻 Linux + IBus 輸入法框架) ，跨平台、开源免费
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) 雨燕拼音输入法 (Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey) [AutoHotkey](https://www.autohotkey.com) a scripting language for desktop automation热键脚本语言
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/xianyukang/MyKeymap) [MyKeymap](https://github.com/xianyukang/MyKeymap) 一款基于AutoHotkey的键盘映射工具
+- [Clavier+](https://gryder.org/software/clavier-plus) 键盘全局快捷键工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mulaRahul/keyviz) [Keyviz](https://github.com/mulaRahul/keyviz) 键盘按键可视化 visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time
+- [GestureSign](https://zh.gesturesign.win) 笔记本触摸板手势
+- ![GitHub Repo stars](https://img.shields.io/github/stars/taojy123/KeymouseGo) [KeymouseGo](https://github.com/taojy123/KeymouseGo) 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入
+- ![GitHub Repo stars](https://img.shields.io/github/stars/pqrs-org/Karabiner-Elements) [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) macOS，MacBook加蓝牙键盘，连上蓝牙键盘自动禁用，断开连接，恢复功能
+- [ClipBook](https://clipbook.app) (macOS)免费剪贴板工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PasteBar/PasteBarApp) [PasteBarApp](https://github.com/PasteBar/PasteBarApp) 本地剪贴板管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/p0deje/Maccy) [Karabiner-Elements](https://github.com/p0deje/Maccy) Lightweight clipboard manager for macOS
+- [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) (macOS) 一键启用或禁用键盘
+- 🗃️Archived
+  - [Clipboard : Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) (iOS) 剪贴板同步 Oct 11, 2024
+
+### 🌐Browsers 浏览器
+
+> 浏览器3大阵营Blink（Chromium）、Webkit（Safari）、Gecko（Firefox），[Browser Market Share Worldwide](https://radar.cloudflare.com/reports/browser-market-share-2025-q1)，[隐私测试](https://privacytests.org)，[浏览器对比](https://browsers.avoidthehack.com)，[BrowseRating](https://browserating.kawaiier.dev)。宣称会一直支持Manifest V2的浏览器：Brave, Safari, Firefox, Supermium。不再支持Manifest V2的浏览器：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
+
+- [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
+  - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
+  - [Orion](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension
+- ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://www.chromium.org/getting-involved/download-chromium) Blink浏览器引擎，Webkit的分支内核，The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
+  - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
+  - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
+  - [DuckDuckGo](https://duckduckgo.com/app) Windows based on Edge WebView2
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://brave.com) 100%开源，支持IPFS协议，[SlimBrave](https://github.com/ltx0101/SlimBrave)，内置广告和跟踪器拦截 – 不需要 uBlock 或 Privacy Badger 等第三方扩展（尽管您仍然可以使用它们），页面加载速度更快。隐私优先的设计 – 它不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。
+  - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
+  - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
+  - [Vivaldi](https://vivaldi.com/download) (Win, macOS, Linux, Android and iOS) 位于挪威 Base in Norway, 修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译
+  - [Yandex Browser](https://browser.yandex.com) 来自俄罗斯的浏览器
+  - [Coc Coc Browser](https://coccoc.com/en) 来自越南的Cốc Cốc browser，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
+  - [Ulaa Browser](https://ulaa.zoho.com) 电子邮件提供商Zoho推出的全平台隐私安全浏览器
+  - [Dia](https://www.diabrowser.com)  Atlassian Corporation 在 2025 年 9 月 4 日宣布，以 6.1 亿美元现金达成收购 The Browser Company 的最终协议
+  - [Deta Surf Browser](https://deta.surf) Deta GmbH, AI浏览器
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/iridium-browser/iridium-browser) [Iridium Browser](https://iridiumbrowser.de) Enhance the privacy
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/ungoogled-software/ungoogled-chromium) [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) Chromium变体，删除 Google 集成并增强隐私、控制和透明度
+  - [CCleaner Browser](https://www.ccleaner.com/ccleaner/browser) 出自Piriform
+  - [Naver Whale Browser](https://whale.naver.com/en) 韩国Naver公司出的浏览器
+  - [Opera](https://www.opera.com) 不推荐 [Opera GX](https://www.opera.com/gx) Opera推出的针对游戏玩家的浏览器；[Opera Air](https://www.opera.com/zh-cn/air)
+  - [Sidekick](https://www.meetsidekick.com)
+  - [Epic Privacy Browser](https://epicbrowser.com) 始终在私密模式下运行
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/win32ss/supermium) [Supermium](https://github.com/win32ss/supermium) 兼容XP、2003、Vista、7 和 8.x
+  - [Samsung Internet Browser](https://www.samsung.com/us/support/owners/app/samsung-internet) Android, for your phone and tablet
+  - [Tempest Browser](https://tempest.com/browser) 暴风雨浏览器
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android)，bromite的分支，bromite已停更，内置广告拦截和隐私保护
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气 based on ungoogled-chromium
+  - [Quetta Browser](https://www.quetta.net) (iOS, Android)
+  - [Wavebox](https://wavebox.io) (💵)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Win, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
+  - [Perplexity Comet](https://comet.perplexity.ai) Perplexity推出的人工智能网络浏览器，Perplexity搜索/广告公司，用户的浏览记录可能成为他们的产品
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) 在您的浏览器上运行的 AI 代理，而不是在云中运行
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，Firefox集成了Widevine模块。[Firefox iOS](https://apps.apple.com/app/firefox-web-browser/id989804926) and [Firefox Focus iOS](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://www.waterfoxproject.org) 水狐浏览器，基于Firefox开源项目制作的浏览器，只提供64位版本
+  - [K-Meleon](https://kmeleonbrowser.org)
+  - [LibreWolf](https://librewolf.net) 增强对跟踪和指纹技术的保护
+  - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) Privacy-preserving Firefox-based browser with Chromium-like UI and features
+  - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站）
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://www.zen-browser.app) Experience tranquillity while browsing the web without people tracking you! 缺少 Widevine DRM（数字版权管理）许可证，无法访问 Netflix、Spotify 等需要 DRM 的流媒体服务
+  - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android)，原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
+  - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%
+
+- Goanna引擎（Gecko的一个分支）
+  - [Pale Moon](https://www.palemoon.org) 苍月浏览器，基于几年前的Firefox/Mozilla源代码，后续自研了渲染引擎Goanna，并优化了布局系统
+  - [Basilisk](https://www.basilisk-browser.org/) 基于Goanna布局和渲染引擎，并建立在统一XUL平台（UXP）之上，由独立于Pale Moon项目的开发团队开发
+
+- [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://www.qutebrowser.org) A keyboard-driven, vim-like browser based on Python and Qt.
+
+- [GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook](https://github.com/nook-browser/Nook) (macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
+- [Antidetect Browser](https://undetectable.io) Fingerprint browser
+- [Konqueror](https://apps.kde.org/konqueror) (Linux)
+- [GNOME Web](https://wiki.gnome.org/Apps/Web) (Linux) for the GNOME desktop
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (2026年夏季发布Linux和macOS) using a novel engine based on web standards
+- [Aloha Browser](https://alohabrowser.com) (iOS, Android) 内置免费VPN
+- [Onion Browser](https://onionbrowser.com) (iOS) 基于WebKit，并且建立在尊重隐私的基础上，默认搜索引擎Kagi，支持扩展
+- [GNU IceCat](https://icecatbrowser.org) (Win, macOS, Linux)
+- [Basilisk](https://basilisk-browser.org) (Win, macOS, Linux)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hyphanet/fred) [Hyphanet](https://www.hyphanet.org) (Win, macOS, Linux)
+- [Puma Browser](https://www.pumabrowser.com) (iOS, Android)
+- [IDENTORY](https://identory.com/en) (Win) 指纹浏览器 Fingerprint browser
+- [Nyxt:](https://nyxt.atlas.engineer) the hacker's browser
+- [SeaMonkey](https://www.seamonkey-project.org/releases)
+- [Quiche](https://apps.apple.com/us/app/quiche-web-browser/id1668363952)
+- [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
+- [Donut Browser](https://donutbrowser.com) 多浏览器管理工具，目前仅支持 macOS，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
+- [Slimjet](https://www.slimjet.com) (Win, macOS, Linux)
+- [ArcSphere](https://apps.apple.com/us/app/arcsphere-ai-native-browser/id6502280398) (iOS, Android) AI浏览器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/RicardoCA/board-browser) [Board Browser](https://github.com/RicardoCA/board-browser)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium) GrapheneOS用户的浏览器，未正式提供给 GrapheneOS 以外的用户
+- 🗃️Archived
+  - [Kiwi Browser](https://github.com/kiwibrowser/src.next) 已停止维护
+  - [Sidekick](https://www.meetsidekick.com) 已停止维护
+  - [Ghostery](https://www.ghostery.com/ghostery-private-browser) discontinued
+  - [Puffin Cloud Browser](https://www.puffin.com/cloud-browser) (iOS)
+  - [Arc](https://arc.net) (Win, macOS, iOS) 不再有重大更新
+  - [Cent Browser](https://www.centbrowser.com) 百分浏览器 2024-06-27
+  - [Mull-Fenix](https://github.com/Divested-Mobile/mull-fenix) (Android) archived on Dec 23, 2024
+  - [Avira Secure Browser](https://www.avira.com/en/avira-secure-browser) (Win, macOS)
+  - [Avast Secure Browser](https://www.avast.com/secure-browser#pc) (Win, macOS, iOS, Android) 反网络钓鱼
+  - [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc)  (Win, macOS, Android)
+
+#### 🍭Browser Extensions 浏览器插件(扩展)
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Aemi-Studio/Nad) [Nad](https://github.com/Aemi-Studio/Nad) 功能强大而轻便的Safari广告拦截器“Nad”，由Aemi Studio和Aploide精心设计。iPhone、iPad、macOS、VisionOS设备上浏览，有效阻止广告和跟踪器，自定义白名单
+- [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) for YouTube - Skip Sponsorships
+- [Save to Notion](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm)
+- [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf)
+- 右键解锁：[SuperCopy - Enable Copy](https://chrome.google.com/webstore/detail/onepmapfbjohnegdmfhndpefjkppbjkm)、[Allow Right-Click](https://chromewebstore.google.com/detail/allow-right-click/hnafhkjheookmokbkpnfpmemlppjdgoi)、[Allow Copy](https://chromewebstore.google.com/detail/allow-copy-select-enable/mmpljcghnbpkokhbkmfdmoagllopfmlm)
+- [Click&amp;Clean](https://www.hotcleaner.com/clickclean_chrome.html)
+- [Privacy Badger](https://privacybadger.org/zh-cn) 隐私獾
+- [Copyfish](https://ocr.space/copyfish) 抓取图片视频中的文字
+- [Checker Plus for Gmail™](https://jasonsavard.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/alyssaxuu/screenity) [Screenity](https://github.com/alyssaxuu/screenity) 屏幕截图与视频录制
+- Markdown：[MarkDownload - Markdown Web Clipper](https://chrome.google.com/webstore/detail/pcmpcfapbekmbjjkdalcgopdkipoggdi)、[Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
+- [Stream Recorder](https://www.hlsloader.com) download HLS as MP4
+- [Black Menu for Google™](https://apps.jeurissen.co/black-menu-for-google)
+- [Silk - Privacy Pass Client](https://chromewebstore.google.com/detail/silk-privacy-pass-client/ajhmfdgkijocedmfjonnpjfojldioehi)
+- 🔖Bookmark & Tab 书签和标签页
+  - 跨浏览器书签同步：![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus)、[EverSync everhelper](https://everhelper.me)、[xBrowserSync](https://www.xbrowsersync.org)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub)
+  - 书签清理：[Bookmarks clean up](https://chrome.google.com/webstore/detail/oncbjlgldmiagjophlhobkogeladjijl)、[LazyCat](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef)
+  - [favbox](https://github.com/dd3v/favbox)
+  - [Bookmarkie](https://chromewebstore.google.com/detail/bookmarkie-bookmarks-in-p/ahlphbdcaacfhkiajebghpngknafklbj) Bookmarks in popup
+  - [Momentum](https://momentumdash.com) 定制新标签页
+  - [OneTab](https://www.one-tab.com)
+  - [Workona Tab Manager](https://workona.com) 管理、分类标签页
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dessant/search-by-image) [search-by-image](https://github.com/dessant/search-by-image)
+- [Glarity](https://glarity.app) 利用ChatGPT4生成摘要，支持Youtube视频和Google
+- [PocketTube](https://pockettube.io) Youtube Subscription Manager
+- [Keepa](https://keepa.com) Amazon Price Tracker
+- Dark Mode 黑暗模式
+  - [Noir](https://getnoir.app) Safari黑暗模式
+  - [Dark Reader](https://darkreader.org)
+
+#### 📜Userscripts Extension Manager 脚本管理，自定义和网页增强
+
+- [Tampermonkey](https://www.tampermonkey.net) 篡改猴，闭源，[Tampermonkey for iOS](https://apps.apple.com/us/app/tampermonkey/id6738342400)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey) [Violentmonkey](https://github.com/violentmonkey/violentmonkey) 🐵 暴力猴，更符合国人使用习惯
+- [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/scriptscat/scriptcat) [Scriptcat](https://github.com/scriptscat/scriptcat) 脚本猫，纯国产
+- ![GitHub Repo stars](https://img.shields.io/github/stars/quoid/userscripts) [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) (iOS)
+- [Stay for Safari](https://apps.apple.com/us/app/stay-for-safari/id1591620171) (iOS)($4.99) 深色模式、资源嗅探、广告拦截
+- [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey) Firefox Extension，更新缓慢，最后更新Aug 6, 2024
+- [网盘直链下载助手](https://github.com/syhyz1990/baiduyun) 开源协议：AGPL3
+- [GM_script](https://github.com/langren1353/GM_script) AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
+- [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
+- [GitHub Freshness](https://greasyfork.org/en/scripts/524465-github-freshness)
+
+- Imagus Similar Imagusextensions and Scripts:
+  - [Imagus Reborn](https://chromewebstore.google.com/detail/imagus-reborn/fcjmgeodgobggcppooncdagfkogfffdm)
+  - [Imagus Mod](https://github.com/TheFantasticWarrior/chrome-extension-imagus/releases) (开发者模式加载zip， Shortcut, permission)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/extesy/hoverzoom) [Hover Zoom+](https://github.com/extesy/hoverzoom) (Manifest V2)
+  - [Image Max URL](https://github.com/qsniyg/maxurl)
+  - [PhotoShow](https://chromewebstore.google.com/detail/photoshow/mgpdnhlllbpncjpgokgfogidhoegebod)
+  - [Handy Image](https://github.com/Owyn/HandyImage)
+  - [Mouseover Popup Image Viewer](https://github.com/tophf/mpiv)
+  - [Picviewer CE+](https://greasyfork.org/en/scripts/24204-picviewer-ce)
+
+### 📂File Manager 文件管理
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/files-community/Files) [Files](https://github.com/files-community/Files) 开源文件管理器
+- [Everything](https://www.voidtools.com) (Win)文件查找 文件重命名
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/srwi/EverythingToolbar) [EverythingToolbar](https://github.com/srwi/EverythingToolbar) Tweaked Taskbars
+- [Listary](https://www.listary.com) 第三方的文件管理系统 搜索实用程序
+- [TextSeek](https://www.textseek.net/en) (💵)
+- [Agent Ransack](https://www.mythicsoft.com/agentransack) 快速有效地查找硬盘驱动器上的文件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/WinMerge/winmerge) [WinMerge](https://github.com/WinMerge/winmerge) differencing and merging tool
+- [Q-Dir](https://q-dir.com) Quad Explorer 免费软件
+- [AllDup](https://alldup.info) 重复文件查找
+- [FastCopy](https://fastcopy.jp) 复制增强工具
+- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk) 文件重命名
+- [ReNamer](https://www.den4b.com/products/renamer) (Win) 文件重命名
+- ![GitHub Repo stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive) [Spacedrive](https://github.com/spacedriveapp/spacedrive) (Win)
+- [OneCommander](https://www.onecommander.com) (Win) 分免费版和Pro版
+- [Marta](https://marta.sh) (macOS) File Manager
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MHNightCat/superfile) [superfile](https://github.com/MHNightCat/superfile) (Linux, macOS, Win)终端文件管理器
+- [Fileso](https://apps.apple.com/us/app/fileso-unzip-tar-gz-rar-7z-xz/id6544783659) (iOS) file management
+- [Documents](https://apps.apple.com/us/app/id364901807) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka) [Czkawka](https://github.com/qarmin/czkawka) (Win, Linux) Multi functional app to find duplicates, empty folders, similar images etc.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sxyazi/yazi) [Yazi](https://github.com/sxyazi/yazi) (Win, Linux) Blazing Fast Terminal File Manager
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kimlimjustin/xplorer) [Xplorer](https://github.com/kimlimjustin/xplorer) (Win) a customizable, modern file manager
+- [File Pilot](https://filepilot.tech) (Win)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tablacus/TablacusExplorer) [Tablacus Explorer](https://github.com/tablacus/TablacusExplorer) (Win)标签文件管理器
+- [SpaceSniffer](https://www.uderzo.it/main_products/space_sniffer) 磁盘空间分析
+- [Beyond Compare](https://www.scootersoftware.com/) 文件及文件夹对比工具
+- [FreeCommander XE](https://freecommander.com) 已更新27.12.2024
+- 🗃️Archived
+  - [Total Commander](https://www.ghisler.com) 最后更新2022-07-07
+  - [XYplorer](https://www.xyplorer.com) 最后更新Jan 12, 2022
+
+#### 🌱Launcher 快捷启动
+
+- [Flow Launcher](https://www.flowlauncher.com) 快捷启动工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Wox-launcher/Wox) [Wox](https://github.com/Wox-launcher/Wox) (Win, macOS)，开源快速启动工具
+- [GeekDesk](https://github.com/BookerLiu/GeekDesk)
+- [Fences](https://www.stardock.com/products/fences) Stardock公司推出的软件
+- [Rolan](https://getrolan.com)
+- [Dawn Launcher](https://dawnlauncher.com)
+- [Raycast](https://www.raycast.com) (macOS) 免费launcher
+- [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en_US) Android上的快捷启动软件
+- [Lock Launcher](https://apps.apple.com/us/app/lock-launcher-screen-widgets/id1636719674) (iOS) 快捷启动软件
+- [Lock Launcher Widgets LockFlow](https://apps.apple.com/us/app/lock-launcher-widgets-lockflow/id1641012054?l=zh-Hans-CN) (iOS)
+- [Alfred](https://www.alfredapp.com) (macOS)(💵)热键、关键字、文本扩展等效率工具，快捷启动
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gnachman/iTerm2) [iTerm2](https://github.com/gnachman/iTerm2) (macOS) 命令行控制电脑工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/cairoshell/cairoshell) [Cairo Desktop Environment](https://github.com/cairoshell/cairoshell) (Win) 类 macOS 的顶部菜单栏
+- [Raycast](https://www.raycast.com) (macOS) 生产力应用程序，您的一切捷径
+- [Folder Preview](https://apps.apple.com/cn/app/folder-preview/id6698876601?mt=12) (macOS) 让文件夹也有快速查看功能
+
+#### 🔃File Sync 文件同步
+
+- [Echosync](https://www.luminescence-software.org/en/echosync/download) 差分文件同步软件
+- [BTSync](https://www.getsync.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing) [Syncthing](https://github.com/syncthing/syncthing) 连续文件同步，可在多台计算机之间实时同步文件，命令行
+  - [syncthing-macos](https://github.com/syncthing/syncthing-macos/releases/latest) (macOS)
+  - [SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) 轻量级但功能齐全的 Windows 安装程序
+  - [Möbius Sync](https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216) (iOS) Moebius莫比乌斯
+- [FreeFileSync](https://freefilesync.org) 文件夹比较同步
+- [goodsync](https://www.goodsync.com)
+- [TuneFUSION](https://www.dbpoweramp.com/tunefusion.htm) 自动将音频同步到各种设备，支持foobar2000
+- [PhotoSync](https://apps.apple.com/us/app/photosync-transfer-photos/id415850124) transfer photos，支持WebDAV
+
+#### ☁️Cloud Storage 网盘云存储
+
+- [OneDrive](https://onedrive.live.com) 来自微软，免费5G
+- [Google Drive](https://drive.google.com) 免费15G，单文件5G
+  - [Google Photos](https://photos.google.com) 来自谷歌
+- [iCloud](https://www.icloud.com) 来自苹果，免费5G
+- [Dropbox](https://www.dropbox.com) 支持live图，免费版限制三台设备，至少12个月内活跃一次
+- [MEGA](https://mega.nz) 来自新西兰，免费20G，至少每3个月登录一次
+- [Box](https://www.box.com) 总部位于美国，免费版单文件限制250Mb
+- [SugarSync](https://www1.sugarsync.com)
+- [pCloud](https://www.pcloud.com) 来自瑞士，研发团队在保加利亚，至少12个月内活跃一次
+- [icedrive](https://icedrive.net)
+- [Degoo Cloud](https://degoo.com)
+- [Amazon Cloud Drive](https://www.amazon.com/clouddrive)
+- [Allsync](https://allsync.com)
+- [Naver MYBOX](https://mybox.naver.com)
+- [Koofr](https://app.koofr.net) 欧洲Slovenia的网盘服务商，免费10G，免费版仅能连接2个云，至少2年内活跃一次
+- [Bitrix24](https://www.bitrix24.fr)
+- [PikPak](https://pikpak.me) 新加坡的团队开发
+- [Filen](https://filen.io) ⭐2020年初在德国雷克林豪森成立，至少每3个月登录一次，E2EE存储
+- [Sync](https://www.sync.com)
+- [Proton Drive](https://drive.proton.me) 免费5G，至少12个月内活跃一次
+- [Rakuten Drive](https://www.rakuten-drive.com) 乐天网盘，免费10G
+
+#### 💽 WebDAV 网盘挂载 Cloud drive mounting
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/alist-org/alist) [AList](https://github.com/alist-org/alist) 网盘聚合平台，已被出售，新接手的公司有黑历史
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/OpenListTeam/OpenList) [OpenList](https://github.com/OpenListTeam/OpenList) A new AList Fork to Anti Trust Crisis
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/DDS-Derek/xiaoya-alist) [xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) 小雅Alist的相关周边
+  - [alistTools](https://apps.apple.com/us/app/alisttools/id6741591396) (iOS)($6.99) 支持OpenList
+- [Mountain Duck](https://mountainduck.io)
+- [RaiDrive](https://www.raidrive.com) OpenBoxLab旗下，Make Cloud Storage, NAS as a drive in File Explorer
+- [Air Explorer](https://www.airexplorer.net/en)
+- [Cyberduck](https://cyberduck.io) FTP/SFTP工具
+- [WinSCP](https://winscp.net/eng/index.php) 访问FTP一样访问WebDAV服务器
+- [Hyperduck](https://apps.apple.com/us/app/hyperduck/id6444667067) ($4.00)
+- [Documents](https://readdle.com/documents) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server) [nextcloud](https://nextcloud.com) 开源免费，自建云存储服务
+- [ownCloud](https://owncloud.com) 自建云存储服务
+- ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile) [Seafile](https://github.com/haiwen/seafile) Open Source File Sync&Share and Document Collaboration Platform
+- [Cloudreve](https://github.com/cloudreve/Cloudreve) Self-hosted file management and sharing system, supports multiple storage providers
+
+#### 🍉Cross-Platform File Transfer 跨平台文件传输
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend) [LocalSend](https://localsend.org)
+- [KDE Connect](https://kdeconnect.kde.org)
+- [Sharik](https://github.com/marchellodev/sharik)
+- [LANDrop](https://landrop.app) (全平台)
+- [Microsoft Edge Drop](https://www.microsoft.com/en-us/edge/features/drop)
+- [Intel® Unison™](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26?hl=en-us&gl=us)
+- [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，开源跨平台文件传输工具
+  - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) 通过 Magic Wormhole 协议创建的应用程序
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) 适用于macOS的Android文件传输
+
+#### 📥Downloader 下载工具 下载器(YouTube&哔哩哔哩)
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) 开源免费 YouTube 第三方客户端去广告
+- ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt) [cobalt](https://github.com/imputnet/cobalt) 没有广告、跟踪器的免费在线下载工具
+- [SponSkrub](https://github.com/faissaloo/SponSkrub)
+- [Parabolic](https://github.com/NickvisionApps/Parabolic)
+- [iTubeGo](https://itubego.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT) [BiglyBT](https://www.github.com/BiglySoftware/BiglyBT) 开源免费BT种子客户端
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl) [youtube-dl](https://github.com/ytdl-org/youtube-dl) YouTube download
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/alexta69/metube) [MeTube](https://github.com/alexta69/metube) youtube-dl web UI
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Tzahi12345/YoutubeDL-Material) [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) [yt-dlp](https://github.com/yt-dlp/yt-dlp) A youtube-dl fork with additional features and fixes. Most active fork of yt-dl.
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/JunkFood02/Seal) [Seal](https://github.com/JunkFood02/Seal) Video/Audio Downloader for Android, based on yt-dlp
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) 基于 yt-dlp 项目的音视频下载工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/axcore/tartube) [Tartube](https://github.com/axcore/tartube) GUI for yt-dl and yt-dlp. Can download videos with segments cut out.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/KurtBestor/Hitomi-Downloader) [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader/releases/latest)
+- [Transmission](https://transmissionbt.com) Bittorrent客户端
+- [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
+- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
+- [Torrex Lite](https://apps.microsoft.com/store/detail/torrex-lite-torrent-downloader/9WZDNCRFJB3D)
+- [4K Video Downloader](https://www.4kdownload.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent) [qBittorrent](https://github.com/qbittorrent/qBittorrent) 轻量级BitTorrent客户端
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed) [Gopeed](https://www.gopeed.com) 开源免费下载器，支持HTTP, BitTorrent, Magnet
+- [XDown](https://xdown.org) 免费无广告的idm torrent合成体 ⭐
+- [By Click Downloader](https://www.byclickdownloader.com)
+- [Downie for Mac](https://downiemac.com/downie-video-download-tool) 视频下载软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/webtorrent/webtorrent) [WebTorrent Desktop](https://webtorrent.io/desktop)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/webtorrent/instant.io) [instant.io](https://github.com/webtorrent/instant.io) Streaming file transfer over WebTorrent (torrents on the web)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager) [AB Download Manager](https://github.com/amir1376/ab-download-manager)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yaobiao131/downkyicore) [downkyicore](https://github.com/yaobiao131/downkyicore) (Win, linux, macOS)哔哩哔哩网站视频下载工具 ![Last Commit](https://img.shields.io/github/release-date/yaobiao131/downkyicore)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zhiyiYo/Fluent-M3U8) [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) M3U8下载器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mikf/gallery-dl) [gallery-dl](https://github.com/mikf/gallery-dl) 命令行程序，用于从多个图像托管站点下载图像库和集合
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Ftbom/Aria2Manager) [Aria2Manager](https://github.com/Ftbom/Aria2Manager)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/XiaoYouChR/Ghost-Downloader-3) [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+- [TwitterDown](https://www.twitterdown.com) 在线视频下载
+- [DownLoadPanda](https://dlpanda.com) DL熊猫
+- [SaveTik](https://savetik.co/zh-cn) 下载没有标志的Tiktok视频
+- ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
+
+- 🗃️Archived
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron开发的跨平台下载软件，Motrix已经很长时间没有更新，同时积累了大量issues ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/imfile-io/imfile-desktop) [imFile](https://github.com/imfile-io/imfile-desktop) 基于Motrix的fork并维护，最后更新Aug 29, 2024
+
+### 🖱️Remote Access and Control 远程访问控制
+
+- [Windows App](https://learn.microsoft.com/en-us/windows-app/get-started-connect-devices-desktops-apps) 微软远程桌面应用 Microsoft Remote Desktop
+- [TeamViewer](https://www.teamviewer.com/en-us)
+  - [TeamViewer QuickSupport](https://www.teamviewer.com/en/info/quicksupport)
+- [AnyDesk](https://anydesk.com/zhs) 德国公司 ⭐
+- [Anyviewer](https://www.anyviewer.com) 傲梅免费远程桌面软件
+- [Chrome Remote Desktop](https://remotedesktop.google.com/access)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rustdesk/rustdesk) [RustDesk](https://rustdesk.com) 开源远程桌面客户端软件，可以把中继服务器改成自己的服务器
+- [HelpWire](https://www.helpwire.app)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/galaxy-s10/billd-desk) [BilldDesk](https://github.com/galaxy-s10/billd-desk) 远程桌面控制，Pro版本需付费
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dchapyshev/aspia) [aspia](https://github.com/dchapyshev/aspia)
+- [screego](https://screego.net) 为开发者提供的屏幕共享
+- [pin.gl](https://pin.gl) 在线工具，共享您的屏幕或相机
+- [Remmina](https://remmina.org) 远程访问屏幕和文件共享到您的桌面 RDP
+- [Deeplink](https://www.deeplink.cloud) 免费远程控制软件
+- [UltraVNC](https://www.uvnc.com) 免费的远程PC访问软件
+- [MeshCentral](https://meshcentral.com) 用于远程设备管理的开源、多平台、自托管、功能丰富的网站
+- [WireGuard](https://www.wireguard.com) 远程穿透
+- [woterm](https://github.com/aoyiduo/woterm) (Win, Linux, macOS)跨平台远程管理终端
+- [Remote Mouse](https://www.remotemouse.net) 远程鼠标控制
+- [Weylus](https://github.com/H-M-H/Weylus) 手机变成电脑的触控屏
+- [Deskreen](https://deskreen.com) 电脑的辅助屏幕 Turn any device into a secondary screen for your computer
+- [synergy](https://symless.com/synergy) 多电脑屏幕共享键盘鼠标
+- [Remote Mouse](https://apps.apple.com/us/app/remote-mouse/id385894596) (iOS)
+- [Remote, Mouse & Keyboard Pro](https://apps.apple.com/us/app/remote-mouse-keyboard-pro/id884153085), [Remote, Mouse & Keyboard](https://apps.apple.com/us/app/remote-mouse-keyboard/id629019487) (iOS) 这2个功能一样的
+- [远程鼠标和键盘](https://cherpake.com/apps/remote-mouse-keyboard)、[电视遥控器](https://cherpake.com/apps/remote-control-tv) 来自[Evgeny Cherpak](https://cherpake.com)
+- WOL Wake-on-LAN 局域网电脑唤醒
+- ToDesk 免费用户配额每月连接时长缩减至80小时
+- PC有线网卡+ddns+端口映射就可以远程唤醒
+
+### 📲Screen Share 手机投屏 Screen Mirror
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Genymobile/scrcpy) [Scrcpy](https://github.com/Genymobile/scrcpy) (Android)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/viarotel-org/escrcpy) [Escrcpy](https://github.com/viarotel-org/escrcpy) (Android) 通过图形化的 Scrcpy 界面来显示和控制Android设备
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/Macast) [Macast](https://github.com/xfangfang/Macast) (Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/barry-ran/QtScrcpy) [QtScrcpy](https://github.com/barry-ran/QtScrcpy) (Android)
+- [AnLink](https://anl.ink)  (Android)
+- [Letsview](https://letsview.com)  (iOS, Android, Win)
+- [AirServer](https://www.airserver.com/PC) (Win)
+- [XMirror](https://apps.apple.com/app/id6469104483) (iOS)特斯拉投屏
+- [Replica](https://apps.apple.com/app/id1468495939) (iOS) Screen Mirroring 支持投屏到电视、安卓 TV、特斯拉车机、浏览器
+- [iVCam](https://www.e2esoft.com/ivcam) Phone to webcam 手机做电脑摄像头
+- [Iriun Webcam](https://iriun.com)
+- [DroidCam](https://www.dev47apps.com)
+- [Spacedesk](https://www.spacedesk.net)
+
+### 🧱Firewall Antivirus Malware 防火墙 杀毒软件
+
+- [Sandboxie](https://sandboxie-plus.com) 沙盘，沙盒隔离软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/henrypp/simplewall) [SimpleWall](https://github.com/henrypp/simplewall/releases) 开源免费的防火墙
+- ![GitHub Repo stars](https://img.shields.io/github/stars/safing/portmaster) [portmaster](https://github.com/safing/portmaster) firewall
+- [ZoneAlarm Free Firewall](https://www.zonealarm.com/software/free-firewall)
+- [RogueKiller](https://www.adlice.com/roguekiller)
+- [Avast](https://www.avast.com/en-us) Antivirus Software、[Avast anti-rootkit](https://www.avast.com/c-rootkit-scanner-tool)
+- [AVG](https://www.avg.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tnodir/fort) [Fort Firewall](https://github.com/tnodir/fort) 开源免费Windows防火墙
+- [Avira](https://www.avira.com) 小红伞
+- [Bitdefender](https://www.bitdefender.com)
+- [Comodo Free Firewall](https://personalfirewall.comodo.com) Comodo Group成立于1998年，总部位于美国新泽西州
+- [Norton Antivirus Plus](https://us.norton.com/products/norton-360-antivirus-plus) 诺顿公司成立于1990年，总部位于美国加利福尼亚州的山景城
+- [ESET NOD32 Antivirus](https://www.eset.com/int/home/antivirus/download)
+- [McAfee](https://www.mcafee.com)
+- [OpenArk](https://github.com/BlackINT3/OpenArk) (Win)开源反rookit (ARK)工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ukanth/afwall) [AFWall+](https://github.com/ukanth/afwall) (Android) - iptables based firewall
+- [VirusTotal](https://www.virustotal.com) 在线查毒引擎
+- [Kaspersky](https://www.kaspersky.com) 卡巴斯基
+- [Malwarebytes](https://www.malwarebytes.com)
+
+## 🌦️Weather 天气
+
+- [Weather - The Weather Channel](https://weather.com)
+- [My Aurora Forecast &amp; Alerts](https://apps.apple.com/us/app/my-aurora-forecast-alerts/id1073082439) 北极光Northern Lights
+- [AccuWeather: Weather Alerts](https://apps.apple.com/us/app/accuweather-weather-alerts/id300048137)
+- [Clime: NOAA Weather Radar Live](https://climeradar.com)
+- [CARROT Weather: Alerts &amp; Radar](https://apps.apple.com/us/app/carrot-weather-alerts-radar/id961390574)
+- [WeatherBug – Weather Forecast](https://www.weatherbug.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/breezy-weather/breezy-weather) [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
+- [Air Pollution: Real-time Air Quality Index](https://aqicn.org)
+- [Windy](https://www.windy.com)
+- [Weather now](https://apps.apple.com/us/app/weather-now-forecast-widgets/id1371461117)
+- [Colorful pro(彩云天气Pro)](https://apps.apple.com/cn/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688) (iOS)
+- [AirVisual](https://www.iqair.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Akylas/oss-weather) [OSS Weather](https://github.com/Akylas/oss-weather) (iOS/Android)，天气数据由OpenWeatherMap或MeteoFrance提供
+- [SunSafe](https://apps.apple.com/us/app/uv-index-tanning-sunsafe/id6461573146) (iOS) UV Index & Tanning
+
+## 💻OS 操作系统
+
+> Operating Systems 操作系统，软件聚合平台
+
+### 🍎Apple (iOS, macOS, tvOS, watchOS)
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/daliansky/Hackintosh) [Hackintosh](https://github.com/daliansky/Hackintosh) 黑苹果
+- [iMazing](https://imazing.com) (Win, macOS) Manage your iPhone.On your terms
+- **📥macOS下载站**
+  - [Open-Source macOS Apps](https://github.com/iCHAIT/awesome-macOS) Open Source macOS Apps苹果电脑软件
+  - [awesome-open-source-mac-apps](https://indiegoodies.com/awesome-open-source-mac-apps)
+  - [macOS-ISOs](https://github.com/Pyenb/macOS-ISOs)
+- **📥iOS App Store**
+  - iPhone Top Charts(Apple): [US](https://apps.apple.com/us/charts/iphone), [CN](https://apps.apple.com/cn/charts/iphone)
+  - [AppRaven: Apps Gone Free](https://apps.apple.com/us/app/appraven-apps-gone-free/id1490607195) (iOS)限免 最后更新Oct 7, 2024
+  - [AltStore](https://altstore.io) 应用商店，欧盟地区可用
+  - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) 开源iOS应用程序
+  - [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店：需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
+  - [Indie App Santa](https://apps.apple.com/us/app/indie-app-santa/id1594011307) APP限免
+  - [iRingo](https://github.com/NSRingo) 解锁国行完整的Apple功能和集成服务
+  - IPA签名工具：[IPA-Resign](https://github.com/missuo/resign), [Sideloadly](https://sideloadly.io/)
+
+### 🪟Windows 微软系统
+
+- [Microsoft Apps](https://apps.microsoft.com/store/apps) 微软软件平台
+- [Playbook](https://www.revi.cc/docs/playbook/general)
+  - [ReviOS](https://www.revi.cc) (已停产) 转为Playbook
+- [AtlasOS](https://atlasos.net) 基于Windows10精简定制，一个开源免费的项目，适合运行游戏。
+- Tiny11  Win11的精简轻量级版本
+  - Tiny11 Builder，NTDev制作，保留原有系统精简能力，可以选择版本，家庭版、专业版、教育版、企业版
+  - NTDev使用[GpuRamDrive](https://github.com/prsyahmi/GpuRamDrive)工具在显存中创建“硬盘”环境，接着使用Hyper-V等创建模拟器，将Tiny11装进了显存中
+- 激活Windows和Office
+  - [TSforge](https://massgrave.dev/blog/tsforge) 永久激活Windows和Office
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition) [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) Win10/Win11 数字权利（数字许可证）激活工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts)[Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator) [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases) 可永久激活Windows 11和Microsoft Office
+
+### 🐧Linux
+
+- [Distrochooser](https://distrochooser.de/en) 在线网站，帮助Linux初学者选择合适的Linux发行版
+- [Rocky Linux](https://rockylinux.org) Operating System designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux
+- [Oracle Linux](https://www.oracle.com/linux)
+- [Arch Linux](https://archlinux.org) 追求简洁与轻量化
+  - [EndeavourOS](https://endeavouros.com) 基于 Arch Linux 的轻量级 Linux 发行版
+- [Ubuntu](https://ubuntu.com) 基于Debian，以桌面应用为主的Linux发行版。使用GNOME桌面环境。
+  - [Linux Mint](https://linuxmint.com) 基于Ubuntu的Linux发行版，由Linux Mint Team团队于2006年开始发行。
+  - [elementary OS](https://elementary.io) 基于Ubuntu的桌面Linux发行版。采用自有的基于GNOME的名为Pantheon的桌面环境。
+  - [Zorin OS](https://zorinos.com) (需付费)基于Ubuntu的Linux发行版。其目的是尽可能的模拟Windows的操作习惯，让用户可以方便的使用。
+  - [Xubuntu](https://xubuntu.org) Ubuntu操作系统的衍生版本。Xubuntu使用Xfce桌面环境，而不是Ubuntu的GNOME桌面环境。
+- [Debian](https://www.debian.org) Linux开源社区项目，项目的一切都由其社区成员管理。
+  - [Vanilla OS](https://vanillaos.org) 新版基于Debian Sid
+  - [openmediavault](https://www.openmediavault.org) 基于Debian Linux的下一代网络附加存储（NAS）解决方案
+- [Fedora](https://www.fedoraproject.org) 由Fedora项目（由Red Hat赞助）构建和维护
+  - [CentOS](https://www.centos.org) 将RedHat发行的源代码重新编译后的版本
+- [Manjaro](https://manjaro.org)
+- [MX Linux](https://mxlinux.org) antiX和MX Linux社区之间的合作项目
+- [Solus Linux](https://getsol.us)
+- [Whonix](https://www.whonix.org) 专为高级安全性和隐私性而设计的开源操作系统
+- [Chromium OS Builds](https://chromium.arnoldthebat.co.uk/?dir=daily) 谷歌基于Linux开发的操作系统，Chromebook专用
+- [Tiny Core Linux](https://tinycorelinux.net)
+- [Kernel source tree for Raspberry Pi](https://github.com/raspberrypi/linux) 树莓派Linux内核源代码树
+- Linux App Store
+  - [Flathub](https://flathub.org)
+  - [Chocolatey](https://chocolatey.org)
+  - [Snap Store](https://snapcraft.io/store)
+  - [GNOME Software](https://apps.gnome.org/app/org.gnome.Software)
+
+### 👾Android
+
+- [Android](https://android.com)
+  - [Android source](https://android.googlesource.com/platform/manifest)
+- [PixelExperience](https://get.pixelexperience.org) a project that provides a custom ROM based on Google's Pixel phones for various Android devices
+- alternative operating system of Android OS
+  - [LineageOS](https://lineageos.org) 定制ROM世界中的最高基准
+  - [VoltageOS](https://www.voltageos.com)
+  - [GrapheneOS](https://grapheneos.org) 石墨烯OS，Only Google Pixel devices are supported 开源、注重隐私和安全的移动操作系统
+  - [CalyxOS](https://calyxos.org) Only Google Pixel devices and Xiaomi Mi A2 are supported
+  - [/e/OS](https://e.foundation/de/e-os)
+- [Paranoid Android](https://paranoidandroid.co) AOSPA
+- [Evolution X](https://evolution-x.org) 预装的Google应用程序和Pixel的应用程序
+- [ArrowOS](https://arrowos.net) 轻量级的ROM
+- Android刷机工具
+  - [TWRP](https://twrp.me) Android设备上进行备份、恢复、刷机
+- Android Simulator 安卓模拟器 虚拟化
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app) [Termux](https://github.com/termux/termux-app) Android终端模拟器
+  - [GameLoop](https://gameloop.fun)
+  - [LDplayer](https://www.ldplayer.net)
+  - [Android Studio’s](https://developer.android.com/studio)
+  - [NOX 夜神](https://www.yeshen.com)
+  - [BlueStacks](https://www.bluestacks.com)
+  - [MSI appplayer](https://www.msi.com/landing/appplayer)
+- [Google Play](https://play.google.com) 谷歌官方Android商店
+  - [Play games across your devices](https://play.google.com/googleplaygames) (Win)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/microg/GmsCore) [GmsCore](https://github.com/microg/GmsCore) 开源的替代Google Play服务的解决方案
+  - [APKMirror](https://www.apkmirror.com)
+  - [Aptoide](https://www.aptoide.com)
+  - [apkcombo](https://apkcombo.com/apk-downloader)
+  - [F-droid](https://f-droid.org) 可安装FOSS（免费开源软件）应用程序
+    - [Droid-ify](https://github.com/Droid-ify/client) F-Droid client with Material UI.
+  - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) 开源的谷歌商店第三方客户端，Yalp Store的一个分支
+  - [apk.bot](https://apk.bot)
+  - 安卓下载软件推荐：[oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android)
+
+### 💻Virtual Machine 虚拟机
+
+- [Parallels Desktop for Mac](https://www.parallels.com) (macOS)
+- [VirtualBox](https://www.virtualbox.org) 被Oracle收购，开源免费软件
+- [VMware Workstation Pro (Free)](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true) (Win, Linux) 已被博通收购，免费向所有用户开放包括商用，Pro可以同时运行多个虚拟机
+  - [VMware macOS Unlocker](https://github.com/paolo-projects/unlocker) 由于VMware Workstation不支持macOS，用此工具就可以使用Apple虚拟机
+  - [Auto Unlocker](https://github.com/paolo-projects/auto-unlocker) Patcher for VMWare to run macOS Sonoma on VMware
+  - [macOS Unlocker 4.2.7](https://github.com/DrDonk/unlocker) Nov 1, 2023
+  - [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html.html) Player只能同时运行一个虚拟机
+  - [VMware Fusion Pro](https://www.vmware.com/content/vmware/vmware-published-sites/cn/products/fusion/fusion-evaluation.html) for macOS 个人用户免费
+  - [VMware Tools packages for Windows](https://support.broadcom.com/group/ecx/downloads) 使用VMware安装macOS后，必须安装VM Tools才能以全屏分辨率和更高性能使用虚拟系统
+- [Wine for Linux](https://www.winehq.org) 能够在多种操作系统上运行Windows的工具
+- Kernel-based Virtual Machine (KVM)
+- Windows 安卓子系统
+  - [Windows Subsystem for Linux](https://github.com/microsoft/WSL) WSL
+  - 微软计划2025年3月5日终止支持 Windows Subsystem for Android（WSA）子系统
+  - [Microsoft Hyper-V](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-enabling-hyper-v-for-use-on-windows-11/ba-p/3745905)
+- [XCP-ng](https://xcp-ng.org) 家庭实验室虚拟环境
+- [Proxmox](https://www.proxmox.com/en) Proxmox Virtual Environment，既可运行拟机也能运行 Docker 容器的虚拟化环境平台
+- [QEMU](https://www.qemu.org) 开源虚拟化软件
+- [PVE (Proxmox Virtual Environment)](https://www.proxmox.com/en/proxmox-ve) 是一个既可运行虚拟机也能运行 Docker 容器的虚拟化环境平台
+
+### 🛜Router 路由器 WiFi
+
+> 翻墙路由器固件，也可以叫透明网关，一切都交给网关来做，也就是通过一个可以翻墙的路由器来科学上网。防止你的软路由变成公共代理：如果使用openwrt,防火墙设置，wlan口（广域网接口，连接外网或上一层网络，DHCP 客户端）的入站和转发应该都禁止. 如果使用OpenClash, 也在 全局设置-基本设置里 设置为 仅允许内网
+>
+> 梅林固件(Merlin)网件、华硕官改固件、老毛子固件(Padavan)、OpenWrt、Lede、潘多拉固件(PandoraBox)
+
+- [OpenWrt](https://openwrt.org) OpenWrt固件
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/vernesong/OpenClash) [OpenClash](https://github.com/vernesong/OpenClash) 在OpenWrt上运行的Clash客户端
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/nikkinikki-org/OpenWrt-nikki) [OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) 代理软件
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [Sing Box](https://github.com/SagerNet/sing-box)
+- 梅林(Merlin)路由器科学上网软件：[fancyss](https://github.com/hq450/fancyss) 、[梅林Clash教程](https://mcreadme.gitbook.io/mc)
+  - Merlin Clash插件：运行在KoolCenter软件中心上的Clash GUI插件，支持SS/SSR/Trojan/V2Ray等多种协议
+- 华硕路由器固件：[Asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin)
+
+### 💾Download 资源下载站 Downloading
+
+Download Sites, Software Sites, Open Directories
+
+- [FMHY](https://github.com/fmhy/FMHY) FREE MEDIA
+- [Sourceforge](https://sourceforge.net)
+- [Fosshub](https://www.fosshub.com)
+- [fsf.org自由软件基金会](https://www.fsf.org/resources)
+- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+- [opensource.builders](https://opensource.builders) Alternatives & Competitors 可替代的软件
+- [switching.software](https://switching.software)
+- [AlternativeTo](https://alternativeto.net)
+- [Privacy Tools Guide](https://www.privacytools.io) 隐私工具导航
+- [Portable App](https://portableapps.com/apps) 绿色软件
+- [Giveaway of the Day - free licensed software daily](https://www.giveawayoftheday.com) 软件限免
+- [topkeygen.com](https://topkeygen.com) Crack破解软件
+- [Delightful Club](https://delightful.club) 来自Awesome Humane Tech
+- [Product Hunt](https://www.producthunt.com) 一个新产品发现平台
+- [Lifewire](https://www.lifewire.com/software-and-apps-4781541) Software & App Best-Of Lists
+- [majorgeeks.com](https://www.majorgeeks.com) 技术爱好者的软件和工具
+- [filepuma.com](https://www.filepuma.com)
+- [Filehippo](https://filehippo.com)
+- [lo4d](https://www.lo4d.com) 免费软件
+
+## 🎮Games 游戏
+
+- [Steam](https://store.steampowered.com) 最大的视频游戏在线零售商，游戏时间不到2小时，购买不到14天就可以退款
+- [Twitch](https://www.twitch.tv) 游戏直播平台
+- [Epic](https://store.epicgames.com)
+- [Origin](https://www.origin.com) 属于EA公司
+- [Ubisoft](https://www.ubisoft.com)
+- [GOG (Good Old Games)](https://www.gog.com) 类似Steam的DRM-free游戏平台
+- [Itch.io](https://itch.io)
+- [Humble Store](https://www.humblebundle.com/store/search?sort=bestselling&drm=download)
+- [Roblox](https://www.roblox.com)
+- [Unity](https://unity3d.com) 免费游戏引擎
+- ![GitHub Repo stars](https://img.shields.io/github/stars/godotengine/godot) [Godot](https://github.com/godotengine/godot) 开源游戏引擎
+- [Warsow](https://www.warsow.net) 免费和快节奏的FPS游戏
+
+### 🎮Game Tool 游戏工具
+
+- [JoyToKey](https://joytokey.net/en) 游戏摇杆控制
+- ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite) [Playnite](https://github.com/JosefNemec/Playnite) 开源视频游戏库管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher) [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) (Win, Linux, macOS)A games launcher for GOG, Amazon and Epic Games
+- [HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) 雪藏HsFreezer(Hidden in the snow)，游戏暂停冻结软件
+
+### 🎮Emulators 掌机模拟器
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rileytestut/Delta) [Delta for iOS](https://github.com/rileytestut/Delta)
+- [Gamma for iOS](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870)
+- [iNES: NES Emulator Retro Emu for iOS](https://apps.apple.com/us/app/enes-nes-emulator-retro-emu/id6499447166)
+- [TinyEmulator](https://apps.apple.com/us/app/tinyemulator/id6667099562) 复古模拟器应用
+- [Retrofy](https://apps.apple.com/us/app/retrofy-retro-games-emulator/id6749502341) Retro Games Emulator
+- [Vita3K](https://vita3k.org) PSV掌机游戏模拟器
+- [Ryujinx](https://ryujinx.io) Nintendo Switch 模拟器 Emulator
+- [WinKawaks](https://www.winkawaks.org) 街机模拟器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/44670/44vba) [44VBA](https://github.com/44670/44vba) 在线GBA模拟器 不需要下载
+- ![GitHub Repo stars](https://img.shields.io/github/stars/libretro/RetroArch) [RetroArch](https://github.com/libretro/RetroArch) 模拟器集合
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hrydgard/ppsspp) [PPSSPP](https://github.com/hrydgard/ppsspp) PSP模拟器 PSP emulator
+  - PPSSPP Gold，PPSSPP黄金版，支持开发组的捐赠版，仅图标变成金色，性能和免费版没有差别
+- [Dolphin Emulator](https://dolphin-emu.org) 海豚模拟器，对应任天堂游戏主机 GameCube和Wii 的模拟器
+- [Skyline Emulator](https://skyline-emu.com) Switch模拟器，被认为是安卓平台上最好的模拟器之一
+
+## 🤝Contribute 贡献
+
+Contributions are most welcome
+
+**[⬆ back to top](#books-图书)**
+
+## 📄License 许可证
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
+
+Copyright ©️ made with ❤️
