@@ -2439,9 +2439,7 @@ Adblock Filters
 
 ## 🤝Contribute 贡献
 
-Contributions are most welcome
-
-**[⬆ back to top](#books-图书)**
+Contributions are most welcome.
 
 ## 📄License 许可证
 
@@ -2450,3 +2448,5 @@ This work is licensed under [The MIT License (MIT)](https://opensource.org/licen
 Copyright © 2025
 
 Made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
+
+**[⬆ Back to Top⬆️](#books-图书)**
