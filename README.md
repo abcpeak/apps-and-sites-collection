@@ -10,7 +10,7 @@
 | [💼Business](#business-商务)                         | [💪Health & Fitness](#health--fitness-健康健美)      | [📰News](#news-新闻)                  | [✈️Travel](#%EF%B8%8Ftravel-旅游)    |
 | [👨‍💻Developer Tools](#developer-tools-软件开发工具) | [👼Kids](#kids-儿童)                            | [📷Photo & Video](#photo--video-摄影与录像)   | [🛠️Utilities](#%EF%B8%8Futilities-工具) |
 | [🎓Education](#education-教育)                       | [🌿Lifestyle](#lifestyle-生活)                  | [⚡Productivity](#productivity-效率)       | [🌦️Weather](#%EF%B8%8Fweather-天气) |
-| [🍿Entertainment](#entertainment-娱乐)                                  | [🗞️Magazines & Newspapers](#%EF%B8%8Fmagazines--newspapers-%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97) | [📖Reference](#reference-参考资料)         | [💻OS](#os-操作系统) |
+| [🍿Entertainment](#entertainment-娱乐)                                  | [🗞️Magazines](#%EF%B8%8Fmagazines--newspapers-%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97) | [📖Reference](#reference-参考资料)         | [💻OS](#os-操作系统) |
 | [💰Finance](#finance-财务)                                        | [🏥Medical](#medical-医疗)                    | [🛍️Shopping](#%EF%B8%8Fshopping-购物)              | [🎮Games](#games-游戏) |
 | [🍔Food & Drink](#food--drink-美食佳饮)                               | [🎵Music](#music-音乐)                      | [💬Social Networking](#social-networking-社交网络) |                 |
 
