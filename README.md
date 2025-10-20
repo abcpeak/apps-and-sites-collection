@@ -1582,7 +1582,7 @@
 
 ### 📛Adblock 去广告 Block ads
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/xM4ddy/OFGB) [OFGB](https://github.com/xM4ddy/OFGB) 关闭 Win11 各处广告的小工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xM4ddy/OFGB) [OFGB](https://github.com/xM4ddy/OFGB) 关闭Win11各处广告的小工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Win, macOS, Linux)通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android)搞快点，自动跳过开屏广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) 浏览器去广告插件：[uBlock Origin Lite](https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh) Manifest V3、[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) Manifest V2
@@ -1611,7 +1611,6 @@ iOS Adblocking
 - [Wipr 2](https://apps.apple.com/us/app/wipr-2/id1662217862)
 - [Ghostery](https://apps.apple.com/us/app/ghostery-privacy-ad-blocker/id6504861501) Block ads, trackers, and popups on Safari
 - [Total Adblock](https://apps.apple.com/us/app/total-adblock-ad-blocker/id1564900435) ($7.99)
-- [Adblock Plus for Safari ABP](https://apps.apple.com/us/app/adblock-plus-for-safari-abp/id1432731683)
 - [AdBlock Pro－Browser Ad Blocker](https://apps.apple.com/cn/app/adblock-pro-browser-ad-blocker/id1018301773)
 - [Adblock Plus for Safari (ABP)](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1028871868)
 
