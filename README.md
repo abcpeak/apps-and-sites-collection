@@ -4,7 +4,7 @@
 > 
 > Multi-platform: Win, Web, Linux, macOS, iOS, tvOS(Apple TV), watchOS(Apple Watch), Android, Android TV
 
-| Column A                                             | Column B                         | Column C                    | Column D        |
+|  A                                             |  B                         |  C                    |  D        |
 | ---------------------------------------------------- | -------------------------------- | --------------------------- | --------------- |
 | [📚Books](#books-图书)                               | [🎨Graphics & Design](#graphics--design-图形和设计)    | [🗺️Navigation](#EF%B8%8Fnavigation-导航 )           | [⚽Sports](#sports-体育) |
 | [💼Business](#business-商务)                         | [💪Health & Fitness](#health--fitness-健康健美)      | [📰News](#news-新闻)                  | [✈️Travel](#%EF%B8%8Ftravel-旅游)    |
@@ -15,11 +15,10 @@
 | [🍔Food & Drink](#food--drink-美食佳饮)                               | [🎵Music](#music-音乐)                      | [💬Social Networking](#social-networking-社交网络) |      [💾Resource](#resource-download-site-资源下载站)           |
 
 
-
-| A             	| B                                     	| C                                     	| D                                       	|
-|---------------	|---------------------------------------	|---------------------------------------	|-----------------------------------------	|
-| ⚡Productivity 	| [🤖AI](#ai)                            	| [📑Note Taking](#note-taking-笔记软件) 	| [🔐Pass](#password-manager-密码管理-pwm) 	|
-| 🛠️Utilities    	| [📛Adblock](#adblock-去广告-block-ads) 	| [🌐Browsers](#browsers-浏览器)         	| [📂File Manager](#file-manager-文件管理) 	|
+|                   |                                     |                                    |                                             |                                      |
+|:-----------------:|:-----------------------------------:|:----------------------------------:|:-------------------------------------------:|:------------------------------------:|
+| **⚡Productivity** | [🤖AI](#ai)                         | [📑Note Taking](#note-taking-笔记软件) | [🔐Pass](#password-manager-密码管理-pwm)        |                                     |
+| **🛠️Utilities**  | [📛Adblock](#adblock-去广告-block-ads) | [🌐Browsers](#browsers-浏览器)        | [🍭Extensions](#browser-extensions-浏览器插件扩展) | [📂File Manager](#file-manager-文件管理) |
 
 
 ## 📚Books 图书
@@ -1877,7 +1876,7 @@ Adblock Filters
   - [Samsung Internet Browser](https://www.samsung.com/us/support/owners/app/samsung-internet) Android, for your phone and tablet
   - [Tempest Browser](https://tempest.com/browser) 暴风雨浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android)，bromite的分支，bromite已停更，内置广告拦截和隐私保护
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android) bromite已停更，内置广告拦截和隐私保护
   - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气 based on ungoogled-chromium
   - [Quetta Browser](https://www.quetta.net) (iOS, Android)
   - [Wavebox](https://wavebox.io) (💵)
@@ -1886,7 +1885,7 @@ Adblock Filters
   - [Comet](https://www.perplexity.ai/comet) Perplexity推出的AI浏览器，Perplexity搜索/广告公司，用户的浏览记录可能成为他们的产品
   - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) 在您的浏览器上运行的 AI 代理，而不是在云中运行
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，Firefox集成了Widevine模块。[Firefox iOS](https://apps.apple.com/app/firefox-web-browser/id989804926) and [Firefox Focus iOS](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，Firefox集成了Widevine模块
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
   - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://www.waterfoxproject.org) 水狐浏览器，基于Firefox开源项目制作的浏览器，只提供64位版本
   - [K-Meleon](https://kmeleonbrowser.org)
@@ -1927,7 +1926,7 @@ Adblock Filters
 - [Slimjet](https://www.slimjet.com) (Win, macOS, Linux)
 - [ArcSphere](https://apps.apple.com/us/app/arcsphere-ai-native-browser/id6502280398) (iOS, Android) AI浏览器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/RicardoCA/board-browser) [Board Browser](https://github.com/RicardoCA/board-browser)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium) GrapheneOS用户的浏览器，未正式提供给 GrapheneOS 以外的用户
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium) GrapheneOS用户的浏览器，未正式提供给GrapheneOS以外的用户
 
 - 🗃️Archived
   - [Kiwi Browser](https://github.com/kiwibrowser/src.next) 已停止维护
