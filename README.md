@@ -1919,7 +1919,6 @@ Adblock Filters
 
 #### 🍭Browser Extensions 浏览器插件(扩展)
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Aemi-Studio/Nad) [Nad](https://github.com/Aemi-Studio/Nad) 功能强大而轻便的Safari广告拦截器“Nad”，由Aemi Studio和Aploide精心设计。iPhone、iPad、macOS、VisionOS设备上浏览，有效阻止广告和跟踪器，自定义白名单
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
 - Google, YouTube
   - ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) Skip YouTube Sponsorships
