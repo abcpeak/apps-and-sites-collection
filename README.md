@@ -440,7 +440,7 @@
 
 ### 🎬Movies & TV
 
-- [Youtube](https://youtube.com) 油管
+- [YouTube](https://youtube.com) 油管
 - [Odysee](https://odysee.com)
 - [Rumble](https://rumble.com)
 - [Max: Stream HBO, TV, &amp; Movies](https://www.max.com)
@@ -1080,7 +1080,7 @@
 
 ### 🤖AI
 
-AI Hub 聚合AI平台 人工智能(Artificial Intelligence)
+> AI Hub 聚合AI平台 人工智能(Artificial Intelligence)
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ai-collection/ai-collection) [ai-collection](https://github.com/ai-collection/ai-collection)
 
@@ -1255,11 +1255,11 @@ AI Hub 聚合AI平台 人工智能(Artificial Intelligence)
 
 ### 📧Mail 电子邮箱 Email E-Mail
 
+- [Apple Mail](https://www.icloud.com/mail)
 - [Gmail](https://gmail.com) 谷歌邮箱
-- [Notion Mail](https://mail.notion.so) 人工智能驱动的电子邮件客户端，支持Gmail
-- [Outlook.com](https://www.outlook.com) 美国，微软旗下，订阅了office 365就没有广告了
-  - [Microsoft Outlook Lite](https://play.google.com/store/apps/details?id=com.microsoft.outlooklite&hl=en_US) 针对存储空间不大的入门级Android手机市场
-- [Yahoo Mail](https://mail.yahoo.com) 雅虎邮箱 ⭐
+- [Notion Mail](https://mail.notion.so) AI驱动的电子邮件客户端，支持Gmail
+- [Outlook](https://www.outlook.com) 微软旗下，订阅office 365无广告
+- [Yahoo Mail](https://mail.yahoo.com) 雅虎邮箱 
 - [Mail.ru](https://mail.ru) 俄罗斯
 - [Yandex Mail](https://mail.yandex.com) 俄罗斯
 - [GMX Mail](https://signup.gmx.com) 德国
@@ -1920,13 +1920,14 @@ Adblock Filters
 - [ArcSphere](https://apps.apple.com/us/app/arcsphere-ai-native-browser/id6502280398) (iOS, Android) AI浏览器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/RicardoCA/board-browser) [Board Browser](https://github.com/RicardoCA/board-browser)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium) GrapheneOS用户的浏览器，未正式提供给 GrapheneOS 以外的用户
+
 - 🗃️Archived
   - [Kiwi Browser](https://github.com/kiwibrowser/src.next) 已停止维护
   - [Sidekick](https://www.meetsidekick.com) 已停止维护
   - [Ghostery](https://www.ghostery.com/ghostery-private-browser) discontinued
   - [Puffin Cloud Browser](https://www.puffin.com/cloud-browser) (iOS)
   - [Arc](https://arc.net) (Win, macOS, iOS) 不再有重大更新
-  - [Cent Browser](https://www.centbrowser.com) 百分浏览器 2024-06-27
+  - [Cent Browser](https://www.centbrowser.com) 百分浏览器
   - [Mull-Fenix](https://github.com/Divested-Mobile/mull-fenix) (Android) archived on Dec 23, 2024
   - [Avira Secure Browser](https://www.avira.com/en/avira-secure-browser) (Win, macOS)
   - [Avast Secure Browser](https://www.avast.com/secure-browser#pc) (Win, macOS, iOS, Android) 反网络钓鱼
@@ -1936,18 +1937,21 @@ Adblock Filters
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aemi-Studio/Nad) [Nad](https://github.com/Aemi-Studio/Nad) 功能强大而轻便的Safari广告拦截器“Nad”，由Aemi Studio和Aploide精心设计。iPhone、iPad、macOS、VisionOS设备上浏览，有效阻止广告和跟踪器，自定义白名单
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) for YouTube - Skip Sponsorships
+- Google, YouTube
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) Skip YouTube Sponsorships
+  - [Checker Plus for Gmail™](https://jasonsavard.com)
+  - [Black Menu for Google™](https://apps.jeurissen.co/black-menu-for-google)
+  - [PocketTube](https://pockettube.io) YouTube Subscription Manager
+
 - [Save to Notion](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm)
 - [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf)
 - 右键解锁：[SuperCopy - Enable Copy](https://chrome.google.com/webstore/detail/onepmapfbjohnegdmfhndpefjkppbjkm)、[Allow Right-Click](https://chromewebstore.google.com/detail/allow-right-click/hnafhkjheookmokbkpnfpmemlppjdgoi)、[Allow Copy](https://chromewebstore.google.com/detail/allow-copy-select-enable/mmpljcghnbpkokhbkmfdmoagllopfmlm)
 - [Click&amp;Clean](https://www.hotcleaner.com/clickclean_chrome.html)
 - [Privacy Badger](https://privacybadger.org/zh-cn) 隐私獾
 - [Copyfish](https://ocr.space/copyfish) 抓取图片视频中的文字
-- [Checker Plus for Gmail™](https://jasonsavard.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alyssaxuu/screenity) [Screenity](https://github.com/alyssaxuu/screenity) 屏幕截图与视频录制
-- Markdown：[MarkDownload - Markdown Web Clipper](https://chrome.google.com/webstore/detail/pcmpcfapbekmbjjkdalcgopdkipoggdi)、[Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
+- [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
 - [Stream Recorder](https://www.hlsloader.com) download HLS as MP4
-- [Black Menu for Google™](https://apps.jeurissen.co/black-menu-for-google)
 - [Silk - Privacy Pass Client](https://chromewebstore.google.com/detail/silk-privacy-pass-client/ajhmfdgkijocedmfjonnpjfojldioehi)
 - 🔖Bookmark & Tab 书签和标签页
   - 跨浏览器书签同步：![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus)、[EverSync everhelper](https://everhelper.me)、[xBrowserSync](https://www.xbrowsersync.org)
@@ -1959,8 +1963,7 @@ Adblock Filters
   - [OneTab](https://www.one-tab.com)
   - [Workona Tab Manager](https://workona.com) 管理、分类标签页
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dessant/search-by-image) [search-by-image](https://github.com/dessant/search-by-image)
-- [Glarity](https://glarity.app) 利用ChatGPT4生成摘要，支持Youtube视频和Google
-- [PocketTube](https://pockettube.io) Youtube Subscription Manager
+- [Glarity](https://glarity.app) 利用ChatGPT4生成摘要，支持YouTube和Google
 - [Keepa](https://keepa.com) Amazon Price Tracker
 - Dark Mode 黑暗模式
   - [Noir](https://getnoir.app) Safari黑暗模式
@@ -2107,17 +2110,17 @@ Adblock Filters
   - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) 通过 Magic Wormhole 协议创建的应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) 适用于macOS的Android文件传输
 
-#### 📥Downloader 下载工具 下载器(YouTube&哔哩哔哩)
+#### 📥Downloader 下载器
+
+> 下载视频工具，下载软件，YouTube, Bilibili, X, TikTok
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) 开源免费 YouTube 第三方客户端去广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt) [cobalt](https://github.com/imputnet/cobalt) 没有广告、跟踪器的免费在线下载工具
-- [SponSkrub](https://github.com/faissaloo/SponSkrub)
-- [Parabolic](https://github.com/NickvisionApps/Parabolic)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic)
 - [iTubeGo](https://itubego.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT) [BiglyBT](https://www.github.com/BiglySoftware/BiglyBT) 开源免费BT种子客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl) [youtube-dl](https://github.com/ytdl-org/youtube-dl) YouTube download
   - ![GitHub Repo stars](https://img.shields.io/github/stars/alexta69/metube) [MeTube](https://github.com/alexta69/metube) youtube-dl web UI
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Tzahi12345/YoutubeDL-Material) [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) [yt-dlp](https://github.com/yt-dlp/yt-dlp) A youtube-dl fork with additional features and fixes. Most active fork of yt-dl.
   - ![GitHub Repo stars](https://img.shields.io/github/stars/JunkFood02/Seal) [Seal](https://github.com/JunkFood02/Seal) Video/Audio Downloader for Android, based on yt-dlp
   - ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) 基于 yt-dlp 项目的音视频下载工具
@@ -2141,13 +2144,13 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mikf/gallery-dl) [gallery-dl](https://github.com/mikf/gallery-dl) 命令行程序，用于从多个图像托管站点下载图像库和集合
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Ftbom/Aria2Manager) [Aria2Manager](https://github.com/Ftbom/Aria2Manager)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/XiaoYouChR/Ghost-Downloader-3) [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3)
-- [TwitterDown](https://www.twitterdown.com) 在线视频下载
+- [TwitterDown](https://www.twitterdown.com) 在线视频下载Twitter X
 - [DownLoadPanda](https://dlpanda.com) DL熊猫
 - [SaveTik](https://savetik.co/zh-cn) 下载没有标志的Tiktok视频
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 
 - 🗃️Archived
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron开发的跨平台下载软件，Motrix已经很长时间没有更新，同时积累了大量issues ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，停更 ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
     - ![GitHub Repo stars](https://img.shields.io/github/stars/imfile-io/imfile-desktop) [imFile](https://github.com/imfile-io/imfile-desktop) 基于Motrix的fork并维护，最后更新Aug 29, 2024
 
 ### 🖱️Remote Access and Control 远程访问控制
