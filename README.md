@@ -1587,10 +1587,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android)搞快点，自动跳过开屏广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) 浏览器去广告插件：[uBlock Origin Lite](https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh) Manifest V3、[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) Manifest V2
   - [uBlock Origin Lite for iOS](https://apps.apple.com/au/app/ublock-origin-lite/id6745342698)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter. [Subscriptions](https://iorate.github.io/ublacklist/subscriptions)
-  - [uBlacklist for Safari](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640)
-  - [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) 屏蔽搜索引擎的 AI 生成内容
-  - [chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead) 零误伤的黑名单列表
+- ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions)
 - YouTube AdBlock
   - [YouTube AdBlock - Coffee Break for YouTube](https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap)
   - [AdShield - Ultimate Ad Blocker for YouTube](https://chromewebstore.google.com/detail/adshield-ultimate-ad-bloc/gmjaaefflbggfiacjihajgijemdlhkeb)
