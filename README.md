@@ -1875,7 +1875,7 @@ Adblock Filters
   - [Wavebox](https://wavebox.io) (💵)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Win, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
-  - [Perplexity Comet](https://comet.perplexity.ai) Perplexity推出的人工智能网络浏览器，Perplexity搜索/广告公司，用户的浏览记录可能成为他们的产品
+  - [Comet](https://www.perplexity.ai/comet) Perplexity推出的AI浏览器，Perplexity搜索/广告公司，用户的浏览记录可能成为他们的产品
   - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) 在您的浏览器上运行的 AI 代理，而不是在云中运行
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，Firefox集成了Widevine模块。[Firefox iOS](https://apps.apple.com/app/firefox-web-browser/id989804926) and [Firefox Focus iOS](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337)
