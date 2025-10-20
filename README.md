@@ -1,7 +1,5 @@
 # ⭐Apps & Sites Collection
 
-> Apps suggestion, Websites recommendation, Websites guide. 软件和网站收集，软件大全、优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台软件(Cross-Platform)、免费开源软件 FOSS(Free and Open Source Software)。
-> 
 > Multi-platform: Win, Web, Linux, macOS, iOS, tvOS(Apple TV), watchOS(Apple Watch), Android, Android TV
 
 |  A                                             |  B                         |  C                    |  D        |
@@ -14,14 +12,10 @@
 | [💰Finance](#finance-财务)                                        | [🏥Medical](#medical-医疗)                    | [🛍️Shopping](#%EF%B8%8Fshopping-购物)              | [🎮Games](#games-游戏) |
 | [🍔Food & Drink](#food--drink-美食佳饮)                               | [🎵Music](#music-音乐)                      | [💬Social Networking](#social-networking-社交网络) |      [💾Resource](#resource-download-site-资源下载站)           |
 
-
 | 0 | 1 | 2 | 3 | 4 |
 |:---:|:---:|:---:|:---:|:---:|
 | ⚡ | [🤖AI](#ai) | [📑Note Taking](#note-taking-笔记软件) | [🔐Pass](#password-manager-密码管理-pwm) |  |
 | 🛠️ | [📛Adblock](#adblock-去广告-block-ads) | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) | [📂File Manager](#file-manager-文件管理) |
-
-
-
 
 ## 📚Books 图书
 
@@ -577,25 +571,6 @@
 - [vMix](https://www.vmix.com)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/joschuck/matrix-webcam) [matrix-webcam](https://github.com/joschuck/matrix-webcam) 把摄像头画面变成黑客帝国风格
 - ![GitHub Repo stars](https://img.shields.io/github/stars/chenfan0/fideo-live-record) [Fideo](https://github.com/chenfan0/fideo-live-record) 开源的直播间录制软件
-
-#### 影视资源站（PT站、BT资源网站）
-
-- [M-Team（馒头）](https://www.m-team.cc)
-- [hdsky（天空）](https://hdsky.me)
-- [chdbits（彩虹岛）](https://chdbits.co)
-- [The Pirate Bay（海盗湾）](https://thepiratebay.org)
-- https://rutracker.org/
-- https://1337x.to/
-- https://nyaa.si/
-- https://btdig.com/
-- https://yts.mx/
-- https://eztvx.to/
-- https://www.torrentdownloads.pro/
-- https://idope.se/
-- https://bt4gprx.com/
-- https://glodls.to/
-- https://limetorrent.net/
-- https://torrentz2.io/
 
 ### 🏺Art Museum 艺术 在线博物馆 数字展厅
 
@@ -1427,19 +1402,19 @@
 - [mixxmix](https://www.mixxmix.com) 韩国女性服装
 - [UNIQLO](https://www.uniqlo.com) 优衣库
 - [Ashford](https://www.ashford.com) 美国名表珠宝商城
-- [iHerb](https://www.iherb.com) 美国的保健产品商城
+- [iHerb](https://www.iherb.com) 美国保健产品商城
 - [Myprotein](https://www.myprotein.com) 欧洲电运动营养品牌
-- [Pharmacy](https://lloydspharmacy.com) 澳洲的药品电商
+- [Pharmacy](https://lloydspharmacy.com) 澳洲药品电商
 - [Bodyguard Apotheke](https://www.ba.de) 德国的药品电商
-- [computer universe](https://www.computeruniverse.net/en) 德国的电子产品在线商城
-- [Luisa Via Roma](https://www.luisaviaroma.com) 意大利的奢侈品牌店
+- [computer universe](https://www.computeruniverse.net/en) 德国电子产品在线商城
+- [Luisa Via Roma](https://www.luisaviaroma.com) 意大利奢侈品牌店
 - [Newegg](https://www.newegg.com) 新蛋
 - [Best Buy](https://www.bestbuy.com) 百思买
 - [Walmart](https://www.walmart.com) 沃尔玛
-- [RakutenGlobalMarket](https://globalexpress.rakuten.co.jp)日本乐天市场国际版
+- [RakutenGlobalMarket](https://globalexpress.rakuten.co.jp) 日本乐天市场国际版
 - [Sam&#39;s Club](https://www.samsclub.com) 山姆会员商店
 - [Costco](https://www.costco.com) 开市客
-- [eneba](https://www.eneba.com) 游戏, 礼品卡
+- [eneba](https://www.eneba.com) 游戏、礼品卡
 - [AliExpress](https://best.aliexpress.com)
 
 ## 💬Social Networking 社交网络
@@ -1553,10 +1528,10 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mtniehaus/MediaTool) [OofhoursMediaTool](https://github.com/mtniehaus/MediaTool/blob/main/OofhoursMediaTool.zip) Win11启动盘制作
 - 🧮 **Calculator 计算器**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Qalculate/libqalculate) [Qalculate!](https://github.com/Qalculate/libqalculate) (Win)多功能计算器
-  - [Numms](https://apps.apple.com/cn/app/id1644598526), [Calcbot 2](https://apps.apple.com/us/app/calcbot-2/id376694347)(Nov 15, 2021), [Calculator with History+](https://apps.apple.com/us/app/calculator-with-history/id1458583388), [Desktop Calculator](https://apps.apple.com/us/app/desktop-calculator/id6450638014), [Calculator mini](https://apps.apple.com/us/app/calculator-mini-combo/id1672581992)
+  - [Numms](https://apps.apple.com/cn/app/id1644598526), [Calculator with History+](https://apps.apple.com/us/app/calculator-with-history/id1458583388), [Desktop Calculator](https://apps.apple.com/us/app/desktop-calculator/id6450638014), [Calculator mini](https://apps.apple.com/us/app/calculator-mini-combo/id1672581992)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/clementwzk/OpenCalc) [OpenCalc](https://github.com/clementwzk/OpenCalc) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoDarkMode/Windows-Auto-Night-Mode) [Windows Auto Dark Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) 根据本地时间自动启用黑暗模式
-- [NetLimiter](https://www.netlimiter.com) 程序网络控制 change network configuration
+- [NetLimiter](https://www.netlimiter.com) 程序网络控制 Change network configuration
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sammwyy/MikuMikuBeam) [MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (Win, Linux, macOS, Android)只需创建代理列表、用户代理列表文件即可开始测压。支持实时攻击可视化、基于工作线程的攻击处理等
 - [iMazing](https://imazing.com/zh) (macOS, Win)iOS设备管理器
 - [AutoOff](https://www.starcodec.com/en/autooff) 自动关机，最后更新2023.8.10
@@ -2375,8 +2350,6 @@ Adblock Filters
 
 ### 🛜Router 路由器 WiFi
 
-> 翻墙路由器固件，也可以叫透明网关，一切都交给网关来做，也就是通过一个可以翻墙的路由器来科学上网。防止你的软路由变成公共代理：如果使用openwrt,防火墙设置，wlan口（广域网接口，连接外网或上一层网络，DHCP 客户端）的入站和转发应该都禁止. 如果使用OpenClash, 也在 全局设置-基本设置里 设置为 仅允许内网
->
 > 梅林固件(Merlin)网件、华硕官改固件、老毛子固件(Padavan)、OpenWrt、Lede、潘多拉固件(PandoraBox)
 
 - [OpenWrt](https://openwrt.org) OpenWrt固件
@@ -2386,8 +2359,6 @@ Adblock Filters
 - 梅林(Merlin)路由器科学上网软件：[fancyss](https://github.com/hq450/fancyss) 、[梅林Clash教程](https://mcreadme.gitbook.io/mc)
   - Merlin Clash插件：运行在KoolCenter软件中心上的Clash GUI插件，支持SS/SSR/Trojan/V2Ray等多种协议
 - 华硕路由器固件：[Asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin)
-
-
 
 ## 🎮Games 游戏
 
@@ -2432,6 +2403,8 @@ Adblock Filters
 
 > Resource Download Station, Software Sites, Open Directories
 
+### 软件资源站 软件下载平台
+
 - [FMHY](https://github.com/fmhy/FMHY) FREE MEDIA
 - [Sourceforge](https://sourceforge.net)
 - [Fosshub](https://www.fosshub.com)
@@ -2452,6 +2425,17 @@ Adblock Filters
 - [Filehippo](https://filehippo.com)
 - [lo4d](https://www.lo4d.com) 免费软件
 
+### 影视资源站（PT站、BT资源网站）
+
+- [M-Team（馒头）](https://www.m-team.cc)
+- [hdsky（天空）](https://hdsky.me)
+- [chdbits（彩虹岛）](https://chdbits.co)
+- [The Pirate Bay（海盗湾）](https://thepiratebay.org)
+- [Nyaa](https://nyaa.si)
+- [LimeTorrent](https://limetorrent.net)
+- [EZTV](https://eztvx.to)
+- [BTDig](https://btdig.com)
+- [1337X](https://1337x.to)
 
 ## 🤝Contribute 贡献
 
