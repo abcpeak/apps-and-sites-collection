@@ -12,7 +12,15 @@
 | [🎓Education](#education-教育)                       | [🌿Lifestyle](#lifestyle-生活)                  | [⚡Productivity](#productivity-效率)       | [🌦️Weather](#%EF%B8%8Fweather-天气) |
 | [🍿Entertainment](#entertainment-娱乐)                                  | [🗞️Magazines](#%EF%B8%8Fmagazines--newspapers-%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97) | [📖Reference](#reference-参考资料)         | [💻OS](#os-操作系统) |
 | [💰Finance](#finance-财务)                                        | [🏥Medical](#medical-医疗)                    | [🛍️Shopping](#%EF%B8%8Fshopping-购物)              | [🎮Games](#games-游戏) |
-| [🍔Food & Drink](#food--drink-美食佳饮)                               | [🎵Music](#music-音乐)                      | [💬Social Networking](#social-networking-社交网络) |                 |
+| [🍔Food & Drink](#food--drink-美食佳饮)                               | [🎵Music](#music-音乐)                      | [💬Social Networking](#social-networking-社交网络) |      [💾Resource](#resource-download-site-资源下载站)           |
+
+
+
+| A             	| B                                     	| C                                     	| D                                       	|
+|---------------	|---------------------------------------	|---------------------------------------	|-----------------------------------------	|
+| ⚡Productivity 	| [🤖AI](#ai)                            	| [📑Note Taking](#note-taking-笔记软件) 	| [🔐Pass](#password-manager-密码管理-pwm) 	|
+| 🛠️Utilities    	| [📛Adblock](#adblock-去广告-block-ads) 	| [🌐Browsers](#browsers-浏览器)         	| [📂File Manager](#file-manager-文件管理) 	|
+
 
 ## 📚Books 图书
 
@@ -2378,29 +2386,7 @@ Adblock Filters
   - Merlin Clash插件：运行在KoolCenter软件中心上的Clash GUI插件，支持SS/SSR/Trojan/V2Ray等多种协议
 - 华硕路由器固件：[Asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin)
 
-### 💾Download 资源下载站 Downloading
 
-Download Sites, Software Sites, Open Directories
-
-- [FMHY](https://github.com/fmhy/FMHY) FREE MEDIA
-- [Sourceforge](https://sourceforge.net)
-- [Fosshub](https://www.fosshub.com)
-- [fsf.org自由软件基金会](https://www.fsf.org/resources)
-- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
-- [opensource.builders](https://opensource.builders) Alternatives & Competitors 可替代的软件
-- [switching.software](https://switching.software)
-- [AlternativeTo](https://alternativeto.net)
-- [Privacy Tools Guide](https://www.privacytools.io) 隐私工具导航
-- [Portable App](https://portableapps.com/apps) 绿色软件
-- [Giveaway of the Day - free licensed software daily](https://www.giveawayoftheday.com) 软件限免
-- [topkeygen.com](https://topkeygen.com) Crack破解软件
-- [Delightful Club](https://delightful.club) 来自Awesome Humane Tech
-- [Product Hunt](https://www.producthunt.com) 一个新产品发现平台
-- [Lifewire](https://www.lifewire.com/software-and-apps-4781541) Software & App Best-Of Lists
-- [majorgeeks.com](https://www.majorgeeks.com) 技术爱好者的软件和工具
-- [filepuma.com](https://www.filepuma.com)
-- [Filehippo](https://filehippo.com)
-- [lo4d](https://www.lo4d.com) 免费软件
 
 ## 🎮Games 游戏
 
@@ -2440,6 +2426,31 @@ Download Sites, Software Sites, Open Directories
   - PPSSPP Gold，PPSSPP黄金版，支持开发组的捐赠版，仅图标变成金色，性能和免费版没有差别
 - [Dolphin Emulator](https://dolphin-emu.org) 海豚模拟器，对应任天堂游戏主机 GameCube和Wii 的模拟器
 - [Skyline Emulator](https://skyline-emu.com) Switch模拟器，被认为是安卓平台上最好的模拟器之一
+
+## 💾Resource Download Site 资源下载站
+
+> Resource Download Station, Software Sites, Open Directories
+
+- [FMHY](https://github.com/fmhy/FMHY) FREE MEDIA
+- [Sourceforge](https://sourceforge.net)
+- [Fosshub](https://www.fosshub.com)
+- [fsf.org自由软件基金会](https://www.fsf.org/resources)
+- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+- [opensource.builders](https://opensource.builders) Alternatives & Competitors 可替代的软件
+- [switching.software](https://switching.software)
+- [AlternativeTo](https://alternativeto.net)
+- [Privacy Tools Guide](https://www.privacytools.io) 隐私工具导航
+- [Portable App](https://portableapps.com/apps) 绿色软件
+- [Giveaway of the Day - free licensed software daily](https://www.giveawayoftheday.com) 软件限免
+- [topkeygen.com](https://topkeygen.com) Crack破解软件
+- [Delightful Club](https://delightful.club) 来自Awesome Humane Tech
+- [Product Hunt](https://www.producthunt.com) 一个新产品发现平台
+- [Lifewire](https://www.lifewire.com/software-and-apps-4781541) Software & App Best-Of Lists
+- [majorgeeks.com](https://www.majorgeeks.com) 技术爱好者的软件和工具
+- [filepuma.com](https://www.filepuma.com)
+- [Filehippo](https://filehippo.com)
+- [lo4d](https://www.lo4d.com) 免费软件
+
 
 ## 🤝Contribute 贡献
 
