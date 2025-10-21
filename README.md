@@ -1602,6 +1602,7 @@ DNS Adblocking
 
 iOS Adblocking
 
+- [wBlock](https://apps.apple.com/us/app/id6746388723)
 - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99)
 - [1Blocker](https://apps.apple.com//app/id136553102) ($39.99)Ad Blocker for Safari
 - [Easy Adblock for Safari](https://apps.apple.com/cn/app/easy-adblock-for-safari/id6477549966)
