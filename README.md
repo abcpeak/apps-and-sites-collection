@@ -12,10 +12,13 @@
 | [💰Finance](#finance-财务)                                        | [🏥Medical](#medical-医疗)                    | [🛍️Shopping](#%EF%B8%8Fshopping-购物)              | [🎮Games](#games-游戏) |
 | [🍔Food & Drink](#food--drink-美食佳饮)                               | [🎵Music](#music-音乐)                      | [💬Social Networking](#social-networking-社交网络) |      [💾Resource](#resource-download-site-资源下载站)           |
 
-| 0 | 1 | 2 | 3 | 4 |
+| 0️⃣ | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
 |:---:|:---:|:---:|:---:|:---:|
-| ⚡ | [🤖AI](#ai) | [📑Note Taking](#note-taking-笔记软件) | [🔐Pass](#password-manager-密码管理-pwm) |  |
-| 🛠️ | [📛Adblock](#adblock-去广告-block-ads) | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) | [📂File Manager](#file-manager-文件管理) |
+| 🍿 | [🎬Movies & TV](#movies--tv) | [▶️Video Player](#video-player-视频播放器) | [🎞️Emby](#emby-plex-jellyfin-媒体服务器软件-流媒体服务器) | [🛑IPTV](#iptv) |
+| ⚡ | [🤖AI](#ai) | [📑Note Taking](#note-taking-笔记软件) | [📧Mail](#mail-电子邮箱-email-e-mail) | [🔐Pass](#password-manager-密码管理-pwm) |
+| 🛠️ | [📛Adblock](#adblock-去广告-block-ads) |  [📶Network](#network-dns-vpn-vps-idc)  | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) |
+|    | [📂File Manager](#file-manager-文件管理) | [🖱️Remote](#%EF%B8%8Fremote-access-and-control-远程访问控制) | [📲Screen](#screen-share-手机投屏-screen-mirror) | [🧱Firewall](#firewall-antivirus-malware-防火墙-杀毒软件) |
+| 💻 | [🍎Apple](#apple-ios-macos-tvos-watchos) | [🪟Windows](#windows-微软系统) | [🐧Linux](#linux) | [👾Android](#android) |
 
 ## 📚Books 图书
 
@@ -468,7 +471,7 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/michaldrabik/Showly-2.0) [Showly](https://github.com/michaldrabik/Showly-2.0) (Android) Trakt的第三方客户端
   - [FilmNoir TV Tracker for Trakt](https://apps.apple.com/us/app/filmnoir-tv-tracker-for-trakt/id1528417240) (iOS)
   
-#### ▶️视频播放器 Video Player
+#### ▶️Video Player 视频播放器
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/moneytoo/Player) [Just (Video) Player](https://github.com/moneytoo/Player) Android 开源视频播放器 ![Latest Release Date](https://img.shields.io/github/release-date/moneytoo/Player)
 - [PlaynPlay](https://apps.apple.com/us/app/playnplay/id1664643965) (iOS, Android)
@@ -504,13 +507,13 @@
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL) [BBLL](https://github.com/xiaye13579/BBLL) (Android TV)第三方B站客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xiaye13579/BBLL)
 
-#### 提词器 Teleprompter
+#### Teleprompter 提词器
 
 - [PromptSmart Pro](https://apps.apple.com/us/app/promptsmart-pro-teleprompter/id894811756)
 - [Teleprompter Top Script Reader](https://apps.apple.com/us/app/teleprompter-top-script-reader/id6636538421) (iOS)
 - [Teleprompter Videos Recording](https://apps.apple.com/us/app/teleprompter-videos-recording/id6745820694) (iOS)
 
-#### Emby Plex Jellyfin 媒体服务器软件 流媒体服务器
+#### 🎞️Emby Plex Jellyfin 媒体服务器软件 流媒体服务器
 
 - [Emby](https://emby.media/download.html) iOS需付费解锁或使用脚本破解（正常流程登录，当播放视频时，提示需付费或用解锁脚本进行破解）。家庭媒体库软件，包含服务端和客户端。服务端用于整理电影和剧集，客户端连上服务端后就能播放这些影片。
 - [Kodi](https://kodi.tv) 媒体中心，智能电视的播放软件
@@ -560,7 +563,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live) [Simple Live](https://github.com/xiaoyaocz/dart_simple_live) (全平台)
 - [TV Cast for Smart TV +](https://apps.apple.com/cn/app/tv-cast-for-smart-tv/id6450428119) (iOS)(🟢)
 
-#### Broadcast, Live streaming 直播
+#### Broadcast 直播软件 Live streaming
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio) [OBS Studio](https://obsproject.com) (Win, macOS, Linux)Open Broadcaster Software
   - [VDO.Ninja](https://vdo.ninja) OBS Studio插件
