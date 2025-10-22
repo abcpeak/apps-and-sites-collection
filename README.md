@@ -2321,11 +2321,15 @@ Adblock Filters
   - [APKMirror](https://www.apkmirror.com)
   - [Aptoide](https://www.aptoide.com)
   - [apkcombo](https://apkcombo.com/apk-downloader)
-  - [F-droid](https://f-droid.org) 可安装FOSS（免费开源软件）应用程序
+  - [Neo Store](https://f-droid.org/zh_Hant/packages/com.machiav3lli.fdroid)
+  - [F-Droid](https://f-droid.org) 可安装FOSS（免费开源软件）应用程序
     - [Droid-ify](https://github.com/Droid-ify/client) F-Droid client with Material UI.
+  - [G-Droid](https://f-droid.org/en/packages/org.gdroid.gdroid)
   - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) 开源的谷歌商店第三方客户端，Yalp Store的一个分支
   - [apk.bot](https://apk.bot)
-  - 安卓下载软件推荐：[oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android)
+- 安卓下载软件推荐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/xlucn/oh-my-foss-android) [oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/offa/android-foss) [android-foss](https://github.com/offa/android-foss)
 
 ### 💻Virtual Machine 虚拟机
 
@@ -2446,3 +2450,7 @@ This work is licensed under [The MIT License (MIT)](https://opensource.org/licen
 Copyright © 2025
 
 Made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
+
+## ⭐Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)](https://www.star-history.com/#abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)
