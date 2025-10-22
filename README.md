@@ -1838,7 +1838,7 @@ Adblock Filters
   - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
   - [Ulaa Browser](https://ulaa.zoho.com) 电子邮件提供商Zoho推出的全平台隐私安全浏览器
-  - [Dia](https://www.diabrowser.com)  Atlassian Corporation 在 2025 年 9 月 4 日宣布，以 6.1 亿美元现金达成收购 The Browser Company 的最终协议
+  - [Dia](https://www.diabrowser.com)  Atlassian Corporation在2025年9月收购了The Browser Company
   - [Surf Browser](https://deta.surf) Deta GmbH, AI浏览器
   - [Comet](https://www.perplexity.ai/comet) 搜索广告公司Perplexity推出的AI浏览器
   - [ChatGPT Atlas](https://chatgpt.com/atlas) AI浏览器
