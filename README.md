@@ -2450,7 +2450,7 @@ This work is licensed under [The MIT License (MIT)](https://opensource.org/licen
 
 Copyright © 2025
 
-[This article](https://github.com/abcpeak/apps-and-sites-collection) Made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
+[⭐Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection) was made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
 
 ## ⭐Star History
 
