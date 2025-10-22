@@ -14,7 +14,7 @@
 
 | 0️⃣ | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
 |:---:|:---:|:---:|:---:|:---:|
-| 🍿 | [🎬Movies & TV](#movies--tv) | [▶️Video Player](#video-player-视频播放器) | [🎞️Emby](#emby-plex-jellyfin-媒体服务器软件-流媒体服务器) | [🛑IPTV](#iptv) |
+| 🍿 | [🎬Movies & TV](#movies--tv) | [▶️Video Player](#%EF%B8%8Fvideo-player-视频播放器) | [🎞️Emby](#%EF%B8%8Femby-plex-jellyfin-媒体服务器软件-流媒体服务器) | [🛑IPTV](#iptv) |
 | ⚡ | [🤖AI](#ai) | [📑Note Taking](#note-taking-笔记软件) | [📧Mail](#mail-电子邮箱-email-e-mail) | [🔐Pass](#password-manager-密码管理-pwm) |
 | 🛠️ | [📛Adblock](#adblock-去广告-block-ads) |  [📶Network](#network-dns-vpn-vps-idc)  | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) |
 |    | [📂File Manager](#file-manager-文件管理) | [🖱️Remote](#%EF%B8%8Fremote-access-and-control-远程访问控制) | [📲Screen](#screen-share-手机投屏-screen-mirror) | [🧱Firewall](#firewall-antivirus-malware-防火墙-杀毒软件) |
