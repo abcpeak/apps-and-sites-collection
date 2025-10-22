@@ -1604,7 +1604,7 @@ iOS Adblocking
 
 - [wBlock](https://apps.apple.com/us/app/id6746388723)
 - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99)
-- [1Blocker](https://apps.apple.com//app/id136553102) ($39.99)Ad Blocker for Safari
+- [1Blocker](https://apps.apple.com/us/app/1blocker/id1365531024) Ad Blocker
 - [Easy Adblock for Safari](https://apps.apple.com/cn/app/easy-adblock-for-safari/id6477549966)
 - [Wipr 2](https://apps.apple.com/us/app/wipr-2/id1662217862)
 - [Ghostery](https://apps.apple.com/us/app/ghostery-privacy-ad-blocker/id6504861501) Block ads, trackers, and popups on Safari
@@ -2408,11 +2408,11 @@ Adblock Filters
 
 ### 软件资源站 软件下载平台
 
-- [FMHY](https://github.com/fmhy/FMHY) FREE MEDIA
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fmhy/FMHY) [FMHY](https://github.com/fmhy/FMHY) FREE MEDIA
 - [Sourceforge](https://sourceforge.net)
 - [Fosshub](https://www.fosshub.com)
 - [fsf.org自由软件基金会](https://www.fsf.org/resources)
-- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome) [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 - [opensource.builders](https://opensource.builders) Alternatives & Competitors 可替代的软件
 - [switching.software](https://switching.software)
 - [AlternativeTo](https://alternativeto.net)
