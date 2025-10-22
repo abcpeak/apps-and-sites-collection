@@ -1828,6 +1828,7 @@ Adblock Filters
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
   - [Orion](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://www.chromium.org/getting-involved/download-chromium) Blink浏览器引擎，Webkit的分支内核，The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
@@ -1835,19 +1836,20 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://brave.com) 100%开源，支持IPFS协议，[SlimBrave](https://github.com/ltx0101/SlimBrave)，内置广告和跟踪器拦截 – 不需要 uBlock 或 Privacy Badger 等第三方扩展（尽管您仍然可以使用它们），页面加载速度更快。隐私优先的设计 – 它不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。
   - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
-  - [Vivaldi](https://vivaldi.com/download) (Win, macOS, Linux, Android and iOS) 位于挪威 Base in Norway, 修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译
-  - [Yandex Browser](https://browser.yandex.com) 来自俄罗斯的浏览器
-  - [Coc Coc Browser](https://coccoc.com/en) 来自越南的Cốc Cốc browser，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
+  - [Vivaldi](https://vivaldi.com/download) Base in Norway挪威, 修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译
+  - [Yandex Browser](https://browser.yandex.com) 来自俄罗斯
+  - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
   - [Ulaa Browser](https://ulaa.zoho.com) 电子邮件提供商Zoho推出的全平台隐私安全浏览器
   - [Dia](https://www.diabrowser.com)  Atlassian Corporation 在 2025 年 9 月 4 日宣布，以 6.1 亿美元现金达成收购 The Browser Company 的最终协议
-  - [Deta Surf Browser](https://deta.surf) Deta GmbH, AI浏览器
+  - [Surf Browser](https://deta.surf) Deta GmbH, AI浏览器
+  - [Comet](https://www.perplexity.ai/comet) 搜索广告公司Perplexity推出的AI浏览器
+  - [ChatGPT Atlas](https://chatgpt.com/atlas) AI浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/iridium-browser/iridium-browser) [Iridium Browser](https://iridiumbrowser.de) Enhance the privacy
   - ![GitHub Repo stars](https://img.shields.io/github/stars/ungoogled-software/ungoogled-chromium) [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) Chromium变体，删除 Google 集成并增强隐私、控制和透明度
   - [CCleaner Browser](https://www.ccleaner.com/ccleaner/browser) 出自Piriform
   - [Naver Whale Browser](https://whale.naver.com/en) 韩国Naver公司出的浏览器
-  - [Opera](https://www.opera.com) 不推荐 [Opera GX](https://www.opera.com/gx) Opera推出的针对游戏玩家的浏览器；[Opera Air](https://www.opera.com/zh-cn/air)
-  - [Sidekick](https://www.meetsidekick.com)
+  - [Opera](https://www.opera.com): [Opera GX](https://www.opera.com/gx) 针对游戏玩家；[Opera Air](https://www.opera.com/zh-cn/air)
   - [Epic Privacy Browser](https://epicbrowser.com) 始终在私密模式下运行
   - ![GitHub Repo stars](https://img.shields.io/github/stars/win32ss/supermium) [Supermium](https://github.com/win32ss/supermium) 兼容XP、2003、Vista、7 和 8.x
   - [Samsung Internet Browser](https://www.samsung.com/us/support/owners/app/samsung-internet) Android, for your phone and tablet
@@ -1859,7 +1861,6 @@ Adblock Filters
   - [Wavebox](https://wavebox.io) (💵)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Win, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
-  - [Comet](https://www.perplexity.ai/comet) Perplexity推出的AI浏览器，Perplexity搜索/广告公司，用户的浏览记录可能成为他们的产品
   - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) 在您的浏览器上运行的 AI 代理，而不是在云中运行
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，Firefox集成了Widevine模块
