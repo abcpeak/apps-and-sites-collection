@@ -493,19 +493,16 @@
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&gl=IN)  (Android)
 - [KMPlayer](https://www.kmplayer.com) KMPlayer64是新开发的软件，和32位版本完全不一样
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nova-video-player/aos-AVP) [Nova Video Player](https://github.com/nova-video-player/aos-AVP) Android开源免费的万能影音播放器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/solidSpoon/DashPlayer) [DashPlayer](https://github.com/solidSpoon/DashPlayer) 专为英语学习者设计的视频播放器 ![Latest Release Date](https://img.shields.io/github/release-date/solidSpoon/DashPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kingslay/KSPlayer) [KSPlayer](https://github.com/kingslay/KSPlayer) TracyPlayer ![Latest Release Date](https://img.shields.io/github/last-commit/kingslay/KSPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili)  [wiliwili](https://github.com/xfangfang/wiliwili) (Win, macOS, Linux)第三方B站(哔哩哔哩Bilibili)客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xfangfang/wiliwili)
-- [BLBewly](https://apps.apple.com/us/app/blbewly/id6742200021) (macOS)第三方B站客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe) [NewPipe](https://github.com/TeamNewPipe/NewPipe) (Android)第三方YouTube客户端 ![Latest Release Date](https://img.shields.io/github/release-date/TeamNewPipe/NewPipe)
-- [x.app](https://apps.apple.com/us/app/x-app/id1533525753) (iOS)YouTube背景播放
-- [PiP](https://apps.apple.com/us/app/pip-picture-in-picture/id1635796246)(iOS)YouTube窗口化
-- [Tube PiP - PiP for YouTube](https://apps.apple.com/us/app/tube-pip-pip-for-youtube/id6476895094)(iOS)
 - [Vinegar - Tube Cleaner](https://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229) (iOS)(💵)picture-in-picture小窗播放
 - [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)(💵)
-
-- ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL) [BBLL](https://github.com/xiaye13579/BBLL) (Android TV)第三方B站客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xiaye13579/BBLL)
+- 🗃️Archived
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
+  - [BLBewly](https://github.com/BewlyBewly/BewlyBewly) (macOS)第三方B站客户端 archived on Feb 26, 2025
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL) [BBLL](https://github.com/xiaye13579/BBLL) (Android TV)第三方B站客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xiaye13579/BBLL)
 
 #### Teleprompter 提词器
 
@@ -1920,12 +1917,16 @@ Adblock Filters
 
 #### 🍭Browser Extensions 浏览器插件(扩展)
 
-- [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
-- Google, YouTube
+- **Google, YouTube**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) Skip YouTube Sponsorships
   - [Checker Plus for Gmail™](https://jasonsavard.com)
   - [Black Menu for Google™](https://apps.jeurissen.co/black-menu-for-google)
   - [PocketTube](https://pockettube.io) YouTube Subscription Manager
+  - [x.app](https://apps.apple.com/us/app/x-app/id1533525753) (iOS)YouTube背景播放
+  - [PiP](https://apps.apple.com/app/id1635796246)(iOS)YouTube窗口化
+  - [Tube PiP - PiP for YouTube](https://apps.apple.com/app/id6476895094)(iOS)
+
+- [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
 
 - [Save to Notion](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm)
 - [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf)
