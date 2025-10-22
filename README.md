@@ -2343,9 +2343,8 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/WSL) [Windows Subsystem for Linux (WSL)](https://github.com/microsoft/WSL) Windows安卓子系统
   - [Microsoft Hyper-V](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-enabling-hyper-v-for-use-on-windows-11/ba-p/3745905)
 - [XCP-ng](https://xcp-ng.org) 家庭实验室虚拟环境
-- [Proxmox](https://www.proxmox.com/en) Proxmox Virtual Environment，既可运行拟机也能运行 Docker 容器的虚拟化环境平台
+- [Proxmox](https://www.proxmox.com/en) Proxmox Virtual Environment，既可运行虚拟机也能运行 Docker 容器的虚拟化环境平台
 - [QEMU](https://www.qemu.org) 开源虚拟化软件
-- [PVE (Proxmox Virtual Environment)](https://www.proxmox.com/en/proxmox-ve) 是一个既可运行虚拟机也能运行 Docker 容器的虚拟化环境平台
 
 ### 🛜Router 路由器 WiFi
 
