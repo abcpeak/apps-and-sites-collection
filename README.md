@@ -2309,12 +2309,12 @@ Adblock Filters
   - [TWRP](https://twrp.me) Android设备上进行备份、恢复、刷机
 - Android Simulator 安卓模拟器 虚拟化
   - ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app) [Termux](https://github.com/termux/termux-app) Android终端模拟器
-  - [GameLoop](https://gameloop.fun)
+  - [腾讯手游助手](https://syzs.qq.com/)：腾讯收购了[GameLoop](https://gameloop.fun)
   - [LDplayer](https://www.ldplayer.net)
   - [Android Studio’s](https://developer.android.com/studio)
-  - [NOX 夜神](https://www.yeshen.com)
-  - [BlueStacks](https://www.bluestacks.com)
-  - [MSI appplayer](https://www.msi.com/landing/appplayer)
+  - [NOX](https://www.bignox.com) 夜神模拟器
+  - [BlueStacks](https://www.bluestacks.com) 蓝叠模拟器
+    - [MSI appplayer](https://www.msi.com/landing/appplayer)
 - [Google Play](https://play.google.com) 谷歌官方Android商店
   - [Play games across your devices](https://play.google.com/googleplaygames) (Win)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/microg/GmsCore) [GmsCore](https://github.com/microg/GmsCore) 开源的替代Google Play服务的解决方案
@@ -2330,8 +2330,8 @@ Adblock Filters
 ### 💻Virtual Machine 虚拟机
 
 - [Parallels Desktop for Mac](https://www.parallels.com) (macOS)
-- [VirtualBox](https://www.virtualbox.org) 被Oracle收购，开源免费软件
-- [VMware Workstation Pro (Free)](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true) (Win, Linux) 已被博通收购，免费向所有用户开放包括商用，Pro可以同时运行多个虚拟机
+- [Oracle VirtualBox](https://www.virtualbox.org) 开源免费软件
+- [VMware Workstation Pro (Free)](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true) (Win, Linux) 已被博通Broadcom收购，免费向所有用户开放包括商用，Pro可以同时运行多个虚拟机
   - [VMware macOS Unlocker](https://github.com/paolo-projects/unlocker) 由于VMware Workstation不支持macOS，用此工具就可以使用Apple虚拟机
   - [Auto Unlocker](https://github.com/paolo-projects/auto-unlocker) Patcher for VMWare to run macOS Sonoma on VMware
   - [macOS Unlocker 4.2.7](https://github.com/DrDonk/unlocker) Nov 1, 2023
@@ -2339,10 +2339,8 @@ Adblock Filters
   - [VMware Fusion Pro](https://www.vmware.com/content/vmware/vmware-published-sites/cn/products/fusion/fusion-evaluation.html) for macOS 个人用户免费
   - [VMware Tools packages for Windows](https://support.broadcom.com/group/ecx/downloads) 使用VMware安装macOS后，必须安装VM Tools才能以全屏分辨率和更高性能使用虚拟系统
 - [Wine for Linux](https://www.winehq.org) 能够在多种操作系统上运行Windows的工具
-- Kernel-based Virtual Machine (KVM)
-- Windows 安卓子系统
-  - [Windows Subsystem for Linux](https://github.com/microsoft/WSL) WSL
-  - 微软计划2025年3月5日终止支持 Windows Subsystem for Android（WSA）子系统
+- [Kernel-based Virtual Machine (KVM)](https://linux-kvm.org)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/WSL) [Windows Subsystem for Linux (WSL)](https://github.com/microsoft/WSL) Windows安卓子系统
   - [Microsoft Hyper-V](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-enabling-hyper-v-for-use-on-windows-11/ba-p/3745905)
 - [XCP-ng](https://xcp-ng.org) 家庭实验室虚拟环境
 - [Proxmox](https://www.proxmox.com/en) Proxmox Virtual Environment，既可运行拟机也能运行 Docker 容器的虚拟化环境平台
