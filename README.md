@@ -1630,6 +1630,7 @@ Adblock Filters
 - [FilterLists](https://filterlists.com) Filter and host lists directory
 - [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) Unsafe Sites Filter
 - [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
+- [AdBlock_Rule_For_Clash](https://github.com/REIJI007/AdBlock_Rule_For_Clash)
 
 ### 📶Network (DNS VPN VPS IDC)
 
