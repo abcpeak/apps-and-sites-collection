@@ -970,7 +970,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/szTheory/exifcleaner) [exifcleaner](https://github.com/szTheory/exifcleaner) clean image metadata
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) 图片压缩
 - [Xnapper](https://xnapper.com) macOS 多功能智能截图工具
-- ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot) [Snow Shot](https://github.com/mg-chao/snow-shot) 一键 OCR、录屏、翻译、AI 对话，滚动截图，智能框选
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot) [Snow Shot](https://github.com/mg-chao/snow-shot) 一键OCR、录屏、翻译、AI 对话，滚动截图，智能框选
 - [BandiView](https://www.bandisoft.com/bandiview) use the features of Honeyview including further improvements
   - [Honeyview](https://www.bandisoft.com/honeyview) 已停更
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jark006/jarkViewer) [jarkViewer](https://github.com/jark006/jarkViewer) 基于opencv等库开发的开源看图软件
@@ -1585,8 +1585,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xM4ddy/OFGB) [OFGB](https://github.com/xM4ddy/OFGB) 关闭Win11各处广告的小工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Win, macOS, Linux)通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android)搞快点，自动跳过开屏广告
-- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) 浏览器去广告插件：[uBlock Origin Lite](https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh) Manifest V3、[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) Manifest V2
-  - [uBlock Origin Lite for iOS](https://apps.apple.com/au/app/ublock-origin-lite/id6745342698)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions)
 - YouTube AdBlock
   - [YouTube AdBlock - Coffee Break for YouTube](https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap)
@@ -1600,9 +1599,10 @@ DNS Adblocking
 - [ControlD](https://controld.com)
 - [Pi-Hole](https://pi-hole.net) 全网络广告拦截应用程序，DNS级拦截广告
 
-iOS Adblocking
+iOS Safari Adblocking
 
-- [wBlock](https://apps.apple.com/us/app/id6746388723)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/0xCUB3/wBlock) [wBlock](https://github.com/0xCUB3/wBlock)
+- [uBlock Origin Lite for iOS](https://apps.apple.com/au/app/ublock-origin-lite/id6745342698)
 - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99)
 - [1Blocker](https://apps.apple.com/us/app/1blocker/id1365531024) Ad Blocker
 - [Easy Adblock for Safari](https://apps.apple.com/cn/app/easy-adblock-for-safari/id6477549966)
