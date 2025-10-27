@@ -1821,7 +1821,9 @@ Adblock Filters
 
 ### 🌐Browsers 浏览器
 
-> 浏览器3大阵营Blink（Chromium）、Webkit（Safari）、Gecko（Firefox），[Browser Market Share Worldwide](https://radar.cloudflare.com/reports/browser-market-share-2025-q1)，[隐私测试](https://privacytests.org)，[浏览器对比](https://browsers.avoidthehack.com)，[BrowseRating](https://browserating.kawaiier.dev)。宣称会一直支持Manifest V2的浏览器：Brave, Safari, Firefox, Supermium。不再支持Manifest V2的浏览器：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
+> 浏览器3大阵营Blink(Chromium), Webkit(Safari), Gecko(Firefox), [Browser Market Share Worldwide](https://radar.cloudflare.com/reports/browser-market-share-2025-q2), [隐私测试](https://privacytests.org), [浏览器对比](https://browsers.avoidthehack.com), [BrowseRating](https://browserating.kawaiier.dev)
+>
+> 会一直支持Manifest V2的：Brave, Safari, Firefox, Supermium。不再支持Manifest V2的：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
