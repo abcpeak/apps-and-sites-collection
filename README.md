@@ -971,6 +971,7 @@
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) 图片压缩
 - [Xnapper](https://xnapper.com) macOS 多功能智能截图工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot) [Snow Shot](https://github.com/mg-chao/snow-shot) 一键OCR、录屏、翻译、AI 对话，滚动截图，智能框选
+- ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) [Flameshot](https://github.com/flameshot-org/flameshot) 截图工具
 - [BandiView](https://www.bandisoft.com/bandiview) use the features of Honeyview including further improvements
   - [Honeyview](https://www.bandisoft.com/honeyview) 已停更
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jark006/jarkViewer) [jarkViewer](https://github.com/jark006/jarkViewer) 基于opencv等库开发的开源看图软件
