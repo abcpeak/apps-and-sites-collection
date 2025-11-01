@@ -970,6 +970,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/szTheory/exifcleaner) [exifcleaner](https://github.com/szTheory/exifcleaner) clean image metadata
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) 图片压缩
 - [Xnapper](https://xnapper.com) macOS 多功能智能截图工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Satty-org/Satty) [Satty](https://github.com/Satty-org/Satty) Modern Screenshot Annotation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot) [Snow Shot](https://github.com/mg-chao/snow-shot) 一键OCR、录屏、翻译、AI 对话，滚动截图，智能框选
 - ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) [Flameshot](https://github.com/flameshot-org/flameshot) 截图工具
 - [BandiView](https://www.bandisoft.com/bandiview) use the features of Honeyview including further improvements
