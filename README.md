@@ -15,7 +15,7 @@
 | 0️⃣ | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
 |:---:|:---:|:---:|:---:|:---:|
 | 🍿 | [🎬Movies & TV](#movies--tv) | [▶️Video Player](#%EF%B8%8Fvideo-player-视频播放器) | [🎞️Emby](#%EF%B8%8Femby-plex-jellyfin-媒体服务器软件-流媒体服务器) | [🛑IPTV](#iptv) |
-| ⚡ | [🤖AI](#ai) | [📑Note Taking](#note-taking-笔记软件) | [📧Mail](#mail-电子邮箱-email-e-mail) | [🔐Pass](#password-manager-密码管理-pwm) |
+| ⚡ | [🤖AI](#ai) | [📑Note Taking](#note-taking-笔记软件) | [📧Email](#email-电子邮箱) | [🔐Pass](#password-manager-密码管理-pwm) |
 | 🛠️ | [📛Adblock](#adblock-去广告-block-ads) |  [📶Network](#network-dns-vpn-vps-idc)  | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) |
 | 🛠️ | [📂File Manager](#file-manager-文件管理) | [📥Downloader](#downloader-下载器) | [🖱️Remote](#%EF%B8%8Fremote-access-and-control-远程访问控制) | [🧱Firewall](#firewall-antivirus-malware-防火墙-杀毒软件) |
 | 💻 | [🍎Apple](#apple-ios-macos-tvos-watchos) | [🪟Windows](#windows-微软系统) | [🐧Linux](#linux) | [👾Android](#android) |
@@ -976,6 +976,7 @@
 - [BandiView](https://www.bandisoft.com/bandiview) use the features of Honeyview including further improvements
   - [Honeyview](https://www.bandisoft.com/honeyview) 已停更
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jark006/jarkViewer) [jarkViewer](https://github.com/jark006/jarkViewer) 基于opencv等库开发的开源看图软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jurplel/qView) [qView](https://github.com/jurplel/qView) 图片查看软件
 - [WebP Codec for Windows](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/WebpCodecSetup.exe)
 - [HEIF 图像扩展](https://apps.microsoft.com/store/detail/heif-图像扩展/9PMMSR1CGPWG?hl=zh-cn&gl=CN)、[HEVC 视频扩展](https://apps.microsoft.com/store/detail/来自设备制造商的-hevc-视频扩展/9N4WGH0Z6VHQ?hl=zh-cn&gl=CN)(Win默认不支持H265格式的视频 装了这个就能播H265格式的视频了， H265即HEVC编码格式)
 
@@ -1239,13 +1240,13 @@
 - [KDE Office](https://apps.kde.org/categories/office)
 - [Google Docs](https://docs.google.com)
 
-### 📧Mail 电子邮箱 Email E-Mail
+### 📧Email 电子邮箱
 
 - [Apple Mail](https://www.icloud.com/mail)
 - [Gmail](https://gmail.com) 谷歌邮箱
-- [Notion Mail](https://mail.notion.so) AI驱动的电子邮件客户端，支持Gmail
 - [Outlook](https://www.outlook.com) 微软旗下，订阅office 365无广告
-- [Yahoo Mail](https://mail.yahoo.com) 雅虎邮箱 
+- [Notion Mail](https://mail.notion.so) AI驱动的电子邮件客户端，支持Gmail
+- [Yahoo Mail](https://mail.yahoo.com) 雅虎邮箱
 - [Mail.ru](https://mail.ru) 俄罗斯
 - [Yandex Mail](https://mail.yandex.com) 俄罗斯
 - [GMX Mail](https://signup.gmx.com) 德国
@@ -1608,7 +1609,7 @@ iOS Safari Adblocking
 - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99)
 - [1Blocker](https://apps.apple.com/us/app/1blocker/id1365531024) Ad Blocker
 - [Easy Adblock for Safari](https://apps.apple.com/cn/app/easy-adblock-for-safari/id6477549966)
-- [Wipr 2](https://apps.apple.com/us/app/wipr-2/id1662217862)
+- [Wipr 2](https://apps.apple.com/us/app/wipr-2/id1662217862) 设置iOS系统主语言和副语言
 - [Ghostery](https://apps.apple.com/us/app/ghostery-privacy-ad-blocker/id6504861501) Block ads, trackers, and popups on Safari
 - [Total Adblock](https://apps.apple.com/us/app/total-adblock-ad-blocker/id1564900435) ($7.99)
 - [AdBlock Pro－Browser Ad Blocker](https://apps.apple.com/cn/app/adblock-pro-browser-ad-blocker/id1018301773)
@@ -1975,7 +1976,7 @@ Adblock Filters
 - [GitHub Freshness](https://greasyfork.org/en/scripts/524465-github-freshness)
 
 - Imagus Similar Imagusextensions and Scripts:
-  - [Imagus Reborn](https://chromewebstore.google.com/detail/imagus-reborn/fcjmgeodgobggcppooncdagfkogfffdm)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/hababr/Imagus-Reborn) [Imagus Reborn](https://github.com/hababr/Imagus-Reborn)
   - [Imagus Mod](https://github.com/TheFantasticWarrior/chrome-extension-imagus/releases) (开发者模式加载zip， Shortcut, permission)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/extesy/hoverzoom) [Hover Zoom+](https://github.com/extesy/hoverzoom) (Manifest V2)
   - [Image Max URL](https://github.com/qsniyg/maxurl)
@@ -2054,7 +2055,7 @@ Adblock Filters
   - [Google Photos](https://photos.google.com) 来自谷歌
 - [iCloud](https://www.icloud.com) 来自苹果，免费5G
 - [Dropbox](https://www.dropbox.com) 支持live图，免费版限制三台设备，至少12个月内活跃一次
-- [MEGA](https://mega.nz) 来自新西兰，免费20G，至少每3个月登录一次
+- [MEGA](https://mega.nz) 来自新西兰，免费20G，至少每3个月登录一次，支持Save HEIC as JPG
 - [Box](https://www.box.com) 总部位于美国，免费版单文件限制250Mb
 - [SugarSync](https://www1.sugarsync.com)
 - [pCloud](https://www.pcloud.com) 来自瑞士，研发团队在保加利亚，至少12个月内活跃一次
