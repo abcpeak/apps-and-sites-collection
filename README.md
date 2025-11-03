@@ -45,7 +45,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/readest/readest) [Readest](https://github.com/readest/readest) (全平台) 电子书阅读器
 - [Libby, by OverDrive](https://libbyapp.com)
 - [Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011)
-- [静读天下(Moon+ Reader Pro)](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) (Android)
+- [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) (Android) 静读天下
 - [Thorium Reader](https://www.edrlab.org/software/thorium-reader) (Win, macOS and Linux) EPUB reader
 - [Okular](https://okular.kde.org) (Android, Win, Linux) PDF、漫画、Epub、图像、显示标记语言文档等
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gedoor/legado) [Legado 3.0 Book Reader](https://github.com/gedoor/legado) (Android)开源阅读器
@@ -970,12 +970,14 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/szTheory/exifcleaner) [exifcleaner](https://github.com/szTheory/exifcleaner) clean image metadata
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) 图片压缩
 - [Xnapper](https://xnapper.com) macOS 多功能智能截图工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/greenshot/greenshot) [Greenshot](https://github.com/greenshot/greenshot) 截图工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Satty-org/Satty) [Satty](https://github.com/Satty-org/Satty) Modern Screenshot Annotation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot) [Snow Shot](https://github.com/mg-chao/snow-shot) 一键OCR、录屏、翻译、AI 对话，滚动截图，智能框选
 - ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) [Flameshot](https://github.com/flameshot-org/flameshot) 截图工具
 - [BandiView](https://www.bandisoft.com/bandiview) use the features of Honeyview including further improvements
   - [Honeyview](https://www.bandisoft.com/honeyview) 已停更
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jark006/jarkViewer) [jarkViewer](https://github.com/jark006/jarkViewer) 基于opencv等库开发的开源看图软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sprout2000/leafview) [LeafView](https://github.com/sprout2000/leafview) Minimalist image viewer
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jurplel/qView) [qView](https://github.com/jurplel/qView) 图片查看软件
 - [WebP Codec for Windows](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/WebpCodecSetup.exe)
 - [HEIF 图像扩展](https://apps.microsoft.com/store/detail/heif-图像扩展/9PMMSR1CGPWG?hl=zh-cn&gl=CN)、[HEVC 视频扩展](https://apps.microsoft.com/store/detail/来自设备制造商的-hevc-视频扩展/9N4WGH0Z6VHQ?hl=zh-cn&gl=CN)(Win默认不支持H265格式的视频 装了这个就能播H265格式的视频了， H265即HEVC编码格式)
@@ -1733,7 +1735,7 @@ Adblock Filters
   - [Time.is](https://time.is) - Check Accuracy of System Clock
   - [Flip Clock](https://apps.apple.com/us/app/flip-clock-no-ads/id1522242289) (iOS)
   - [The Clocks](https://apps.apple.com/us/app/the-clocks-alarm-world-clock/id403684793) (iOS)
-  - [Catime](https://github.com/vladelaina/Catime) (Win)🍅番茄时钟
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/vladelaina/Catime) [Catime](https://github.com/vladelaina/Catime) (Win)🍅番茄时钟
   - [Flip Clock - Time Widget](https://apps.apple.com/us/app/flip-clock-time-widget/id6739703704) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/pakerwreah/Calendr) [Calendr](https://github.com/pakerwreah/Calendr) (macOS) 菜单栏日历，支持日程提醒，菜单界面自定义
 
@@ -1835,10 +1837,10 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://www.chromium.org/getting-involved/download-chromium) Blink浏览器引擎，Webkit的分支内核，The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://brave.com) 100%开源，支持IPFS协议，[SlimBrave](https://github.com/ltx0101/SlimBrave)，内置广告和跟踪器拦截 – 不需要 uBlock 或 Privacy Badger 等第三方扩展（尽管您仍然可以使用它们），页面加载速度更快。隐私优先的设计 – 它不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在 12 个月后自动删除，以防长期闲置。无法修改同步的设备名。
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://brave.com) 100%开源，支持IPFS协议，[SlimBrave](https://github.com/ltx0101/SlimBrave)，内置广告和跟踪器拦截 – 不需要uBlock或Privacy Badger等三方扩展（尽管您仍然可以使用它们），页面加载速度更快。隐私优先的设计 – 它不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名。
   - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
-  - [Vivaldi](https://vivaldi.com/download) Base in Norway挪威, 修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译。建议至少每 6 个月登录一次
+  - [Vivaldi](https://vivaldi.com/download) Base in Norway挪威, 修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译。建议至少每6个月登录一次
   - [Yandex Browser](https://browser.yandex.com) 来自俄罗斯
   - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
@@ -1857,7 +1859,7 @@ Adblock Filters
   - [Samsung Internet Browser](https://www.samsung.com/us/support/owners/app/samsung-internet) Android, for your phone and tablet
   - [Tempest Browser](https://tempest.com/browser) 暴风雨浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android) bromite已停更，内置广告拦截和隐私保护
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Win, Linux) bromite已停更，内置广告拦截和隐私保护
   - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气 based on ungoogled-chromium，不支持 Widevine DRM，支持MV2
   - [Quetta Browser](https://www.quetta.net) (iOS, Android)
   - [Wavebox](https://wavebox.io) (💵)
