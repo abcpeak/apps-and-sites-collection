@@ -1747,6 +1747,8 @@ Adblock Filters
 
 ### 📦Compression 压缩软件
 
+> Archiving, Compression
+
 - [7-Zip](https://www.7-zip.org) 免费开源压缩软件，[源代码](https://sourceforge.net/projects/sevenzip)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mcmilk/7-Zip-zstd) [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) 7z的分支，添加了新的压缩算法
   - ![GitHub Repo stars](https://img.shields.io/github/stars/M2Team/NanaZip) [NanaZip](https://github.com/M2Team/NanaZip)
@@ -2073,6 +2075,8 @@ Adblock Filters
 - [Sync](https://www.sync.com)
 - [Proton Drive](https://drive.proton.me) 免费5G，至少12个月内活跃一次
 - [Rakuten Drive](https://www.rakuten-drive.com) 乐天网盘，免费10G
+- [TorBox](https://torbox.app) 免费10G
+- [TeraBox](https://www.terabox.com)
 
 #### 💽 WebDAV 网盘挂载 Cloud drive mounting
 
@@ -2103,6 +2107,8 @@ Adblock Filters
 - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，开源跨平台文件传输工具
   - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) 通过 Magic Wormhole 协议创建的应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) 适用于macOS的Android文件传输
+- [Blip](https://blip.net)
+- [Photon](https://photondev.netlify.app)
 
 ### 📥Downloader 下载器
 
@@ -2196,6 +2202,7 @@ Adblock Filters
 
 ### 🧱Firewall Antivirus Malware 防火墙 杀毒软件
 
+- [VirusTotal](https://www.virustotal.com) 在线扫描病毒
 - [Sandboxie](https://sandboxie-plus.com) 沙盘，沙盒隔离软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/henrypp/simplewall) [SimpleWall](https://github.com/henrypp/simplewall/releases) 开源免费的防火墙
 - ![GitHub Repo stars](https://img.shields.io/github/stars/safing/portmaster) [portmaster](https://github.com/safing/portmaster) firewall
@@ -2246,7 +2253,7 @@ Adblock Filters
   - [awesome-open-source-mac-apps](https://indiegoodies.com/awesome-open-source-mac-apps)
   - [macOS-ISOs](https://github.com/Pyenb/macOS-ISOs)
 - **📥iOS App Store**
-  - iPhone Top Charts(Apple): [US](https://apps.apple.com/us/charts/iphone), [CN](https://apps.apple.com/cn/charts/iphone)
+  - [App Store 网页版](https://apps.apple.com)
   - [AppRaven: Apps Gone Free](https://apps.apple.com/us/app/appraven-apps-gone-free/id1490607195) (iOS)限免 最后更新Oct 7, 2024
   - [AltStore](https://altstore.io) 应用商店，欧盟地区可用
   - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) 开源iOS应用程序
