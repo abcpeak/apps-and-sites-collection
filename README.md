@@ -1319,8 +1319,9 @@
 - [feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490) (iOS, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DIYgod/RSSHub) [RSSHub](https://github.com/DIYgod/RSSHub) RSS feed generator
   - ![GitHub Repo stars](https://img.shields.io/github/stars/DIYgod/RSSHub-Radar) [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) Browser extension
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/RSSNext/follow) [Follow](https://github.com/RSSNext/follow) Next generation information browser, [Filo for iOS](https://apps.apple.com/us/app/folo-follow-everything/id6739802604) ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/RSSNext/Folo) [Folo](https://github.com/RSSNext/Folo) Next generation AI Reader ⭐
 - [Readwise Reader](https://readwise.io) 一站式的资讯阅读，整合RSS订阅、邮件通讯、稍后读等多种功能
+- [Newsify](https://newsify.co)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/brentsimmons/NetNewsWire) [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) (macOS, iOS)RSS reader
 - [Reeder.](https://www.reederapp.com) (💵)
 - [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) (iOS, macOS)
