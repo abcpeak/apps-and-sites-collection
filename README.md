@@ -805,10 +805,9 @@
 - [台湾联合新闻网](https://udn.com)
 - [台湾中央通讯社](https://www.cna.com.tw)
 - [阿波罗新闻网](https://www.aboluowang.com)
-  - [禁书网 - 禁闻网](https://www.bannedbook.org)
+  - [禁书网 - 禁闻网](https://www.bannedbook.net)
   - [大纪元新闻网](https://www.epochtimes.com)
 - [中国数字时代 - chinadigitaltimes](https://chinadigitaltimes.net/chinese)
-- [BLOCKY](https://blocky.greatfire.org)
 
 ### ⚖政府请愿
 
