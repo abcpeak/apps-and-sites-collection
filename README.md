@@ -499,6 +499,8 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe) [NewPipe](https://github.com/TeamNewPipe/NewPipe) (Android)第三方YouTube客户端 ![Latest Release Date](https://img.shields.io/github/release-date/TeamNewPipe/NewPipe)
 - [Vinegar - Tube Cleaner](https://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229) (iOS)(💵)picture-in-picture小窗播放
 - [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)(💵)
+- [animeko](https://github.com/open-ani/animeko) 集找番、追番、看番的一站式弹幕追番平台
+
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
   - [BLBewly](https://github.com/BewlyBewly/BewlyBewly) (macOS)第三方B站客户端 archived on Feb 26, 2025
@@ -874,6 +876,8 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_chrome_extension) [Listen 1](https://listen1.github.io/listen1) (Win, Linux) ![Last Commit](https://img.shields.io/github/release-date/listen1/listen1_chrome_extension)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) (Win, Linux, macOS) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OuterTune/OuterTune) [Music Player](https://github.com/OuterTune/OuterTune) (Android) support local file & YouTube Music
+- [museeks](https://github.com/martpie/museeks) A simple, clean and cross-platform music player
+- [Solara](https://github.com/akudamatata/Solara) 一个极简风格的基于免费API的音乐播放器
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
   - [Fiiomusic](https://apps.apple.com/us/app/fiio-music-for-audiophiles/id1235959662) (iOS) (最后更新2023.8)
@@ -1024,6 +1028,7 @@
 - [OpenShot](https://www.openshot.org)
 - [Lightworks](https://lwks.com)
 - [Shotcut](https://shotcut.org)
+- [OpenCut](https://github.com/OpenCut-app/OpenCut) 开源视频剪辑
 - [Scribus](https://www.scribus.net)
 - [AVS Video ReMaker](https://www.avs4you.com/avs-video-remaker.aspx)
 - [Audacity](https://www.audacityteam.org) 音频处理软件
@@ -1140,6 +1145,8 @@
 - [Notion AI](https://www.notion.so/product/ai) ($10)
 - [Ai Helper](https://helper.im) ($9.9)
 - [Grammarly AI](https://www.grammarly.com) ($12)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser) [Nanobrowser](https://github.com/nanobrowser/nanobrowser) 一款在您的浏览器中运行的开源 AI Web 自动化工具
+
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui) [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lencx/ChatGPT) [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT)
@@ -1828,7 +1835,7 @@ Adblock Filters
 
 ### 🌐Browsers 浏览器
 
-> 浏览器3大阵营Blink(Chromium), Webkit(Safari), Gecko(Firefox), [Browser Market Share Worldwide](https://radar.cloudflare.com/reports/browser-market-share-2025-q2), [隐私测试](https://privacytests.org), [浏览器对比](https://browsers.avoidthehack.com), [BrowseRating](https://browserating.kawaiier.dev)
+> 浏览器3大阵营Blink(Chromium), Webkit(Safari), Gecko(Firefox), [隐私测试](https://privacytests.org), [浏览器对比](https://browsers.avoidthehack.com), [BrowseRating](https://browserating.kawaiier.dev)
 >
 > 会一直支持Manifest V2的：Brave, Safari, Firefox, Supermium。不再支持Manifest V2的：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
 
@@ -2365,6 +2372,7 @@ Adblock Filters
   - [Microsoft Hyper-V](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-enabling-hyper-v-for-use-on-windows-11/ba-p/3745905)
 - [XCP-ng](https://xcp-ng.org) 家庭实验室虚拟环境
 - [Proxmox](https://www.proxmox.com/en) Proxmox Virtual Environment，既可运行虚拟机也能运行 Docker 容器的虚拟化环境平台
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/luchina-gabriel/OSX-PROXMOX) [OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) install macOS on ANY Computer
 - [QEMU](https://www.qemu.org) 开源虚拟化软件
 
 ### 🛜Router 路由器 WiFi
@@ -2400,6 +2408,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite) [Playnite](https://github.com/JosefNemec/Playnite) 开源视频游戏库管理器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher) [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) (Win, Linux, macOS)A games launcher for GOG, Amazon and Epic Games
 - [HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) 雪藏HsFreezer(Hidden in the snow)，游戏暂停冻结软件
+- [Speedy](https://github.com/game1024/Speedy) 一款开源的游戏变速器
 
 ### 🎮Emulators 掌机模拟器
 
