@@ -1877,14 +1877,14 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) 在您的浏览器上运行的 AI 代理，而不是在云中运行
   - ![GitHub Repo stars](https://img.shields.io/github/stars/the-ora/browser) [Ora Browser](https://github.com/the-ora/browser) (macOS)
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，Firefox集成了Widevine模块。建议至少每 2 年登录一次以保持活跃。
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://www.waterfoxproject.org) 水狐浏览器，基于Firefox开源项目制作的浏览器，只提供64位版本
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://www.waterfoxproject.org) 水狐浏览器，基于Firefox开源项目制作的浏览器，只提供64位版本，支持Widevine
   - [K-Meleon](https://kmeleonbrowser.org)
-  - [LibreWolf](https://librewolf.net) 增强对跟踪和指纹技术的保护
+  - [LibreWolf](https://librewolf.net) 支持 Widevine，增强对跟踪和指纹技术的保护
   - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) 基于火狐ESR, Privacy-preserving Firefox-based browser with Chromium-like UI and features
-  - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站）
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) 基于火狐ESR，支持 Widevine，Privacy-preserving Firefox-based browser with Chromium-like UI and features
+  - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://www.zen-browser.app) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android)，原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
@@ -1912,7 +1912,7 @@ Adblock Filters
 - [Puma Browser](https://www.pumabrowser.com) (iOS, Android)
 - [IDENTORY](https://identory.com/en) (Win) 指纹浏览器 Fingerprint browser
 - [Nyxt:](https://nyxt.atlas.engineer) the hacker's browser
-- [SeaMonkey](https://www.seamonkey-project.org/releases)
+- [SeaMonkey](https://www.seamonkey-project.org/releases) 支持 Widevine
 - [Quiche](https://apps.apple.com/us/app/quiche-web-browser/id1668363952)
 - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
 - [Donut Browser](https://donutbrowser.com) 多浏览器管理工具，目前仅支持 macOS，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
