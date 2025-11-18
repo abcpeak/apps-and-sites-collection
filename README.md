@@ -510,7 +510,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe) [NewPipe](https://github.com/TeamNewPipe/NewPipe) (Android)第三方YouTube客户端 ![Latest Release Date](https://img.shields.io/github/release-date/TeamNewPipe/NewPipe)
 - [Vinegar - Tube Cleaner](https://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229) (iOS)(💵)picture-in-picture小窗播放
 - [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)(💵)
-- [animeko](https://github.com/open-ani/animeko) 集找番、追番、看番的一站式弹幕追番平台
+- ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko) [animeko](https://github.com/open-ani/animeko) 集找番、追番、看番的一站式弹幕追番平台
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
