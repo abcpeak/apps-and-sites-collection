@@ -880,7 +880,7 @@
 - [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
 - [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS)(🟢)
 - [Anywhere offine Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)(🟢)
-- [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS)(🟢) 维克音乐，本地lrc自动转为内嵌歌词，默认显示嵌入的专辑封面和歌词，唯一缺点就是目前没有AppleTV端⭐
+- [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS)(🟢) 维克音乐，本地lrc自动转为内嵌歌词，默认显示嵌入的专辑封面和歌词⭐
 - [Ever Play](https://apps.apple.com/app/id1202642773) (iOS)(💵)支持歌词需付费
 - [One Player](https://apps.apple.com/app/id1614115295) (iOS)(💵)支持歌词需付费
 - [Musixmatch](https://apps.apple.com/us/app/musixmatch-lyrics-finder/id448278467) (iOS)
