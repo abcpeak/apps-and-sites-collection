@@ -403,6 +403,17 @@
 - [freeCodeCamp](https://freecodecamp.org) nonprofit organization that offers free online coding education
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ripose-jp/Memento) [Memento](https://github.com/ripose-jp/Memento) (Win、macOS、Linux)专为学习日语设计的播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/byoungd/English-level-up-tips) [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
+- 雅思考试：[ielts.neea.cn](https://ielts.neea.cn/)
+- [Twinkl.co.uk](https://www.twinkl.co.uk/)提供幼儿园到高中的词卡、练习纸、电子书、手工、班级管理和教室布置等资源，支持多语言（含中文）。
+- [**Scholastic 学乐出版社**:](https://classroommagazines.scholastic.com/) 幼儿园到高中的“20天学习计划”，涵盖动物、自然、数学等九大主题，绘本视频、科普阅读和练习。
+- [**ReadingIQ**](https://www.readingiq.com/teachers): 海量英文分级阅读图书馆，含迪士尼、漫威等内容，按A-Z、蓝思分级等标准排序。疫情期间对教师免费，个人邮箱可注册。
+- [**British Council**](http://learnenglishkids.britishcouncil.org/): 提供英语教学资源，包括词汇、语法、游戏、视频、教案等，含A-Z关键字搜索功能，便于备课。
+- [**PBS Learning Media**:](https://www.pbslearningmedia.org/) 美国公共广播电视网提供各学科视频、教案、练习题，含《芝麻街》等资源，按年级和学科分类，免费下载。
+- [vooks.com/teacher-appreciation](https://www.vooks.com/teacher-appreciation)：儿童有声动画绘本图书馆，免费一年（需验证），按主题分类，提供教案、提问和活动PDF。
+- **National Geographic Kids**: [kids.nationalgeographic.com](https://kids.nationalgeographic.com/)**特点**: 免费科普平台，提供动物百科、科学实验、环境保护等内容，含图片和视频，无需注册。
+- **NASA STEM**: 教师 [nasa.gov/stem/foreducators/k-12](https://www.nasa.gov/stem/foreducators/k-12) | 学生 [nasa.gov/stem/forstudents](https://www.nasa.gov/stem/forstudents)**特点**: 提供K-12 STEM教案、活动、视频，涵盖航天、宇宙等主题，免费无需注册。
+- **FunBrain**: [funbrain.com](https://www.funbrain.com/)**特点**: 适合幼小至八年级，含英语、数学游戏、图书和视频，按年龄分类，无需注册，寓教于乐。
+- **Highlight Kids**: [highlightskids.com](https://www.highlightskids.com/)**特点**: 提供科学实验、手工、简单料理等动手活动资源，适合儿童在家学习，免费无需注册。
 
 ### 🔣Translations 翻译 Translators
 
@@ -836,6 +847,7 @@
 
 - [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) 库乐队，制作手机铃声
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mostafaalagamy/Metrolist) [Metrolist](https://github.com/mostafaalagamy/Metrolist) YouTube Music client for Android
+- [Cotton Music](https://apps.apple.com/app/id6752617064) 棉花音乐
 - [Musify](https://apps.apple.com/us/app/musify-music-player/id1575902185)
 - [Spotify](https://www.spotify.com/us/download/other)  (Win, Android, iOS) 总部位于瑞典斯德哥尔摩，只有Spotify Premium用户可以在移动端播放本地文件
   - ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube) [Spotube](https://github.com/KRTirtho/spotube) 开源免费跨平台 Spotify 第三方客户端 ![Last Commit](https://img.shields.io/github/release-date/KRTirtho/spotube) ![commit-activity](https://img.shields.io/github/commit-activity/m/KRTirtho/spotube)
@@ -2187,6 +2199,7 @@ Adblock Filters
 - [Remote Mouse](https://apps.apple.com/us/app/remote-mouse/id385894596) (iOS)
 - [Remote, Mouse & Keyboard Pro](https://apps.apple.com/us/app/remote-mouse-keyboard-pro/id884153085), [Remote, Mouse & Keyboard](https://apps.apple.com/us/app/remote-mouse-keyboard/id629019487) (iOS) 这2个功能一样的
 - [远程鼠标和键盘](https://cherpake.com/apps/remote-mouse-keyboard)、[电视遥控器](https://cherpake.com/apps/remote-control-tv) 来自[Evgeny Cherpak](https://cherpake.com)
+- [deskflow](https://github.com/deskflow/deskflow) Share a single keyboard and mouse between multiple computers
 - WOL Wake-on-LAN 局域网电脑唤醒
 - ToDesk 免费用户配额每月连接时长缩减至80小时
 - PC有线网卡+ddns+端口映射就可以远程唤醒
