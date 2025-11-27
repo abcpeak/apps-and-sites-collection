@@ -890,6 +890,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OuterTune/OuterTune) [Music Player](https://github.com/OuterTune/OuterTune) (Android) support local file & YouTube Music
 - [museeks](https://github.com/martpie/museeks) A simple, clean and cross-platform music player
 - [Solara](https://github.com/akudamatata/Solara) 一个极简风格的基于免费API的音乐播放器
+- [海螺音乐](https://apps.apple.com/us/app/%E6%B5%B7%E8%9E%BA%E9%9F%B3%E4%B9%90/id6475198331) (iOS)
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
   - [Fiiomusic](https://apps.apple.com/us/app/fiio-music-for-audiophiles/id1235959662) (iOS) (最后更新2023.8)
@@ -1842,6 +1843,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PasteBar/PasteBarApp) [PasteBarApp](https://github.com/PasteBar/PasteBarApp) 本地剪贴板管理器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/p0deje/Maccy) [Karabiner-Elements](https://github.com/p0deje/Maccy) Lightweight clipboard manager for macOS
 - [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) (macOS) 一键启用或禁用键盘
+- [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop)
 - 🗃️Archived
   - [Clipboard : Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) (iOS) 剪贴板同步 Oct 11, 2024
 
