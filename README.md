@@ -2451,7 +2451,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/fmhy/FMHY) [FMHY](https://github.com/fmhy/FMHY) FREE MEDIA
 - [Sourceforge](https://sourceforge.net)
 - [Fosshub](https://www.fosshub.com)
-- [fsf.org自由软件基金会](https://www.fsf.org/resources)
+- [fsf.org](https://www.fsf.org/resources) 自由软件基金会
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome) [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 - [opensource.builders](https://opensource.builders) Alternatives & Competitors 可替代的软件
 - [switching.software](https://switching.software)
