@@ -152,6 +152,7 @@
   - [RubyGems](https://rubygems.org)
 
 - Terminal SSH 终端工具
+  - [Termix](https://apps.apple.com/us/app/termix-ssh-client-terminal/id6739386670) (iOS) 专业级SSH/SFTP 远端管理，由欧洲网络安全团队开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) 管理您的 zsh 配置
   - [warp.dev](https://warp.dev) (macOS) The intelligent terminal
   - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) 支持多种网络协议，包括 SCP、SSH、Telnet、rlogin 和raw socket connection
