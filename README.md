@@ -1182,26 +1182,26 @@
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy) [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) (Win, macOS, Linux) 使用Rust和Flutter构建
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed) [Zed](https://github.com/zed-industries/zed) (Win, macOS, Linux) code editor
-- ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext) [Marktext](https://github.com/marktext/marktext)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin) [Joplin](https://joplinapp.org) (iOS, Win, Android)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) [AFFiNE](https://github.com/toeverything/AFFiNE) 集写作、绘画、计划管理与一体的软件，免费10G ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) [Logseq](https://logseq.com) 2022年获410万美元首轮融资 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext) [Marktext](https://github.com/marktext/marktext) 搜索效率太慢
+- ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin) [Joplin](https://joplinapp.org) (iOS, Win, Android) E2EE端到端加密。安卓不支持笔记内搜索，附件管理比较混乱，且数据存储在数据库中，没有回收站，笔记删除或笔记同步丢失无法找回，界面简陋
+- ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) [AFFiNE](https://github.com/toeverything/AFFiNE) 集写作、绘画、计划管理与一体的软件，免费10G，不支持国家emoji⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) [Logseq](https://logseq.com) 2022年获410万美元首轮融资，数据本地化。有小bug，软件质量、稳定性、同步问题比较多 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/usememos/memos) [memos](https://github.com/usememos/memos) 开源轻量级笔记服务
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium) [Trilium](https://github.com/zadam/trilium) (Win, Linux)，笔记数据使用SQLite存储
 - ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline) [Outline](https://github.com/outline/outline) 成长型团队最快的知识库
 - ![GitHub Repo stars](https://img.shields.io/github/stars/VSCodium/vscodium) [VSCodium](https://vscodium.com) VS Code 的自由开源软件二进制文件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/siyuan-note/siyuan) [SiYuan](https://github.com/siyuan-note/siyuan) 思源笔记
 - ![GitHub Repo stars](https://img.shields.io/github/stars/foambubble/foam) [Foam](https://foambubble.github.io/foam)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/vnotex/vnote) [Vnote](https://github.com/vnotex/vnote)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vnotex/vnote) [Vnote](https://github.com/vnotex/vnote) 比较原生markdown 不支持扩展语法
 - ![GitHub Repo stars](https://img.shields.io/github/stars/overleaf/overleaf) [overleaf](https://github.com/overleaf/overleaf) A web-based collaborative LaTeX editor
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Zettlr/Zettlr) [Zettlr](https://github.com/Zettlr/Zettlr)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/streetwriters/notesnook) [Notesnook](https://github.com/streetwriters/notesnook) ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases) [Obsidian](https://obsidian.md) (macOS、iOS、Win、Android、Linux)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases) [Obsidian](https://obsidian.md) (macOS、iOS、Win、Android、Linux) 闭源Freeware，个人免费，官方同步收费。Obsidian LiveSync同步插件。同步手机端使用频率高不建议用obsidian-git 。remotely-save通过Cloudflare R2 (S3 API)在多个设备同步，免费每月10G。iCloud同步缺点: Linux 不好同步；每次打开都要同步 iCloud，vault 较大时间会很久；Home 等页面出现多文件的情况（如 Home Dashboard 2），原因是 iCloud 不会自己同步；iCloud 没有版本管理功能，如果不小心误删文件无法找回（设置删除文件时移动到回收站来解决）；没有数据库管理（当笔记数量很多的时候效率变慢）。无网页版。Obsidian插件：Code editor shortcuts, easy typing, kanban, surfing, advanced tables, better command palette, calendar
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/ghostwriter) [GhostWriter](https://github.com/KDE/ghostwriter)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nuttyartist/notes) [Notes](https://github.com/nuttyartist/notes) Version 2.2.1 Latest on 2024.10.11
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gsantner/markor) [Markor](https://github.com/gsantner/markor)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/anyproto/anytype-ts) [Anytype](https://anytype.io) 区块链技术多端同步，去中心化，本地存储，免费100M存储
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anyproto/anytype-ts) [Anytype](https://anytype.io) 区块链技术多端同步，去中心化，本地存储，免费100M存储，，没有文档的历史记录，不会有网页版，公司非常小，发展缓慢，开发团队佛系，ios不能复制全部页面（只能复制一行）。database 在 Anytype 中叫做 sets 。导出格式支持markdown和protobuf。protobuf是Google公司提出的一种轻便高效的结构化数据存储格式，常用于结构化数据的序列化，具有语言无关、平台无关、可扩展性特性，常用于通讯协议、服务端数据交换场景
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Alexey-T/CudaText) [CudaText](https://github.com/Alexey-T/CudaText)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mayneyao/eidos) [Eidos](https://github.com/mayneyao/eidos) Offline alternative to Notion
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Beaver-Notes/Beaver-Notes) [Beaver Notes](https://github.com/Beaver-Notes/Beaver-Notes) 海狸笔记
@@ -1212,21 +1212,21 @@
 - [Sublime Text](https://www.sublimetext.com)
 - [Google Keep](https://keep.google.com) 单个限制2万字符，历史版本仅文本，时间可超半年，支持手绘
 - [Kate](https://kate-editor.org)
-- [UpNote](https://getupnote.com) 免费版本只能导入TXT和导出TXT与HTML格式
+- [UpNote](https://getupnote.com) 免费版本只能导入TXT和导出TXT与HTML格式，The free version allows up to 50 notes with basic features.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) [docmost](https://github.com/docmost/docmost) 协作 wiki 和文档软件
 - [Notion](https://www.notion.so) (cross-platform) Note-Taking ⭐
 - [Tana](https://tana.inc)
 - [Coda](https://coda.io) All-in-One Doc for Teams，基于 Google Chrome，类似Notion
 - [Bear](https://bear.app/cn) 熊掌记(macOS, iOS)
-- [Craft](https://www.craft.do) (macOS, iOS、Win, Web)
+- [Craft](https://www.craft.do) (macOS, iOS、Win, Web) 免费1G存储
 - [Drafts](https://getdrafts.com) (macOS, iOS) 本地，支持TOC，语音输入转文字，拖动行排列，右上角选markdown可以预览md，全文搜索，find section区域内搜索
 - [Effie](https://www.effie.co)
 - [Goodnotes](https://www.goodnotes.com) (macOS, iOS, Win, Android)
-- [Notability](https://notability.com/zh-Hans) (iOS)
+- [Notability](https://notability.com/zh-Hans) (iOS) iPad手写，离线记录，本地，webdav 、笔记自动备份成pdf。缺点仅iOS，小公司，同步要钱
 - [OneNote](https://www.onenote.com) 微软旗下
 - [Microsoft Loop](https://loop.microsoft.com) 微软旗下
-- [Roam Research](https://roamresearch.com)
-- [Simplenote](https://simplenote.com) (macOS, iOS, Win, Android, Linux)
+- [Roam Research](https://roamresearch.com) 付费，知识管理
+- [Simplenote](https://simplenote.com) (macOS, iOS, Win, Android, Linux) 过于简陋，不能创建文件夹
 - [Standard Notes](https://standardnotes.com) Proton旗下，E2EE 同步、静态加密、U2F 支持和独立安全审计。专业计划完全值得购买
 - [iA Writer](https://ia.net/writer) (macOS, Win, iOS and Android) (💵)
 - [EmEditor](https://www.emeditor.com)
@@ -1250,6 +1250,9 @@
 - [RemNote](https://www.remnote.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/orayemre/Notemod) [Notemod](https://github.com/orayemre/Notemod)
 - [Digital Notes](https://apps.apple.com/app/id1480653765) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OmGodse/Notally) [Notally](https://github.com/OmGodse/Notally) 仅安卓
+- ProtonDoc 不支持国家emoji
+
 
 ### 👩🏻‍💻Office 办公软件
 
@@ -1723,7 +1726,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller) [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) 卸载神器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher) [Flow-Launcher](https://github.com/Flow-Launcher/Flow.Launcher) Quick file search & app launcher  (Win)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Rem0o/FanControl.Releases) [Fan Control](https://github.com/Rem0o/FanControl.Releases) Windows风扇控制软件
-- ![GitHub Repo stars](https://img.shields.io/github/stars/kando-menu/kando) [kando](https://github.com/kando-menu/kando) The Cross-Platform Pie Menu
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kando-menu/kando) [kando](https://github.com/kando-menu/kando) The Cross-Platform Pie Menu 跨平台桌面饼图菜单工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner) [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer) [Optimizer](https://github.com/hellzerg/optimizer)
 - [Lock Launcher Widgets LockFlow](https://apps.apple.com/us/app/lock-launcher-screen-widgets/id1636719674) (iOS)
