@@ -1,4 +1,4 @@
-# ⭐Apps & Sites Collection
+# 🧩Apps & Sites Collection
 
 > Multi-platform: Win, Web, Linux, macOS, iOS, tvOS(Apple TV), watchOS(Apple Watch), Android, Android TV
 
