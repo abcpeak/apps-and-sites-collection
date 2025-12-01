@@ -867,6 +867,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
 - [EverPlay Music](https://everplay.mobi) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop) [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop) (Win, Android) ![Last Commit](https://img.shields.io/github/release-date/lyswhut/lx-music-desktop)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/any-listen/any-listen) [any-listen](https://github.com/any-listen/any-listen) 一个跨平台的私人音乐播放服务
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nukeop/nuclear) [Nuclear player](https://github.com/nukeop/nuclear) (Win, macOS, Linux) 开源免费的在线音乐播放和下载工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2) [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) (Win) ![Last Commit](https://img.shields.io/github/release-date/zhongyang219/MusicPlayer2)
 - [FluentCast](https://apps.microsoft.com/detail/9pm46jrsdqqr?hl=en-us&gl=US) (Win) Ad-free podcast app
@@ -877,7 +878,7 @@
 - 来自EVERAPPZ SL(iOS)：[Evermusic](https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198)、[Flacbox](https://apps.apple.com/jp/app/id1097564256)、[Evertag](https://apps.apple.com/app/id1450763230) 支持WebDAV
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Win) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
 - [Listenify](https://apps.apple.com/us/app/listenify/id6475892753) (iOS)(💵)($5.99)支持歌词API
-- [LMP Music](https://apps.apple.com/us/app/lmp/id6451009326) (iOS)支持歌词API ，不支持infini-cloud，支持koofr
+- [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS)支持歌词API ，不支持infini-cloud，支持koofr
 - [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
 - [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS)(🟢)
 - [Anywhere offine Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)(🟢)
@@ -1156,9 +1157,6 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/chatgpt-google-extension) [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension) 浏览器插件
 - [ZipZap](https://www.zipzap.ai) 使用ChatGPT API进行对话聊天
 - [Memo AI](https://memo.ac) Ai-powered podcast, video-to-text, and subtitling tools for immediate experience
-- [Notion AI](https://www.notion.so/product/ai) ($10)
-- [Ai Helper](https://helper.im) ($9.9)
-- [Grammarly AI](https://www.grammarly.com) ($12)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser) [Nanobrowser](https://github.com/nanobrowser/nanobrowser) 一款在您的浏览器中运行的开源 AI Web 自动化工具
 
 - 🗃️Archived
@@ -1215,7 +1213,7 @@
 - [Kate](https://kate-editor.org)
 - [UpNote](https://getupnote.com) 免费版本只能导入TXT和导出TXT与HTML格式，The free version allows up to 50 notes with basic features.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) [docmost](https://github.com/docmost/docmost) 协作 wiki 和文档软件
-- [Notion](https://www.notion.so) (cross-platform) Note-Taking ⭐
+- [Notion](https://www.notion.com) (cross-platform) Note-Taking ⭐
 - [Tana](https://tana.inc)
 - [Coda](https://coda.io) All-in-One Doc for Teams，基于 Google Chrome，类似Notion
 - [Bear](https://bear.app/cn) 熊掌记(macOS, iOS)
@@ -1269,7 +1267,7 @@
 
 - [Apple Mail](https://www.icloud.com/mail)
 - [Gmail](https://gmail.com) 谷歌邮箱
-- [Outlook](https://www.outlook.com) 微软旗下，订阅office 365无广告
+- [Outlook](https://outlook.cloud.microsoft) 微软旗下，订阅office 365无广告
 - [Notion Mail](https://mail.notion.so) AI驱动的电子邮件客户端，支持Gmail
 - [Yahoo Mail](https://mail.yahoo.com) 雅虎邮箱
 - [Mail.ru](https://mail.ru) 俄罗斯
@@ -1915,7 +1913,7 @@ Adblock Filters
 - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://www.qutebrowser.org) A keyboard-driven, vim-like browser based on Python and Qt.
 
-- [DuckDuckGo](https://duckduckgo.com/app) Windows based on Edge WebView2，不支持扩展
+- ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
 - [GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook](https://github.com/nook-browser/Nook) (macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
 - [Antidetect Browser](https://undetectable.io) Fingerprint browser
@@ -1923,7 +1921,7 @@ Adblock Filters
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) (Linux) for the GNOME desktop
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (2026年夏季发布Linux和macOS) using a novel engine based on web standards
 - [Aloha Browser](https://alohabrowser.com) (iOS, Android) 内置免费VPN
-- [Onion Browser](https://apps.apple.com/us/app/onion-browser/id519296448) (iOS) 基于WebKit，并且建立在尊重隐私的基础上，默认搜索引擎Kagi，支持扩展
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，并且建立在尊重隐私的基础上，默认搜索引擎Kagi，支持扩展
 - [GNU IceCat](https://icecatbrowser.org) (Win, macOS, Linux)
 - [Basilisk](https://basilisk-browser.org) (Win, macOS, Linux)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hyphanet/fred) [Hyphanet](https://www.hyphanet.org) (Win, macOS, Linux)
@@ -2290,7 +2288,7 @@ Adblock Filters
 
 ### 🪟Windows 微软系统
 
-- [Microsoft Apps](https://apps.microsoft.com/store/apps) 微软软件平台
+- [Microsoft Store](https://apps.microsoft.com) 微软软件平台
 - [Playbook](https://www.revi.cc/docs/playbook/general)
   - [ReviOS](https://www.revi.cc) (已停产) 转为Playbook
 - [AtlasOS](https://atlasos.net) 基于Windows10精简定制，一个开源免费的项目，适合运行游戏。
@@ -2487,6 +2485,8 @@ Adblock Filters
 ## 🤝Contribute 贡献
 
 Contributions are most welcome.
+
+最全面的APP和网站，APP和网站汇总，强烈推荐收藏，资源收集整理的天花板！软件和网站收集，软件大全、优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台软件(Cross-Platform)、免费开源软件 FOSS(Free and Open Source Software)。
 
 ## 📄License 许可证
 
