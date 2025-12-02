@@ -536,11 +536,11 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin) [Jellyfin](https://github.com/jellyfin/jellyfin) The Free Software Media System 官方称由于Emby 3.6开始闭源后，引起了一些核心开发人员的不满，所以最近在Emby的基础上单独开发了Jellyfin媒体服务器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/fredrikburmester/streamyfin) [Streamyfin](https://github.com/fredrikburmester/streamyfin) a simple and user-friendly Jellyfin client built with Expo
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin-media-player) [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) Jellyfin Desktop Client
-- [SenPlayer](https://apps.apple.com/cn/app/id6443975850) (iOS, macOS, Apple TV) 支持8解码，长按最高8倍速，画中画播放；支持HDR10, HLG集成最新FFMPEG7.0，支持本地视频，相册视频，网络视频, KSPlayer项目的授权并基于该目开发，视频播放直接调用FFmpeg
+- [SenPlayer](https://apps.apple.com/app/id6443975850) (iOS, macOS, Apple TV) 支持8解码，长按最高8倍速，画中画播放；支持HDR10, HLG集成最新FFMPEG7.0，支持本地视频，相册视频，网络视频, KSPlayer项目的授权并基于该目开发，视频播放直接调用FFmpeg
 - [VidHub](https://apps.apple.com/cn/app/id1659622164) (iOS, macOS, Apple TV) 可连Trakt
 - [Reflix](https://apps.apple.com/app/id6621243955) (iOS)
 - [HamHub](https://apps.apple.com/app/id6458691598) (iOS, Apple TV)
-- [Conflux](https://apps.apple.com/cn/app/id6450330892) (iOS, macOS, Apple TV)目提供强大的串流选项，完美支持Airplay和字幕、广泛支持格式、免步骤串流、画中画、空间频、云盘等
+- [Conflux](https://apps.apple.com/app/id6450330892) (iOS, macOS, Apple TV)目提供强大的串流选项，完美支持Airplay和字幕、广泛支持格式、免步骤串流、画中画、空间频、云盘等
 - [DsCloud](https://apps.apple.com/us/app/id6476057278) (iOS, macOS)
 - [Yamby](https://t.me/yamby_release) (Android) 仅能连接Emby使用
 - [Optimus Player](https://www.optimusplayer.com) (macOS)，真正hdr支持，不是mp套壳，纯手动ffmpeg
@@ -1089,10 +1089,12 @@
 ### 🤖AI
 
 > AI Hub 聚合AI平台 人工智能(Artificial Intelligence)
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts) [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ai-collection/ai-collection) [ai-collection](https://github.com/ai-collection/ai-collection)
 
-- [DuckDuckGo AI](https://duck.ai) DuckDuckGo
+- [DuckDuckGo AI](https://duck.ai) DuckDuckGo AI
+- [Lumo](https://lumo.proton.me) Proton AI
 - [Poe](https://poe.com) Quora搭建的AI产品，支持ChatGPT、Sage、Dragonfly、Claude等💥
 - [Coze](https://www.coze.com)
 - [You.com](https://you.com)
@@ -1247,8 +1249,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/orayemre/Notemod) [Notemod](https://github.com/orayemre/Notemod)
 - [Digital Notes](https://apps.apple.com/app/id1480653765) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OmGodse/Notally) [Notally](https://github.com/OmGodse/Notally) 仅安卓
-- ProtonDoc 不支持国家emoji
-
+- Proton Doc 不支持国家emoji
 
 ### 👩🏻‍💻Office 办公软件
 
@@ -1287,7 +1288,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tutao/tutanota) [Tuta](https://github.com/tutao/tutanota/releases) 位于德国，全平台开源的加密邮箱。如果帐户超过六个月未被访问，则会将其删除，但如果用户知道密码并订阅付费版本，则允许恢复。
 - [Guerrilla Mail](https://www.guerrillamail.com)
 - [ProtonMail](https://protonapps.com) 位于瑞士的安全电子邮件 ⭐
-  - [Proton Mail Bridge](https://proton.me/mail/bridge) 使用Apple Mail、Outlook、Thunderbird等访问ProtonMail
+  - [Proton Mail Bridge](https://proton.me/mail/bridge) 使用Apple Mail、Outlook、Thunderbird等访问ProtonMail, Proton Mail Bridge is available only with a paid plan
 - [Mailfence](https://mailfence.com) 位于比利时的OpenPGP电子邮件服务
 - [Fastmail](https://www.fastmail.com)
 - [Zoho Mail](https://www.zoho.com)
