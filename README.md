@@ -1089,7 +1089,7 @@
 ### 🤖AI
 
 > AI Hub 聚合AI平台 人工智能(Artificial Intelligence)
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts) [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ai-collection/ai-collection) [ai-collection](https://github.com/ai-collection/ai-collection)
 
 - [DuckDuckGo AI](https://duck.ai) DuckDuckGo
@@ -1109,8 +1109,8 @@
 
 - [Grok](https://grok.com) Grok是由xAI开发的人工智能聊天机器人，xAI是一家由Elon Musk于2023年3月创立的公司
 - [ChatGPT](https://chat.openai.com) OpenAI公司研发的Chat Generative Pre-trained Transformer
-  - [DALL·E 2](https://openai.com/product/dall-e-2) OpenAI研发AI绘图工具
-- ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed) [DeepSpeed](https://github.com/microsoft/DeepSpeed) Microsoft DeepSpeed Chat
+- [Copilot](https://copilot.cloud.microsoft) Microsoft
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed) [DeepSpeed](https://github.com/microsoft/DeepSpeed) Microsoft DeepSpeed Chat
   - [Microsoft Azure](https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/?speed=0&pitch=0#features) Azure AI 语音，微软文本转语音
 - ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3) [Llama 3](https://github.com/meta-llama/llama3) Meta发布的免费商业应用的开源AI模型
   - [AudioCraft](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio) 文本生成音频和音乐，融合AudioGen、EnCodec和MusicGen三种模型
@@ -1132,7 +1132,6 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3) [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) 为可扩展和高效的语言处理而设计
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1) [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) 用于推理任务，加强了大模型的深度思考能力
 - [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx) Nvidia英伟达发布的AI工具，可以选择使用 Ilama 或 Mistral 的 AI 模型
-- [Adobe Firefly](https://firefly.adobe.com) Adobe发布的人工智能绘图工具Firefly
 - [Midjourney](https://www.midjourney.com) Midjourney研究实验室，通过文本生成图像的AI
 - ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark) [Bark](https://github.com/suno-ai/bark) 高度逼真的开源、生成式文字转语音模型
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BlinkDL/AI-Writer) [CodeFormer](https://github.com/BlinkDL/AI-Writer) AI写小说
@@ -1143,15 +1142,13 @@
 - [Swapface](https://swapface.org) AI智能视频换脸工具
 - [Eightify](https://eightify.app) Summarize YouTube videos
 - [Midjourney](https://www.midjourney.com) 通过文本生成图像的AI
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 基于GPT4能自主完成任务
-- ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts) [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT) [AgentGPT](https://github.com/reworkd/AgentGPT) 浏览器中运行的任务驱动的自主AI思考工具，需要服务器部署
 - ![GitHub Repo stars](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt) [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ChatGPT On Wechat via wechaty
 - ![GitHub Repo stars](https://img.shields.io/github/stars/memochou1993/gpt-ai-assistant) [GPT AI Assistant](https://github.com/memochou1993/gpt-ai-assistant) GPT LINE bot on Vercel
 - ![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/OpenChatKit) [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) 前 OpenAI 的团队打造
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant) [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) 由德国的一家非营利组织 LAION 运营的，号称全球最大的 ChatGPT 开源复制品，目前支持35种语言
 - ![GitHub Repo stars](https://img.shields.io/github/stars/go-skynet/LocalAI) [LocalAI](https://github.com/go-skynet/LocalAI) 用于本地推理的与OpenAI API规范兼容的REST API，它允许使用消费级硬件在本地或本地运行模型，支持与 ggml 格式兼容的多个模型系列
-- [Clippy](https://apps.microsoft.com/store/detail/clippy-by-firecube/9NWK37S35V5T) 基于ChatGPT的大眼夹桌面插件
 - [Chatbase](https://www.chatbase.co) 网站小部件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced) [WebChatGPT](https://github.com/qunash/chatgpt-advanced) 浏览器扩展，Web结果增强ChatGPT提示
 - ![GitHub Repo stars](https://img.shields.io/github/stars/wong2/chatgpt-google-extension) [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension) 浏览器插件
