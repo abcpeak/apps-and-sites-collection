@@ -891,8 +891,9 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) (Win, Linux, macOS) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OuterTune/OuterTune) [Music Player](https://github.com/OuterTune/OuterTune) (Android) support local file & YouTube Music
 - [museeks](https://github.com/martpie/museeks) A simple, clean and cross-platform music player
-- [Solara](https://github.com/akudamatata/Solara) 一个极简风格的基于免费API的音乐播放器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/akudamatata/Solara) [Solara](https://github.com/akudamatata/Solara) 一个极简风格的基于免费API的音乐播放器
 - [海螺音乐](https://apps.apple.com/us/app/%E6%B5%B7%E8%9E%BA%E9%9F%B3%E4%B9%90/id6475198331) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fooyin/fooyin) [fooyin](https://github.com/fooyin/fooyin)
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
   - [Fiiomusic](https://apps.apple.com/us/app/fiio-music-for-audiophiles/id1235959662) (iOS) (最后更新2023.8)
@@ -1335,17 +1336,17 @@
 - [FeedFlow](https://www.feedflow.dev) 开源免费，RSS Reader for Android, iOS, and macOS
 - [Pintap: An RSS Reader](https://apps.apple.com/us/app/pintap-an-rss-reader/id6463398545)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/spacecowboy/Feeder) [Feeder](https://github.com/spacecowboy/Feeder) Android RSS reader app
-- [feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490) (iOS, macOS)
+- [feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490) (iOS, macOS) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DIYgod/RSSHub) [RSSHub](https://github.com/DIYgod/RSSHub) RSS feed generator
   - ![GitHub Repo stars](https://img.shields.io/github/stars/DIYgod/RSSHub-Radar) [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) Browser extension
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/RSSNext/Folo) [Folo](https://github.com/RSSNext/Folo) Next generation AI Reader ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/RSSNext/Folo) [Folo](https://github.com/RSSNext/Folo) Next generation AI Reader. Folo客户端开源，后端不开源也没有GPL3协议
 - [Readwise Reader](https://readwise.io) 一站式的资讯阅读，整合RSS订阅、邮件通讯、稍后读等多种功能
 - [Newsify](https://newsify.co)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/brentsimmons/NetNewsWire) [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) (macOS, iOS)RSS reader
 - [Reeder.](https://www.reederapp.com) (💵)
 - [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) (iOS, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) 多功能的RSS/ATOM提要阅读器
-- [qireader](https://www.qireader.com) (Web-App)
+- [qireader](https://www.qireader.com) (Web-App) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/damoeb/rss-proxy) [RSS-proxy](https://github.com/damoeb/rss-proxy) RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/johnwarne/upvote-rss) [RSS-proxy](https://github.com/johnwarne/upvote-rss) 从 Reddit、Hacker News、Lemmy、Mbin 等网站生成个性化的 RSS 订阅源
 
@@ -1849,13 +1850,7 @@ Adblock Filters
 
 ### 🌐Browsers 浏览器
 
-> 浏览器3大阵营Blink(Chromium), Webkit(Safari), Gecko(Firefox), [隐私测试](https://privacytests.org), [浏览器对比](https://browsers.avoidthehack.com), [BrowseRating](https://browserating.kawaiier.dev)
->
-> 会一直支持Manifest V2的：Brave, Safari, Firefox, Supermium。不再支持Manifest V2的：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
-
-- [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
-  - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
-  - [Orion](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension
+> 浏览器3大阵营Blink(Chromium), Webkit(Safari), Gecko(Firefox), 支持Manifest V2：Brave, Safari, Firefox, Supermium。不再支持Manifest V2：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://www.chromium.org/getting-involved/download-chromium) Blink浏览器引擎，Webkit的分支内核，The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
@@ -1883,13 +1878,19 @@ Adblock Filters
   - [Tempest Browser](https://tempest.com/browser) 暴风雨浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
   - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Win, Linux) bromite已停更，内置广告拦截和隐私保护
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气 based on ungoogled-chromium，不支持 Widevine DRM，支持MV2
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,imputnet团队开发过cobalt.tools,based on ungoogled-chromium，不支持 Widevine DRM，支持MV2
   - [Quetta Browser](https://www.quetta.net) (iOS, Android)
   - [Wavebox](https://wavebox.io) (💵)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Win, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
   - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) 在您的浏览器上运行的 AI 代理，而不是在云中运行
   - ![GitHub Repo stars](https://img.shields.io/github/stars/the-ora/browser) [Ora Browser](https://github.com/the-ora/browser) (macOS)
+
+- [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
+  - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
+  - [Orion](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
@@ -1911,7 +1912,7 @@ Adblock Filters
 - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://www.qutebrowser.org) A keyboard-driven, vim-like browser based on Python and Qt.
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
+
 - [GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook](https://github.com/nook-browser/Nook) (macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
 - [Antidetect Browser](https://undetectable.io) Fingerprint browser
@@ -2270,6 +2271,7 @@ Adblock Filters
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/daliansky/Hackintosh) [Hackintosh](https://github.com/daliansky/Hackintosh) 黑苹果
 - [iMazing](https://imazing.com) (Win, macOS) Manage your iPhone.On your terms
+- ![GitHub Repo stars](https://img.shields.io/github/stars/iDescriptor/iDescriptor) [iDescriptor](https://github.com/iDescriptor/iDescriptor) iDescriptor 是一个跨平台、开源且免费的 iDevice 管理工具。它支持 USB 连接、AirPlay、从 Apple Store 下载安装应用、虚拟位置模拟等。
 - **📥macOS下载站**
   - [Open-Source macOS Apps](https://github.com/iCHAIT/awesome-macOS) Open Source macOS Apps苹果电脑软件
   - [awesome-open-source-mac-apps](https://indiegoodies.com/awesome-open-source-mac-apps)
@@ -2467,7 +2469,10 @@ Adblock Filters
 - [filepuma.com](https://www.filepuma.com)
 - [Filehippo](https://filehippo.com)
 - [lo4d](https://www.lo4d.com) 免费软件
-- [Similar Web](https://www.similarweb.com/)
+- [Similar Web](https://www.similarweb.com)
+- [隐私测试](https://privacytests.org)
+- [浏览器对比](https://browsers.avoidthehack.com)
+- [BrowseRating](https://www.browserating.com)
 
 ### 影视资源站（PT站、BT资源网站）
 
