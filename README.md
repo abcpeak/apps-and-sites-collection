@@ -866,8 +866,8 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicPlayer) [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) (Win, Linux) ![Last Commit](https://img.shields.io/github/release-date/Greedysky/TTKMusicPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
 - [EverPlay Music](https://everplay.mobi) (Android)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop) [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop) (Win, Android) ![Last Commit](https://img.shields.io/github/release-date/lyswhut/lx-music-desktop)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/any-listen/any-listen) [any-listen](https://github.com/any-listen/any-listen) 一个跨平台的私人音乐播放服务
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop) [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop) (Win, Android) 不再有重大更新![Last Commit](https://img.shields.io/github/release-date/lyswhut/lx-music-desktop)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nukeop/nuclear) [Nuclear player](https://github.com/nukeop/nuclear) (Win, macOS, Linux) 开源免费的在线音乐播放和下载工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2) [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) (Win) ![Last Commit](https://img.shields.io/github/release-date/zhongyang219/MusicPlayer2)
 - [FluentCast](https://apps.microsoft.com/detail/9pm46jrsdqqr?hl=en-us&gl=US) (Win) Ad-free podcast app
@@ -1979,7 +1979,6 @@ Adblock Filters
   - [Bookmarkie](https://chromewebstore.google.com/detail/bookmarkie-bookmarks-in-p/ahlphbdcaacfhkiajebghpngknafklbj) Bookmarks in popup
   - [Momentum](https://momentumdash.com) 定制新标签页
   - [OneTab](https://www.one-tab.com)
-  - [Workona Tab Manager](https://workona.com) 管理、分类标签页
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dessant/search-by-image) [search-by-image](https://github.com/dessant/search-by-image)
 - [Glarity](https://glarity.app) 利用ChatGPT4生成摘要，支持YouTube和Google
 - [Keepa](https://keepa.com) Amazon Price Tracker
