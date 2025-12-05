@@ -1935,7 +1935,7 @@ Adblock Filters
   - [Sidekick](https://www.meetsidekick.com) 已停止维护
   - [Ghostery](https://www.ghostery.com/ghostery-private-browser) discontinued
   - [Puffin Cloud Browser](https://www.puffin.com/cloud-browser) (iOS)
-  - [Arc](https://arc.net) (Win, macOS, iOS) 不再有重大更新
+  - [Arc Browser](https://arc.net) 不再有重大更新
   - [Cent Browser](https://www.centbrowser.com) 百分浏览器
   - [Mull-Fenix](https://github.com/Divested-Mobile/mull-fenix) (Android) archived on Dec 23, 2024
   - [Avira Secure Browser](https://www.avira.com/en/avira-secure-browser) (Win, macOS)
