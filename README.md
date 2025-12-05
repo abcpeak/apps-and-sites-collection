@@ -1355,13 +1355,11 @@
 
 - 密码泄露检测: [Firefox Monitor](https://monitor.firefox.com)、[HaveIbeenPwned](https://haveibeenpwned.com)、[Intelligence X](https://intelx.io)、[Dehashed](https://www.dehashed.com)
 
-- [Apple Passwords App](https://apps.apple.com/us/app/passwords/id6473799789)
+- [Apple Passwords App](https://apps.apple.com/us/app/passwords/id6473799789) ⭐
 - [Microsoft Password Manager in Edge](https://www.microsoft.com/en-us/edge/download)
 - [Google Password Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager&pli=1) (Android)
-  - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605) Jun 26, 2024
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
-- [pCloud Pass](https://www.pcloud.com/pass/download.html)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients/releases) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients/releases) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
 - [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Win, Linux, macOS)开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) A KeePass/Password Safe Client 需付费
@@ -1371,8 +1369,7 @@
 - [pwSafe - Password Safe](https://pwsafe.org) pwSafe
 - [Wilhelmina Password Manager](https://www.byteptr.com/wilhelmina)
 - [Keeper Password Manager](https://www.keepersecurity.com)
-- [Proton Pass](https://proton.me/pass)
-  - [Proton Auth](https://proton.me/authenticator)
+- [Proton Pass](https://proton.me/pass) ⭐
 - [1Password 8](https://1password.com/product)
   - [1Password 7](https://apps.apple.com/cn/app/1password-password-manager/id568903335)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop) [Buttercup](https://github.com/buttercup/buttercup-desktop) (iOS, Android)Passwords & Secrets Vault 最后更新May 4, 2024
@@ -1382,7 +1379,6 @@
 - [Norton Password](https://my.norton.com/extspa/passwordmanager)
 - [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) 免费版限制200个密码
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://apps.apple.com/us/app/2fa-authenticator-2fas/id1217793794) (iOS, Android)
 - [MEGA Pass](https://mega.io/pass) (💵) €0.99 per month
 - 🗃️Archived
   - Dropbox Passwords 已关闭
@@ -1391,6 +1387,9 @@
 
 ### 🗝️2FA secret key(TOTP) 二次验证 2步验证
 
+- [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605) Jun 26, 2024
+- [Proton Auth](https://proton.me/authenticator) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://apps.apple.com/us/app/2fa-authenticator-2fas/id1217793794) (iOS, Android) ⭐
 - [Bitwarden Authenticator](https://apps.apple.com/us/app/bitwarden-authenticator/id6497335175) (iOS, Android) 不支持同步，只能导入
 - [Authy](https://authy.com) (iOS, Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jamie-mh/AuthenticatorPro) [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) 适用于Android + Wear OS的双因素身份验证（2FA）客户端
@@ -2348,11 +2347,11 @@ Adblock Filters
   - [TWRP](https://twrp.me) Android设备上进行备份、恢复、刷机
 
 - Android Simulator 安卓模拟器 虚拟化
-  - [腾讯手游助手](https://syzs.qq.com/)：腾讯收购了[GameLoop](https://gameloop.fun)
+  - [腾讯手游助手](https://syzs.qq.com)：腾讯收购了[GameLoop](https://gameloop.fun)
   - [LDplayer](https://www.ldplayer.net)
   - [Android Studio’s](https://developer.android.com/studio)
   - [NOX](https://www.bignox.com) 夜神模拟器
-  - [BlueStacks.com](https://www.bluestacks.com) 蓝叠模拟器 by now.gg
+  - [BlueStacks.com](https://www.bluestacks.com) 蓝叠模拟器 by now.gg ⭐
     - [MSI appplayer](https://www.msi.com/landing/appplayer)
 - [Google Play](https://play.google.com) 谷歌官方Android商店
   - [Play games across your devices](https://play.google.com/googleplaygames) (Win)
