@@ -2094,7 +2094,7 @@ Adblock Filters
 - [Koofr](https://app.koofr.net) 欧洲Slovenia的网盘服务商，免费10G，免费版仅能连接2个云，至少2年内活跃一次
 - [Bitrix24](https://www.bitrix24.fr)
 - [PikPak](https://pikpak.me) 新加坡的团队开发
-- [Filen](https://filen.io) ⭐2020年初在德国雷克林豪森成立，至少每3个月登录一次，E2EE存储
+- [Filen](https://filen.io) 2020年初在德国雷克林豪森成立，至少每3个月登录一次，E2EE存储 ⭐
 - [Sync](https://www.sync.com)
 - [Proton Drive](https://drive.proton.me) 免费5G，至少12个月内活跃一次
 - [Rakuten Drive](https://www.rakuten-drive.com) 乐天网盘，免费10G
@@ -2106,13 +2106,13 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alist-org/alist) [AList](https://github.com/alist-org/alist) 网盘聚合平台，已被出售，新接手的公司有黑历史
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OpenListTeam/OpenList) [OpenList](https://github.com/OpenListTeam/OpenList) A new AList Fork to Anti Trust Crisis
   - ![GitHub Repo stars](https://img.shields.io/github/stars/DDS-Derek/xiaoya-alist) [xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) 小雅Alist的相关周边
-  - [alistTools](https://apps.apple.com/us/app/alisttools/id6741591396) (iOS)($6.99) 支持OpenList
-- [Mountain Duck](https://mountainduck.io)
-- [RaiDrive](https://www.raidrive.com) OpenBoxLab旗下，Make Cloud Storage, NAS as a drive in File Explorer
+  - [alistTools](https://apps.apple.com/us/app/alisttools/id6741591396) (iOS)$6.99 支持OpenList
+- [Mountain Duck](https://mountainduck.io) $49
+- [RaiDrive](https://www.raidrive.com) OpenBoxLab旗下，Make Cloud Storage, NAS as a drive in File Explorer ⭐
 - [Air Explorer](https://www.airexplorer.net/en)
-- [Cyberduck](https://cyberduck.io) FTP/SFTP工具
+- [Cyberduck](https://cyberduck.io) $23.99，FTP/SFTP工具
 - [WinSCP](https://winscp.net/eng/index.php) 访问FTP一样访问WebDAV服务器
-- [Hyperduck](https://apps.apple.com/us/app/hyperduck/id6444667067) ($4.00)
+- [Hyperduck](https://apps.apple.com/us/app/hyperduck/id6444667067) $4
 - [Documents](https://readdle.com/documents) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/server) [nextcloud](https://nextcloud.com) 开源免费，自建云存储服务
 - [ownCloud](https://owncloud.com) 自建云存储服务
@@ -2127,7 +2127,7 @@ Adblock Filters
 - [LANDrop](https://landrop.app) (全平台)
 - [Microsoft Edge Drop](https://www.microsoft.com/en-us/edge/features/drop)
 - [Intel® Unison™](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26?hl=en-us&gl=us)
-- [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，开源跨平台文件传输工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/magic-wormhole/magic-wormhole) [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，开源跨平台文件传输工具
   - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) 通过 Magic Wormhole 协议创建的应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) 适用于macOS的Android文件传输
 - [Blip](https://blip.net)
@@ -2205,7 +2205,7 @@ Adblock Filters
 - [远程鼠标和键盘](https://cherpake.com/apps/remote-mouse-keyboard)、[电视遥控器](https://cherpake.com/apps/remote-control-tv) 来自[Evgeny Cherpak](https://cherpake.com)
 - [deskflow](https://github.com/deskflow/deskflow) Share a single keyboard and mouse between multiple computers
 - WOL Wake-on-LAN 局域网电脑唤醒
-- ToDesk 免费用户配额每月连接时长缩减至80小时
+- [ToDesk](https://todesk.com/?lang=en) 免费用户配额每月连接时长缩减至80小时
 - PC有线网卡+ddns+端口映射就可以远程唤醒
 
 ### 📲Screen Share 手机投屏 Screen Mirror
@@ -2241,7 +2241,6 @@ Adblock Filters
 - [Norton Antivirus Plus](https://us.norton.com/products/norton-360-antivirus-plus) 诺顿公司成立于1990年，总部位于美国加利福尼亚州的山景城
 - [ESET NOD32 Antivirus](https://www.eset.com/int/home/antivirus/download)
 - [McAfee](https://www.mcafee.com)
-- [OpenArk](https://github.com/BlackINT3/OpenArk) (Win)开源反rookit (ARK)工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ukanth/afwall) [AFWall+](https://github.com/ukanth/afwall) (Android) - iptables based firewall
 - [VirusTotal](https://www.virustotal.com) 在线查毒引擎
 - [Kaspersky](https://www.kaspersky.com) 卡巴斯基
@@ -2398,7 +2397,7 @@ Adblock Filters
 
 > 梅林固件(Merlin)网件、华硕官改固件、老毛子固件(Padavan)、OpenWrt、Lede、潘多拉固件(PandoraBox)
 
-- [OpenWrt](https://openwrt.org) OpenWrt固件
+- [OpenWrt](https://openwrt.org) OpenWrt固件 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/vernesong/OpenClash) [OpenClash](https://github.com/vernesong/OpenClash) 在OpenWrt上运行的Clash客户端
   - ![GitHub Repo stars](https://img.shields.io/github/stars/nikkinikki-org/OpenWrt-nikki) [OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) 代理软件
   - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [Sing Box](https://github.com/SagerNet/sing-box)
