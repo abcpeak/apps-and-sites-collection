@@ -719,9 +719,10 @@
 
 ## 🎨Graphics & Design 图形和设计
 
-图片处理 设计排版 Paint 绘图🖌️
+> 图片处理 PS设计排版 Paint 绘图🖌️
 
-- Adobe: [Photoshop](https://www.photoshop.com), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+- [Photopea](https://www.photopea.com) ⭐
+- Adobe: [Photoshop](https://www.photoshop.com), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) ⭐
 - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) 图像查看器
 - [Kiko Card](https://apps.apple.com/us/app/kiko-card-text-post-carousel/id6463467787) 文字生成图片
 - [Tayasui Color](https://apps.apple.com/us/app/tayasui-color/id1106374233)
