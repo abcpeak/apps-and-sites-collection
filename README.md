@@ -1817,18 +1817,16 @@ Adblock Filters
 
 - ⛏️Dig 数据信息挖掘
 
-1. [中国执行信息公开网](https://zxgk.court.gov.cn)
-2. [爱企查 - 查老赖系统](https://aiqicha.baidu.com/discredit)
-3. [中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww)
-4. [企查查](https://www.qcc.com)
-5. [水滴信用](https://shuidi.cn)
-6. [国家企业信用信息公示系统](https://www.gsxt.gov.cn)
-7. [中国裁判文书网](https://wenshu.court.gov.cn)
-8. [天眼查](https://www.tianyancha.com)
-9. [国家知识产权局](https://cnipa.gov.cn)
-10. [国家版权局](https://ncac.gov.cn)
-11. [信用中国](https://creditchina.gov.cn)
-12. [民政部](https://mca.gov.cn/index.html)
+- [中国执行信息公开网](https://zxgk.court.gov.cn)
+- 企业查询：[天眼查](https://www.tianyancha.com), [爱企查](https://aiqicha.baidu.com), [企查查](https://www.qcc.com)
+- [中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww)
+- [水滴信用](https://shuidi.cn)
+- [国家企业信用信息公示系统](https://www.gsxt.gov.cn)
+- [中国裁判文书网](https://wenshu.court.gov.cn)
+- [国家知识产权局](https://cnipa.gov.cn)
+- [国家版权局](https://ncac.gov.cn)
+- [信用中国](https://creditchina.gov.cn)
+- [民政部](https://mca.gov.cn/index.html)
 
 ### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板
 
@@ -2345,15 +2343,16 @@ Adblock Filters
 - [Paranoid Android](https://paranoidandroid.co) AOSPA
 - [Evolution X](https://evolution-x.org) 预装的Google应用程序和Pixel的应用程序
 - [ArrowOS](https://arrowos.net) 轻量级的ROM
+- ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app) [Termux](https://github.com/termux/termux-app) 安卓手机变成迷你 Linux电脑
 - Android刷机工具
   - [TWRP](https://twrp.me) Android设备上进行备份、恢复、刷机
+
 - Android Simulator 安卓模拟器 虚拟化
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app) [Termux](https://github.com/termux/termux-app) Android终端模拟器
   - [腾讯手游助手](https://syzs.qq.com/)：腾讯收购了[GameLoop](https://gameloop.fun)
   - [LDplayer](https://www.ldplayer.net)
   - [Android Studio’s](https://developer.android.com/studio)
   - [NOX](https://www.bignox.com) 夜神模拟器
-  - [BlueStacks](https://www.bluestacks.com) 蓝叠模拟器
+  - [BlueStacks.com](https://www.bluestacks.com) 蓝叠模拟器 by now.gg
     - [MSI appplayer](https://www.msi.com/landing/appplayer)
 - [Google Play](https://play.google.com) 谷歌官方Android商店
   - [Play games across your devices](https://play.google.com/googleplaygames) (Win)
