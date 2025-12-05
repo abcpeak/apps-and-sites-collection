@@ -895,6 +895,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/akudamatata/Solara) [Solara](https://github.com/akudamatata/Solara) 一个极简风格的基于免费API的音乐播放器
 - [海螺音乐](https://apps.apple.com/us/app/%E6%B5%B7%E8%9E%BA%E9%9F%B3%E4%B9%90/id6475198331) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/fooyin/fooyin) [fooyin](https://github.com/fooyin/fooyin)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/imsyy/splayer) [SPlayer](https://github.com/imsyy/splayer) 简约的音乐播放器
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
   - [Fiiomusic](https://apps.apple.com/us/app/fiio-music-for-audiophiles/id1235959662) (iOS) (最后更新2023.8)
@@ -949,13 +950,13 @@
 - [Reddit](https://www.reddit.com) 红迪，社交新闻论坛
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit) [Infinity For Reddit+](https://github.com/Docile-Alligator/Infinity-For-Reddit) (Android)
 
-### 🧱Bypass Paywall
+### Bypass Paywall
 
 - [paywallbuster](https://paywallbuster.com) 绕过付费墙
 - [Read articles without annoying paywalls](https://www.removepaywall.com)
 - [Bypass Paywalls Clean for Firefox](https://github.com/bpc-clone/bypass-paywalls-firefox-clean)
 - [Bye Bye Paywall](https://byebyepaywall.com/en)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/manualdousuario/marreta) [marreta](https://github.com/manualdousuario/marreta)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/manualdousuario/marreta) [Marreta](https://github.com/manualdousuario/marreta)
 
 ## 📷Photo & Video 摄影与录像
 
