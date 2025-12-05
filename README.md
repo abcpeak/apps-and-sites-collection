@@ -1611,12 +1611,8 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xM4ddy/OFGB) [OFGB](https://github.com/xM4ddy/OFGB) 关闭Win11各处广告的小工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Win, macOS, Linux)通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android)搞快点，自动跳过开屏广告
-- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions)
-- YouTube AdBlock
-  - [YouTube AdBlock - Coffee Break for YouTube](https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap)
-  - [AdShield - Ultimate Ad Blocker for YouTube](https://chromewebstore.google.com/detail/adshield-ultimate-ad-bloc/gmjaaefflbggfiacjihajgijemdlhkeb)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/goodtube4u/goodtube) [GoodTube](https://github.com/goodtube4u/goodtube) 100% 免费使用
 
 DNS Adblocking
 
@@ -1783,7 +1779,7 @@ Adblock Filters
 
 ### 🔍Search Engines 搜索引擎
 
-- [Google](https://www.google.com) 谷歌，全球最大的搜索引擎⭐
+- [Google](https://www.google.com) 谷歌，全球最大的搜索引擎 ⭐
   - [Google Scholar](https://scholar.google.com) 谷歌学术
   - [imghp](https://google.com/imghp) 谷歌图片
 - [DuckDuckGo](https://duckduckgo.com) 位于美国，偏重隐私
@@ -1803,7 +1799,7 @@ Adblock Filters
 - [Ecosia](https://www.ecosia.org) 环保的搜索引擎
 - [MetaGer](https://metager.org) (💵)位于德国，非营利组织运营的Metasearch引擎
 - [Kagi](https://kagi.com) (💵)无广告搜索引擎
-- [Swisscows](https://swisscows.com/en) private and anonymous search engine 
+- [Swisscows](https://swisscows.com/en) private and anonymous search engine
 
 - Reverse Image Search 以图搜图（网站、插件、APP）
   - [TinEye](https://tineye.com)
@@ -1853,10 +1849,10 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://www.chromium.org/getting-involved/download-chromium) Blink浏览器引擎，Webkit的分支内核，The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 100%开源，支持IPFS协议，[SlimBrave](https://github.com/ltx0101/SlimBrave)，内置广告和跟踪器拦截 – 不需要uBlock或Privacy Badger等三方扩展（尽管您仍然可以使用它们），页面加载速度更快。隐私优先的设计 – 它不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名。
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 100%开源，支持IPFS协议，[SlimBrave](https://github.com/ltx0101/SlimBrave)，内置广告和跟踪器拦截 – 不需要uBlock或Privacy Badger等三方扩展（尽管您仍然可以使用它们），页面加载速度更快。隐私优先的设计 – 它不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名。⭐
   - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
-  - [Vivaldi](https://vivaldi.com/download) Base in Norway挪威, 修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译。建议至少每6个月登录一次
+  - [Vivaldi](https://vivaldi.com/download) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译。建议至少每6个月登录一次 ⭐
   - [Yandex Browser](https://browser.yandex.com) 来自俄罗斯
   - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
@@ -1890,7 +1886,7 @@ Adblock Filters
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
   - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://www.waterfoxproject.org) 水狐浏览器，基于Firefox开源项目制作的浏览器，只提供64位版本，支持Widevine
   - [K-Meleon](https://kmeleonbrowser.org)
@@ -1909,7 +1905,6 @@ Adblock Filters
 
 - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://www.qutebrowser.org) A keyboard-driven, vim-like browser based on Python and Qt.
-
 
 - [GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook](https://github.com/nook-browser/Nook) (macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
@@ -1948,14 +1943,18 @@ Adblock Filters
 
 #### 🍭Browser Extensions 浏览器插件(扩展)
 
-- **Google, YouTube**
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) Skip YouTube Sponsorships
+- **Google, YouTube, Gmail**
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) Skip YouTube Sponsorships ⭐
   - [Checker Plus for Gmail™](https://jasonsavard.com)
   - [Black Menu for Google™](https://apps.jeurissen.co/black-menu-for-google)
   - [PocketTube](https://pockettube.io) YouTube Subscription Manager
   - [x.app](https://apps.apple.com/us/app/x-app/id1533525753) (iOS)YouTube背景播放
   - [PiP](https://apps.apple.com/app/id1635796246)(iOS)YouTube窗口化
   - [Tube PiP - PiP for YouTube](https://apps.apple.com/app/id6476895094)(iOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/xlch88/YoutubeTweak) [YoutubeTweak](https://github.com/xlch88/YoutubeTweak)
+  - [YouTube AdBlock - Coffee Break for YouTube](https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap)
+  - [AdShield - Ultimate Ad Blocker for YouTube](https://chromewebstore.google.com/detail/adshield-ultimate-ad-bloc/gmjaaefflbggfiacjihajgijemdlhkeb)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/goodtube4u/goodtube) [GoodTube](https://github.com/goodtube4u/goodtube) 100% 免费使用
 
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
 
@@ -1970,7 +1969,10 @@ Adblock Filters
 - [Stream Recorder](https://www.hlsloader.com) download HLS as MP4
 - [Silk - Privacy Pass Client](https://chromewebstore.google.com/detail/silk-privacy-pass-client/ajhmfdgkijocedmfjonnpjfojldioehi)
 - 🔖Bookmark & Tab 书签和标签页
-  - 跨浏览器书签同步：![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus)、[EverSync everhelper](https://everhelper.me)、[xBrowserSync](https://www.xbrowsersync.org)
+  - 跨浏览器书签同步
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus) ⭐
+    - [EverSync everhelper](https://everhelper.me)
+    - [xBrowserSync](https://www.xbrowsersync.org)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub)
   - 书签清理：[Bookmarks clean up](https://chrome.google.com/webstore/detail/oncbjlgldmiagjophlhobkogeladjijl)、[LazyCat](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef)
   - [favbox](https://github.com/dd3v/favbox)
@@ -1999,8 +2001,7 @@ Adblock Filters
 - [GitHub Freshness](https://greasyfork.org/en/scripts/524465-github-freshness)
 
 - Imagus Similar Imagusextensions and Scripts:
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/hababr/Imagus-Reborn) [Imagus Reborn](https://github.com/hababr/Imagus-Reborn)
-  - [Imagus Mod](https://github.com/TheFantasticWarrior/chrome-extension-imagus/releases) (开发者模式加载zip， Shortcut, permission)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/hababr/Imagus-Reborn) [Imagus Reborn](https://github.com/hababr/Imagus-Reborn) ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/extesy/hoverzoom) [Hover Zoom+](https://github.com/extesy/hoverzoom) (Manifest V2)
   - [Image Max URL](https://github.com/qsniyg/maxurl)
   - [PhotoShow](https://chromewebstore.google.com/detail/photoshow/mgpdnhlllbpncjpgokgfogidhoegebod)
