@@ -1344,7 +1344,7 @@
 - [Readwise Reader](https://readwise.io) 一站式的资讯阅读，整合RSS订阅、邮件通讯、稍后读等多种功能
 - [Newsify](https://newsify.co)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/brentsimmons/NetNewsWire) [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) (macOS, iOS)RSS reader
-- [Reeder.](https://www.reederapp.com) (💵)
+- [Reeder.](https://www.reederapp.com)
 - [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) (iOS, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) 多功能的RSS/ATOM提要阅读器
 - [qireader](https://www.qireader.com) (Web-App) ⭐
@@ -1365,7 +1365,7 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) A KeePass/Password Safe Client 需付费
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassium/KeePassium) [KeePassium](https://github.com/keepassium/KeePassium) (iOS, macOS) 需付费
 - ![GitHub Repo stars](https://img.shields.io/github/stars/authpass/authpass) [AuthPass](https://github.com/authpass/authpass) based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible
-- [Enpass](https://www.enpass.io) (💵)(Win, macOS, Linux)可以设置webdav同步
+- [Enpass](https://www.enpass.io) (Win, macOS, Linux)可以设置webdav同步
 - [pwSafe - Password Safe](https://pwsafe.org) pwSafe
 - [Wilhelmina Password Manager](https://www.byteptr.com/wilhelmina)
 - [Keeper Password Manager](https://www.keepersecurity.com)
@@ -1379,7 +1379,7 @@
 - [Norton Password](https://my.norton.com/extspa/passwordmanager)
 - [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) 免费版限制200个密码
-- [MEGA Pass](https://mega.io/pass) (💵) €0.99 per month
+- [MEGA Pass](https://mega.io/pass) €0.99 per month
 - 🗃️Archived
   - Dropbox Passwords 已关闭
   - [Avira Password Manager](https://www.avira.com/en/password-manager)
