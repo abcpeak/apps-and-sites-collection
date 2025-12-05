@@ -1470,7 +1470,7 @@
 - [Parler](https://parler.com)
 - [MeWe](https://mewe.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/HuLaSpark/HuLa) [HuLa](https://github.com/HuLaSpark/HuLa) 基于Tauri v2+Vue3的跨平台即时通讯
-- ![GitHub Repo stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop) [Telegram](https://github.com/telegramdesktop/tdesktop) 来自俄罗斯的加密通讯软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop) [Telegram](https://github.com/telegramdesktop/tdesktop) 来自俄罗斯的加密通讯软件 ⭐
   - [iMe](https://apps.apple.com/us/app/ime-ai-messenger-for-telegram/id1450480822) (Android, iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Swiftgram/Telegram-iOS) [Swiftgram](https://swiftgram.app)
   - [Nicegram](https://nicegram.app) 开发者频道有2百多万订阅
@@ -1481,7 +1481,7 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/NextAlone/Nagram) [Nagram](https://github.com/NextAlone/Nagram) (Android) 轻量级客户端
   - [Plus Messenger](https://plusmessenger.org)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Android) [Signal](https://signal.org) 独立的非营利机构，加密通信
-- [Discord](https://discord.com)
+- [Discord](https://discord.com) ⭐
 - [Element](https://element.io/get-started)
 - [Slack](https://slack.com)
 - [Snapchat](https://www.snapchat.com)
@@ -1495,11 +1495,12 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat) [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 - [Talkatone](https://apps.apple.com/us/app/talkatone-wifi-text-calls/id397648381)
 - [Text Free](https://apps.apple.com/us/app/text-free-second-call-number/id399355755)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/deltachat/deltachat-desktop) [Delta Chat](https://github.com/deltachat/deltachat-desktop) Decentralized private messenger
 
 - Social media management tools 社交媒体管理工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/thilobillerbeck/skymoth) [Skymoth](https://github.com/thilobillerbeck/skymoth) Mastodon to Bluesky crossposter
   - [Mastogram](https://mastogr.am) Bridge your Mastodon, Telegram and Bluesky
-  - [Buffer](https://buffer.com) 免费版支持3个平台
+  - [Buffer](https://buffer.com) 免费版支持3个平台 ⭐
 
 ### 💏Dating Platform 婚恋平台 交友平台
 
