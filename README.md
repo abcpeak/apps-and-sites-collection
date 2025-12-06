@@ -847,7 +847,7 @@
 
 ### 🎶Music Player 音乐播放软件
 
-- [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) 库乐队，制作手机铃声
+- [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) 库乐队，制作手机铃声🎧
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mostafaalagamy/Metrolist) [Metrolist](https://github.com/mostafaalagamy/Metrolist) YouTube Music client for Android
 - [Cotton Music](https://apps.apple.com/app/id6752617064) 棉花音乐
 - [Musify](https://apps.apple.com/us/app/musify-music-player/id1575902185)
@@ -897,6 +897,8 @@
 - [海螺音乐](https://apps.apple.com/us/app/%E6%B5%B7%E8%9E%BA%E9%9F%B3%E4%B9%90/id6475198331) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/fooyin/fooyin) [fooyin](https://github.com/fooyin/fooyin)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/imsyy/splayer) [SPlayer](https://github.com/imsyy/splayer) 简约的音乐播放器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/playwora/wora) [Wora](https://github.com/playwora/wora) player for audiophiles
+
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
   - [Fiiomusic](https://apps.apple.com/us/app/fiio-music-for-audiophiles/id1235959662) (iOS) (最后更新2023.8)
@@ -1611,11 +1613,10 @@
 
 ### 📛Adblock 去广告 Block ads
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/xM4ddy/OFGB) [OFGB](https://github.com/xM4ddy/OFGB) 关闭Win11各处广告的小工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Win, macOS, Linux)通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android)搞快点，自动跳过开屏广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions) ⭐
 
 DNS Adblocking
 
@@ -1886,12 +1887,14 @@ Adblock Filters
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
   - [Orion](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension
+  - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS)集成了广告拦截，暗黑模式，不收集任何数据，注重隐私
+  - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://www.waterfoxproject.org) 水狐浏览器，基于Firefox开源项目制作的浏览器，只提供64位版本，支持Widevine
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://github.com/BrowserWorks/Waterfox) 水狐浏览器，基于Firefox，只提供64位版本，支持Widevine
   - [K-Meleon](https://kmeleonbrowser.org)
   - [LibreWolf](https://librewolf.net) 支持 Widevine，增强对跟踪和指纹技术的保护
   - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
@@ -1915,7 +1918,7 @@ Adblock Filters
 - [Konqueror](https://apps.kde.org/konqueror) (Linux)
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) (Linux) for the GNOME desktop
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (2026年夏季发布Linux和macOS) using a novel engine based on web standards
-- [Aloha Browser](https://alohabrowser.com) (iOS, Android) 内置免费VPN
+- [Aloha Browser](https://apps.apple.com/app/id1105317682) (iOS, Android) 内置免费VPN
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，并且建立在尊重隐私的基础上，默认搜索引擎Kagi，支持扩展
 - [GNU IceCat](https://icecatbrowser.org) (Win, macOS, Linux)
 - [Basilisk](https://basilisk-browser.org) (Win, macOS, Linux)
@@ -1924,9 +1927,8 @@ Adblock Filters
 - [IDENTORY](https://identory.com/en) (Win) 指纹浏览器 Fingerprint browser
 - [Nyxt:](https://nyxt.atlas.engineer) the hacker's browser
 - [SeaMonkey](https://www.seamonkey-project.org/releases) 支持 Widevine
-- [Quiche](https://apps.apple.com/us/app/quiche-web-browser/id1668363952)
-- [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
-- [Donut Browser](https://donutbrowser.com) 多浏览器管理工具，目前仅支持 macOS，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) 多浏览器管理工具，目前仅支持 macOS，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
 - [Slimjet](https://www.slimjet.com) (Win, macOS, Linux)
 - [ArcSphere](https://apps.apple.com/us/app/arcsphere-ai-native-browser/id6502280398) (iOS, Android) AI浏览器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/RicardoCA/board-browser) [Board Browser](https://github.com/RicardoCA/board-browser)
@@ -1960,7 +1962,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/goodtube4u/goodtube) [GoodTube](https://github.com/goodtube4u/goodtube) 100% 免费使用
 
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
-
+- [Extension Bridge](https://github.com/michaelnyc17/extension-bridge) Find Firefox alternatives for Chrome extensions
 - [Save to Notion](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm)
 - [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf)
 - 右键解锁：[SuperCopy - Enable Copy](https://chrome.google.com/webstore/detail/onepmapfbjohnegdmfhndpefjkppbjkm)、[Allow Right-Click](https://chromewebstore.google.com/detail/allow-right-click/hnafhkjheookmokbkpnfpmemlppjdgoi)、[Allow Copy](https://chromewebstore.google.com/detail/allow-copy-select-enable/mmpljcghnbpkokhbkmfdmoagllopfmlm)
@@ -1972,11 +1974,12 @@ Adblock Filters
 - [Stream Recorder](https://www.hlsloader.com) download HLS as MP4
 - [Silk - Privacy Pass Client](https://chromewebstore.google.com/detail/silk-privacy-pass-client/ajhmfdgkijocedmfjonnpjfojldioehi)
 - 🔖Bookmark & Tab 书签和标签页
-  - 跨浏览器书签同步
-    - ![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus) ⭐
-    - [EverSync everhelper](https://everhelper.me)
-    - [xBrowserSync](https://www.xbrowsersync.org)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus) 跨浏览器书签同步⭐
+  - [EverSync everhelper](https://everhelper.me)
+  - [xBrowserSync](https://www.xbrowsersync.org)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub)
+  - [raindrop](https://raindrop.io)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/linkwarden/linkwarden) [linkwarden](https://github.com/linkwarden/linkwarden)
   - 书签清理：[Bookmarks clean up](https://chrome.google.com/webstore/detail/oncbjlgldmiagjophlhobkogeladjijl)、[LazyCat](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef)
   - [favbox](https://github.com/dd3v/favbox)
   - [Bookmarkie](https://chromewebstore.google.com/detail/bookmarkie-bookmarks-in-p/ahlphbdcaacfhkiajebghpngknafklbj) Bookmarks in popup
