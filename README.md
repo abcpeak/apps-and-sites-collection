@@ -186,7 +186,7 @@
   - [Sken.io](https://sken.io)
   - [The Best Web Scraping Discord Servers](https://scrapeops.io/web-scraping-playbook/best-web-scraping-discord-servers)
   - [Easy Scraper](https://easyscraper.com)
-  - [Distill](https://distill.io)
+  - [Distill Web Monitor](https://distill.io) ⭐
 
 - Programming language 编程语言：JavaScript, C#, php, C++, Java, go...
   - ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react) [React](https://github.com/facebook/react) 用于构建用户界面的JavaScript框架
@@ -1302,7 +1302,7 @@
 - [Thunderbird](https://www.thunderbird.net/en-US) 雷鸟邮件客户端
   - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android)
 - [Spark Mail](https://sparkmailapp.com) 乌克兰公司Readdle的邮箱产品
-- [Mailbird](https://www.getmailbird.com)
+- [Mailbird](https://www.getmailbird.com) 免费版支持1个账户
 - [Airmail](https://airmailapp.com) (macOS, iOS)
 - [Vivaldi Webmail](https://webmail.vivaldi.net) 位于冰岛
 
@@ -1956,7 +1956,7 @@ Adblock Filters
   - [x.app](https://apps.apple.com/us/app/x-app/id1533525753) (iOS)YouTube背景播放
   - [PiP](https://apps.apple.com/app/id1635796246)(iOS)YouTube窗口化
   - [Tube PiP - PiP for YouTube](https://apps.apple.com/app/id6476895094)(iOS)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/xlch88/YoutubeTweak) [YoutubeTweak](https://github.com/xlch88/YoutubeTweak)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/xlch88/YoutubeTweak) [Youtube Tweak](https://github.com/xlch88/YoutubeTweak) 固定播放分辨率、快速调节播放速度
   - [YouTube AdBlock - Coffee Break for YouTube](https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap)
   - [AdShield - Ultimate Ad Blocker for YouTube](https://chromewebstore.google.com/detail/adshield-ultimate-ad-bloc/gmjaaefflbggfiacjihajgijemdlhkeb)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/goodtube4u/goodtube) [GoodTube](https://github.com/goodtube4u/goodtube) 100% 免费使用
