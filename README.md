@@ -2205,7 +2205,7 @@ Adblock Filters
 - [WireGuard](https://www.wireguard.com) 远程穿透
 - [woterm](https://github.com/aoyiduo/woterm) (Win, Linux, macOS)跨平台远程管理终端
 - [Remote Mouse](https://www.remotemouse.net) 远程鼠标控制
-- [Weylus](https://github.com/H-M-H/Weylus) 手机变成电脑的触控屏
+- ![GitHub Repo stars](https://img.shields.io/github/stars/H-M-H/Weylus) [Weylus](https://github.com/H-M-H/Weylus) 手机变成电脑的触控屏
 - [Deskreen](https://deskreen.com) 电脑的辅助屏幕 Turn any device into a secondary screen for your computer
 - [synergy](https://symless.com/synergy) 多电脑屏幕共享键盘鼠标
 - [Remote Mouse](https://apps.apple.com/us/app/remote-mouse/id385894596) (iOS)
