@@ -408,17 +408,17 @@
 - [freeCodeCamp](https://freecodecamp.org) nonprofit organization that offers free online coding education
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ripose-jp/Memento) [Memento](https://github.com/ripose-jp/Memento) (Win、macOS、Linux)专为学习日语设计的播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/byoungd/English-level-up-tips) [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
-- 雅思考试：[ielts.neea.cn](https://ielts.neea.cn/)
+- 雅思考试：[ielts.neea.cn](https://ielts.neea.cn)
 - [Twinkl.co.uk](https://www.twinkl.co.uk/)提供幼儿园到高中的词卡、练习纸、电子书、手工、班级管理和教室布置等资源，支持多语言（含中文）。
-- [**Scholastic 学乐出版社**:](https://classroommagazines.scholastic.com/) 幼儿园到高中的“20天学习计划”，涵盖动物、自然、数学等九大主题，绘本视频、科普阅读和练习。
-- [**ReadingIQ**](https://www.readingiq.com/teachers): 海量英文分级阅读图书馆，含迪士尼、漫威等内容，按A-Z、蓝思分级等标准排序。疫情期间对教师免费，个人邮箱可注册。
-- [**British Council**](http://learnenglishkids.britishcouncil.org/): 提供英语教学资源，包括词汇、语法、游戏、视频、教案等，含A-Z关键字搜索功能，便于备课。
-- [**PBS Learning Media**:](https://www.pbslearningmedia.org/) 美国公共广播电视网提供各学科视频、教案、练习题，含《芝麻街》等资源，按年级和学科分类，免费下载。
-- [vooks.com/teacher-appreciation](https://www.vooks.com/teacher-appreciation)：儿童有声动画绘本图书馆，免费一年（需验证），按主题分类，提供教案、提问和活动PDF。
-- **National Geographic Kids**: [kids.nationalgeographic.com](https://kids.nationalgeographic.com/)**特点**: 免费科普平台，提供动物百科、科学实验、环境保护等内容，含图片和视频，无需注册。
-- **NASA STEM**: 教师 [nasa.gov/stem/foreducators/k-12](https://www.nasa.gov/stem/foreducators/k-12) | 学生 [nasa.gov/stem/forstudents](https://www.nasa.gov/stem/forstudents)**特点**: 提供K-12 STEM教案、活动、视频，涵盖航天、宇宙等主题，免费无需注册。
-- **FunBrain**: [funbrain.com](https://www.funbrain.com/)**特点**: 适合幼小至八年级，含英语、数学游戏、图书和视频，按年龄分类，无需注册，寓教于乐。
-- **Highlight Kids**: [highlightskids.com](https://www.highlightskids.com/)**特点**: 提供科学实验、手工、简单料理等动手活动资源，适合儿童在家学习，免费无需注册。
+- [Scholastic 学乐出版社](https://classroommagazines.scholastic.com) 幼儿园到高中的“20天学习计划”，涵盖动物、自然、数学等九大主题，绘本视频、科普阅读和练习。
+- [ReadingIQ](https://www.readingiq.com/teachers) 海量英文分级阅读图书馆，含迪士尼、漫威等内容，按A-Z、蓝思分级等标准排序。疫情期间对教师免费，个人邮箱可注册。
+- [British Council**](http://learnenglishkids.britishcouncil.org) 提供英语教学资源，包括词汇、语法、游戏、视频、教案等，含A-Z关键字搜索功能，便于备课。
+- [PBS Learning Media](https://www.pbslearningmedia.org/) 美国公共广播电视网提供各学科视频、教案、练习题，含《芝麻街》等资源，按年级和学科分类，免费下载。
+- [vooks.com/teacher-appreciation](https://www.vooks.com/teacher-appreciation) 儿童有声动画绘本图书馆，免费一年（需验证），按主题分类，提供教案、提问和活动PDF。
+- [National Geographic Kids](https://kids.nationalgeographic.com/) 免费科普平台，提供动物百科、科学实验、环境保护等内容，含图片和视频，无需注册。
+- [nasa.gov/stem/forstudents](https://www.nasa.gov/stem/forstudents) 学生，提供K-12 STEM教案、活动、视频，涵盖航天、宇宙等主题，免费无需注册。
+- [FunBrain](https://www.funbrain.com) 适合幼小至八年级，含英语、数学游戏、图书和视频，按年龄分类，无需注册，寓教于乐。
+- [Highlight Kids](https://www.highlightskids.com) 提供科学实验、手工、简单料理等动手活动资源，适合儿童在家学习，免费无需注册。
 
 ### 🔣Translations 翻译 Translators
 
@@ -430,14 +430,13 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mengxi-ream/read-frog) [Read Frog](https://github.com/mengxi-ream/read-frog) 陪读蛙，开源沉浸式翻译
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bistutu/FluentRead) [FluentRead](https://github.com/Bistutu/FluentRead)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xiao-zaiyi/illa-helper) [illa-helper](https://github.com/xiao-zaiyi/illa-helper)
-- [Eudic](https://apps.apple.com/app/id367278030) 欧路词典
-  - [LuLu Translate](https://chromewebstore.google.com/detail/djbfechcnkppbknmlhfcaoifgnicolin) 欧路翻译，网页划词翻译工具
+- [Eudic](https://apps.apple.com/app/id367278030) 欧路词典，[LuLu Translate](https://chromewebstore.google.com/detail/djbfechcnkppbknmlhfcaoifgnicolin) 欧路翻译
 - [ImTranslator](https://imtranslator.net)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/InkTimeRecord/TTime) [TTime](https://github.com/InkTimeRecord/TTime)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pot-app/pot-desktop) [Pot (派了个萌的翻译器)](https://github.com/pot-app/pot-desktop) 一个跨平台的划词翻译和OCR软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZGGSONG/STranslate) [STranslate](https://github.com/ZGGSONG/STranslate)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ripperhe/Bob) [Bob](https://github.com/ripperhe/Bob) macOS 平台翻译和 OCR 软件
-- ![GitHub Repo stars](https://img.shields.io/github/stars/fishjar/kiss-translator) [kiss-translator](https://github.com/fishjar/kiss-translator) translation extension & Greasemonkey script
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fishjar/kiss-translator) [KISS Translator](https://github.com/fishjar/kiss-translator) translation extension & Greasemonkey script
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate) [libretranslate](https://github.com/LibreTranslate/LibreTranslate) Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup
 - [Trancy](https://www.trancy.org) 翻译插件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator) [openai-translator](https://github.com/openai-translator/openai-translator) 2024.8.1
@@ -553,17 +552,18 @@
 - [网易爆米花](https://bmh.163.com) 来自网易团队
 - [Forward](https://apps.apple.com/app/id6503940939) (iOS, Apple TV) 新视界
 - [BeeJoy](https://apps.apple.com/us/app/beejoy/id6670792086) (iOS)
-- [IFOX播放器](https://apps.apple.com/us/app/id6737113040) (Apple TV) 来自搜狐团队
+
 - [BoxPlayer](https://apps.apple.com/cn/app/boxplayer/id6739804060)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agersant/polaris) [Polaris](https://github.com/agersant/polaris) (Win) Music streaming application自托管音乐流媒体服务器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/LibreSpark/LibreTV) [LibreTV](https://github.com/LibreSpark/LibreTV) 一分钟搭建影视站，支持Vercel、Docker等部署方式
-- ![GitHub Repo stars](https://img.shields.io/github/stars/senshinya/MoonTV) [MoonTV](https://github.com/senshinya/MoonTV) 一个开箱即用的、跨平台的影视聚合播放站
 - [DeePlayer](https://apps.apple.com/app/id6744684471)
 - [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=en-US&gl=CN) (Win)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MCDFsteve/NipaPlay-Reload) [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) 支持挂载Emby, Jellyfin媒体库
 - 🗃️Archived
   - [IIVA](https://apps.apple.com/us/app/iiva/id1614231457) (最后更新2023.10)
   - [iPlay](https://github.com/ourfor/iPlay)
+  - [IFOX播放器](https://apps.apple.com/us/app/id6737113040) (Apple TV) 来自搜狐团队
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/LibreSpark/LibreTV) [LibreTV](https://github.com/LibreSpark/LibreTV) 一分钟搭建影视站，archived on Nov 5, 2025
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/MoonTechLab/LunaTV) [MoonTV](https://github.com/MoonTechLab/LunaTV) 停止更新
 
 #### 🛑IPTV
 
@@ -893,10 +893,10 @@
 - [One Player](https://apps.apple.com/app/id1614115295) (iOS)(💵)支持歌词需付费
 - [Musixmatch](https://apps.apple.com/us/app/musixmatch-lyrics-finder/id448278467) (iOS)
 - [Phocid](https://github.com/TJYSunset/Phocid) (Android 11+) 本地音乐播放器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_chrome_extension) [Listen 1](https://listen1.github.io/listen1) (Win, Linux) ![Last Commit](https://img.shields.io/github/release-date/listen1/listen1_chrome_extension)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_desktop) [Listen 1](https://github.com/listen1/listen1_desktop) (Win, Linux) ![Last Commit](https://img.shields.io/github/release-date/listen1/listen1_desktop)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) (Win, Linux, macOS) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OuterTune/OuterTune) [Music Player](https://github.com/OuterTune/OuterTune) (Android) support local file & YouTube Music
-- [museeks](https://github.com/martpie/museeks) A simple, clean and cross-platform music player
+- ![GitHub Repo stars](https://img.shields.io/github/stars/martpie/museeks) [museeks](https://github.com/martpie/museeks) A simple, clean and cross-platform music player
 - ![GitHub Repo stars](https://img.shields.io/github/stars/akudamatata/Solara) [Solara](https://github.com/akudamatata/Solara) 一个极简风格的基于免费API的音乐播放器
 - [海螺音乐](https://apps.apple.com/us/app/%E6%B5%B7%E8%9E%BA%E9%9F%B3%E4%B9%90/id6475198331) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/fooyin/fooyin) [fooyin](https://github.com/fooyin/fooyin)
@@ -1204,7 +1204,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/overleaf/overleaf) [overleaf](https://github.com/overleaf/overleaf) A web-based collaborative LaTeX editor
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Zettlr/Zettlr) [Zettlr](https://github.com/Zettlr/Zettlr)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/streetwriters/notesnook) [Notesnook](https://github.com/streetwriters/notesnook) ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases) [Obsidian](https://obsidian.md) (macOS、iOS、Win、Android、Linux) 闭源Freeware，个人免费，官方同步收费。Obsidian LiveSync同步插件。同步手机端使用频率高不建议用obsidian-git 。remotely-save通过Cloudflare R2 (S3 API)在多个设备同步，免费每月10G。iCloud同步缺点: Linux 不好同步；每次打开都要同步 iCloud，vault 较大时间会很久；Home 等页面出现多文件的情况（如 Home Dashboard 2），原因是 iCloud 不会自己同步；iCloud 没有版本管理功能，如果不小心误删文件无法找回（设置删除文件时移动到回收站来解决）；没有数据库管理（当笔记数量很多的时候效率变慢）。无网页版。Obsidian插件：Code editor shortcuts, easy typing, kanban, surfing, advanced tables, better command palette, calendar
+- ![GitHub Repo stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases) [Obsidian](https://obsidian.md) (macOS、iOS、Win、Android、Linux) 闭源Freeware，官方同步收费。Obsidian LiveSync同步插件。同步手机端使用频率高不建议用obsidian-git 。remotely-save通过Cloudflare R2 (S3 API)在多个设备同步，免费每月10G。iCloud同步缺点: Linux 不好同步；每次打开都要同步 iCloud，vault 较大时间会很久；Home 等页面出现多文件的情况（如 Home Dashboard 2），原因是 iCloud 不会自己同步；iCloud 没有版本管理功能，如果不小心误删文件无法找回（设置删除文件时移动到回收站来解决）；没有数据库管理（当笔记数量很多的时候效率变慢）。无网页版。Obsidian插件：Code editor shortcuts, easy typing, kanban, surfing, advanced tables, better command palette, calendar
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/ghostwriter) [GhostWriter](https://github.com/KDE/ghostwriter)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nuttyartist/notes) [Notes](https://github.com/nuttyartist/notes) Version 2.2.1 Latest on 2024.10.11
@@ -1216,7 +1216,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/portive/wysimark) [wysimark](https://github.com/portive/wysimark) Markdown Web 应用程序
 - [Notepad++](https://notepad-plus-plus.org) note taking app ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vim/vim) [Vim](https://github.com/vim/vim)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim) [Neovim](https://github.com/neovim/neovim) (Win, Linux, MacOS)Vim的一个分支
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim) [Neovim](https://github.com/neovim/neovim) (Win, Linux, MacOS)Vim的一个分支，现代化文本编辑器
 - [Sublime Text](https://www.sublimetext.com)
 - [Google Keep](https://keep.google.com) 单个限制2万字符，历史版本仅文本，时间可超半年，支持手绘
 - [Kate](https://kate-editor.org)
@@ -1258,8 +1258,7 @@
 - [RemNote](https://www.remnote.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/orayemre/Notemod) [Notemod](https://github.com/orayemre/Notemod)
 - [Digital Notes](https://apps.apple.com/app/id1480653765) (iOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/OmGodse/Notally) [Notally](https://github.com/OmGodse/Notally) 仅安卓
-- Proton Doc 不支持国家emoji
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OmGodse/Notally) [Notally](https://github.com/OmGodse/Notally) (Android)
 
 ### 👩🏻‍💻Office 办公软件
 
@@ -1270,6 +1269,7 @@
 - [Calligre Suite](https://calligra.org)
 - [KDE Office](https://apps.kde.org/categories/office)
 - [Google Docs](https://docs.google.com)
+- Proton Doc 不支持国家emoji
 
 ### 📧Email 电子邮箱
 
@@ -1342,16 +1342,16 @@
 - [Inoreader](https://www.inoreader.com)
 - [Feedly](https://feedly.com)
 - [Newsblur](https://www.newsblur.com)
-- [FeedFlow](https://www.feedflow.dev) 开源免费，RSS Reader for Android, iOS, and macOS
+- [FeedFlow](https://www.feedflow.dev) (Android, iOS, macOS)开源免费 RSS Reader
 - [Pintap: An RSS Reader](https://apps.apple.com/us/app/pintap-an-rss-reader/id6463398545)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/spacecowboy/Feeder) [Feeder](https://github.com/spacecowboy/Feeder) Android RSS reader app
+- ![GitHub Repo stars](https://img.shields.io/github/stars/spacecowboy/Feeder) [Feeder](https://github.com/spacecowboy/Feeder) (Android) RSS reader app
 - [feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490) (iOS, macOS) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DIYgod/RSSHub) [RSSHub](https://github.com/DIYgod/RSSHub) RSS feed generator
   - ![GitHub Repo stars](https://img.shields.io/github/stars/DIYgod/RSSHub-Radar) [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) Browser extension
   - ![GitHub Repo stars](https://img.shields.io/github/stars/RSSNext/Folo) [Folo](https://github.com/RSSNext/Folo) Next generation AI Reader. Folo客户端开源，后端不开源也没有GPL3协议
 - [Readwise Reader](https://readwise.io) 一站式的资讯阅读，整合RSS订阅、邮件通讯、稍后读等多种功能
 - [Newsify](https://newsify.co)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/brentsimmons/NetNewsWire) [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) (macOS, iOS)RSS reader
+- ![GitHub Repo stars](https://img.shields.io/github/stars/brentsimmons/NetNewsWire) [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) (macOS, iOS)RSS reader ⭐
 - [Reeder.](https://www.reederapp.com)
 - [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) (iOS, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) 多功能的RSS/ATOM提要阅读器
@@ -1369,7 +1369,7 @@
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients/releases) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
 - [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Win, Linux, macOS)开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Win, Linux, macOS)开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) A KeePass/Password Safe Client 需付费
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassium/KeePassium) [KeePassium](https://github.com/keepassium/KeePassium) (iOS, macOS) 需付费
 - ![GitHub Repo stars](https://img.shields.io/github/stars/authpass/authpass) [AuthPass](https://github.com/authpass/authpass) based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible
@@ -1380,7 +1380,6 @@
 - [Proton Pass](https://proton.me/pass) ⭐
 - [1Password 8](https://1password.com/product)
   - [1Password 7](https://apps.apple.com/cn/app/1password-password-manager/id568903335)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop) [Buttercup](https://github.com/buttercup/buttercup-desktop) (iOS, Android)Passwords & Secrets Vault 最后更新May 4, 2024
 - [Password Manager SafeInCloud 2](https://safe-in-cloud.com/en)
 - [Secrets](https://apps.apple.com/app/id1591056366) (macOS, iOS)
 - [LastPass](https://www.lastpass.com) 不推荐
@@ -1392,6 +1391,7 @@
   - Dropbox Passwords 已关闭
   - [Avira Password Manager](https://www.avira.com/en/password-manager)
   - [Dashlane Password Manager](https://www.dashlane.com) 宣布于2025年9月16日停止免费计划
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop) [Buttercup](https://github.com/buttercup/buttercup-desktop) (iOS, Android)Passwords & Secrets Vault 最后更新May 4, 2024, archived on Jun 27, 2025
 
 ### 🗝️2FA secret key(TOTP) 二次验证 2步验证
 
@@ -2126,6 +2126,7 @@ Adblock Filters
 - [ownCloud](https://owncloud.com) 自建云存储服务
 - ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile) [Seafile](https://github.com/haiwen/seafile) Open Source File Sync&Share and Document Collaboration Platform
 - [Cloudreve](https://github.com/cloudreve/Cloudreve) Self-hosted file management and sharing system, supports multiple storage providers
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lithium0003/ccViewer) [CryptCloudViewer](https://github.com/lithium0003/ccViewer) 可以在 Filen.io 云端播放音乐
 
 #### 🍉Cross-Platform File Transfer 跨平台文件传输
 
