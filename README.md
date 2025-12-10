@@ -1486,6 +1486,7 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Nekogram/Nekogram) [Nekogram](https://github.com/Nekogram/Nekogram) (Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/NextAlone/Nagram) [Nagram](https://github.com/NextAlone/Nagram) (Android) 轻量级客户端
   - [Plus Messenger](https://plusmessenger.org)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/AyuGram/AyuGramDesktop) [AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Android) [Signal](https://signal.org) 独立的非营利机构，加密通信
 - [Discord](https://discord.com) ⭐
 - [Element](https://element.io/get-started)
@@ -2210,10 +2211,11 @@ Adblock Filters
 - [Remote Mouse](https://apps.apple.com/us/app/remote-mouse/id385894596) (iOS)
 - [Remote, Mouse & Keyboard Pro](https://apps.apple.com/us/app/remote-mouse-keyboard-pro/id884153085), [Remote, Mouse & Keyboard](https://apps.apple.com/us/app/remote-mouse-keyboard/id629019487) (iOS) 这2个功能一样的
 - [远程鼠标和键盘](https://cherpake.com/apps/remote-mouse-keyboard)、[电视遥控器](https://cherpake.com/apps/remote-control-tv) 来自[Evgeny Cherpak](https://cherpake.com)
-- [deskflow](https://github.com/deskflow/deskflow) Share a single keyboard and mouse between multiple computers
+- ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow) [deskflow](https://github.com/deskflow/deskflow) Share a single keyboard and mouse between multiple computers
 - WOL Wake-on-LAN 局域网电脑唤醒
 - [ToDesk](https://todesk.com/?lang=en) 免费用户配额每月连接时长缩减至80小时
 - PC有线网卡+ddns+端口映射就可以远程唤醒
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kunkundi/crossdesk) [CrossDesk](https://github.com/kunkundi/crossdesk) 跨平台远程桌面软件
 
 ### 📲Screen Share 手机投屏 Screen Mirror
 
