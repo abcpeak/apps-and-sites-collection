@@ -38,6 +38,7 @@
 - [Photo PDF Converter App](https://apps.apple.com/app/id6477564684) (iOS)JPG to PDF, JPEG Converter
 - [Master PDF Editor](https://code-industry.net/get-masterpdfeditor) (Win, Linux, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DDULDDUCK/every-pdf) [Every-PDF](https://github.com/DDULDDUCK/every-pdf) (Win, macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/readur/readur) [readur](https://github.com/readur/readur) 文档管理系统，支持文件上传、OCR 提取文本、多语言搜索和同步，适用于需要快速处理 PDF、图像、Office 文档等的场景
 
 ### 📙Reading 看书软件 电子书
 
@@ -209,6 +210,9 @@
   - [Git Cola](https://git-cola.github.io) (Win, Linux, macOS)
   - [GitKraken](https://www.gitkraken.com) (Win, Linux, macOS)
   - [SourceTree](https://www.sourcetreeapp.com) (Win, macOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegit-scm/sourcegit) [sourcegit](https://github.com/sourcegit-scm/sourcegit) (Win, Linux, macOS)
+  - [ugit](https://ugit.qq.com) 腾讯自研Git客户端
+  - [Fork](https://git-fork.com)  不收费，接受donate
 
 - [GitLab](https://gitlab.com)
 - [Bitbucket](https://bitbucket.org/product)
