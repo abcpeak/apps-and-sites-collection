@@ -39,6 +39,7 @@
 - [Master PDF Editor](https://code-industry.net/get-masterpdfeditor) (Win, Linux, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DDULDDUCK/every-pdf) [Every-PDF](https://github.com/DDULDDUCK/every-pdf) (Win, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/readur/readur) [readur](https://github.com/readur/readur) 文档管理系统，支持文件上传、OCR 提取文本、多语言搜索和同步，适用于需要快速处理 PDF、图像、Office 文档等的场景
+- [JOPDF](https://www.jopdf.com)
 
 ### 📙Reading 看书软件 电子书
 
@@ -89,6 +90,7 @@
 - 公司名单
   - [955.WLB](https://github.com/formulahendry/955.WLB) 955不加班的公司名单
   - [996.ICU](https://github.com/996icu/996.ICU) 工作996生病ICU
+- [潮汕话翻译](https://apps.apple.com/us/app/id6755832408)
 
 ## 👨‍💻Developer Tools 软件开发工具
 
@@ -1184,18 +1186,16 @@
 
 ### 📑Note Taking 笔记软件
 
-> 所见即所得（WYSIWYG）编辑器：Marktext、Typora、Obsidian、VS Code（需安装插件）和思源（Siyuan）。本地编辑工具：Typora、Visual Studio Code、Notepad++、Obsidian和Trilium。富文本编辑器（如Word、OneNote）也支持所见即所得。
->
-> 许多笔记软件不支持原生Markdown，如Obsidian、Joplin、Logseq和Typora都扩展了Markdown语法。Typora和Obsidian在Markdown编辑上存在缺陷，如手动换行和某些LaTeX符号无法。
+> 所见即所得（WYSIWYG）编辑器：Marktext、Typora、Obsidian、VS Code（需安装插件）和思源（Siyuan）。本地编辑工具：Typora、Visual Studio Code、Notepad++、Obsidian和Trilium。富文本编辑器（如Word、OneNote）也支持所见即所得。Obsidian、Joplin、Logseq和Typora都扩展了Markdown语法。Typora和Obsidian在Markdown编辑上存在缺陷，如手动换行和某些LaTeX符号无法。
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy) [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) (Win, macOS, Linux) 使用Rust和Flutter构建
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zed-industries/zed) [Zed](https://github.com/zed-industries/zed) (Win, macOS, Linux) code editor
 - ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext) [Marktext](https://github.com/marktext/marktext) 搜索效率太慢
 - ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin) [Joplin](https://joplinapp.org) (iOS, Win, Android) E2EE端到端加密。安卓不支持笔记内搜索，附件管理比较混乱，且数据存储在数据库中，没有回收站，笔记删除或笔记同步丢失无法找回，界面简陋
-- ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) [AFFiNE](https://github.com/toeverything/AFFiNE) 集写作、绘画、计划管理与一体的软件，免费10G，不支持国家emoji⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) [AFFiNE](https://github.com/toeverything/AFFiNE) 集写作、绘画、计划管理与一体的软件，免费10G，不支持国家emoji ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) [Logseq](https://logseq.com) 2022年获410万美元首轮融资，数据本地化。有小bug，软件质量、稳定性、同步问题比较多 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/usememos/memos) [memos](https://github.com/usememos/memos) 开源轻量级笔记服务
-- ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium) [Trilium](https://github.com/zadam/trilium) (Win, Linux)，笔记数据使用SQLite存储
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium) [Trilium](https://github.com/zadam/trilium) (Win, Linux) 笔记数据使用SQLite存储
 - ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline) [Outline](https://github.com/outline/outline) 成长型团队最快的知识库
 - ![GitHub Repo stars](https://img.shields.io/github/stars/VSCodium/vscodium) [VSCodium](https://vscodium.com) VS Code 的自由开源软件二进制文件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/siyuan-note/siyuan) [SiYuan](https://github.com/siyuan-note/siyuan) 思源笔记
@@ -1209,7 +1209,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/ghostwriter) [GhostWriter](https://github.com/KDE/ghostwriter)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nuttyartist/notes) [Notes](https://github.com/nuttyartist/notes) Version 2.2.1 Latest on 2024.10.11
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gsantner/markor) [Markor](https://github.com/gsantner/markor)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/anyproto/anytype-ts) [Anytype](https://anytype.io) 区块链技术多端同步，去中心化，本地存储，免费100M存储，，没有文档的历史记录，不会有网页版，公司非常小，发展缓慢，开发团队佛系，ios不能复制全部页面（只能复制一行）。database 在 Anytype 中叫做 sets 。导出格式支持markdown和protobuf。protobuf是Google公司提出的一种轻便高效的结构化数据存储格式，常用于结构化数据的序列化，具有语言无关、平台无关、可扩展性特性，常用于通讯协议、服务端数据交换场景
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anyproto/anytype-ts) [Anytype](https://anytype.io) 区块链技术多端同步，去中心化，本地存储，免费100M存储，没有文档的历史记录，不会有网页版，公司常小发展慢，开发团队佛系，iOS不能复制全部页面（只能复制一行）。database在Anytype中叫做sets。导出格式支持markdown和protobuf。protobuf是Google公司提出的一种轻便高效的结构化数据存储格式，常用于结构化数据的序列化，具有语言无关、平台无关、可扩展性特性，常用于通讯协议、服务端数据交换场景
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Alexey-T/CudaText) [CudaText](https://github.com/Alexey-T/CudaText)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mayneyao/eidos) [Eidos](https://github.com/mayneyao/eidos) Offline alternative to Notion
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Beaver-Notes/Beaver-Notes) [Beaver Notes](https://github.com/Beaver-Notes/Beaver-Notes) 海狸笔记
@@ -1224,13 +1224,13 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) [docmost](https://github.com/docmost/docmost) 协作 wiki 和文档软件
 - [Notion](https://www.notion.com) (cross-platform) Note-Taking ⭐
 - [Tana](https://tana.inc)
-- [Coda](https://coda.io) All-in-One Doc for Teams，基于 Google Chrome，类似Notion
-- [Bear](https://bear.app/cn) 熊掌记(macOS, iOS)
+- [Coda](https://coda.io) All-in-One Doc for Teams，基于Chrome，类似Notion
+- [Bear](https://bear.app/cn) (macOS, iOS) 熊掌记
 - [Craft](https://www.craft.do) (macOS, iOS、Win, Web) 免费1G存储
 - [Drafts](https://getdrafts.com) (macOS, iOS) 本地，支持TOC，语音输入转文字，拖动行排列，右上角选markdown可以预览md，全文搜索，find section区域内搜索
 - [Effie](https://www.effie.co)
 - [Goodnotes](https://www.goodnotes.com) (macOS, iOS, Win, Android)
-- [Notability](https://notability.com/zh-Hans) (iOS) iPad手写，离线记录，本地，webdav 、笔记自动备份成pdf。缺点仅iOS，小公司，同步要钱
+- [Notability](https://notability.com/zh-Hans) (iOS) iPad手写，离线记录，本地，webdav 、笔记自动备份成pdf。缺点仅iOS，小公司，同步收费
 - [OneNote](https://www.onenote.com) 微软旗下
 - [Microsoft Loop](https://loop.microsoft.com) 微软旗下
 - [Roam Research](https://roamresearch.com) 付费，知识管理
@@ -1282,7 +1282,7 @@
 - [Yandex Mail](https://mail.yandex.com) 俄罗斯
 - [GMX Mail](https://signup.gmx.com) 德国
 - [Naver Mail](https://mail.naver.com) 韩国，36个月不登录会删除账号
-- [Posteo](https://posteo.de) 总部位于德国，每年12欧元，还有一个日历应用
+- [Posteo](https://posteo.de) 德国，每年12欧元，还有一个日历应用
 - [Soverin](https://soverin.net)
 - [Thexyz](https://www.thexyz.com)
 - [Kolab Now](https://kolabnow.com)
@@ -2139,7 +2139,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/magic-wormhole/magic-wormhole) [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，开源跨平台文件传输工具
   - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) 通过 Magic Wormhole 协议创建的应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) 适用于macOS的Android文件传输
-- [Blip](https://blip.net)
+- [Blip](https://blip.net) 即传即下，No waiting to upload and download separately.
 - [Photon](https://photondev.netlify.app)
 
 ### 📥Downloader 下载器
