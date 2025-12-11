@@ -2148,16 +2148,15 @@ Adblock Filters
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) 开源免费 YouTube 第三方客户端去广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt) [cobalt](https://github.com/imputnet/cobalt) 没有广告、跟踪器的免费在线下载工具
-- ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic)
 - [iTubeGo](https://itubego.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT) [BiglyBT](https://www.github.com/BiglySoftware/BiglyBT) 开源免费BT种子客户端
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl) [youtube-dl](https://github.com/ytdl-org/youtube-dl) YouTube download
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/alexta69/metube) [MeTube](https://github.com/alexta69/metube) youtube-dl web UI
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) [yt-dlp](https://github.com/yt-dlp/yt-dlp) A youtube-dl fork with additional features and fixes. Most active fork of yt-dl.
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/JunkFood02/Seal) [Seal](https://github.com/JunkFood02/Seal) Video/Audio Downloader for Android, based on yt-dlp
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) 基于 yt-dlp 项目的音视频下载工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl) [youtube-dl](https://github.com/ytdl-org/youtube-dl) YouTube download. Dec 17, 2021
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/alexta69/metube) [MeTube](https://github.com/alexta69/metube) Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) [yt-dlp](https://github.com/yt-dlp/yt-dlp) A youtube-dl fork with additional features and fixes. Most active fork of yt-dl. ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/JunkFood02/Seal) [Seal](https://github.com/JunkFood02/Seal) Video/Audio Downloader for Android, based on yt-dlp. Oct 17, 2024
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) 基于 yt-dlp 项目的音视频下载工具 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/axcore/tartube) [Tartube](https://github.com/axcore/tartube) GUI for yt-dl and yt-dlp. Can download videos with segments cut out.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/KurtBestor/Hitomi-Downloader) [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader/releases/latest)
+
 - [Transmission](https://transmissionbt.com) Bittorrent客户端
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
@@ -2183,7 +2182,8 @@ Adblock Filters
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，停更 ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
-    - ![GitHub Repo stars](https://img.shields.io/github/stars/imfile-io/imfile-desktop) [imFile](https://github.com/imfile-io/imfile-desktop) 基于Motrix的fork并维护，最后更新Aug 29, 2024
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/imfile-io/imfile-desktop) [imFile](https://github.com/imfile-io/imfile-desktop) 基于Motrix的fork并维护，最后更新Aug 29, 2024
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/KurtBestor/Hitomi-Downloader) [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) Oct 27, 2024
 
 ### 🖱️Remote Access and Control 远程访问控制
 
