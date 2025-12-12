@@ -517,6 +517,7 @@
 - [Vinegar - Tube Cleaner](https://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229) (iOS)(💵)picture-in-picture小窗播放
 - [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)(💵)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko) [animeko](https://github.com/open-ani/animeko) 集找番、追番、看番的一站式弹幕追番平台
+- [Player Xtreme – Video Player](https://apps.apple.com/us/app/player-xtreme-video-player/id6737277424) (iOS)
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
@@ -554,7 +555,7 @@
 - [网易爆米花](https://bmh.163.com) 来自网易团队
 - [Forward](https://apps.apple.com/app/id6503940939) (iOS, Apple TV) 新视界
 - [BeeJoy](https://apps.apple.com/us/app/beejoy/id6670792086) (iOS)
-
+- [Lenna](https://apps.apple.com/us/app/lenna-video-library-player/id6502967807)
 - [BoxPlayer](https://apps.apple.com/cn/app/boxplayer/id6739804060)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agersant/polaris) [Polaris](https://github.com/agersant/polaris) (Win) Music streaming application自托管音乐流媒体服务器
 - [DeePlayer](https://apps.apple.com/app/id6744684471)
@@ -1996,6 +1997,10 @@ Adblock Filters
 - Dark Mode 黑暗模式
   - [Noir](https://getnoir.app) Safari黑暗模式
   - [Dark Reader](https://darkreader.org)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) This theme compatible with Firefox 143+ on macOS, Linux & Windows
+
+
+
 
 #### 📜Userscripts Extension Manager 脚本管理，自定义和网页增强
 
@@ -2170,14 +2175,14 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/webtorrent/webtorrent) [WebTorrent Desktop](https://webtorrent.io/desktop)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/webtorrent/instant.io) [instant.io](https://github.com/webtorrent/instant.io) Streaming file transfer over WebTorrent (torrents on the web)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager) [AB Download Manager](https://github.com/amir1376/ab-download-manager)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/yaobiao131/downkyicore) [downkyicore](https://github.com/yaobiao131/downkyicore) (Win, linux, macOS)哔哩哔哩网站视频下载工具 ![Last Commit](https://img.shields.io/github/release-date/yaobiao131/downkyicore)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yaobiao131/downkyicore) [downkyicore](https://github.com/yaobiao131/downkyicore) (Win, linux, macOS)下载哔哩哔哩视频 ![Last Commit](https://img.shields.io/github/release-date/yaobiao131/downkyicore)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhiyiYo/Fluent-M3U8) [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) M3U8下载器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mikf/gallery-dl) [gallery-dl](https://github.com/mikf/gallery-dl) 命令行程序，用于从多个图像托管站点下载图像库和集合
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Ftbom/Aria2Manager) [Aria2Manager](https://github.com/Ftbom/Aria2Manager)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/XiaoYouChR/Ghost-Downloader-3) [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3)
-- [TwitterDown](https://www.twitterdown.com) 在线视频下载Twitter X
+- [TwitterDown](https://www.twitterdown.com) 下载X视频
 - [DownLoadPanda](https://dlpanda.com) DL熊猫
-- [SaveTik](https://savetik.co/zh-cn) 下载没有标志的Tiktok视频
+- [SaveTik](https://savetik.co/zh-cn) 下载Tiktok视频
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 
 - 🗃️Archived
@@ -2420,6 +2425,7 @@ Adblock Filters
 - [Steam](https://store.steampowered.com) 最大的视频游戏在线零售商，游戏时间不到2小时，购买不到14天就可以退款
 - [Twitch](https://www.twitch.tv) 游戏直播平台
 - [Epic](https://store.epicgames.com)
+  - [Epic Games Store](https://store.epicgames.com/en-US/mobile) Mac OS, Android, iPhone (EU only) and iPad (EU only)
 - [Origin](https://www.origin.com) 属于EA公司
 - [Ubisoft](https://www.ubisoft.com)
 - [GOG (Good Old Games)](https://www.gog.com) 类似Steam的DRM-free游戏平台
