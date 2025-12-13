@@ -2021,7 +2021,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey) [Violentmonkey](https://github.com/violentmonkey/violentmonkey) 🐵 暴力猴，更符合国人使用习惯
 - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/scriptscat/scriptcat) [Scriptcat](https://github.com/scriptscat/scriptcat) 脚本猫，纯国产
-- ![GitHub Repo stars](https://img.shields.io/github/stars/quoid/userscripts) [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/quoid/userscripts) [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) (iOS) ⭐
 - [Stay for Safari](https://apps.apple.com/us/app/stay-for-safari/id1591620171) (iOS)($4.99) 深色模式、资源嗅探、广告拦截
 - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey) Firefox Extension，更新缓慢，最后更新Aug 6, 2024
 - [网盘直链下载助手](https://github.com/syhyz1990/baiduyun) 开源协议：AGPL3
