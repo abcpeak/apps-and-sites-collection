@@ -2269,7 +2269,7 @@ Adblock Filters
 - [Norton Antivirus Plus](https://us.norton.com/products/norton-360-antivirus-plus) 诺顿公司成立于1990年，总部位于美国加利福尼亚州的山景城
 - [ESET NOD32 Antivirus](https://www.eset.com/int/home/antivirus/download)
 - [McAfee](https://www.mcafee.com)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ukanth/afwall) [AFWall+](https://github.com/ukanth/afwall) (Android) - iptables based firewall
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ukanth/afwall) [AFWall+](https://github.com/ukanth/afwall) (Android) iptables based firewall
 - [VirusTotal](https://www.virustotal.com) 在线查毒引擎
 - [Kaspersky](https://www.kaspersky.com) 卡巴斯基
 - [Malwarebytes](https://www.malwarebytes.com)
@@ -2326,7 +2326,7 @@ Adblock Filters
 - 激活Windows和Office
   - [TSforge](https://massgrave.dev/blog/tsforge) 永久激活Windows和Office
   - ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition) [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) Win10/Win11 数字权利（数字许可证）激活工具
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts)[Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts) [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator) [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases) 可永久激活Windows 11和Microsoft Office
 
 ### 🐧Linux
@@ -2336,12 +2336,12 @@ Adblock Filters
 - [Oracle Linux](https://www.oracle.com/linux)
 - [Arch Linux](https://archlinux.org) 追求简洁与轻量化
   - [EndeavourOS](https://endeavouros.com) 基于 Arch Linux 的轻量级 Linux 发行版
-- [Ubuntu](https://ubuntu.com) 基于Debian，以桌面应用为主的Linux发行版。使用GNOME桌面环境。
-  - [Linux Mint](https://linuxmint.com) 基于Ubuntu的Linux发行版，由Linux Mint Team团队于2006年开始发行。
-  - [elementary OS](https://elementary.io) 基于Ubuntu的桌面Linux发行版。采用自有的基于GNOME的名为Pantheon的桌面环境。
-  - [Zorin OS](https://zorinos.com) (需付费)基于Ubuntu的Linux发行版。其目的是尽可能的模拟Windows的操作习惯，让用户可以方便的使用。
-  - [Xubuntu](https://xubuntu.org) Ubuntu操作系统的衍生版本。Xubuntu使用Xfce桌面环境，而不是Ubuntu的GNOME桌面环境。
-- [Debian](https://www.debian.org) Linux开源社区项目，项目的一切都由其社区成员管理。
+- [Ubuntu](https://ubuntu.com) 基于Debian，以桌面应用为主的Linux发行版。使用GNOME桌面环境
+  - [Linux Mint](https://linuxmint.com) 基于Ubuntu的Linux发行版，由Linux Mint Team团队于2006年开始发行
+  - [elementary OS](https://elementary.io) 基于Ubuntu的桌面Linux发行版。采用自有的基于GNOME的名为Pantheon的桌面环境
+  - [Zorin OS](https://zorinos.com) (需付费)基于Ubuntu的Linux发行版。其目的是尽可能的模拟Windows的操作习惯，让用户可以方便的使用
+  - [Xubuntu](https://xubuntu.org) Ubuntu操作系统的衍生版本。Xubuntu使用Xfce桌面环境，而不是Ubuntu的GNOME桌面环境
+- [Debian](https://www.debian.org) Linux开源社区项目，项目的一切都由其社区成员管理
   - [Vanilla OS](https://vanillaos.org) 新版基于Debian Sid
   - [openmediavault](https://www.openmediavault.org) 基于Debian Linux的下一代网络附加存储（NAS）解决方案
 - [Fedora](https://www.fedoraproject.org) 由Fedora项目（由Red Hat赞助）构建和维护
