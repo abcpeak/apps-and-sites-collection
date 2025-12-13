@@ -2107,22 +2107,22 @@ Adblock Filters
 - [Google Drive](https://drive.google.com) 免费15G，单文件5G
   - [Google Photos](https://photos.google.com) 来自谷歌
 - [iCloud](https://www.icloud.com) 来自苹果，免费5G
-- [Dropbox](https://www.dropbox.com) 支持live图，免费版限制三台设备，至少12个月内活跃一次
-- [MEGA](https://mega.nz) 来自新西兰，免费20G，至少每3个月登录一次，支持Save HEIC as JPG
+- [Dropbox](https://www.dropbox.com) 支持live图，免费版限制三台设备，12个月内活跃
+- [MEGA](https://mega.nz) 来自新西兰，免费20G，3个月内活跃，支持Save HEIC as JPG
 - [Box](https://www.box.com) 总部位于美国，免费版单文件限制250Mb
 - [SugarSync](https://www1.sugarsync.com)
-- [pCloud](https://www.pcloud.com) 来自瑞士，研发团队在保加利亚，至少12个月内活跃一次
+- [pCloud](https://www.pcloud.com) 来自瑞士，研发团队在保加利亚，12个月内活跃
 - [icedrive](https://icedrive.net)
 - [Degoo Cloud](https://degoo.com)
 - [Amazon Cloud Drive](https://www.amazon.com/clouddrive)
 - [Allsync](https://allsync.com)
 - [Naver MYBOX](https://mybox.naver.com)
-- [Koofr](https://app.koofr.net) 欧洲Slovenia的网盘服务商，免费10G，免费版仅能连接2个云，至少2年内活跃一次
+- [Koofr](https://app.koofr.net) 欧洲Slovenia的网盘服务商，免费10G，免费版仅能连接2个云，2年内活跃
 - [Bitrix24](https://www.bitrix24.fr)
 - [PikPak](https://pikpak.me) 新加坡的团队开发
-- [Filen](https://filen.io) 2020年初在德国雷克林豪森成立，至少每3个月登录一次，E2EE存储 ⭐
+- [Filen](https://filen.io) 2020年初在德国雷克林豪森成立，E2EE存储，3个月内活跃 ⭐
 - [Sync](https://www.sync.com)
-- [Proton Drive](https://drive.proton.me) 免费5G，至少12个月内活跃一次
+- [Proton Drive](https://drive.proton.me) 免费5G，12个月内活跃
 - [Rakuten Drive](https://www.rakuten-drive.com) 乐天网盘，免费10G
 - [TorBox](https://torbox.app) 免费10G
 - [TeraBox](https://www.terabox.com)
