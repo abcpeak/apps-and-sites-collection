@@ -1159,7 +1159,7 @@
 
 5.**其他AI工具与扩展**
 
-- [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx) Nvidia英伟达发布的AI工具，可以选择使用 Ilama 或 Mistral 的 AI 模型
+- [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx) Nvidia英伟达发布的AI工具，可以使用Ilama或Mistral AI 模型
 - [Midjourney](https://www.midjourney.com) Midjourney研究实验室，通过文本生成图像的AI
 - ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark) [Bark](https://github.com/suno-ai/bark) 高度逼真的开源、生成式文字转语音模型
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BlinkDL/AI-Writer) [CodeFormer](https://github.com/BlinkDL/AI-Writer) AI写小说
