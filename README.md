@@ -1373,6 +1373,7 @@
 - [qireader](https://www.qireader.com) (Web-App) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/damoeb/rss-proxy) [RSS-proxy](https://github.com/damoeb/rss-proxy) RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/johnwarne/upvote-rss) [RSS-proxy](https://github.com/johnwarne/upvote-rss) 从 Reddit、Hacker News、Lemmy、Mbin 等网站生成个性化的 RSS 订阅源
+- ![GitHub Repo stars](https://img.shields.io/github/stars/WCY-dt/MrRSS) [MrRSS](https://github.com/WCY-dt/MrRSS)
 
 ### 🔐Password Manager 密码管理 PWM
 
@@ -2040,7 +2041,7 @@ Adblock Filters
 ### 📂File Manager 文件管理
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/files-community/Files) [Files](https://github.com/files-community/Files) 开源文件管理器
-- [Everything](https://www.voidtools.com) (Win)文件查找 文件重命名
+- [Everything](https://www.voidtools.com) (Win)文件查找 文件重命名 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/srwi/EverythingToolbar) [EverythingToolbar](https://github.com/srwi/EverythingToolbar) Tweaked Taskbars
 - [Listary](https://www.listary.com) 第三方的文件管理系统 搜索实用程序
 - [TextSeek](https://www.textseek.net/en) (💵)
@@ -2048,7 +2049,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WinMerge/winmerge) [WinMerge](https://github.com/WinMerge/winmerge) differencing and merging tool
 - [Q-Dir](https://q-dir.com) Quad Explorer 免费软件
 - [AllDup](https://alldup.info) 重复文件查找
-- [FastCopy](https://fastcopy.jp) 复制增强工具
+- [FastCopy](https://fastcopy.jp) 复制增强工具 ⭐
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk) 文件重命名
 - [ReNamer](https://www.den4b.com/products/renamer) (Win) 文件重命名
 - ![GitHub Repo stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive) [Spacedrive](https://github.com/spacedriveapp/spacedrive) (Win)
