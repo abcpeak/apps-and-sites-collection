@@ -1869,7 +1869,7 @@ Adblock Filters
 
 ### 🌐Browsers 浏览器
 
-> 浏览器3大阵营Blink(Chromium), Webkit(Safari), Gecko(Firefox), 支持Manifest V2：Brave, Safari, Firefox, Supermium。不再支持Manifest V2：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
+> 支持Manifest V2：Brave, Safari, Firefox, Supermium。不再支持Manifest V2：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://www.chromium.org/getting-involved/download-chromium) Blink浏览器引擎，Webkit的分支内核，The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
