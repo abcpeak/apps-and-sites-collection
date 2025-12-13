@@ -2378,7 +2378,7 @@ Adblock Filters
   - [TWRP](https://twrp.me) Android设备上进行备份、恢复、刷机
 
 - Android Simulator 安卓模拟器 虚拟化
-  - [腾讯手游助手](https://syzs.qq.com)：腾讯收购了[GameLoop](https://gameloop.fun)
+  - [腾讯手游助手](https://syzs.qq.com) 腾讯收购了[GameLoop](https://gameloop.fun)
   - [LDplayer](https://www.ldplayer.net)
   - [Android Studio’s](https://developer.android.com/studio)
   - [NOX](https://www.bignox.com) 夜神模拟器
