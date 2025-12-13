@@ -1103,36 +1103,46 @@
 
 > AI Hub 聚合AI平台 人工智能(Artificial Intelligence)
 
+1.**Prompt 与 AI 资源集合**
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts) [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ai-collection/ai-collection) [ai-collection](https://github.com/ai-collection/ai-collection)
 
-- [DuckDuckGo AI](https://duck.ai) DuckDuckGo AI
-- [Lumo](https://lumo.proton.me) Proton AI
-- [Poe](https://poe.com) Quora搭建的AI产品，支持ChatGPT、Sage、Dragonfly、Claude等💥
-- [Coze](https://www.coze.com)
-- [You.com](https://you.com)
-- [Mistral AI](https://chat.mistral.ai/chat)
+2.**多模型聊天网页/客户端（支持同时访问多个AI）**
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL) [ChatALL](https://github.com/sunner/ChatALL) Chat with ALL AI Bots Concurrently
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat) [Lobe Chat](https://github.com/lobehub/lobe-chat) 一键免费拥有你自己的ChatGPT/Gemini/Claude/Ollama应用
 - [Monica](https://monica.im) (全平台)AI助手
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox) [Chatbox](https://github.com/Bin-Huang/chatbox) (全平台)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio) [Cherry Studio](https://github.com/CherryHQ/cherry-studio)
-- [Perplexity](https://www.perplexity.ai)
+
 - [OpenCat](https://opencat.app) (iOS, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ChatBot-All/chatbot-app) [ChatBot](https://github.com/ChatBot-All/chatbot-app) (iOS, macOS, Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat) [NextChat](https://github.com/ChatGPTNextWeb/NextChat) (全平台)
+
+3.**主流商业AI**
 
 - [Grok](https://grok.com) Grok是由xAI开发的人工智能聊天机器人，xAI是一家由Elon Musk于2023年3月创立的公司
 - [ChatGPT](https://chat.openai.com) OpenAI公司研发的Chat Generative Pre-trained Transformer
 - [Copilot](https://copilot.cloud.microsoft) Microsoft
   - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed) [DeepSpeed](https://github.com/microsoft/DeepSpeed) Microsoft DeepSpeed Chat
   - [Microsoft Azure](https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/?speed=0&pitch=0#features) Azure AI 语音，微软文本转语音
-- ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3) [Llama 3](https://github.com/meta-llama/llama3) Meta发布的免费商业应用的开源AI模型
-  - [AudioCraft](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio) 文本生成音频和音乐，融合AudioGen、EnCodec和MusicGen三种模型
+- [Perplexity](https://www.perplexity.ai)
 - [Google Gemini](https://gemini.google.com) 谷歌的人工智能Gemini
   - [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech)
-- [Claude in Slack](https://www.anthropic.com/claude-in-slack) Anthropic公司研发，由前OpenAI工程师于2021年创立，谷歌和亚马逊都有投资
-  - [Claude](https://claude.ai)
+- [Claude](https://claude.ai) Anthropic公司研发，由前OpenAI工程师于2021年创立，谷歌和亚马逊都有投资
+
+- [DuckDuckGo AI](https://duck.ai)
+- [Lumo](https://lumo.proton.me) Proton AI
+- [Poe](https://poe.com) Quora出品，支持多模型（ChatGPT/Claude 等）
+- [Coze](https://www.coze.com) 字节跳动 Coze（国际版）
+- [You.com](https://you.com)
+- [Mistral AI](https://chat.mistral.ai/chat)
+
+4.**开源AI模型与框架**
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama3) [Llama 3](https://github.com/meta-llama/llama3) Meta发布的免费商业应用的开源AI模型
+  - [AudioCraft](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio) 文本生成音频和音乐，融合AudioGen、EnCodec和MusicGen三种模型
 - ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers) [Transformers](https://github.com/huggingface/transformers) 支持三个最热门的深度学习库：Jax、PyTorch和TensorFlow
   - [Hugging Face](https://huggingface.co)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableLM) [StableLM](https://github.com/Stability-AI/StableLM) 创业公司Stability AI发布训练的大语言模型
@@ -1141,11 +1151,14 @@
   - [DreamStudio](https://beta.dreamstudio.ai)
   - [Stable Audio](https://stableaudio.com) 文字生成音乐模型
   - ![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/stable-diffusion-webui-colab) [stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/deforum-art/deforum-stable-diffusion) [deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) 由 Deforum 团队制作的一个支持动画视频功能的 Google Colab 版的 Stable Diffusion，可以通过 Google Colab 在线运行，也可以部署到本地运行。
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/deforum-art/deforum-stable-diffusion) [deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) 由 Deforum 团队制作的一个支持动画视频功能的 Google Colab 版的 Stable Diffusion，可以通过Google Colab在线运行，也可以部署到本地运行。
   - [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) StableDiffusion WebGPU DEMO
   - [stable-diffusion-webgpu-minimal](https://github.com/dakenf/stable-diffusion-webgpu-minimal) StableDiffusion WebGPU DEMO
 - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3) [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) 为可扩展和高效的语言处理而设计
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1) [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) 用于推理任务，加强了大模型的深度思考能力
+
+5.**其他AI工具与扩展**
+
 - [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx) Nvidia英伟达发布的AI工具，可以选择使用 Ilama 或 Mistral 的 AI 模型
 - [Midjourney](https://www.midjourney.com) Midjourney研究实验室，通过文本生成图像的AI
 - ![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark) [Bark](https://github.com/suno-ai/bark) 高度逼真的开源、生成式文字转语音模型
@@ -1159,10 +1172,7 @@
 - [Midjourney](https://www.midjourney.com) 通过文本生成图像的AI
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) AutoGPT is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT) [AgentGPT](https://github.com/reworkd/AgentGPT) 浏览器中运行的任务驱动的自主AI思考工具，需要服务器部署
-- ![GitHub Repo stars](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt) [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ChatGPT On Wechat via wechaty
-- ![GitHub Repo stars](https://img.shields.io/github/stars/memochou1993/gpt-ai-assistant) [GPT AI Assistant](https://github.com/memochou1993/gpt-ai-assistant) GPT LINE bot on Vercel
-- ![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/OpenChatKit) [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) 前 OpenAI 的团队打造
-- ![GitHub Repo stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant) [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) 由德国的一家非营利组织 LAION 运营的，号称全球最大的 ChatGPT 开源复制品，目前支持35种语言
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/go-skynet/LocalAI) [LocalAI](https://github.com/go-skynet/LocalAI) 用于本地推理的与OpenAI API规范兼容的REST API，它允许使用消费级硬件在本地或本地运行模型，支持与 ggml 格式兼容的多个模型系列
 - [Chatbase](https://www.chatbase.co) 网站小部件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced) [WebChatGPT](https://github.com/qunash/chatgpt-advanced) 浏览器扩展，Web结果增强ChatGPT提示
@@ -1174,6 +1184,10 @@
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui) [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lencx/ChatGPT) [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant) [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) 2023
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/OpenChatKit) [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) 前 OpenAI 的团队打造
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt) [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ChatGPT On WeChat via wechaty
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/memochou1993/gpt-ai-assistant) [GPT AI Assistant](https://github.com/memochou1993/gpt-ai-assistant) GPT LINE bot on Vercel
 
 ### ✅To do list, Task, Reminder
 
@@ -1368,7 +1382,7 @@
 - [Microsoft Password Manager in Edge](https://www.microsoft.com/en-us/edge/download)
 - [Google Password Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager&pli=1) (Android)
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients/releases) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
 - [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Win, Linux, macOS)开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) A KeePass/Password Safe Client 需付费
@@ -1695,7 +1709,8 @@ Adblock Filters
 
 - iOS VPN: [Surge](https://apps.apple.com/us/app/surge-5/id1442620678), [Shadowsocket](https://apps.apple.com/ie/app/shadowrocket/id932747118), [sing-box](https://apps.apple.com/us/app/sing-box-vt/id6673731168), [Potatso](https://apps.apple.com/us/app/potatso/id1239860606), Wingy, [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620), squirrelVPN, nthLink, banana, gitspeed, flyrouter, mumevpn, anyconnect, Kitsunebi, [Outline App](https://apps.apple.com/us/app/outline-app/id1356177741), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [Loon](https://apps.apple.com/us/app/loon/id1373567447), [jamjams](https://apps.apple.com/us/app/jamjams/id6477182037), wireguard, [V2box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690), [Streisand](https://apps.apple.com/us/app/streisand/id6450534064), [Clash Mi](https://apps.apple.com/us/app/clash-mi/id6744321968)
 
-- Android VPN: [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid), [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid), [v2rayNG](https://github.com/2dust/v2rayNG), [Surfboard](https://github.com/getsurfboard/surfboard), [Hiddify Next](https://github.com/hiddify/hiddify-next), [Clash for Flutter](https://github.com/mapleafgo/clash-for-flutter), [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases), [sing-box](https://github.com/SagerNet/sing-box),
+- Android VPN: [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid), [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid), [v2rayNG](https://github.com/2dust/v2rayNG), [Surfboard](https://github.com/getsurfboard/surfboard), [Hiddify Next](https://github.com/hiddify/hiddify-next), [Clash for Flutter](https://github.com/mapleafgo/clash-for-flutter), [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [Sing Box](https://github.com/SagerNet/sing-box)
 
 - VPS IDC 自建机场
   - [BandwagonHost VPS](https://bandwagonhost.com) 搬瓦工 老牌VPS服务商
@@ -1998,9 +2013,6 @@ Adblock Filters
   - [Noir](https://getnoir.app) Safari黑暗模式
   - [Dark Reader](https://darkreader.org)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) This theme compatible with Firefox 143+ on macOS, Linux & Windows
-
-
-
 
 #### 📜Userscripts Extension Manager 脚本管理，自定义和网页增强
 
@@ -2415,7 +2427,7 @@ Adblock Filters
 - [OpenWrt](https://openwrt.org) OpenWrt固件 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/vernesong/OpenClash) [OpenClash](https://github.com/vernesong/OpenClash) 在OpenWrt上运行的Clash客户端
   - ![GitHub Repo stars](https://img.shields.io/github/stars/nikkinikki-org/OpenWrt-nikki) [OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) 代理软件
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [Sing Box](https://github.com/SagerNet/sing-box)
+
 - 梅林(Merlin)路由器科学上网软件：[fancyss](https://github.com/hq450/fancyss) 、[梅林Clash教程](https://mcreadme.gitbook.io/mc)
   - Merlin Clash插件：运行在KoolCenter软件中心上的Clash GUI插件，支持SS/SSR/Trojan/V2Ray等多种协议
 - 华硕路由器固件：[Asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin)
