@@ -410,7 +410,7 @@
 - [freeCodeCamp](https://freecodecamp.org) nonprofit organization that offers free online coding education
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ripose-jp/Memento) [Memento](https://github.com/ripose-jp/Memento) (Win、macOS、Linux)专为学习日语设计的播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/byoungd/English-level-up-tips) [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
-- 雅思考试：[ielts.neea.cn](https://ielts.neea.cn)
+- [ielts.neea.cn](https://ielts.neea.cn) 雅思考试
 - [Twinkl.co.uk](https://www.twinkl.co.uk/)提供幼儿园到高中的词卡、练习纸、电子书、手工、班级管理和教室布置等资源，支持多语言（含中文）。
 - [Scholastic 学乐出版社](https://classroommagazines.scholastic.com) 幼儿园到高中的“20天学习计划”，涵盖动物、自然、数学等九大主题，绘本视频、科普阅读和练习。
 - [ReadingIQ](https://www.readingiq.com/teachers) 海量英文分级阅读图书馆，含迪士尼、漫威等内容，按A-Z、蓝思分级等标准排序。疫情期间对教师免费，个人邮箱可注册。
@@ -418,13 +418,13 @@
 - [PBS Learning Media](https://www.pbslearningmedia.org/) 美国公共广播电视网提供各学科视频、教案、练习题，含《芝麻街》等资源，按年级和学科分类，免费下载。
 - [vooks.com/teacher-appreciation](https://www.vooks.com/teacher-appreciation) 儿童有声动画绘本图书馆，免费一年（需验证），按主题分类，提供教案、提问和活动PDF。
 - [National Geographic Kids](https://kids.nationalgeographic.com/) 免费科普平台，提供动物百科、科学实验、环境保护等内容，含图片和视频，无需注册。
-- [nasa.gov/stem/forstudents](https://www.nasa.gov/stem/forstudents) 学生，提供K-12 STEM教案、活动、视频，涵盖航天、宇宙等主题，免费无需注册。
-- [FunBrain](https://www.funbrain.com) 适合幼小至八年级，含英语、数学游戏、图书和视频，按年龄分类，无需注册，寓教于乐。
+- [nasa.gov/stem/forstudents](https://www.nasa.gov/stem/forstudents) K-12 STEM教案、活动、视频，涵盖航天、宇宙等主题，免费无需注册。
+- [FunBrain](https://www.funbrain.com) 幼小至八年级，含英语、数学游戏、图书和视频，按年龄分类，无需注册，寓教于乐。
 - [Highlight Kids](https://www.highlightskids.com) 提供科学实验、手工、简单料理等动手活动资源，适合儿童在家学习，免费无需注册。
 
 ### 🔣Translations 翻译 Translators
 
-- [Google Translate](https://translate.google.us)
+- [Google Translate](https://translate.google.com)
 - [DeepL](https://www.deepl.com/translator)
 - [VoiceTra](https://apps.apple.com/us/app/voicetra/id581137577) 精准的日语翻译
 - ![GitHub Repo stars](https://img.shields.io/github/stars/CopyTranslator/CopyTranslator) [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) 最后更新2023.2.27
