@@ -1356,6 +1356,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/damoeb/rss-proxy) [RSS-proxy](https://github.com/damoeb/rss-proxy) RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/johnwarne/upvote-rss) [upvote-rss](https://github.com/johnwarne/upvote-rss) 从 Reddit、Hacker News、Lemmy、Mbin 等网站生成个性化的 RSS 订阅源
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WCY-dt/MrRSS) [MrRSS](https://github.com/WCY-dt/MrRSS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/quick-rss) [Quick RSS](https://github.com/jaywcjlove/quick-rss) RSS reader
 
 ### 🔐Password Manager 密码管理 PWM
 
