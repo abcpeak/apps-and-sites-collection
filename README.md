@@ -1208,7 +1208,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext) [Marktext](https://github.com/marktext/marktext) 搜索效率太慢
 - ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin) [Joplin](https://joplinapp.org) (iOS, Win, Android) E2EE端到端加密。安卓不支持笔记内搜索，附件管理比较混乱，且数据存储在数据库中，没有回收站，笔记删除或笔记同步丢失无法找回，界面简陋
 - ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) [AFFiNE](https://github.com/toeverything/AFFiNE) 集写作、绘画、计划管理与一体的软件，免费10G，不支持国家emoji ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) [Logseq](https://logseq.com) 2022年获410万美元首轮融资，数据本地化。有小bug，软件质量、稳定性、同步问题比较多 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) [Logseq](https://logseq.com) 2022年获410万美元首轮融资，数据本地化。稳定性、同步bug较多 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/usememos/memos) [memos](https://github.com/usememos/memos) 开源轻量级笔记服务
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium) [Trilium](https://github.com/zadam/trilium) (Win, Linux) 笔记数据使用SQLite存储
 - ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline) [Outline](https://github.com/outline/outline) 成长型团队最快的知识库
@@ -1319,7 +1319,7 @@
 - [Zoho Mail](https://www.zoho.com)
 - [Rackspace](https://apps.rackspace.com/login)
 - [Thunderbird](https://www.thunderbird.net/en-US) 雷鸟邮件客户端
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android) Thunderbird
 - [Spark Mail](https://sparkmailapp.com) 乌克兰公司Readdle的邮箱产品
 - [Mailbird](https://www.getmailbird.com) 免费版支持1个账户
 - [Airmail](https://airmailapp.com) (macOS, iOS)
