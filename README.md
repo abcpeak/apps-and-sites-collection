@@ -409,7 +409,7 @@
 - [DeepL](https://www.deepl.com/translator)
 - [VoiceTra](https://apps.apple.com/us/app/voicetra/id581137577) 精准的日语翻译
 - ![GitHub Repo stars](https://img.shields.io/github/stars/CopyTranslator/CopyTranslator) [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) 最后更新2023.2.27
-- [Immersive Translate](https://immersivetranslate.com) 沉浸式翻译(不推荐)
+- [Immersive Translate](https://immersivetranslate.com) 沉浸式翻译
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mengxi-ream/read-frog) [Read Frog](https://github.com/mengxi-ream/read-frog) 陪读蛙，开源沉浸式翻译
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bistutu/FluentRead) [FluentRead](https://github.com/Bistutu/FluentRead)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xiao-zaiyi/illa-helper) [illa-helper](https://github.com/xiao-zaiyi/illa-helper)
@@ -851,7 +851,7 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dream7180/foobox-cn) [foobox-cn](https://github.com/dream7180/foobox-cn) foobar2000 DUI配置 ![Last Commit](https://img.shields.io/github/release-date/dream7180/foobox-cn)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/digimezzo/dopamine) [Dopamine](https://github.com/digimezzo/dopamine) (Windows, Linux and Mac)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GStreamer/gstreamer) [GStreamer](https://github.com/GStreamer/gstreamer) GStreamer open-source multimedia framework
-- [Winamp](https://winamp.com) (Android, iOS) 不推荐
+- [Winamp](https://winamp.com) (Android, iOS)
 - [Qmmp](https://qmmp.yloftware.com) (Win)开源的音乐播放器Qt-based Multimedia Player
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicPlayer) [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) (Win, Linux) ![Last Commit](https://img.shields.io/github/release-date/Greedysky/TTKMusicPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
@@ -1305,6 +1305,7 @@
 - [Mailbird](https://www.getmailbird.com) 免费版支持1个账户
 - [Airmail](https://airmailapp.com) (macOS, iOS)
 - [Vivaldi Webmail](https://webmail.vivaldi.net) 位于冰岛
+- [Secria](https://secria.me) 完全加密的、注重隐私保护，无广告，无监控
 
 #### Mail Forwarding 邮件转发 别名邮箱 临时邮件
 
@@ -1353,7 +1354,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) 多功能的RSS/ATOM提要阅读器
 - [qireader](https://www.qireader.com) (Web-App) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/damoeb/rss-proxy) [RSS-proxy](https://github.com/damoeb/rss-proxy) RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/johnwarne/upvote-rss) [RSS-proxy](https://github.com/johnwarne/upvote-rss) 从 Reddit、Hacker News、Lemmy、Mbin 等网站生成个性化的 RSS 订阅源
+- ![GitHub Repo stars](https://img.shields.io/github/stars/johnwarne/upvote-rss) [upvote-rss](https://github.com/johnwarne/upvote-rss) 从 Reddit、Hacker News、Lemmy、Mbin 等网站生成个性化的 RSS 订阅源
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WCY-dt/MrRSS) [MrRSS](https://github.com/WCY-dt/MrRSS)
 
 ### 🔐Password Manager 密码管理 PWM
@@ -1379,16 +1380,18 @@
   - [1Password 7](https://apps.apple.com/cn/app/1password-password-manager/id568903335)
 - [Password Manager SafeInCloud 2](https://safe-in-cloud.com/en)
 - [Secrets](https://apps.apple.com/app/id1591056366) (macOS, iOS)
-- [LastPass](https://www.lastpass.com) 不推荐
+
 - [Norton Password](https://my.norton.com/extspa/passwordmanager)
 - [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) 免费版限制200个密码
 - [MEGA Pass](https://mega.io/pass) €0.99 per month
+
 - 🗃️Archived
   - Dropbox Passwords 已关闭
   - [Avira Password Manager](https://www.avira.com/en/password-manager)
   - [Dashlane Password Manager](https://www.dashlane.com) 宣布于2025年9月16日停止免费计划
   - ![GitHub Repo stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop) [Buttercup](https://github.com/buttercup/buttercup-desktop) (iOS, Android)Passwords & Secrets Vault 最后更新May 4, 2024, archived on Jun 27, 2025
+  - [LastPass](https://www.lastpass.com) 不推荐
 
 ### 🗝️2FA secret key(TOTP) 二次验证 2步验证
 
@@ -1464,9 +1467,9 @@
 - [Gettr](https://gettr.com)
 - [Truth Social](https://truthsocial.com)
 - [Gab](https://gab.com)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/mastodon/mastodon) [Mastodon](https://github.com/mastodon/mastodon)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mastodon/mastodon) [Mastodon](https://github.com/mastodon/mastodon) ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/LucasGGamerM/moshidon) [Moshidon](https://github.com/LucasGGamerM/moshidon) (Android)
-- [fediverse](https://www.fediverse.to)项目：Diaspora、Hubzilla、Pleroma、Peertube、Misskey、Friendica、Hoot.it
+- [fediverse](https://www.fediverse.to) 项目：Diaspora、Hubzilla、Pleroma、Peertube、Misskey、Friendica、Hoot.it
 - [Nostr](https://nostr.com) 生态应用：Damus、Branle、Anigma、Nvote、Amethyst
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bluesky-social/social-app) [Bluesky](https://bsky.app)
 - [Pill](https://www.spill.com)
@@ -1523,10 +1526,6 @@
 - [Patreon](https://www.patreon.com)
 - [WEBTOON](https://www.webtoons.com/en)
 - [BobaMe](https://getstarted.anyonelab.com/zh/bobame) 小额赞助工具
-
-### Sex
-
-- [Onlyfans](https://onlyfans.com)
 
 ## ⚽Sports 体育
 
@@ -2428,12 +2427,12 @@ Adblock Filters
 
 ## 🎮Games 游戏
 
-- [Steam](https://store.steampowered.com) 最大的视频游戏在线零售商，游戏时间不到2小时，购买不到14天就可以退款
+- [Steam](https://store.steampowered.com) 最大的视频游戏在线零售商，游戏时间不到2小时并购买不到14天支持退款
 - [Twitch](https://www.twitch.tv) 游戏直播平台
 - [Epic](https://store.epicgames.com)
   - [Epic Games Store](https://store.epicgames.com/en-US/mobile) macOS, Android, iPhone (EU only) and iPad (EU only)
 - [Origin](https://www.origin.com) 属于EA公司
-- [Ubisoft](https://www.ubisoft.com)
+- [Ubisoft](https://www.ubisoft.com) 育碧
 - [GOG (Good Old Games)](https://www.gog.com) 类似Steam的DRM-free游戏平台
 - [Itch.io](https://itch.io)
 - [Humble Store](https://www.humblebundle.com/store/search?sort=bestselling&drm=download)
@@ -2448,7 +2447,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite) [Playnite](https://github.com/JosefNemec/Playnite) 开源视频游戏库管理器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher) [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) (Win, Linux, macOS) A games launcher for GOG, Amazon and Epic Games
 - [HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) 雪藏HsFreezer(Hidden in the snow)，游戏暂停冻结软件
-- [Speedy](https://github.com/game1024/Speedy) 一款开源的游戏变速器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/game1024/Speedy) [Speedy](https://github.com/game1024/Speedy) 一款开源的游戏变速器
 
 ### 🎮Emulators 掌机模拟器
 
@@ -2508,6 +2507,10 @@ Adblock Filters
 - [EZTV](https://eztvx.to)
 - [BTDig](https://btdig.com)
 - [1337X](https://1337x.to)
+
+## 🔞Sex
+
+- [Onlyfans](https://onlyfans.com)
 
 ## 🤝Contribute 贡献
 
