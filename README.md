@@ -1593,7 +1593,6 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoDarkMode/Windows-Auto-Night-Mode) [Windows Auto Dark Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) 根据本地时间自动启用黑暗模式
 - [NetLimiter](https://www.netlimiter.com) 程序网络控制 Change network configuration
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sammwyy/MikuMikuBeam) [MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (Win, Linux, macOS, Android)只需创建代理列表、用户代理列表文件即可开始测压。支持实时攻击可视化、基于工作线程的攻击处理等
-- [iMazing](https://imazing.com/zh) (macOS, Win)iOS设备管理器
 - [AutoOff](https://www.starcodec.com/en/autooff) 自动关机，最后更新2023.8.10
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lukaslangrock/ShutdownTimerClassic) [ShutdownTimerClassic](https://github.com/lukaslangrock/ShutdownTimerClassic) 自动关机，最后更新2025.2.3
 - [Automate mouse clicks](https://www.opautoclicker.com) 鼠标自动点击器
@@ -2308,6 +2307,8 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/daliansky/Hackintosh) [Hackintosh](https://github.com/daliansky/Hackintosh) 黑苹果
 - [iMazing](https://imazing.com) (Win, macOS) Manage your iPhone.On your terms
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iDescriptor/iDescriptor) [iDescriptor](https://github.com/iDescriptor/iDescriptor) iDescriptor 是一个跨平台、开源且免费的 iDevice 管理工具。它支持 USB 连接、AirPlay、从 Apple Store 下载安装应用、虚拟位置模拟等。
+- [iMazing](https://imazing.com/zh) (macOS, Win) iOS设备管理器
+
 - **📥macOS下载站**
   - [Open-Source macOS Apps](https://github.com/iCHAIT/awesome-macOS) Open Source macOS Apps苹果电脑软件
   - [awesome-open-source-mac-apps](https://indiegoodies.com/awesome-open-source-mac-apps)
