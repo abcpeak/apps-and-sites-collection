@@ -5,7 +5,7 @@
 |  A                                             |  B                         |  C                    |  D        |
 | ---------------------------------------------------- | -------------------------------- | --------------------------- | --------------- |
 | [📚Books](#books-图书)                               | [🎨Graphics & Design](#graphics--design-图形和设计)    | [🗺️Navigation](#EF%B8%8Fnavigation-导航 )           | [⚽Sports](#sports-体育) |
-| [💼Business](#business-商务)                         | [💪Health & Fitness](#health--fitness-健康健美)      | [📰News](#news-新闻)                  | [✈️Travel](#%EF%B8%8Ftravel-旅游)    |
+| [💼Business](#business-商务)                         | [💪Health & Fitness](#health--fitness-健康健美)      | [📰News](#news-新闻)                  | [🏖️Travel](#%EF%B8%8Ftravel-旅游)    |
 | [👨‍💻Developer Tools](#developer-tools-软件开发工具) | [👼Kids](#kids-儿童)                            | [📷Photo & Video](#photo--video-摄影与录像)   | [🛠️Utilities](#%EF%B8%8Futilities-工具) |
 | [🎓Education](#education-教育)                       | [🌿Lifestyle](#lifestyle-生活)                  | [⚡Productivity](#productivity-效率)       | [🌦️Weather](#%EF%B8%8Fweather-天气) |
 | [🍿Entertainment](#entertainment-娱乐)                                  | [🗞️Magazines](#%EF%B8%8Fmagazines--newspapers-%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97) | [📖Reference](#reference-参考资料)         | [💻OS](#os-操作系统) |
@@ -1553,12 +1553,12 @@
 - [MLB](https://www.mlb.com)
 - [NBA](https://www.nba.com)
 
-## ✈️Travel 旅游
+## 🏖️Travel 旅游
 
 - [Uber - Request a ride](https://www.uber.com)
 - [Airbnb](https://www.airbnb.com)
 - [Lyft](https://www.lyft.com)
-- [Expedia: Hotels, Flights &amp; Car](https://www.expedia.com/Hotels)
+- [Expedia: Hotels, Flights &amp; Car](https://www.expedia.com) 亿客行集团
 - [Hopper: Flights, Hotels &amp; Cars](https://www.hopper.com)
 - [Booking.com: Hotels &amp; Travel](https://www.booking.com)
 - [Vrbo Vacation Rentals](https://www.vrbo.com/vacation-rentals)
@@ -1568,6 +1568,14 @@
 - [Momego](https://apps.apple.com/us/app/momego-live-transit-tracker/id1281251210) (iOS) 实时交通追踪器
 - [kayak](https://www.kayak.com)
 - [GetYourGuide](https://www.getyourguide.com) 难忘的旅行经历
+
+### ✈️Flight
+
+- [FlightAware](https://www.flightaware.com) 航班信息
+- [Google Flights](https://www.google.com/travel/flights) Find Cheap Flights Worldwide
+- [Skyscanner](https://www.skyscanner.net) Compare Cheap Flights
+  - [天巡](https://www.tianxun.com) Skyscanner 的中文品牌名
+
 
 ## 🛠️Utilities 工具
 
@@ -1648,7 +1656,7 @@ DNS Adblocking
 
 iOS Safari Adblocking
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/0xCUB3/wBlock) [wBlock](https://github.com/0xCUB3/wBlock)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/0xCUB3/wBlock) [wBlock](https://github.com/0xCUB3/wBlock) ⭐
 - [uBlock Origin Lite for iOS](https://apps.apple.com/au/app/ublock-origin-lite/id6745342698)
 - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99)
 - [1Blocker](https://apps.apple.com/us/app/1blocker/id1365531024) Ad Blocker
@@ -1909,7 +1917,7 @@ Adblock Filters
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
   - [Orion](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension
-  - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS)集成了广告拦截，暗黑模式，不收集任何数据，注重隐私
+  - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS) 集成了广告拦截，暗黑模式，不收集任何数据，注重隐私
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
