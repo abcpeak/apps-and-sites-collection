@@ -31,7 +31,7 @@
 - [PDF-XChange Editor Plus](https://www.tracker-software.com/product/downloads) PDF编辑
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF) [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [PDFgear](https://www.pdfgear.com) 集合了多种 PDF 处理工具的软件套装
-- ![GitHub Repo stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf) [Sumatra pdf](https://github.com/sumatrapdfreader/sumatrapdf) 电子书阅读器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf) [Sumatra pdf](https://github.com/sumatrapdfreader/sumatrapdf) 电子书阅读器 ⭐
 - [diff-pdf](https://vslavik.github.io/diff-pdf) A simple tool for visually comparing two PDF files
 - [Icecream PDF Editor](https://icecreamapps.com/PDF-Editor)
 - [PDF mpjex](https://apps.apple.com/app/id6450148824) (iOS)
@@ -144,7 +144,7 @@
   - [iTerminus](https://apps.apple.com/us/app/sshterm-secure-terminal/id6447374195) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lollipopkit/flutter_server_box) [Serverbox](https://github.com/lollipopkit/flutter_server_box) (全平台)
   - [SeverCat](https://apps.apple.com/us/app/servercat-ssh-terminal/id1501532023) (iOS)
-  - [NeoServer - Docker·SSH·SFTP](https://apps.apple.com/us/app/neoserver-docker-ssh-sftp/id6448362669?platform=iphone)
+  - [NeoServer - Docker·SSH·SFTP](https://apps.apple.com/us/app/neoserver-docker-ssh-sftp/id6448362669)
   - [Termius](https://termius.com) 跨平台的SSH客户端
   - ![GitHub Repo stars](https://img.shields.io/github/stars/LukeGus/Termix) [Termix](https://github.com/LukeGus/Termix)
 
@@ -188,14 +188,14 @@
   - [GitHub](https://www.github.com) 全球最大程序员平台，技术栈 集成开发环境（IDE，Integrated Development Environment ）
     - ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop) [GitHub Desktop](https://desktop.github.com/download) 基于electron，typeScript and uses React
   - [GitButler](https://gitbutler.com) (Win, Linux, macOS)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/shiftkey/desktop) [GitHub Desktop for Linux](https://github.com/shiftkey/desktop)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/shiftkey/desktop) [GitHub Desktop for Linux](https://github.com/shiftkey/desktop) shiftkey开发的
   - [SmartGit](https://www.syntevo.com/smartgit) (Win, Linux, macOS)
   - [Git Cola](https://git-cola.github.io) (Win, Linux, macOS)
   - [GitKraken](https://www.gitkraken.com) (Win, Linux, macOS)
   - [SourceTree](https://www.sourcetreeapp.com) (Win, macOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegit-scm/sourcegit) [sourcegit](https://github.com/sourcegit-scm/sourcegit) (Win, Linux, macOS)
   - [ugit](https://ugit.qq.com) 腾讯自研Git客户端
-  - [Fork](https://git-fork.com)  不收费，接受donate
+  - [Fork](https://git-fork.com) 不收费，接受donate
 
 - [GitLab](https://gitlab.com)
 - [Bitbucket](https://bitbucket.org/product)
@@ -217,7 +217,7 @@
 - 构建程序的框架
   - ![GitHub Repo stars](https://img.shields.io/github/stars/electron/electron) [Electronjs](https://www.electronjs.org) 构建应用程序的开源软件框架，嵌入了Chromium 和Node.js
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tauri-apps/tauri) [tauri](https://github.com/tauri-apps/tauri) 前端使用webview2，后端和操作系统集成使用rust
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/wailsapp/wails) [wails](https://github.com/wailsapp/wails) webview+go的后端
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/wailsapp/wails) [wails](https://github.com/wailsapp/wails) Webview+go的后端
   - ![GitHub Repo stars](https://img.shields.io/github/stars/pojala/electrino) [electrino](https://github.com/pojala/electrino) 使用系统的webview
   - ![GitHub Repo stars](https://img.shields.io/github/stars/neutralinojs/neutralinojs) [NeutralinoJS](https://github.com/neutralinojs/neutralinojs) 前端嵌入一个webview，后端直接实现一个c++实现的http server
   - ![GitHub Repo stars](https://img.shields.io/github/stars/chromelyapps/chromely) [Chromely](https://github.com/chromelyapps/chromely) 前端嵌入一个CEF，后端使用.net
@@ -419,7 +419,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pot-app/pot-desktop) [Pot (派了个萌的翻译器)](https://github.com/pot-app/pot-desktop) 一个跨平台的划词翻译和OCR软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZGGSONG/STranslate) [STranslate](https://github.com/ZGGSONG/STranslate)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ripperhe/Bob) [Bob](https://github.com/ripperhe/Bob) macOS 平台翻译和 OCR 软件
-- ![GitHub Repo stars](https://img.shields.io/github/stars/fishjar/kiss-translator) [KISS Translator](https://github.com/fishjar/kiss-translator) translation extension & Greasemonkey script
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fishjar/kiss-translator) [KISS Translator](https://github.com/fishjar/kiss-translator) translation extension & Greasemonkey script ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate) [libretranslate](https://github.com/LibreTranslate/LibreTranslate) Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup
 - [Trancy](https://www.trancy.org) 翻译插件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator) [openai-translator](https://github.com/openai-translator/openai-translator) 2024.8.1
@@ -1766,7 +1766,7 @@ Adblock Filters
   - [Time.is](https://time.is) - Check Accuracy of System Clock
   - [Flip Clock](https://apps.apple.com/us/app/flip-clock-no-ads/id1522242289) (iOS)
   - [The Clocks](https://apps.apple.com/us/app/the-clocks-alarm-world-clock/id403684793) (iOS)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/vladelaina/Catime) [Catime](https://github.com/vladelaina/Catime) (Win)🍅番茄时钟
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/vladelaina/Catime) [Catime](https://github.com/vladelaina/Catime) (Win) 🍅番茄时钟
   - [Flip Clock - Time Widget](https://apps.apple.com/us/app/flip-clock-time-widget/id6739703704) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/pakerwreah/Calendr) [Calendr](https://github.com/pakerwreah/Calendr) (macOS) 菜单栏日历，支持日程提醒，菜单界面自定义
 
@@ -1780,9 +1780,9 @@ Adblock Filters
 
 > Archiving, Compression
 
-- [7-Zip](https://www.7-zip.org) 免费开源压缩软件，[源代码](https://sourceforge.net/projects/sevenzip)
+- [7-Zip](https://www.7-zip.org) 免费开源压缩软件，[7-Zip源代码](https://sourceforge.net/projects/sevenzip)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mcmilk/7-Zip-zstd) [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) 7z的分支，添加了新的压缩算法
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/M2Team/NanaZip) [NanaZip](https://github.com/M2Team/NanaZip)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/M2Team/NanaZip) [NanaZip](https://github.com/M2Team/NanaZip) ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/peazip/PeaZip) [PeaZip](https://github.com/peazip/PeaZip)
 - [Bandizip](https://www.bandisoft.com/bandizip)
 - [WinRAR](https://www.win-rar.com)
@@ -1793,14 +1793,15 @@ Adblock Filters
 
 ### 🔍Search Engines 搜索引擎
 
-- [Google](https://www.google.com) 谷歌，全球最大的搜索引擎 ⭐
+- [Google](https://www.google.com) 谷歌，全球最大的搜索引擎
   - [Google Scholar](https://scholar.google.com) 谷歌学术
   - [imghp](https://google.com/imghp) 谷歌图片
-- [DuckDuckGo](https://duckduckgo.com) 位于美国，偏重隐私
+- [DuckDuckGo](https://duckduckgo.com) 位于美国，偏重隐私 ⭐
 - [Startpage](https://www.startpage.com) 总部位于荷兰，荷兰和欧盟的隐私保护法律
   - [Vanish AI](https://apps.apple.com/us/app/vanish-private-ai/id6747361472) Startpage的AI产品
 - [Bing](https://www.bing.com) Microsoft微软的搜索引擎
 - [Wikipedia](https://www.wikipedia.org) 维基百科
+- [Grokipedia](https://grokipedia.com)
 - [Internet Archive](https://archive.org) 互联网档案馆，回溯机 Wayback Machine
 - [Yandex](https://yandex.com) 俄罗斯互联网企业
 - [Yahoo](https://search.yahoo.com) 雅虎
@@ -2520,8 +2521,8 @@ This work is licensed under [The MIT License (MIT)](https://opensource.org/licen
 
 Copyright © 2025
 
-## ⭐Star History
+## 🌟Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)](https://www.star-history.com/#abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)
 
-[⭐Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection) was made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
+[🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection) was made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
