@@ -50,7 +50,7 @@
 - [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) (Android) 静读天下
 - [Thorium Reader](https://www.edrlab.org/software/thorium-reader) (Win, macOS and Linux) EPUB reader
 - [Okular](https://okular.kde.org) (Android, Win, Linux) PDF、漫画、Epub、图像、显示标记语言文档等
-- ![GitHub Repo stars](https://img.shields.io/github/stars/gedoor/legado) [Legado 3.0 Book Reader](https://github.com/gedoor/legado) (Android)开源阅读器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gedoor/legado) [Legado 3.0 Book Reader](https://github.com/gedoor/legado) (Android) 阅读3.0
   - ![GitHub Repo stars](https://img.shields.io/github/stars/aoaostar/legado) [legado](https://github.com/aoaostar/legado) 小说书源、订阅源、主题、排版配置
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kovidgoyal/calibre) [Calibre](https://github.com/kovidgoyal/calibre) 电子书制作及阅读软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/foobnix/LibreraReader) [LibreraReader](https://github.com/foobnix/LibreraReader)
@@ -66,12 +66,12 @@
 - [英阅阅读器(EReader)](https://apps.apple.com/app/id1558805880) (iOS, Android)
 - [PocketBook](https://pocketbook.ch/en-ch/app)
 - [Synopsia](https://apps.apple.com/us/app/synopsia-book-summaries/id6448647429) (iOS)
-- [奇点阅读](https://apps.apple.com/cn/app/奇点阅读/id6651841743) (iOS)
-- [Reader by ElevenLabs](https://apps.apple.com/us/app/reader-by-elevenlabs/id6479373050) 32种语言的数十种声音朗读书籍、文章和PDF
+- [奇点阅读](https://apps.apple.com/app/id6651841743) (iOS)
+- [Eleven Reader](https://apps.apple.com/app/id6479373050) 32种语言的数十种声音朗读书籍、文章和PDF
   - ![GitHub Repo stars](https://img.shields.io/github/stars/omnivore-app/omnivore) [Omnivore](https://github.com/omnivore-app/omnivore) 稍后阅读工具，已被ElevenLabs收购，停止维护
 - [读不舍手](https://apps.apple.com/app//id1662413517) (iOS)仅支持txt
   - ![GitHub Repo stars](https://img.shields.io/github/stars/shidahuilang/shuyuan) [shuyuan](https://github.com/shidahuilang/shuyuan) 书源
-- [iReadNote](https://apps.apple.com/gb/app/ireadnote/id6450734655) (iOS)爱阅记
+- [iReadNote](https://apps.apple.com/gb/app/ireadnote/id6450734655) (iOS) 爱阅记
 
 ### 📓Library Resource Repository 图书资源库
 
@@ -749,7 +749,7 @@
 - [Image Tuner](https://www.glorylogic.com/image-tuner.html) 图片大小批量转换
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/CodeFormer) [CodeFormer](https://github.com/sczhou/CodeFormer) AI视频图片修复软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/style2paints) [style2paints](https://github.com/lllyasviel/style2paints) 线描图画AI上色
-- ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl) [Upscayl](https://github.com/upscayl/upscayl) (Win, Linux, macOS)开源免费AI图像放大工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl) [Upscayl](https://github.com/upscayl/upscayl) (Win, Linux, macOS) 开源免费AI图像放大工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio) [draw.io](https://github.com/jgraph/drawio) 开源跨平台绘图软件Drawio，基于Eelectron开发
 - ![GitHub Repo stars](https://img.shields.io/github/stars/flxzt/rnote) [Rnote](https://github.com/flxzt/rnote) 基于矢量的开源绘图应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/inpaint-web) [Inpaint-web](https://github.com/lxfater/inpaint-web) 图片修复、放大
@@ -1250,7 +1250,7 @@
 - [Microsoft Loop](https://loop.microsoft.com) 微软旗下
 - [Roam Research](https://roamresearch.com) 付费，知识管理
 - [Simplenote](https://simplenote.com) (macOS, iOS, Win, Android, Linux) 过于简陋，不能创建文件夹
-- [Standard Notes](https://standardnotes.com) Proton旗下，E2EE 同步、静态加密、U2F 支持和独立安全审计。专业计划完全值得购买
+- [Standard Notes](https://standardnotes.com) Proton旗下，E2EE 同步、静态加密、U2F 支持和独立安全审计 ⭐
 - [iA Writer](https://ia.net/writer) (macOS, Win, iOS and Android) (💵)
 - [EmEditor](https://www.emeditor.com)
 - [cherrytree](https://www.giuspen.net/cherrytree)
@@ -1260,8 +1260,8 @@
 - [notepad3](https://www.rizonesoft.com/downloads/notepad3)
 - [brackets](https://brackets.io)
 - [Helix](https://helix-editor.com)
-- [Typora](https://typora.io)（$14.99）(Win, macOS)，Markdown工具
-- [Scrivener](https://www.literatureandlatte.com/scrivener/overview) (💵)，长篇小说写作软件(Win, macOS, iOS)
+- [Typora](https://typora.io) (Win, macOS) （$14.99）Markdown工具
+- [Scrivener](https://www.literatureandlatte.com/scrivener/overview) (Win, macOS, iOS) (💵) 长篇小说写作软件
 - [MarginNote](https://www.marginnote.com) (macOS, iOS)
 - [AsciiDoc](https://asciidoc.org)
 - [Marker](https://fabiocolacio.github.io/Marker) (Linux)
@@ -1357,7 +1357,7 @@
 - [Inoreader](https://www.inoreader.com)
 - [Feedly](https://feedly.com)
 - [Newsblur](https://www.newsblur.com)
-- [FeedFlow](https://www.feedflow.dev) (Android, iOS, macOS)开源免费 RSS Reader
+- [FeedFlow](https://www.feedflow.dev) (Android, iOS, macOS) 开源免费 RSS Reader
 - [Pintap: An RSS Reader](https://apps.apple.com/us/app/pintap-an-rss-reader/id6463398545)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/spacecowboy/Feeder) [Feeder](https://github.com/spacecowboy/Feeder) (Android) RSS reader app
 - [feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490) (iOS, macOS) ⭐
@@ -1366,7 +1366,7 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/RSSNext/Folo) [Folo](https://github.com/RSSNext/Folo) Next generation AI Reader. Folo客户端开源，后端不开源也没有GPL3协议
 - [Readwise Reader](https://readwise.io) 一站式的资讯阅读，整合RSS订阅、邮件通讯、稍后读等多种功能
 - [Newsify](https://newsify.co)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/brentsimmons/NetNewsWire) [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) (macOS, iOS)RSS reader ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/brentsimmons/NetNewsWire) [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) (macOS, iOS) RSS reader ⭐
 - [Reeder.](https://www.reederapp.com)
 - [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) (iOS, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) 多功能的RSS/ATOM提要阅读器
@@ -1385,7 +1385,7 @@
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
 - [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Win, Linux, macOS)开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Win, Linux, macOS) 开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) A KeePass/Password Safe Client 需付费
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassium/KeePassium) [KeePassium](https://github.com/keepassium/KeePassium) (iOS, macOS) 需付费
 - ![GitHub Repo stars](https://img.shields.io/github/stars/authpass/authpass) [AuthPass](https://github.com/authpass/authpass) based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible
@@ -1872,6 +1872,8 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/p0deje/Maccy) [Karabiner-Elements](https://github.com/p0deje/Maccy) Lightweight clipboard manager for macOS
 - [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) (macOS) 一键启用或禁用键盘
 - [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop)
+- [Urik](https://github.com/urikdev/Urik) (Android) Privacy-first keyboard
+
 - 🗃️Archived
   - [Clipboard : Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) (iOS) 剪贴板同步 Oct 11, 2024
 
