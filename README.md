@@ -97,44 +97,25 @@
 ### Code RD 编程 开发
 
 - [trendshift](https://trendshift.io)
-
 - [Can I use](https://caniuse.com) Support tables for HTML5, CSS3, etc
-
 - [Apple开发者论坛](https://developer.apple.com/forums) iOS开发 Swift编程
-
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kefir500/apk-editor-studio) [APK Editor Studio](https://github.com/kefir500/apk-editor-studio)
-
 - [jQuery](https://jquery.com)
-
 - [Algolia](https://www.algolia.com) 提供搜索即服务的 SaaS
-
 - [Hammerspoon](https://www.hammerspoon.org) 免费 自动化工具 编写Lua代码
-
 - [ProxyPin](https://github.com/wanghongenpin/network_proxy_flutter) 跨平台开源免费Http、Https抓包工具
-
 - [t3](https://github.com/still-scene/t3) 实时动态图像
-
 - [dufs](https://github.com/sigoden/dufs) 搭建文件服务器
-
 - [druid](https://github.com/alibaba/druid) 阿里云计算平台DataWorks团队出品，为监控而生的数据库连接池
-
 - ![GitHub Repo stars](https://img.shields.io/github/stars/axios/axios) [Axios](https://axios-http.com/zh) 基于 promise 的HTTP客户端库，可以用于浏览器和 node.js
-
 - [redis](https://redis.com) Real-time speed and simplicity
-
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nostr-protocol/nostr) [nostr](https://github.com/nostr-protocol/nostr) 对抗审查的开放协议 Open protocol
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ripienaar/free-for-dev) [free-for-dev](https://github.com/ripienaar/free-for-dev) 开发者免费服务大全，涵盖主要云厂商的长期免费配额，以及从 CI/CD、监控、CDN、安全认证到数据库、API、存储、部署等服务，所有条目要求具有真实可用的「免费套餐」，有超过 1700 位开发者参与维护、条目十余万
-
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tweepy/tweepy) [Tweepy](https://github.com/tweepy/tweepy) Twitter for Python Twitter机器人项目
-
 - ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode) [massCode](https://github.com/massCodeIO/massCode) 代码片段管理器
-
 - 可以显示仓库加星标的数量: [llc.ovh](https://llc.ovh/ )、[shields.io](https://shields.io)
-
 - [Xcode](https://developer.apple.com/xcode) 开发、测试和分发应用程序
-
 - [Swift](https://developer.apple.com/swift)、[SwiftUI](https://developer.apple.com/xcode/swiftui)、[Swift Playgrounds](https://developer.apple.com/swift-playgrounds)
-
 - [Dash](https://kapeli.com/dash) (macOS, Win) API工具
 - [Rapidapi](https://rapidapi.com) API工具
 - [Docker](https://www.docker.com) Docker容器
@@ -862,7 +843,7 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube) [Spotube](https://github.com/KRTirtho/spotube) 开源免费跨平台 Spotify 第三方客户端 ![Last Commit](https://img.shields.io/github/release-date/KRTirtho/spotube) ![commit-activity](https://img.shields.io/github/commit-activity/m/KRTirtho/spotube)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/whoeevee/EeveeSpotify) [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) spotify修改版，自定义歌词显示 ![Last Commit](https://img.shields.io/github/release-date/whoeevee/EeveeSpotify)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
-- [AIMP](https://www.aimp.ru) (Win, Android, Linux)Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器
+- [AIMP](https://www.aimp.ru) (Win, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器
 - [MediaMonkey](https://www.mediamonkey.com) (Win, Android)
 - [MusicBee](https://getmusicbee.com) (Win)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Miaoyww/NonsPlayer) [NonsPlayer](https://github.com/Miaoyww/NonsPlayer) (Win) ![Last Commit](https://img.shields.io/github/release-date/Miaoyww/NonsPlayer)
@@ -1112,7 +1093,7 @@
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL) [ChatALL](https://github.com/sunner/ChatALL) Chat with ALL AI Bots Concurrently
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat) [Lobe Chat](https://github.com/lobehub/lobe-chat) 一键免费拥有你自己的ChatGPT/Gemini/Claude/Ollama应用
-- [Monica](https://monica.im) (全平台)AI助手
+- [Monica](https://monica.im) (全平台) AI助手
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox) [Chatbox](https://github.com/Bin-Huang/chatbox) (全平台)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio) [Cherry Studio](https://github.com/CherryHQ/cherry-studio)
 
@@ -2449,7 +2430,7 @@ Adblock Filters
 - [Steam](https://store.steampowered.com) 最大的视频游戏在线零售商，游戏时间不到2小时，购买不到14天就可以退款
 - [Twitch](https://www.twitch.tv) 游戏直播平台
 - [Epic](https://store.epicgames.com)
-  - [Epic Games Store](https://store.epicgames.com/en-US/mobile) Mac OS, Android, iPhone (EU only) and iPad (EU only)
+  - [Epic Games Store](https://store.epicgames.com/en-US/mobile) macOS, Android, iPhone (EU only) and iPad (EU only)
 - [Origin](https://www.origin.com) 属于EA公司
 - [Ubisoft](https://www.ubisoft.com)
 - [GOG (Good Old Games)](https://www.gog.com) 类似Steam的DRM-free游戏平台
@@ -2464,7 +2445,7 @@ Adblock Filters
 
 - [JoyToKey](https://joytokey.net/en) 游戏摇杆控制
 - ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite) [Playnite](https://github.com/JosefNemec/Playnite) 开源视频游戏库管理器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher) [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) (Win, Linux, macOS)A games launcher for GOG, Amazon and Epic Games
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher) [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) (Win, Linux, macOS) A games launcher for GOG, Amazon and Epic Games
 - [HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) 雪藏HsFreezer(Hidden in the snow)，游戏暂停冻结软件
 - [Speedy](https://github.com/game1024/Speedy) 一款开源的游戏变速器
 
