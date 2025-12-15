@@ -1874,7 +1874,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
   - [Ulaa Browser](https://ulaa.zoho.com) 电子邮件提供商Zoho推出的全平台隐私安全浏览器
   - [Dia](https://www.diabrowser.com)  Atlassian Corporation在2025年9月收购了The Browser Company
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/deta/surf) [Deta Surf Browser](https://github.com/deta/surf) Deta GmbH, AI浏览器，一个开源的个人 AI 笔记本应用
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/deta/surf) [Deta Surf Browser](https://github.com/deta/surf) Deta GmbH 个人AI笔记本应用
   - [Comet](https://www.perplexity.ai/comet) 搜索广告公司Perplexity推出的AI浏览器
   - [ChatGPT Atlas](https://chatgpt.com/atlas) AI浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/iridium-browser/iridium-browser) [Iridium Browser](https://iridiumbrowser.de) Enhance the privacy
