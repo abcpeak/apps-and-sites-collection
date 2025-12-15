@@ -1699,7 +1699,7 @@ Adblock Filters
 - iOS VPN: [Surge](https://apps.apple.com/us/app/surge-5/id1442620678), [Shadowsocket](https://apps.apple.com/ie/app/shadowrocket/id932747118), [sing-box](https://apps.apple.com/us/app/sing-box-vt/id6673731168), [Potatso](https://apps.apple.com/us/app/potatso/id1239860606), Wingy, [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620), squirrelVPN, nthLink, banana, gitspeed, flyrouter, mumevpn, anyconnect, Kitsunebi, [Outline App](https://apps.apple.com/us/app/outline-app/id1356177741), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [Loon](https://apps.apple.com/us/app/loon/id1373567447), [jamjams](https://apps.apple.com/us/app/jamjams/id6477182037), wireguard, [V2box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690), [Streisand](https://apps.apple.com/us/app/streisand/id6450534064), [Clash Mi](https://apps.apple.com/us/app/clash-mi/id6744321968)
 
 - Android VPN: [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid), [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid), [v2rayNG](https://github.com/2dust/v2rayNG), [Surfboard](https://github.com/getsurfboard/surfboard), [Hiddify Next](https://github.com/hiddify/hiddify-next), [Clash for Flutter](https://github.com/mapleafgo/clash-for-flutter), [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [Sing Box](https://github.com/SagerNet/sing-box)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [Sing Box](https://github.com/SagerNet/sing-box) 创建网络代理服务器、客户端和透明代理
 
 - VPS IDC 自建机场
   - [BandwagonHost VPS](https://bandwagonhost.com) 搬瓦工 老牌VPS服务商
@@ -1719,7 +1719,6 @@ Adblock Filters
 - HOST 代理软件
   - ![GitHub Repo stars](https://img.shields.io/github/stars/XTLS/Xray-core) [Xray-core](https://github.com/XTLS/Xray-core)
   - [SwitchHosts](https://swh.app) HOST管理
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [sing-box](https://github.com/SagerNet/sing-box) 创建网络代理服务器、客户端和透明代理
 
 ### 🧹Clean 软件卸载&优化
 
@@ -1738,10 +1737,10 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner) [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer) [Optimizer](https://github.com/hellzerg/optimizer)
 - [Lock Launcher Widgets LockFlow](https://apps.apple.com/us/app/lock-launcher-screen-widgets/id1636719674) (iOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Raphire/Win11Debloat) [Windows 11 Debloater Tool](https://github.com/Raphire/Win11Debloat) 删除预装的Windows臃肿软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Raphire/Win11Debloat) [Windows 11 Debloater Tool](https://github.com/Raphire/Win11Debloat) 删除预装的Windows臃肿软件 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/memstechtips/Winhance) [Winhance](https://github.com/memstechtips/Winhance) 删除Windows应用程序（永久）
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jdm-contrib/jdm) [JustDeleteMe](https://github.com/jdm-contrib/jdm) 迅速找到要删除帐户的服务
-- [Doggy Cleaner](https://apps.apple.com/us/app/doggy-cleaner-photo-storage/id6747192774) 相册清理
+- [Doggy Cleaner](https://apps.apple.com/us/app/doggy-cleaner-photo-storage/id6747192774) (iOS) 相册清理
 - Hardware 检测
   - [AIDA64 Extreme Edition](https://www.aida64.com/downloads) 系统诊断和基准测试软件
   - [CPU-z](https://www.cpuid.com/softwares/cpu-z.html) 查看CPU 显卡 主板型号
@@ -1760,7 +1759,7 @@ Adblock Filters
 - 系统美化，系统个性化
   - ![GitHub Repo stars](https://img.shields.io/github/stars/icon11-community/Folder11-Ico) [Folder11 Community](https://github.com/icon11-community/Folder11-Ico) windows自定义文件夹目录图标
   - ![GitHub Repo stars](https://img.shields.io/github/stars/eythaann/Seelen-UI) [Seelen UI](https://github.com/eythaann/Seelen-UI) Windows桌面自定义，个性化桌面
-  - [HiDock](https://hidock.app) (macOS)custom Dock settings
+  - [HiDock](https://hidock.app) (macOS) custom Dock settings
   - [Today •](https://apps.apple.com/us/app/today/id6443714928) Calendar events in menu bar (macOS)
 - 🕒Time 时间
   - [Time.is](https://time.is) - Check Accuracy of System Clock
@@ -1917,15 +1916,13 @@ Adblock Filters
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android)，原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%
-
-- Goanna引擎（Gecko的一个分支）
-  - [Pale Moon](https://www.palemoon.org) 苍月浏览器，基于几年前的Firefox/Mozilla源代码，后续自研了渲染引擎Goanna，并优化了布局系统
+  - [Pale Moon](https://www.palemoon.org) 苍月浏览器，基于几年前的Firefox/Mozilla源代码，后续自研了渲染引擎Goanna(Gecko的一个分支)，并优化了布局系统
   - [Basilisk](https://www.basilisk-browser.org/) 基于Goanna布局和渲染引擎，并建立在统一XUL平台（UXP）之上，由独立于Pale Moon项目的开发团队开发
 
 - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://www.qutebrowser.org) A keyboard-driven, vim-like browser based on Python and Qt.
 
-- [GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook](https://github.com/nook-browser/Nook) (macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook Browser](https://github.com/nook-browser/Nook) (macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
 - [Antidetect Browser](https://undetectable.io) Fingerprint browser
 - [Konqueror](https://apps.kde.org/konqueror) (Linux)
@@ -1935,17 +1932,17 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，并且建立在尊重隐私的基础上，默认搜索引擎Kagi，支持扩展
 - [GNU IceCat](https://icecatbrowser.org) (Win, macOS, Linux)
 - [Basilisk](https://basilisk-browser.org) (Win, macOS, Linux)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/hyphanet/fred) [Hyphanet](https://www.hyphanet.org) (Win, macOS, Linux)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hyphanet/fred) [Hyphanet](https://github.com/hyphanet/fred) (Win, macOS, Linux)
 - [Puma Browser](https://www.pumabrowser.com) (iOS, Android)
 - [IDENTORY](https://identory.com/en) (Win) 指纹浏览器 Fingerprint browser
 - [Nyxt:](https://nyxt.atlas.engineer) the hacker's browser
 - [SeaMonkey](https://www.seamonkey-project.org/releases) 支持 Widevine
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) 多浏览器管理工具，目前仅支持 macOS，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
 - [Slimjet](https://www.slimjet.com) (Win, macOS, Linux)
 - [ArcSphere](https://apps.apple.com/us/app/arcsphere-ai-native-browser/id6502280398) (iOS, Android) AI浏览器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/RicardoCA/board-browser) [Board Browser](https://github.com/RicardoCA/board-browser)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium) GrapheneOS用户的浏览器，未正式提供给GrapheneOS以外的用户
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS) 多浏览器管理工具，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
 
 - 🗃️Archived
   - [Kiwi Browser](https://github.com/kiwibrowser/src.next) 已停止维护
@@ -1958,6 +1955,7 @@ Adblock Filters
   - [Avira Secure Browser](https://www.avira.com/en/avira-secure-browser) (Win, macOS)
   - [Avast Secure Browser](https://www.avast.com/secure-browser#pc) (Win, macOS, iOS, Android) 反网络钓鱼
   - [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc)  (Win, macOS, Android)
+  [Board Browser](https://github.com/RicardoCA/board-browser)
 
 #### 🍭Browser Extensions 浏览器插件(扩展)
 
