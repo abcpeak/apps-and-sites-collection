@@ -1087,7 +1087,8 @@
 1.**Prompt 与 AI 资源集合**
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts) [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ai-collection/ai-collection) [ai-collection](https://github.com/ai-collection/ai-collection)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ai-collection/ai-collection) [AI Collection](https://github.com/ai-collection/ai-collection)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/linshenkx/prompt-optimizer) [Prompt Optimizer (提示词优化器)](https://github.com/linshenkx/prompt-optimizer)
 
 2.**多模型聊天网页/客户端（支持同时访问多个AI）**
 
