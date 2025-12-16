@@ -1556,8 +1556,7 @@
 - [FlightAware](https://www.flightaware.com) 航班信息
 - [Google Flights](https://www.google.com/travel/flights) Find Cheap Flights Worldwide
 - [Skyscanner](https://www.skyscanner.net) Compare Cheap Flights
-  - [天巡](https://www.tianxun.com) Skyscanner 的中文品牌名
-
+  - [天巡](https://www.tianxun.com) Skyscanner的中文品牌名
 
 ## 🛠️Utilities 工具
 
@@ -2072,9 +2071,9 @@ Adblock Filters
 - [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en_US) Android上的快捷启动软件
 - [Lock Launcher](https://apps.apple.com/us/app/lock-launcher-screen-widgets/id1636719674) (iOS) 快捷启动软件
 - [Lock Launcher Widgets LockFlow](https://apps.apple.com/us/app/lock-launcher-widgets-lockflow/id1641012054?l=zh-Hans-CN) (iOS)
-- [Alfred](https://www.alfredapp.com) (macOS)(💵)热键、关键字、文本扩展等效率工具，快捷启动
+- [Alfred](https://www.alfredapp.com) (macOS)(💵) 热键、关键字、文本扩展等效率工具，快捷启动
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gnachman/iTerm2) [iTerm2](https://github.com/gnachman/iTerm2) (macOS) 命令行控制电脑工具
-- ![GitHub Repo stars](https://img.shields.io/github/stars/cairoshell/cairoshell) [Cairo Desktop Environment](https://github.com/cairoshell/cairoshell) (Win) 类 macOS 的顶部菜单栏
+- ![GitHub Repo stars](https://img.shields.io/github/stars/cairoshell/cairoshell) [Cairo Desktop Environment](https://github.com/cairoshell/cairoshell) (Win) 类macOS的顶部菜单栏
 - [Raycast](https://www.raycast.com) (macOS) 生产力应用程序，您的一切捷径
 - [Folder Preview](https://apps.apple.com/cn/app/folder-preview/id6698876601?mt=12) (macOS) 让文件夹也有快速查看功能
 
@@ -2082,7 +2081,7 @@ Adblock Filters
 
 - [Echosync](https://www.luminescence-software.org/en/echosync/download) 差分文件同步软件
 - [BTSync](https://www.getsync.com)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing) [Syncthing](https://github.com/syncthing/syncthing) 连续文件同步，可在多台计算机之间实时同步文件，命令行
+- ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing) [Syncthing](https://github.com/syncthing/syncthing) 连续文件同步，可在多台计算机之间实时同步文件，命令行 ⭐
   - [syncthing-macos](https://github.com/syncthing/syncthing-macos/releases/latest) (macOS)
   - [SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) 轻量级但功能齐全的 Windows 安装程序
   - [Möbius Sync](https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216) (iOS) Moebius莫比乌斯
@@ -2096,7 +2095,7 @@ Adblock Filters
 - [OneDrive](https://onedrive.live.com) 来自微软，免费5G
 - [Google Drive](https://drive.google.com) 免费15G，单文件5G
   - [Google Photos](https://photos.google.com) 来自谷歌
-- [iCloud](https://www.icloud.com) 来自苹果，免费5G
+- [iCloud](https://www.icloud.com) 来自苹果，免费5G ⭐
 - [Dropbox](https://www.dropbox.com) 支持live图，免费版限制三台设备，12个月内活跃
 - [MEGA](https://mega.nz) 来自新西兰，免费20G，3个月内活跃，支持Save HEIC as JPG
 - [Box](https://www.box.com) 总部位于美国，免费版单文件限制250Mb
