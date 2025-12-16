@@ -516,7 +516,7 @@
 - [Emby](https://emby.media/download.html) iOS需付费解锁或使用脚本破解（正常流程登录，当播放视频时，提示需付费或用解锁脚本进行破解）。家庭媒体库软件，包含服务端和客户端。服务端用于整理电影和剧集，客户端连上服务端后就能播放这些影片。
 - [Kodi](https://kodi.tv) 媒体中心，智能电视的播放软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tsukinaha/tsukimi) [Tsukimi](https://github.com/tsukinaha/tsukimi) (Win, Linux) A simple third-party Emby client
-- [Infuse](https://firecore.com/infuse) (iOS, macOS, AppleTV)，支持HDR和杜比。不支持多版本选择，扫库机制体验较差
+- [Infuse](https://firecore.com/infuse) (iOS, macOS, AppleTV) 支持HDR和杜比。不支持多版本选择，扫库机制体验较差
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AttemptD/AfuseKt-release) [AfuseKt](https://github.com/AttemptD/AfuseKt-release/releases) 非开源，GitHub发布release版本，不包含任何代码，需安卓11以上，支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘
 - [Plex Media Server](https://www.plex.tv/media-server-downloads) 看IPTV用 Cigaras 或 IPTV.bundle 插件
   - ![GitHub Repo stars](https://img.shields.io/github/stars/sct/overseerr) [Plex Overseerr](https://overseerr.dev) 与Plex搭配使用
@@ -530,7 +530,7 @@
 - [Conflux](https://apps.apple.com/app/id6450330892) (iOS, macOS, Apple TV)目提供强大的串流选项，完美支持Airplay和字幕、广泛支持格式、免步骤串流、画中画、空间频、云盘等
 - [DsCloud](https://apps.apple.com/us/app/id6476057278) (iOS, macOS)
 - [Yamby](https://t.me/yamby_release) (Android) 仅能连接Emby使用
-- [Optimus Player](https://www.optimusplayer.com) (macOS)，真正hdr支持，不是mp套壳，纯手动ffmpeg
+- [Optimus Player](https://www.optimusplayer.com) (macOS) 真正hdr支持，不是mp套壳，纯手动ffmpeg
 - 影音宝软件家族：[iemc](https://apps.apple.com/app/id1467462861) iOS/iPadOS；[EMTV](https://apps.apple.com/us/app/id1671608662) AppleTV；[yyb](https://apps.apple.com/cn/app/yyb/id1468401388)iOS/iPadOS/macOS/AppleTV；[yybx](https://apps.apple.com/cn/app/id1519723194) (💵)
 - [Filebar](https://apps.apple.com/cn/app/fileball/id1558391784) (iOS, AppleTV) 支持hdr，缓存，字幕，webdav可显示歌词，长按播放按钮可跳转Infuse等外部播放器，可导入字幕
 - [网易爆米花](https://bmh.163.com) 来自网易团队
@@ -622,7 +622,7 @@
 - [Kraken](https://www.kraken.com) 美国的数字货币交易所，由其首席执行官、加密货币先驱Jesse Powell于2011年创立，公司位于加利福尼亚州旧金山
 - [Nexo](https://platform.nexo.com)
 - [Bitstamp](https://www.bitstamp.net)
-- [Bitfinex](https://www.bitfinex.com) 2012 年推出，公司于英属维尔京群岛注册，由设在香港的 iFinex Inc. 公司运营。市值最大的稳定币Tether (USDT)，也由 iFinex Inc. 运营。2016年，Bitfinex大概有12万枚比特币通过社交媒体被盗。
+- [Bitfinex](https://www.bitfinex.com) 2012 年推出，公司于英属维尔京群岛注册，由设在香港的 iFinex Inc. 公司运营。市值最大的稳定币Tether USDT，也由 iFinex Inc. 运营。2016年，Bitfinex大概有12万枚比特币通过社交媒体被盗。
 - [Bybit](https://www.bybit.com)
 - [Gate](https://www.gate.com) 2013年，交易所由创始人兼现任CEO LinHan在中国成立，公司位于开曼群岛，io域名换成了com域名
 - [Coinify](https://www.coinify.com) 欧洲丹麦的全球虚拟货币平台，提供个人货币交易、企业经纪、支付处理服务
@@ -1353,7 +1353,7 @@
 - [Reeder.](https://www.reederapp.com)
 - [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) (iOS, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/martinrotter/rssguard) [RSS Guard](https://github.com/martinrotter/rssguard) 多功能的RSS/ATOM提要阅读器
-- [qireader](https://www.qireader.com) (Web-App) ⭐
+- [qireader](https://www.qireader.com) (Web-App)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/damoeb/rss-proxy) [RSS-proxy](https://github.com/damoeb/rss-proxy) RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/johnwarne/upvote-rss) [upvote-rss](https://github.com/johnwarne/upvote-rss) 从 Reddit、Hacker News、Lemmy、Mbin 等网站生成个性化的 RSS 订阅源
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WCY-dt/MrRSS) [MrRSS](https://github.com/WCY-dt/MrRSS)
@@ -1416,8 +1416,9 @@
 
 - [Cryptomator](https://cryptomator.org) 开源免费，支持多平台的网盘文件加密
 - [Veracrypt](https://www.veracrypt.fr) 开源免费磁盘加密软件，文件加密和分区加密
-- [Picocrypt](https://github.com/HACKERALERT/Picocrypt) 非常小（因此称为“Pico”），非常简单，但非常安全的文件加密工具
 - [Bitlocker](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker) 微软出品，Win专业版以上自带
+- 🗃️Archived
+  - [Picocrypt](https://github.com/Picocrypt/Picocrypt)
 
 ## 📖Reference 参考资料
 
@@ -1578,8 +1579,8 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lukaslangrock/ShutdownTimerClassic) [ShutdownTimerClassic](https://github.com/lukaslangrock/ShutdownTimerClassic) 自动关机，最后更新2025.2.3
 - [Automate mouse clicks](https://www.opautoclicker.com) 鼠标自动点击器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/koekeishiya/yabai) [yabai for macOS](https://github.com/koekeishiya/yabai) macOS内置窗口管理器的扩展
-- [GitHub Repo stars](https://img.shields.io/github/stars/MrKai77/Loop) [Loop](https://github.com/MrKai77/Loop) WmacOS窗口管理
-- [ShortCat](https://shortcat.app) (macOS)用键盘操作mac电脑
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MrKai77/Loop) [Loop](https://github.com/MrKai77/Loop) (macOS) 窗口管理
+- [ShortCat](https://shortcat.app) (macOS) 用键盘操作mac电脑
 - ![GitHub Repo stars](https://img.shields.io/github/stars/noah-nuebling/mac-mouse-fix) [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) macOS, makes your mouse better
 - OCR 图片文字识别
   - ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR) [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) 文字识别工具
@@ -1676,7 +1677,7 @@ Adblock Filters
   - [WirelessMon](https://www.passmark.com/products/wirelessmonitor) 检测周围 WIFI 信道
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Archeb/opentrace) [OpenTrace](https://github.com/Archeb/opentrace) NextTrace的跨平台GUI界面，可视化路由跟踪工具，在地图上追踪并显示IP地址
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Leo-Corporation/InternetTest) [InternetTest](https://github.com/Leo-Corporation/InternetTest) Win网络测试工具
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor) [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 显示网速、CPU及内存利用率的桌面悬浮窗软件
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor) [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 显示网速、CPU及内存利用率的桌面悬浮窗软件 Feb 10, 2025
   - [Net Speed Meter](https://netspeedm.com) 显示网速的软件
   - [Test your IPv6](https://test-ipv6.com)
   - Speed Test 网速测试：[Speed Cloudflare](https://speed.cloudflare.com) 、[Speedtest](https://www.speedtest.net)、[fast](https://fast.com)、[LibreSpeed](https://librespeed.org)
@@ -1704,7 +1705,7 @@ Adblock Filters
 - VPS IDC 自建机场
   - [BandwagonHost VPS](https://bandwagonhost.com) 搬瓦工 老牌VPS服务商
   - [SockBoom](https://sockboom.love)
-  - [Vultr.com](https://my.vultr.com) 支持支付宝（据说被墙的IP太多）
+  - [Vultr.com](https://my.vultr.com) 支持支付宝
   - [Just My Socks](https://justmysocks.net/members/index.php)
   - [AWS LightSail](https://lightsail.aws.amazon.com) 最低配置一个月$3.5，流量不限，目前的Zone不多，推荐使用日本，新加坡或美国俄勒冈（支持银联卡）。现对2021/8/7之后使用Lightsail的用户提供3个月的免费试用。
   - [AWS EC2](https://aws.amazon.com/cn) 香港、日本或韩国申请个免费试用一年的EC2 VPS（支持银联卡）。在亚马逊云上建立一个虚拟机服务器(VPS)亚马逊的EC2虚拟机12个月内免费。在PC上用Putty客户端软件和VPS建立一个SSH通道并设置一个SOCKS代理隧道端口，在PC windows建立一个同样的localhost代理服务端口，用户上网的流量都走代理器通过SSH的隧道连到VPS。
@@ -1913,10 +1914,10 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) 基于火狐ESR，支持 Widevine，Privacy-preserving Firefox-based browser with Chromium-like UI and features
   - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://www.zen-browser.app) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务
-  - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android)，原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
+  - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android) 原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%
-  - [Pale Moon](https://www.palemoon.org) 苍月浏览器，基于几年前的Firefox/Mozilla源代码，后续自研了渲染引擎Goanna(Gecko的一个分支)，并优化了布局系统
+  - [Pale Moon](https://www.palemoon.org) 苍月浏览器，基于几年前的Firefox/Mozilla源代码，后续自研了渲染引擎Goanna，Gecko的一个分支，并优化了布局系统
   - [Basilisk](https://www.basilisk-browser.org/) 基于Goanna布局和渲染引擎，并建立在统一XUL平台（UXP）之上，由独立于Pale Moon项目的开发团队开发
 
 - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
@@ -2062,7 +2063,7 @@ Adblock Filters
 #### 🌱Launcher 快捷启动
 
 - [Flow Launcher](https://www.flowlauncher.com) 快捷启动工具
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Wox-launcher/Wox) [Wox](https://github.com/Wox-launcher/Wox) (Win, macOS)，开源快速启动工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Wox-launcher/Wox) [Wox](https://github.com/Wox-launcher/Wox) (Win, macOS) 开源快速启动工具
 - [GeekDesk](https://github.com/BookerLiu/GeekDesk)
 - [Fences](https://www.stardock.com/products/fences) Stardock公司推出的软件
 - [Rolan](https://getrolan.com)
@@ -2106,12 +2107,13 @@ Adblock Filters
 - [Amazon Cloud Drive](https://www.amazon.com/clouddrive)
 - [Allsync](https://allsync.com)
 - [Naver MYBOX](https://mybox.naver.com)
-- [Koofr](https://app.koofr.net) 欧洲Slovenia的网盘服务商，免费10G，免费版仅能连接2个云，2年内活跃
+- [Koofr](https://app.koofr.net) 欧洲Slovenia的网盘服务商，免费10G，免费仅能连2个云，2年内活跃 ⭐
+- [InfiniCLOUD](https://infini-cloud.net)
 - [Bitrix24](https://www.bitrix24.fr)
 - [PikPak](https://pikpak.me) 新加坡的团队开发
 - [Filen](https://filen.io) 2020年初在德国雷克林豪森成立，E2EE存储，3个月内活跃 ⭐
 - [Sync](https://www.sync.com)
-- [Proton Drive](https://drive.proton.me) 免费5G，12个月内活跃
+- [Proton Drive](https://drive.proton.me) 免费5G，12个月内活跃 ⭐
 - [Rakuten Drive](https://www.rakuten-drive.com) 乐天网盘，免费10G
 - [TorBox](https://torbox.app) 免费10G
 - [TeraBox](https://www.terabox.com)
@@ -2211,7 +2213,7 @@ Adblock Filters
 - [UltraVNC](https://www.uvnc.com) 免费的远程PC访问软件
 - [MeshCentral](https://meshcentral.com) 用于远程设备管理的开源、多平台、自托管、功能丰富的网站
 - [WireGuard](https://www.wireguard.com) 远程穿透
-- [woterm](https://github.com/aoyiduo/woterm) (Win, Linux, macOS)跨平台远程管理终端
+- [woterm](https://github.com/aoyiduo/woterm) (Win, Linux, macOS) 跨平台远程管理终端
 - [Remote Mouse](https://www.remotemouse.net) 远程鼠标控制
 - ![GitHub Repo stars](https://img.shields.io/github/stars/H-M-H/Weylus) [Weylus](https://github.com/H-M-H/Weylus) 手机变成电脑的触控屏
 - [Deskreen](https://deskreen.com) 电脑的辅助屏幕 Turn any device into a secondary screen for your computer
@@ -2234,7 +2236,7 @@ Adblock Filters
 - [AnLink](https://anl.ink)  (Android)
 - [Letsview](https://letsview.com)  (iOS, Android, Win)
 - [AirServer](https://www.airserver.com/PC) (Win)
-- [XMirror](https://apps.apple.com/app/id6469104483) (iOS)特斯拉投屏
+- [XMirror](https://apps.apple.com/app/id6469104483) (iOS) 特斯拉投屏
 - [Replica](https://apps.apple.com/app/id1468495939) (iOS) Screen Mirroring 支持投屏到电视、安卓 TV、特斯拉车机、浏览器
 - [iVCam](https://www.e2esoft.com/ivcam) Phone to webcam 手机做电脑摄像头
 - [Iriun Webcam](https://iriun.com)
@@ -2277,7 +2279,7 @@ Adblock Filters
 - [Weather now](https://apps.apple.com/us/app/weather-now-forecast-widgets/id1371461117)
 - [Colorful pro(彩云天气Pro)](https://apps.apple.com/cn/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688) (iOS)
 - [AirVisual](https://www.iqair.com)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Akylas/oss-weather) [OSS Weather](https://github.com/Akylas/oss-weather) (iOS/Android)，天气数据由OpenWeatherMap或MeteoFrance提供
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Akylas/oss-weather) [OSS Weather](https://github.com/Akylas/oss-weather) (iOS, Android) 天气数据由OpenWeatherMap或MeteoFrance提供
 - [SunSafe](https://apps.apple.com/us/app/uv-index-tanning-sunsafe/id6461573146) (iOS) UV Index & Tanning
 
 ## 💻OS 操作系统
