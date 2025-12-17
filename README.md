@@ -475,7 +475,7 @@
 - [PlaynPlay](https://apps.apple.com/us/app/playnplay/id1664643965) (iOS, Android)
 - [zFuse](https://apps.apple.com/us/app/zfuse-media-player/id1054505347) (iOS)
 - [TracyPlayer](https://apps.apple.com/tr/app/tracyplayer/id6450770064) (iOS)
-- [Potplayer](https://potplayer.tv) (Win)来自韩国
+- [Potplayer](https://potplayer.tv) (Win) 来自韩国
 - ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc) [VLC media player](https://github.com/videolan/vlc) 开源免费的跨平台多媒体播放器 ![Latest Release Date](https://img.shields.io/github/last-commit/videolan/vlc)
 - [PlayerFab Ultra HD Player](https://www.videohelp.com/software/DVDFab-Media-Player) 蓝光高清播放器
 - [GOM Player Plus](https://www.gomlab.com/gomplayerplus-media-player) 来自韩国播放器
@@ -493,7 +493,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nova-video-player/aos-AVP) [Nova Video Player](https://github.com/nova-video-player/aos-AVP) Android开源免费的万能影音播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/solidSpoon/DashPlayer) [DashPlayer](https://github.com/solidSpoon/DashPlayer) 专为英语学习者设计的视频播放器 ![Latest Release Date](https://img.shields.io/github/release-date/solidSpoon/DashPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kingslay/KSPlayer) [KSPlayer](https://github.com/kingslay/KSPlayer) TracyPlayer ![Latest Release Date](https://img.shields.io/github/last-commit/kingslay/KSPlayer)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili)  [wiliwili](https://github.com/xfangfang/wiliwili) (Win, macOS, Linux)第三方B站(哔哩哔哩Bilibili)客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xfangfang/wiliwili)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili)  [wiliwili](https://github.com/xfangfang/wiliwili) (Win, macOS, Linux)第三方B站客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xfangfang/wiliwili)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe) [NewPipe](https://github.com/TeamNewPipe/NewPipe) (Android)第三方YouTube客户端 ![Latest Release Date](https://img.shields.io/github/release-date/TeamNewPipe/NewPipe)
 - [Vinegar - Tube Cleaner](https://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229) (iOS)(💵)picture-in-picture小窗播放
 - [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)(💵)
@@ -527,11 +527,11 @@
 - [VidHub](https://apps.apple.com/cn/app/id1659622164) (iOS, macOS, Apple TV) 可连Trakt
 - [Reflix](https://apps.apple.com/app/id6621243955) (iOS)
 - [HamHub](https://apps.apple.com/app/id6458691598) (iOS, Apple TV)
-- [Conflux](https://apps.apple.com/app/id6450330892) (iOS, macOS, Apple TV)目提供强大的串流选项，完美支持Airplay和字幕、广泛支持格式、免步骤串流、画中画、空间频、云盘等
+- [Conflux](https://apps.apple.com/app/id6450330892) (iOS, macOS, Apple TV) 目提供强大的串流选项，完美支持Airplay和字幕、广泛支持格式、免步骤串流、画中画、空间频、云盘等
 - [DsCloud](https://apps.apple.com/us/app/id6476057278) (iOS, macOS)
 - [Yamby](https://t.me/yamby_release) (Android) 仅能连接Emby使用
 - [Optimus Player](https://www.optimusplayer.com) (macOS) 真正hdr支持，不是mp套壳，纯手动ffmpeg
-- 影音宝软件家族：[iemc](https://apps.apple.com/app/id1467462861) iOS/iPadOS；[EMTV](https://apps.apple.com/us/app/id1671608662) AppleTV；[yyb](https://apps.apple.com/cn/app/yyb/id1468401388)iOS/iPadOS/macOS/AppleTV；[yybx](https://apps.apple.com/cn/app/id1519723194) (💵)
+- 影音宝软件家族：[iemc](https://apps.apple.com/app/id1467462861) iOS/iPadOS；[EMTV](https://apps.apple.com/us/app/id1671608662) AppleTV；[yyb](https://apps.apple.com/cn/app/yyb/id1468401388) iOS/iPadOS/macOS/AppleTV；[yybx](https://apps.apple.com/cn/app/id1519723194) (💵)
 - [Filebar](https://apps.apple.com/cn/app/fileball/id1558391784) (iOS, AppleTV) 支持hdr，缓存，字幕，webdav可显示歌词，长按播放按钮可跳转Infuse等外部播放器，可导入字幕
 - [网易爆米花](https://bmh.163.com) 来自网易团队
 - [Forward](https://apps.apple.com/app/id6503940939) (iOS, Apple TV) 新视界
@@ -564,7 +564,7 @@
 
 #### Broadcast 直播软件 Live streaming
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio) [OBS Studio](https://obsproject.com) (Win, macOS, Linux)Open Broadcaster Software
+- ![GitHub Repo stars](https://img.shields.io/github/stars/obsproject/obs-studio) [OBS Studio](https://obsproject.com) (Win, macOS, Linux) Open Broadcaster Software
   - [VDO.Ninja](https://vdo.ninja) OBS Studio插件
 - [Streamlabs](https://streamlabs.com)
 - [Lightstream Studio](https://www.lightstream.com) 使用浏览器和云端处理
@@ -576,7 +576,7 @@
 
 ### 🏺Art Museum 艺术 在线博物馆 数字展厅
 
-- [Gallerix](https://gallerix.asia) 世界名画档案馆，Gallerix 专门收集世界著名画家的作品
+- [Gallerix](https://gallerix.asia) 世界名画档案馆，Gallerix专门收集世界著名画家的作品
 - [New York Public Library](https://digitalcollections.nypl.org) 纽约公共图书馆（NYPL）
 - [Metropolitan Museum of Art](https://metmuseum.org/art/collection) 美国大都会艺术博物馆
 - [NGA](https://images.nga.gov) 美国国家艺术馆The National Gallery of Art
@@ -742,7 +742,7 @@
 - [NXStudio](https://downloadcenter.nikonimglib.com/en/products/564/NX_Studio.html) 尼康的专业图像处理软件
 - [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/T8RIN/ImageToolbox) [ImageToolbox](https://github.com/T8RIN/ImageToolbox) 全能型图片处理工具
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Ruben2776/PicView) [PicView](https://github.com/Ruben2776/PicView) (Win, macOS)多功能图像查看器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Ruben2776/PicView) [PicView](https://github.com/Ruben2776/PicView) (Win, macOS) 多功能图像查看器
 
 ## 💪Health & Fitness 健康健美
 
@@ -911,7 +911,7 @@
 
 - [唯静Serene](https://apps.apple.com/app/id6467129034) (iOS)
 - [Decibel X](https://apps.apple.com/us/app/decibel-x-db-sound-level-meter/id448155923) 分贝检测
-- [Water Eject](https://apps.apple.com/us/app/water-eject/id6717605419) (iOS)清除手机扬声器中积水
+- [Water Eject](https://apps.apple.com/us/app/water-eject/id6717605419) (iOS) 清除手机扬声器中积水
 
 ### 📻音乐电台 在线播放歌曲
 
@@ -1057,8 +1057,8 @@
 - [Shutter Encoder](https://www.shutterencoder.com) 视频转换器
 - [Any Video Converter Free](https://www.any-video-converter.com) AVC 免费视频转换器
 - [Wondershare Filmora](https://filmora.wondershare.com) 视频剪辑
-- [Vegas](https://www.vegas.com) (💵)视频剪辑
-- [Adobe Premiere](https://www.adobe.com/products/premiere.html) (💵)视频剪辑
+- [Vegas](https://www.vegas.com) (💵) 视频剪辑
+- [Adobe Premiere](https://www.adobe.com/products/premiere.html) (💵) 视频剪辑
 - [Final Cut Pro](https://www.apple.com/final-cut-pro) 视频创作 macOS视频剪辑，苹果店airdrop先到手机再到电脑
 - [VivaCut](https://apps.apple.com/tr/app/vivacut-ai-video-editor/id1489090374) (iOS)
 - [Logic Pro for Mac](https://www.apple.com/logic-pro) macOS上的全能专业音乐创作app
@@ -1104,13 +1104,13 @@
 
 3.**主流商业AI**
 
-- [Grok](https://grok.com) Grok是由xAI开发的人工智能聊天机器人，xAI是一家由Elon Musk于2023年3月创立的公司
-- [ChatGPT](https://chat.openai.com) OpenAI公司研发的Chat Generative Pre-trained Transformer
+- [Grok](https://grok.com) Grok是由xAI开发的人工智能聊天机器人，xAI是一家由Elon Musk于2023年3月创立的公司 ⭐
+- [ChatGPT](https://chat.openai.com) OpenAI公司研发的Chat Generative Pre-trained Transformer ⭐
 - [Copilot](https://copilot.cloud.microsoft) Microsoft
   - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed) [DeepSpeed](https://github.com/microsoft/DeepSpeed) Microsoft DeepSpeed Chat
   - [Microsoft Azure](https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/?speed=0&pitch=0#features) Azure AI 语音，微软文本转语音
 - [Perplexity](https://www.perplexity.ai)
-- [Google Gemini](https://gemini.google.com) 谷歌的人工智能Gemini
+- [Google Gemini](https://gemini.google.com) 谷歌的人工智能Gemini ⭐
   - [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech)
 - [Claude](https://claude.ai) Anthropic公司研发，由前OpenAI工程师于2021年创立，谷歌和亚马逊都有投资
 
@@ -1128,13 +1128,11 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers) [Transformers](https://github.com/huggingface/transformers) 支持三个最热门的深度学习库：Jax、PyTorch和TensorFlow
   - [Hugging Face](https://huggingface.co)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableLM) [StableLM](https://github.com/Stability-AI/StableLM) 创业公司Stability AI发布训练的大语言模型
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/StableDiffusion) [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion) 开源的图像生成模型，文本到图像，也能生成视频
-  - [stablediffusionweb](https://stablediffusionweb.com) 无代码生成图像
+  - [Stable Diffusion Online](https://stablediffusionweb.com) 无代码生成图像
   - [DreamStudio](https://beta.dreamstudio.ai)
   - [Stable Audio](https://stableaudio.com) 文字生成音乐模型
   - ![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/stable-diffusion-webui-colab) [stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deforum-art/deforum-stable-diffusion) [deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) 由 Deforum 团队制作的一个支持动画视频功能的 Google Colab 版的 Stable Diffusion，可以通过Google Colab在线运行，也可以部署到本地运行。
-  - [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) StableDiffusion WebGPU DEMO
   - [stable-diffusion-webgpu-minimal](https://github.com/dakenf/stable-diffusion-webgpu-minimal) StableDiffusion WebGPU DEMO
 - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3) [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) 为可扩展和高效的语言处理而设计
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1) [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) 用于推理任务，加强了大模型的深度思考能力
@@ -1270,7 +1268,7 @@
 
 ### 📧Email 电子邮箱
 
-- [Apple Mail](https://www.icloud.com/mail)
+- [Apple Mail](https://www.icloud.com/mail) ⭐
 - [Gmail](https://gmail.com) 谷歌邮箱
 - [Outlook](https://outlook.cloud.microsoft) 微软旗下，订阅office 365无广告
 - [Notion Mail](https://mail.notion.so) AI驱动的电子邮件客户端，支持Gmail
@@ -1322,7 +1320,7 @@
 - [SOGo](https://www.sogo.nu) SOGo相比Roundcube邮箱界面更加简洁
 - [Roundcube](https://roundcube.net) 免费、开源的Webmail程序，很多著名的安全类邮箱都使用Roundcube作为邮箱的Webmail，如Riseup、A/I、cock.li等
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Mail-0/Mail-0) [Mail-0](https://github.com/Mail-0/Mail-0) self-host email app
-- [Resend](https://resend.com/emails) 免费1个域名，Up to 3,000 emails/month
+- [Resend](https://resend.com/emails) 免费1个域名，Up to 3,000 emails/month ⭐
 - [SelfMailKit](https://selfmailkit.com) 免费Up to 5,000 emails/month
 - [flodesk](https://flodesk.com) 使用Flodesk获得更多打开次数、更多点击次数和更多销售额
 
@@ -2397,7 +2395,7 @@ Adblock Filters
 ### 💻Virtual Machine 虚拟机
 
 - [Parallels Desktop for Mac](https://www.parallels.com) (macOS)
-- [Oracle VirtualBox](https://www.virtualbox.org) 开源免费软件
+- [Oracle VirtualBox](https://www.virtualbox.org) 开源免费软件 ⭐
 - [VMware Workstation Pro (Free)](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true) (Win, Linux) 已被博通Broadcom收购，免费向所有用户开放包括商用，Pro可以同时运行多个虚拟机
   - [VMware macOS Unlocker](https://github.com/paolo-projects/unlocker) 由于VMware Workstation不支持macOS，用此工具就可以使用Apple虚拟机
   - [Auto Unlocker](https://github.com/paolo-projects/auto-unlocker) Patcher for VMWare to run macOS Sonoma on VMware
