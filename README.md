@@ -2395,7 +2395,7 @@ Adblock Filters
 ### 💻Virtual Machine 虚拟机
 
 - [Parallels Desktop for Mac](https://www.parallels.com) (macOS)
-- [Oracle VirtualBox](https://www.virtualbox.org) 开源免费软件 ⭐1
+- [Oracle VirtualBox](https://www.virtualbox.org) 开源免费软件 ⭐
 - [VMware Workstation Pro (Free)](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true) (Win, Linux) 已被博通Broadcom收购，免费向所有用户开放包括商用，Pro可以同时运行多个虚拟机
   - [VMware macOS Unlocker](https://github.com/paolo-projects/unlocker) 由于VMware Workstation不支持macOS，用此工具就可以使用Apple虚拟机
   - [Auto Unlocker](https://github.com/paolo-projects/auto-unlocker) Patcher for VMWare to run macOS Sonoma on VMware
