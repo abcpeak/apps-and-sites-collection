@@ -1861,7 +1861,7 @@ Adblock Filters
 
 > 支持Manifest V2：Brave, Safari, Firefox, Supermium。不再支持Manifest V2：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://www.chromium.org/getting-involved/download-chromium) Blink浏览器引擎，Webkit的分支内核，The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
+- ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://github.com/chromium/chromium) Blink浏览器引擎，Webkit的分支内核，The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
   - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 100%开源，支持IPFS协议，[SlimBrave](https://github.com/ltx0101/SlimBrave)，内置广告和跟踪器拦截 – 不需要uBlock或Privacy Badger等三方扩展（尽管您仍然可以使用它们），页面加载速度更快。隐私优先的设计 – 它不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
