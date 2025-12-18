@@ -1656,7 +1656,7 @@ iOS Safari Adblocking
 Adblock Filters
 
 - [QuantumultX 小白2.0配置](https://github.com/ddgksf2013) 去广告配置
-- [shadowrocket去广告配置](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、[shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) ⭐
+- [Shadowrocket 去广告配置](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、[shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) ⭐
 - [AdRules](https://github.com/Cats-Team/AdRules) List for blocking ads in the Chinese region
 - [AdGuard Chinese filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) 中文广告
 - [LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) Query Parameter Cleaning Rules
