@@ -1700,6 +1700,8 @@ Adblock Filters
 - Android VPN: [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid), [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid), [v2rayNG](https://github.com/2dust/v2rayNG), [Surfboard](https://github.com/getsurfboard/surfboard), [Hiddify Next](https://github.com/hiddify/hiddify-next), [Clash for Flutter](https://github.com/mapleafgo/clash-for-flutter), [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [Sing Box](https://github.com/SagerNet/sing-box) 创建网络代理服务器、客户端和透明代理
 
+- macOS VPN: ![GitHub Repo stars](https://img.shields.io/github/stars/666OS/ClashMac) [ClashMac](https://github.com/666OS/ClashMac)
+
 - VPS IDC 自建机场
   - [BandwagonHost VPS](https://bandwagonhost.com) 搬瓦工 老牌VPS服务商
   - [SockBoom](https://sockboom.love)
