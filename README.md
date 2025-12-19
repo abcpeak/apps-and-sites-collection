@@ -2158,7 +2158,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/magic-wormhole/magic-wormhole) [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，开源跨平台文件传输工具
   - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) 通过 Magic Wormhole 协议创建的应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) 适用于macOS的Android文件传输
-- [Blip Transfer](https://blip.net) 即传即下，No waiting to upload and download separately ⭐
+- [Blip Transfer](https://blip.net) 即传即下，边传边下，No waiting to upload and download separately ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/abhi16180/photon) [Photon](https://github.com/abhi16180/photon)
 
 ### 📥Downloader 下载器
