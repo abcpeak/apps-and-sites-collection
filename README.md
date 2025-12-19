@@ -915,7 +915,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ESLyric/release) [ESLyric](https://github.com/ESLyric/release) foobar2000的歌词插件，桌面卡拉OK歌词
 - ![GitHub Repo stars](https://img.shields.io/github/stars/real-zony/ZonyLrcToolsX) [ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) (Win、Linux、Mac)批量下载歌词 ![Last Commit](https://img.shields.io/github/release-date/real-zony/ZonyLrcToolsX)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/91270/MeiamSubtitles) [MeiamSubtitles](https://github.com/91270/MeiamSubtitles) Emby Jellyfin 中文字幕插件
-- [LDDC](https://github.com/chenmozhijin/LDDC) 简单易用的精准歌词(逐字歌词/卡拉OK歌词)下载匹配工具
+- [LDDC](https://github.com/chenmozhijin/LDDC) 歌词(卡拉OK歌词)下载匹配工具
 
 ### 💤White noise 白噪音
 
