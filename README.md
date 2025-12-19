@@ -849,7 +849,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
 - [AIMP](https://www.aimp.ru) (Win, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器
 - [MediaMonkey](https://www.mediamonkey.com) (Win, Android)
-- [MusicBee](https://getmusicbee.com) (Win) October 1, 2025 ⭐
+- [MusicBee](https://getmusicbee.com) (Win) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Miaoyww/NonsPlayer) [NonsPlayer](https://github.com/Miaoyww/NonsPlayer) (Win) ![Last Commit](https://img.shields.io/github/release-date/Miaoyww/NonsPlayer)
 - [foobar2000](https://www.foobar2000.org) (Win, iOS) 开源的音乐播放器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dream7180/foobox-cn) [foobox-cn](https://github.com/dream7180/foobox-cn) foobar2000 DUI配置 ![Last Commit](https://img.shields.io/github/release-date/dream7180/foobox-cn)
