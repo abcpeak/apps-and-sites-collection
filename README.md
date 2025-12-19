@@ -912,7 +912,7 @@
 - [Versefy](https://versefy.app) view the lyrics
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WXRIW/Lyricify-App) [Lyricify-App](https://github.com/WXRIW/Lyricify-App) 为Spotify等各种应用提供滚动歌词
 - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) foobar2000的歌词插件
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ESLyric/release) [ESLyric](https://github.com/ESLyric/release) foobar2000的歌词插件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ESLyric/release) [ESLyric](https://github.com/ESLyric/release) foobar2000的歌词插件，桌面卡拉OK歌词
 - ![GitHub Repo stars](https://img.shields.io/github/stars/real-zony/ZonyLrcToolsX) [ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) (Win、Linux、Mac)批量下载歌词 ![Last Commit](https://img.shields.io/github/release-date/real-zony/ZonyLrcToolsX)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/91270/MeiamSubtitles) [MeiamSubtitles](https://github.com/91270/MeiamSubtitles) Emby Jellyfin 中文字幕插件
 - [LDDC](https://github.com/chenmozhijin/LDDC) 简单易用的精准歌词(逐字歌词/卡拉OK歌词)下载匹配工具
