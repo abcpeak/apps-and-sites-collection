@@ -2149,7 +2149,7 @@ Adblock Filters
 
 #### 🍉Cross-Platform File Transfer 跨平台文件传输
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend) [LocalSend](https://localsend.org)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend) [LocalSend](https://localsend.org) ⭐
 - [KDE Connect](https://kdeconnect.kde.org)
 - [Sharik](https://github.com/marchellodev/sharik)
 - [LANDrop](https://landrop.app) (全平台)
@@ -2165,7 +2165,7 @@ Adblock Filters
 
 > 下载视频工具，下载软件，YouTube, Bilibili, X, TikTok
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) 开源免费 YouTube 第三方客户端去广告
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) YouTube第三方客户端去广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt) [cobalt](https://github.com/imputnet/cobalt) 没有广告、跟踪器的免费在线下载工具
 - [iTubeGo](https://itubego.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT) [BiglyBT](https://www.github.com/BiglySoftware/BiglyBT) 开源免费BT种子客户端
