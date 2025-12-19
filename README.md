@@ -532,7 +532,7 @@
 - [Yamby](https://t.me/yamby_release) (Android) 仅能连接Emby使用
 - [Optimus Player](https://www.optimusplayer.com) (macOS) 真正hdr支持，不是mp套壳，纯手动ffmpeg
 - 影音宝软件家族：[iemc](https://apps.apple.com/app/id1467462861) iOS/iPadOS；[EMTV](https://apps.apple.com/us/app/id1671608662) AppleTV；[yyb](https://apps.apple.com/cn/app/yyb/id1468401388) iOS/iPadOS/macOS/AppleTV；[yybx](https://apps.apple.com/cn/app/id1519723194) (💵)
-- [Filebar](https://apps.apple.com/cn/app/fileball/id1558391784) (iOS, AppleTV) 支持hdr，缓存，字幕，webdav可显示歌词，长按播放按钮可跳转Infuse等外部播放器，可导入字幕
+- [Filebar](https://apps.apple.com/cn/app/fileball/id1558391784) (iOS, AppleTV) 支持hdr，缓存，字幕，webdav可显示歌词，支持lrc歌词，长按播放按钮可跳转Infuse等外部播放器，可导入字幕
 - [网易爆米花](https://bmh.163.com) 来自网易团队
 - [Forward](https://apps.apple.com/app/id6503940939) (iOS, Apple TV) 新视界
 - [BeeJoy](https://apps.apple.com/us/app/beejoy/id6670792086) (iOS)
@@ -835,6 +835,10 @@
 
 ### 🎶Music Player 音乐播放软件
 
+- [Audacious](https://audacious-media-player.org) (Linux, BSD derivatives, macOS and Windows) open source audio player，2025年还在更新
+- [Elisa（KDE出品）](https://apps.kde.org/elisa) 嵌入到文件中的歌词显示，不支持LRC歌词文件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/DeaDBeeF-Player/deadbeef) [DeaDBeeF Player](https://github.com/DeaDBeeF-Player/deadbeef)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/strawberrymusicplayer/strawberry) [🍓 Strawberry Music Player](https://github.com/strawberrymusicplayer/strawberry) Clementine的升级版、专为无损发烧友设计
 - [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) 库乐队，制作手机铃声🎧
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mostafaalagamy/Metrolist) [Metrolist](https://github.com/mostafaalagamy/Metrolist) YouTube Music client for Android
 - [Cotton Music](https://apps.apple.com/app/id6752617064) 棉花音乐
@@ -845,7 +849,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
 - [AIMP](https://www.aimp.ru) (Win, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器
 - [MediaMonkey](https://www.mediamonkey.com) (Win, Android)
-- [MusicBee](https://getmusicbee.com) (Win)
+- [MusicBee](https://getmusicbee.com) (Win) October 1, 2025 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Miaoyww/NonsPlayer) [NonsPlayer](https://github.com/Miaoyww/NonsPlayer) (Win) ![Last Commit](https://img.shields.io/github/release-date/Miaoyww/NonsPlayer)
 - [foobar2000](https://www.foobar2000.org) (Win, iOS) 开源的音乐播放器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dream7180/foobox-cn) [foobox-cn](https://github.com/dream7180/foobox-cn) foobar2000 DUI配置 ![Last Commit](https://img.shields.io/github/release-date/dream7180/foobox-cn)
@@ -865,14 +869,17 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/th-ch/youtube-music) [youtube-music](https://github.com/th-ch/youtube-music) Desktop player for YouTube music ![Last Commit](https://img.shields.io/github/release-date/th-ch/youtube-music)
 - [SoundCloud](https://soundcloud.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Moriafly/SaltPlayerSource) [椒盐音乐 Salt Player](https://github.com/Moriafly/SaltPlayerSource) (Android) ![Last Commit](https://img.shields.io/github/release-date/Moriafly/SaltPlayerSource)
-- 来自EVERAPPZ SL(iOS)：[Evermusic](https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198)、[Flacbox](https://apps.apple.com/jp/app/id1097564256)、[Evertag](https://apps.apple.com/app/id1450763230) 支持WebDAV
+- 来自EVERAPPZ SL，西班牙公司
+  - [Evermusic](https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198) (iOS) 支持WebDAV，适合MP3
+  - [Flacbox](https://apps.apple.com/jp/app/id1097564256) (iOS) 适合无损 Hi-Res，用FFMPEG解码稀有格式，支持WebDAV，
+  - [Evertag](https://apps.apple.com/app/id1450763230) (iOS) 音乐标签（Metadata）编辑器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Win) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
 - [Listenify](https://apps.apple.com/us/app/listenify/id6475892753) (iOS)(💵)($5.99)支持歌词API
 - [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS) 支持歌词API，支持本地lrc歌词，灵动岛歌词，不支持infini-cloud，支持koofr，
 - [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
 - [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS) 拉动进度条有卡顿bug
-- [Anywhere offine Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)(🟢)
-- [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS)(🟢) 维克音乐，支持本地lrc歌词，导入自动转为内嵌歌词，默认显示嵌入的专辑封面和歌词⭐
+- [Anywhere offine Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)
+- [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS) 维克音乐，支持本地lrc歌词，自动转为内嵌歌词 ⭐
 - [Ever Play](https://apps.apple.com/app/id1202642773) (iOS) 需付费支持歌词
 - [One Player](https://apps.apple.com/app/id1614115295) (iOS) 需付费支持歌词，免费没有歌词滚动
 - [Musixmatch](https://apps.apple.com/us/app/musixmatch-lyrics-finder/id448278467) (iOS)
@@ -895,6 +902,7 @@
   - [Grover Podcast](https://apps.microsoft.com/detail/9nblggh6c4bc?hl=en-us&gl=US) manage your favorite podcasts on Windows
   - [Doppler](https://brushedtype.co/doppler) (iOS, macOS)
   - [LoveMusic Player](https://apps.apple.com/us/app/lovemusic-player-local-play/id1592073552) 支持本地lrc歌词，最后更新2024
+  - [Clementine](https://www.clementine-player.org) Tuesday, April 19, 2016
 
 #### 📄Lyrics 歌词 字幕
 
@@ -904,7 +912,7 @@
 - [Versefy](https://versefy.app) view the lyrics
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WXRIW/Lyricify-App) [Lyricify-App](https://github.com/WXRIW/Lyricify-App) 为Spotify等各种应用提供滚动歌词
 - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) foobar2000的歌词插件
-- [ESLyric](https://github.com/ESLyric/release/releases) foobar2000的歌词插件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ESLyric/release) [ESLyric](https://github.com/ESLyric/release) foobar2000的歌词插件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/real-zony/ZonyLrcToolsX) [ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) (Win、Linux、Mac)批量下载歌词 ![Last Commit](https://img.shields.io/github/release-date/real-zony/ZonyLrcToolsX)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/91270/MeiamSubtitles) [MeiamSubtitles](https://github.com/91270/MeiamSubtitles) Emby Jellyfin 中文字幕插件
 - [LDDC](https://github.com/chenmozhijin/LDDC) 简单易用的精准歌词(逐字歌词/卡拉OK歌词)下载匹配工具
