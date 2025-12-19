@@ -868,13 +868,13 @@
 - 来自EVERAPPZ SL(iOS)：[Evermusic](https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198)、[Flacbox](https://apps.apple.com/jp/app/id1097564256)、[Evertag](https://apps.apple.com/app/id1450763230) 支持WebDAV
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Win) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
 - [Listenify](https://apps.apple.com/us/app/listenify/id6475892753) (iOS)(💵)($5.99)支持歌词API
-- [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS)支持歌词API ，不支持infini-cloud，支持koofr
+- [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS) 支持歌词API，支持本地lrc歌词，灵动岛歌词，不支持infini-cloud，支持koofr，
 - [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
-- [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS)(🟢)
+- [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS) 拉动进度条有卡顿bug
 - [Anywhere offine Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)(🟢)
-- [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS)(🟢) 维克音乐，本地lrc自动转为内嵌歌词，默认显示嵌入的专辑封面和歌词⭐
-- [Ever Play](https://apps.apple.com/app/id1202642773) (iOS)(💵)支持歌词需付费
-- [One Player](https://apps.apple.com/app/id1614115295) (iOS)(💵)支持歌词需付费
+- [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS)(🟢) 维克音乐，支持本地lrc歌词，导入自动转为内嵌歌词，默认显示嵌入的专辑封面和歌词⭐
+- [Ever Play](https://apps.apple.com/app/id1202642773) (iOS) 需付费支持歌词
+- [One Player](https://apps.apple.com/app/id1614115295) (iOS) 需付费支持歌词，免费没有歌词滚动
 - [Musixmatch](https://apps.apple.com/us/app/musixmatch-lyrics-finder/id448278467) (iOS)
 - [Phocid](https://github.com/TJYSunset/Phocid) (Android 11+) 本地音乐播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_desktop) [Listen 1](https://github.com/listen1/listen1_desktop) (Win, Linux) ![Last Commit](https://img.shields.io/github/release-date/listen1/listen1_desktop)
@@ -886,13 +886,15 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/fooyin/fooyin) [fooyin](https://github.com/fooyin/fooyin)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/imsyy/splayer) [SPlayer](https://github.com/imsyy/splayer) 简约的音乐播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/playwora/wora) [Wora](https://github.com/playwora/wora) player for audiophiles
+- [Pocket Casts Web](https://play.pocketcasts.com) 播客工具
+- [LocMusic](https://apps.apple.com/us/app/locmusic-local-play-lrc-show/id1505426566) (iOS) 支持本地lrc歌词，灵动岛歌词，文件夹管理
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
   - [Fiiomusic](https://apps.apple.com/us/app/fiio-music-for-audiophiles/id1235959662) (iOS) (最后更新2023.8)
   - [Grover Podcast](https://apps.microsoft.com/detail/9nblggh6c4bc?hl=en-us&gl=US) manage your favorite podcasts on Windows
   - [Doppler](https://brushedtype.co/doppler) (iOS, macOS)
-- [Pocket Casts Web](https://play.pocketcasts.com) 播客工具
+  - [LoveMusic Player](https://apps.apple.com/us/app/lovemusic-player-local-play/id1592073552) 支持本地lrc歌词，最后更新2024
 
 #### 📄Lyrics 歌词 字幕
 
