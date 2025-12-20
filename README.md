@@ -453,7 +453,7 @@
 - [Ticketmaster](https://www.ticketmaster.com)
 - [Amazon Prime Video](https://www.amazon.com/gp/video/storefront)
 - [Stream](https://www.stremio.com) 媒体中心
-- [IMDB](https://www.imdb.com)
+- [IMDB](https://www.imdb.com) IMDb 是亚马逊旗下公司
 - [Vimeo](https://vimeo.com)
 - [Netflix](https://www.netflix.com) 网飞
 - [Disney+](https://www.disneyplus.com/home) 迪士尼+
@@ -1316,14 +1316,21 @@
 - [Vivaldi Webmail](https://webmail.vivaldi.net) 位于冰岛
 - [Secria](https://secria.me) 完全加密的、注重隐私保护，无广告，无监控
 
-#### Mail Forwarding 邮件转发 别名邮箱 临时邮件
+#### Mail Forwarding 邮件转发 邮件别名（Alias）
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/simple-login/app) [SimpleLogin](https://simplelogin.io) 开源，在欧洲制作和托管，已被Proton收购
 - [Firefox Relay](https://relay.firefox.com) 每封电子邮件的大小上限为10MB
 - [DuckDuckGo Email Protection](https://duckduckgo.com/email)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/anonaddy/anonaddy) [Addy.io](https://github.com/anonaddy/anonaddy) AnonAddy 免费版每月带宽限制10M
 - [AdGuard Mail](https://adguard-mail.com) 临时电子邮件地址
+- [33Mail](https://www.33mail.com) 免费
+- [Mailgw](https://mailgw.com) 免费
+
+#### 临时邮箱（Temp Mail） 一次性邮箱
+
 - [Free Temporary Gmail Go24](https://freegmail.go24.info)
+- [10 Minute Mail](https://10minutemail.com)
+- [temp-mail.org](https://temp-mail.org/en)
 
 #### 邮箱工具
 
@@ -2151,15 +2158,18 @@ Adblock Filters
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend) [LocalSend](https://localsend.org) ⭐
 - [KDE Connect](https://kdeconnect.kde.org)
-- [Sharik](https://github.com/marchellodev/sharik)
-- [LANDrop](https://landrop.app) (全平台)
-- [Microsoft Edge Drop](https://www.microsoft.com/en-us/edge/features/drop)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/marchellodev/sharik) [Sharik](https://github.com/marchellodev/sharik) (Android, iOS, Win, macOS, and Linux)
+- [LANDrop](https://landrop.app) (Android, iOS, Win, macOS, and Linux)
+- [Microsoft Edge Drop](https://www.microsoft.com/en-us/edge/features/drop) need Microsoft Edge installed
 - [Intel® Unison™](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26?hl=en-us&gl=us)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/magic-wormhole/magic-wormhole) [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，开源跨平台文件传输工具
-  - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) 通过 Magic Wormhole 协议创建的应用程序
+- ![GitHub Repo stars](https://img.shields.io/github/stars/magic-wormhole/magic-wormhole) [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，命令行工具和Python库，通过一个短代码在两台设备间安全地传输文件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) 适用于macOS的Android文件传输
 - [Blip Transfer](https://blip.net) 即传即下，边传边下，No waiting to upload and download separately ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/abhi16180/photon) [Photon](https://github.com/abhi16180/photon)
+- [Smash](https://fromsmash.com) 免费2G文件传输
+
+- 🗃️Archived
+  - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) (Android) 通过 Magic Wormhole 协议创建的应用程序，2023年最后更新
 
 ### 📥Downloader 下载器
 
