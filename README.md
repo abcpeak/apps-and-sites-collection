@@ -1482,6 +1482,7 @@
   - [Instagram](https://www.instagram.com)
   - [Threads](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002) built by the Instagram team
   - [Whatsapp](https://www.whatsapp.com) Meta的产品
+    - [ZapZap](https://github.com/rafatosta/zapzap/) WhatsApp Desktop for Linux
 - [What's going on? Friend Diary](https://apps.apple.com/ai/app/whats-going-on-journal-diary/id6471529194) (iOS) 你最社交的日记
 - [Gettr](https://gettr.com)
 - [Truth Social](https://truthsocial.com)
@@ -1915,6 +1916,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
   - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) 在您的浏览器上运行的 AI 代理，而不是在云中运行
   - ![GitHub Repo stars](https://img.shields.io/github/stars/the-ora/browser) [Ora Browser](https://github.com/the-ora/browser) (macOS)
+  - [AdsPower](https://www.adspower.com) 指纹浏览器
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
@@ -2314,6 +2316,7 @@ Adblock Filters
 - [iMazing](https://imazing.com) (Win, macOS) Manage your iPhone.On your terms
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iDescriptor/iDescriptor) [iDescriptor](https://github.com/iDescriptor/iDescriptor) iDescriptor 是一个跨平台、开源且免费的 iDevice 管理工具。它支持 USB 连接、AirPlay、从 Apple Store 下载安装应用、虚拟位置模拟等。
 - [iMazing](https://imazing.com/zh) (macOS, Win) iOS设备管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PlayCover/PlayCover) [PlayCover](https://github.com/PlayCover/PlayCover) Runs iOS apps on Apple Silicon Macs
 
 - **📥macOS下载站**
   - [Open-Source macOS Apps](https://github.com/iCHAIT/awesome-macOS) Open Source macOS Apps苹果电脑软件
