@@ -1402,6 +1402,7 @@
 - [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) 免费版限制200个密码
 - [MEGA Pass](https://mega.io/pass) €0.99 per month
+- [PearPass](https://pass.pears.com)  (Win, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费 ⭐
 
 - 🗃️Archived
   - Dropbox Passwords 已关闭
