@@ -464,6 +464,7 @@
 - [PeerTube](https://joinpeertube.org)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/yuliskov/SmartTube) [SmartTube](https://github.com/yuliskov/SmartTube) (Android TV)
 - [Stremio Lite](https://apps.apple.com/us/app/stremio-lite/id6741710156) (iOS)官方或第三方插件来访问 YouTube、Netflix、公共领域内容等
+- [Popcorn Time](https://github.com/popcorntime/popcorntime) 其他平台如JustWatch或Reelgood充当目录，Popcorn Time可以播放自己的文件
 
 - [Trakt](https://trakt.tv) 剧集管理
   - ![GitHub Repo stars](https://img.shields.io/github/stars/michaldrabik/Showly-2.0) [Showly](https://github.com/michaldrabik/Showly-2.0) (Android) Trakt的第三方客户端
@@ -847,7 +848,7 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube) [Spotube](https://github.com/KRTirtho/spotube) 开源免费跨平台 Spotify 第三方客户端 ![Last Commit](https://img.shields.io/github/release-date/KRTirtho/spotube) ![commit-activity](https://img.shields.io/github/commit-activity/m/KRTirtho/spotube)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/whoeevee/EeveeSpotify) [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) spotify修改版，自定义歌词显示 ![Last Commit](https://img.shields.io/github/release-date/whoeevee/EeveeSpotify)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
-- [AIMP](https://www.aimp.ru) (Win, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器
+- [AIMP](https://www.aimp.ru) (Win, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器 ⭐
 - [MediaMonkey](https://www.mediamonkey.com) (Win, Android)
 - [MusicBee](https://getmusicbee.com) (Win) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Miaoyww/NonsPlayer) [NonsPlayer](https://github.com/Miaoyww/NonsPlayer) (Win) ![Last Commit](https://img.shields.io/github/release-date/Miaoyww/NonsPlayer)
@@ -1039,7 +1040,8 @@
 - [ImgBB](https://imgbb.com)
 - [Postimages](https://postimages.org)
 - [Catbox.moe](https://catbox.moe)
-- [AutoWall](https://github.com/SegoCode/AutoWall) Live wallpapers on Windows
+- ![GitHub Repo stars](https://img.shields.io/github/stars/SegoCode/AutoWall) [AutoWall](https://github.com/SegoCode/AutoWall) Live wallpapers on Windows
+- ![GitHub Repo stars](https://img.shields.io/github/stars/leminlimez/Nugget) [Nugget](https://github.com/leminlimez/Nugget)  设置iOS动画壁纸
 
 ### 🎥Video Edit 视频音频剪辑软件
 
@@ -1872,8 +1874,9 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PasteBar/PasteBarApp) [PasteBarApp](https://github.com/PasteBar/PasteBarApp) 本地剪贴板管理器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/p0deje/Maccy) [Karabiner-Elements](https://github.com/p0deje/Maccy) Lightweight clipboard manager for macOS
 - [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) (macOS) 一键启用或禁用键盘
-- [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop)
-- [Urik](https://github.com/urikdev/Urik) (Android) Privacy-first keyboard
+- ![GitHub Repo stars](https://img.shields.io/github/stars/CrossPaste/crosspaste-desktop) [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop) 跨设备的通用粘贴板
+- ![GitHub Repo stars](https://img.shields.io/github/stars/urikdev/Urik) [Urik](https://github.com/urikdev/Urik) (Android) Privacy-first keyboard
+- ![GitHub Repo stars](https://img.shields.io/github/stars/aardio/ImTip) [ImTip](https://github.com/aardio/ImTip) 输入法状态提示工具
 
 - 🗃️Archived
   - [Clipboard : Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) (iOS) 剪贴板同步 Oct 11, 2024
@@ -2025,6 +2028,7 @@ Adblock Filters
   - [Noir](https://getnoir.app) Safari黑暗模式
   - [Dark Reader](https://darkreader.org)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) This theme compatible with Firefox 143+ on macOS, Linux & Windows
+- [Vimium](https://vimium.github.io) 键盘快捷键
 
 #### 📜Userscripts Extension Manager 脚本管理，自定义和网页增强
 
