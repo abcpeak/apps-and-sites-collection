@@ -1807,8 +1807,8 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/M2Team/NanaZip) [NanaZip](https://github.com/M2Team/NanaZip) ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/peazip/PeaZip) [PeaZip](https://github.com/peazip/PeaZip)
 - [Bandizip](https://www.bandisoft.com/bandizip)
-- [WinRAR](https://www.win-rar.com)
-- [WinZip(iOS)](https://apps.apple.com/app/id500637987)
+- [WinRAR](https://www.win-rar.com) (Win)
+- [WinZip](https://apps.apple.com/app/id500637987) (iOS)
 - [Keka](https://www.keka.io/en) (macOS) file archiver
 - [The Unarchiver](https://macpaw.com/the-unarchiver) (macOS)
 - [B1 Free Archiver](https://b1.org) (Win, macOS, Linux, Android) 常见格式（ZIP、RAR 等）
