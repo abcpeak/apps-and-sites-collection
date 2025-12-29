@@ -1786,6 +1786,7 @@ Adblock Filters
 - 🕒Time 时间
   - [Time.is](https://time.is) - Check Accuracy of System Clock
   - [Flip Clock](https://apps.apple.com/us/app/flip-clock-no-ads/id1522242289) (iOS)
+  - [iFlipClock Pro: Desk Clock](https://apps.apple.com/us/app/iflipclock-pro-desk-clock/id6748315192) (iOS)
   - [The Clocks](https://apps.apple.com/us/app/the-clocks-alarm-world-clock/id403684793) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/vladelaina/Catime) [Catime](https://github.com/vladelaina/Catime) (Win) 🍅番茄时钟
   - [Flip Clock - Time Widget](https://apps.apple.com/us/app/flip-clock-time-widget/id6739703704) (iOS)
