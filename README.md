@@ -1697,6 +1697,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Archeb/opentrace) [OpenTrace](https://github.com/Archeb/opentrace) NextTrace的跨平台GUI界面，可视化路由跟踪工具，在地图上追踪并显示IP地址
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Leo-Corporation/InternetTest) [InternetTest](https://github.com/Leo-Corporation/InternetTest) Win网络测试工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor) [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 显示网速、CPU及内存利用率的桌面悬浮窗软件 Feb 10, 2025
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Diorser/LiteMonitor) [LiteMonitor](https://github.com/Diorser/LiteMonitor) 桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能
   - [Net Speed Meter](https://netspeedm.com) 显示网速的软件
   - [Test your IPv6](https://test-ipv6.com)
   - Speed Test 网速测试：[Speed Cloudflare](https://speed.cloudflare.com) 、[Speedtest](https://www.speedtest.net)、[fast](https://fast.com)、[LibreSpeed](https://librespeed.org)
