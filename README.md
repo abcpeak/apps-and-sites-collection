@@ -2393,7 +2393,7 @@ Adblock Filters
   - [VoltageOS](https://www.voltageos.com)
   - [GrapheneOS](https://grapheneos.org) 石墨烯OS，Only Google Pixel devices are supported 开源、注重隐私和安全的移动操作系统
   - [CalyxOS](https://calyxos.org) Only Google Pixel devices and Xiaomi Mi A2 are supported
-  - [/e/OS](https://e.foundation/de/e-os)
+  - [/e/OS](https://e.foundation/de/e-os) 基于 Android 的去 Google 化（de-Googled） 开源移动操作系统，由法国非营利组织 e.foundation 开发和维护
 - [Paranoid Android](https://paranoidandroid.co) AOSPA
 - [Evolution X](https://evolution-x.org) 预装的Google应用程序和Pixel的应用程序
 - [ArrowOS](https://arrowos.net) 轻量级的ROM
