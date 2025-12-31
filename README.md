@@ -2172,6 +2172,7 @@ Adblock Filters
 #### 🍉Cross-Platform File Transfer 跨平台文件传输
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend) [LocalSend](https://localsend.org) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tonyantony300/alt-sendme) [AltSendme](https://github.com/tonyantony300/alt-sendme)
 - [KDE Connect](https://kdeconnect.kde.org)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/marchellodev/sharik) [Sharik](https://github.com/marchellodev/sharik) (Android, iOS, Win, macOS, and Linux)
 - [LANDrop](https://landrop.app) (Android, iOS, Win, macOS, and Linux)
