@@ -896,6 +896,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/playwora/wora) [Wora](https://github.com/playwora/wora) player for audiophiles
 - [Pocket Casts Web](https://play.pocketcasts.com) 播客工具
 - [LocMusic](https://apps.apple.com/us/app/locmusic-local-play-lrc-show/id1505426566) (iOS) 支持本地lrc歌词，灵动岛歌词，文件夹管理
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jeffvli/feishin) [Feishin](https://github.com/jeffvli/feishin) A modern self-hosted music player
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -952,13 +953,14 @@
 - [Reddit](https://www.reddit.com) 红迪，社交新闻论坛
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Docile-Alligator/Infinity-For-Reddit) [Infinity For Reddit+](https://github.com/Docile-Alligator/Infinity-For-Reddit) (Android)
 
-### Bypass Paywall
+### Bypass Paywall 绕过付费墙
 
 - [paywallbuster](https://paywallbuster.com) 绕过付费墙
 - [Read articles without annoying paywalls](https://www.removepaywall.com)
 - [Bypass Paywalls Clean for Firefox](https://github.com/bpc-clone/bypass-paywalls-firefox-clean)
 - [Bye Bye Paywall](https://byebyepaywall.com/en)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/manualdousuario/marreta) [Marreta](https://github.com/manualdousuario/marreta)
+- [Medium Unlocker](https://github.com/inulute/medium-unlocker) (Android)
 
 ## 📷Photo & Video 摄影与录像
 
@@ -1118,7 +1120,7 @@
 
 - [Grok](https://grok.com) Grok是由xAI开发的人工智能聊天机器人，xAI是一家由Elon Musk于2023年3月创立的公司 ⭐
 - [ChatGPT](https://chat.openai.com) OpenAI公司研发的Chat Generative Pre-trained Transformer ⭐
-- [Copilot](https://copilot.cloud.microsoft) Microsoft
+- [Microsoft AI](https://www.microsoft.com/en/ai)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed) [DeepSpeed](https://github.com/microsoft/DeepSpeed) Microsoft DeepSpeed Chat
   - [Microsoft Azure](https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/?speed=0&pitch=0#features) Azure AI 语音，微软文本转语音
 - [Perplexity](https://www.perplexity.ai)
@@ -1746,6 +1748,7 @@ Adblock Filters
 ### 🧹Clean 软件卸载&优化
 
 - [CCleaner](https://www.ccleaner.com/ccleaner) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/guhcostan/windows-cleaner-cli) [Windows Cleaner CLI](https://github.com/guhcostan/windows-cleaner-cli) Windows cleanup tool
 - [Revo Uninstaller](https://www.revouninstaller.com)
 - [Registry Finder](https://registry-finder.com)
 - [TweakPower](https://www.kurtzimmermann.com/tweakpowerext_en.html) 系统优化工具
@@ -2011,8 +2014,9 @@ Adblock Filters
 - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
 - [Stream Recorder](https://www.hlsloader.com) download HLS as MP4
 - [Silk - Privacy Pass Client](https://chromewebstore.google.com/detail/silk-privacy-pass-client/ajhmfdgkijocedmfjonnpjfojldioehi)
+- [Free Blocker - Ad blocker & Ads Remover](https://chromewebstore.google.com/detail/free-blocker-ad-blocker-a/ajmonbkfjffgdhhacjmlkfpdpbfnaeon)
 - 🔖Bookmark & Tab 书签和标签页
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus) 跨浏览器书签同步⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus) 跨浏览器书签同步 ⭐
   - [EverSync everhelper](https://everhelper.me)
   - [xBrowserSync](https://www.xbrowsersync.org)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub)
@@ -2021,7 +2025,7 @@ Adblock Filters
   - 书签清理：[Bookmarks clean up](https://chrome.google.com/webstore/detail/oncbjlgldmiagjophlhobkogeladjijl)、[LazyCat](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef)
   - [favbox](https://github.com/dd3v/favbox)
   - [Bookmarkie](https://chromewebstore.google.com/detail/bookmarkie-bookmarks-in-p/ahlphbdcaacfhkiajebghpngknafklbj) Bookmarks in popup
-  - [Momentum](https://momentumdash.com) 定制新标签页
+  - [Momentum](https://momentumdash.com) 定制新标签页 ⭐
   - [OneTab](https://www.one-tab.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dessant/search-by-image) [search-by-image](https://github.com/dessant/search-by-image)
 - [Glarity](https://glarity.app) 利用ChatGPT4生成摘要，支持YouTube和Google
@@ -2041,10 +2045,11 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/quoid/userscripts) [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) (iOS) ⭐
 - [Stay for Safari](https://apps.apple.com/us/app/stay-for-safari/id1591620171) (iOS)($4.99) 深色模式、资源嗅探、广告拦截
 - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey) Firefox Extension，更新缓慢，最后更新Aug 6, 2024
-- [网盘直链下载助手](https://github.com/syhyz1990/baiduyun) 开源协议：AGPL3
+- ![GitHub Repo stars](https://img.shields.io/github/stars/syhyz1990/baiduyun) [网盘直链下载助手](https://github.com/syhyz1990/baiduyun) 开源协议：AGPL3
 - [GM_script](https://github.com/langren1353/GM_script) AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
 - [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
 - [GitHub Freshness](https://greasyfork.org/en/scripts/524465-github-freshness)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hmjz100/LinkSwift) [LinkSwift](https://github.com/hmjz100/LinkSwift) 一个基于 JavaScript 的网盘文件下载地址获取工具
 
 - Imagus Similar Imagusextensions and Scripts:
   - ![GitHub Repo stars](https://img.shields.io/github/stars/hababr/Imagus-Reborn) [Imagus Reborn](https://github.com/hababr/Imagus-Reborn) ⭐
@@ -2520,6 +2525,7 @@ Adblock Filters
 - [Delightful Club](https://delightful.club) 来自Awesome Humane Tech
 - [Product Hunt](https://www.producthunt.com) 一个新产品发现平台
 - [Lifewire](https://www.lifewire.com/software-and-apps-4781541) Software & App Best-Of Lists
+- [Open-source Projects](https://www.opensourceprojects.dev)
 - [majorgeeks.com](https://www.majorgeeks.com) 技术爱好者的软件和工具
 - [filepuma.com](https://www.filepuma.com)
 - [Filehippo](https://filehippo.com)
