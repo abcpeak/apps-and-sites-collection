@@ -116,7 +116,7 @@
 - 可以显示仓库加星标的数量: [llc.ovh](https://llc.ovh/ )、[shields.io](https://shields.io)
 - [Xcode](https://developer.apple.com/xcode) 开发、测试和分发应用程序
 - [Swift](https://developer.apple.com/swift)、[SwiftUI](https://developer.apple.com/xcode/swiftui)、[Swift Playgrounds](https://developer.apple.com/swift-playgrounds)
-- [Dash](https://kapeli.com/dash) (macOS, Win) API工具
+- [Dash](https://kapeli.com/dash) (macOS, Windows) API工具
 - [Rapidapi](https://rapidapi.com) API工具
 - [Docker](https://www.docker.com) Docker容器
 
@@ -476,7 +476,7 @@
 - [PlaynPlay](https://apps.apple.com/us/app/playnplay/id1664643965) (iOS, Android)
 - [zFuse](https://apps.apple.com/us/app/zfuse-media-player/id1054505347) (iOS)
 - [TracyPlayer](https://apps.apple.com/tr/app/tracyplayer/id6450770064) (iOS)
-- [Potplayer](https://potplayer.tv) (Win) 来自韩国
+- [Potplayer](https://potplayer.tv) (Windows) 来自韩国
 - ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc) [VLC media player](https://github.com/videolan/vlc) 开源免费的跨平台多媒体播放器 ![Latest Release Date](https://img.shields.io/github/last-commit/videolan/vlc)
 - [PlayerFab Ultra HD Player](https://www.videohelp.com/software/DVDFab-Media-Player) 蓝光高清播放器
 - [GOM Player Plus](https://www.gomlab.com/gomplayerplus-media-player) 来自韩国播放器
@@ -539,9 +539,9 @@
 - [BeeJoy](https://apps.apple.com/us/app/beejoy/id6670792086) (iOS)
 - [Lenna](https://apps.apple.com/us/app/lenna-video-library-player/id6502967807)
 - [BoxPlayer](https://apps.apple.com/cn/app/boxplayer/id6739804060)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/agersant/polaris) [Polaris](https://github.com/agersant/polaris) (Win) Music streaming application自托管音乐流媒体服务器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/agersant/polaris) [Polaris](https://github.com/agersant/polaris) (Windows) Music streaming application自托管音乐流媒体服务器
 - [DeePlayer](https://apps.apple.com/app/id6744684471)
-- [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=en-US&gl=CN) (Win)
+- [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=en-US&gl=CN) (Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MCDFsteve/NipaPlay-Reload) [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) 支持挂载Emby, Jellyfin媒体库
 - 🗃️Archived
   - [IIVA](https://apps.apple.com/us/app/iiva/id1614231457) (最后更新2023.10)
@@ -850,22 +850,22 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
 - [AIMP](https://www.aimp.ru) (Windows, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器 ⭐
 - [MediaMonkey](https://www.mediamonkey.com) (Windows, Android)
-- [MusicBee](https://getmusicbee.com) (Win) ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Miaoyww/NonsPlayer) [NonsPlayer](https://github.com/Miaoyww/NonsPlayer) (Win) ![Last Commit](https://img.shields.io/github/release-date/Miaoyww/NonsPlayer)
+- [MusicBee](https://getmusicbee.com) (Windows) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Miaoyww/NonsPlayer) [NonsPlayer](https://github.com/Miaoyww/NonsPlayer) (Windows) ![Last Commit](https://img.shields.io/github/release-date/Miaoyww/NonsPlayer)
 - [foobar2000](https://www.foobar2000.org) (Windows, iOS) 开源的音乐播放器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dream7180/foobox-cn) [foobox-cn](https://github.com/dream7180/foobox-cn) foobar2000 DUI配置 ![Last Commit](https://img.shields.io/github/release-date/dream7180/foobox-cn)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/digimezzo/dopamine) [Dopamine](https://github.com/digimezzo/dopamine) (Windows, Linux and Mac)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GStreamer/gstreamer) [GStreamer](https://github.com/GStreamer/gstreamer) GStreamer open-source multimedia framework
 - [Winamp](https://winamp.com) (Android, iOS)
-- [Qmmp](https://qmmp.yloftware.com) (Win)开源的音乐播放器Qt-based Multimedia Player
+- [Qmmp](https://qmmp.yloftware.com) (Windows)开源的音乐播放器Qt-based Multimedia Player
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicPlayer) [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) (Windows, Linux) ![Last Commit](https://img.shields.io/github/release-date/Greedysky/TTKMusicPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
 - [EverPlay Music](https://everplay.mobi) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/any-listen/any-listen) [any-listen](https://github.com/any-listen/any-listen) 一个跨平台的私人音乐播放服务
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lyswhut/lx-music-desktop) [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop) (Windows, Android) 不再有重大更新![Last Commit](https://img.shields.io/github/release-date/lyswhut/lx-music-desktop)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nukeop/nuclear) [Nuclear player](https://github.com/nukeop/nuclear) (Windows, macOS, Linux) 开源免费的在线音乐播放和下载工具
-- ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2) [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) (Win) ![Last Commit](https://img.shields.io/github/release-date/zhongyang219/MusicPlayer2)
-- [FluentCast](https://apps.microsoft.com/detail/9pm46jrsdqqr?hl=en-us&gl=US) (Win) Ad-free podcast app
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2) [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) (Windows) ![Last Commit](https://img.shields.io/github/release-date/zhongyang219/MusicPlayer2)
+- [FluentCast](https://apps.microsoft.com/detail/9pm46jrsdqqr?hl=en-us&gl=US) (Windows) Ad-free podcast app
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maxrave-dev/SimpMusic) [SimpMusic](https://github.com/maxrave-dev/SimpMusic) A simple music app using YouTube Music for backend ![Last Commit](https://img.shields.io/github/release-date/maxrave-dev/SimpMusic)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/th-ch/youtube-music) [youtube-music](https://github.com/th-ch/youtube-music) Desktop player for YouTube music ![Last Commit](https://img.shields.io/github/release-date/th-ch/youtube-music)
 - [SoundCloud](https://soundcloud.com)
@@ -874,7 +874,7 @@
   - [Evermusic](https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198) (iOS) 支持WebDAV，适合MP3
   - [Flacbox](https://apps.apple.com/jp/app/id1097564256) (iOS) 适合无损 Hi-Res，用FFMPEG解码稀有格式，支持WebDAV，
   - [Evertag](https://apps.apple.com/app/id1450763230) (iOS) 音乐标签（Metadata）编辑器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Win) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Windows) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
 - [Listenify](https://apps.apple.com/us/app/listenify/id6475892753) (iOS)(💵)($5.99)支持歌词API
 - [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS) 支持歌词API，支持本地lrc歌词，灵动岛歌词，不支持infini-cloud，支持koofr，
 - [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
@@ -1299,8 +1299,8 @@
 - [Mailbox.org](https://mailbox.org)
 - [StartMail](https://www.startmail.com) 每月2.5USD
 - [eM Client](https://www.emclient.com) (Windows, macOS, Android, iOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/bkaankose/Wino-Mail) [Wino Mail](https://github.com/bkaankose/Wino-Mail) (Win) 三账号以上需要购买高级版
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Foundry376/Mailspring) [Mailspring](https://github.com/Foundry376/Mailspring) (macOS, Linux, Win)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bkaankose/Wino-Mail) [Wino Mail](https://github.com/bkaankose/Wino-Mail) (Windows) 三账号以上需要购买高级版
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Foundry376/Mailspring) [Mailspring](https://github.com/Foundry376/Mailspring) (macOS, Linux, Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/M66B/FairEmail) [FairEmail](https://github.com/M66B/FairEmail) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vladimiry/ElectronMail) [ElectronMail](https://github.com/vladimiry/ElectronMail) 支持Tuta和ProtonMail，Unofficial ProtonMail Desktop App
 - [PreVeil](https://www.preveil.com)
@@ -1590,7 +1590,7 @@
   - ![GitHub Repo stars](https://img.shields.io/github/stars/VirtualHotBar/HotPEToolBox) [HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox) HotPE 工具箱
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mtniehaus/MediaTool) [OofhoursMediaTool](https://github.com/mtniehaus/MediaTool/blob/main/OofhoursMediaTool.zip) Win11启动盘制作
 - 🧮 **Calculator 计算器**
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Qalculate/libqalculate) [Qalculate!](https://github.com/Qalculate/libqalculate) (Win)多功能计算器
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Qalculate/libqalculate) [Qalculate!](https://github.com/Qalculate/libqalculate) (Windows)多功能计算器
   - [Numms](https://apps.apple.com/cn/app/id1644598526), [Calculator with History+](https://apps.apple.com/us/app/calculator-with-history/id1458583388), [Desktop Calculator](https://apps.apple.com/us/app/desktop-calculator/id6450638014), [Calculator mini](https://apps.apple.com/us/app/calculator-mini-combo/id1672581992)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/clementwzk/OpenCalc) [OpenCalc](https://github.com/clementwzk/OpenCalc) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoDarkMode/Windows-Auto-Night-Mode) [Windows Auto Dark Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) 根据本地时间自动启用黑暗模式
@@ -1757,7 +1757,7 @@ Adblock Filters
 - [Wise Registry Cleaner](https://www.wisecleaner.com/wise-registry-cleaner.html)
 - [HiBit Uninstaller](https://hibitsoft.ir) uninstalling Windows software
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller) [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) 卸载神器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher) [Flow-Launcher](https://github.com/Flow-Launcher/Flow.Launcher) Quick file search & app launcher  (Win)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher) [Flow-Launcher](https://github.com/Flow-Launcher/Flow.Launcher) Quick file search & app launcher  (Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Rem0o/FanControl.Releases) [Fan Control](https://github.com/Rem0o/FanControl.Releases) Windows风扇控制软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kando-menu/kando) [kando](https://github.com/kando-menu/kando) The Cross-Platform Pie Menu 跨平台桌面饼图菜单工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner) [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
@@ -1792,7 +1792,7 @@ Adblock Filters
   - [Flip Clock](https://apps.apple.com/us/app/flip-clock-no-ads/id1522242289) (iOS)
   - [iFlipClock Pro: Desk Clock](https://apps.apple.com/us/app/iflipclock-pro-desk-clock/id6748315192) (iOS)
   - [The Clocks](https://apps.apple.com/us/app/the-clocks-alarm-world-clock/id403684793) (iOS)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/vladelaina/Catime) [Catime](https://github.com/vladelaina/Catime) (Win) 🍅番茄时钟
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/vladelaina/Catime) [Catime](https://github.com/vladelaina/Catime) (Windows) 🍅番茄时钟
   - [Flip Clock - Time Widget](https://apps.apple.com/us/app/flip-clock-time-widget/id6739703704) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/pakerwreah/Calendr) [Calendr](https://github.com/pakerwreah/Calendr) (macOS) 菜单栏日历，支持日程提醒，菜单界面自定义
 
@@ -1811,7 +1811,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/M2Team/NanaZip) [NanaZip](https://github.com/M2Team/NanaZip) ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/peazip/PeaZip) [PeaZip](https://github.com/peazip/PeaZip)
 - [Bandizip](https://www.bandisoft.com/bandizip)
-- [WinRAR](https://www.win-rar.com) (Win)
+- [WinRAR](https://www.win-rar.com) (Windows)
 - [WinZip](https://apps.apple.com/app/id500637987) (iOS)
 - [Keka](https://www.keka.io/en) (macOS) file archiver
 - [The Unarchiver](https://macpaw.com/the-unarchiver) (macOS)
@@ -1832,7 +1832,7 @@ Adblock Filters
 - [Yandex](https://yandex.com) 俄罗斯互联网企业
 - [Yahoo](https://search.yahoo.com) 雅虎
 - [Brave Search](https://search.brave.com) 完全独立的索引，无需跟踪
-- [Qwant](https://www.qwant.com) 位于法国，不跟踪用户或个性化结果
+- [Qwant](https://www.qwant.com) 位于法国，不跟踪用户或个性化结果 ⭐
 - [Mojeek](https://mojeek.com) 位于英国， 唯一拥有自己的爬虫和索引的真正的搜索引擎
 - [searx - GPMDB](https://searx.thegpm.org) 开源的Metasearch引擎
 - ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng) [SearXNG](https://searx.bndkt.io) a privacy-respecting, open metasearch engine
@@ -1872,7 +1872,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xianyukang/MyKeymap) [MyKeymap](https://github.com/xianyukang/MyKeymap) 一款基于AutoHotkey的键盘映射工具
 - [Clavier+](https://gryder.org/software/clavier-plus) 键盘全局快捷键工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mulaRahul/keyviz) [Keyviz](https://github.com/mulaRahul/keyviz) 键盘按键可视化 visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time
-- [GestureSign](https://zh.gesturesign.win) 笔记本触摸板手势
+- [GestureSign](https://zh.gesturesign.Windows) 笔记本触摸板手势
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taojy123/KeymouseGo) [KeymouseGo](https://github.com/taojy123/KeymouseGo) 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pqrs-org/Karabiner-Elements) [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) macOS，MacBook加蓝牙键盘，连上蓝牙键盘自动禁用，断开连接，恢复功能
 - [ClipBook](https://clipbook.app) (macOS)免费剪贴板工具
@@ -1945,7 +1945,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://www.zen-browser.app) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android) 原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%，on Sep 17, 2024
   - [Pale Moon](https://www.palemoon.org) 苍月浏览器，基于几年前的Firefox/Mozilla源代码，后续自研了渲染引擎Goanna，Gecko的一个分支，并优化了布局系统
   - [Basilisk](https://www.basilisk-browser.org/) 基于Goanna布局和渲染引擎，并建立在统一XUL平台（UXP）之上，由独立于Pale Moon项目的开发团队开发
 
@@ -1964,7 +1964,7 @@ Adblock Filters
 - [Basilisk](https://basilisk-browser.org) (Windows, macOS, Linux)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hyphanet/fred) [Hyphanet](https://github.com/hyphanet/fred) (Windows, macOS, Linux)
 - [Puma Browser](https://www.pumabrowser.com) (iOS, Android)
-- [IDENTORY](https://identory.com/en) (Win) 指纹浏览器 Fingerprint browser
+- [IDENTORY](https://identory.com/en) (Windows) 指纹浏览器 Fingerprint browser
 - [Nyxt:](https://nyxt.atlas.engineer) the hacker's browser
 - [SeaMonkey](https://www.seamonkey-project.org/releases) 支持 Widevine
 
@@ -2041,7 +2041,7 @@ Adblock Filters
 - [Tampermonkey](https://www.tampermonkey.net) 篡改猴，闭源，[Tampermonkey for iOS](https://apps.apple.com/us/app/tampermonkey/id6738342400)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey) [Violentmonkey](https://github.com/violentmonkey/violentmonkey) 🐵 暴力猴，更符合国人使用习惯
 - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/scriptscat/scriptcat) [Scriptcat](https://github.com/scriptscat/scriptcat) 脚本猫，纯国产
+- ![GitHub Repo stars](https://img.shields.io/github/stars/scriptscat/scriptcat) [Scriptcat](https://github.com/scriptscat/scriptcat) 脚本猫
 - ![GitHub Repo stars](https://img.shields.io/github/stars/quoid/userscripts) [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) (iOS) ⭐
 - [Stay for Safari](https://apps.apple.com/us/app/stay-for-safari/id1591620171) (iOS)($4.99) 深色模式、资源嗅探、广告拦截
 - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey) Firefox Extension，更新缓慢，最后更新Aug 6, 2024
@@ -2049,7 +2049,8 @@ Adblock Filters
 - [GM_script](https://github.com/langren1353/GM_script) AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
 - [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
 - [GitHub Freshness](https://greasyfork.org/en/scripts/524465-github-freshness)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/hmjz100/LinkSwift) [LinkSwift](https://github.com/hmjz100/LinkSwift) 一个基于 JavaScript 的网盘文件下载地址获取工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hmjz100/LinkSwift) [LinkSwift](https://github.com/hmjz100/LinkSwift) 一个基于JavaScript的网盘文件下载地址获取工具
+- [X-Accounts-Based-in-China-Auto-Mute](https://github.com/anonym-g/X-Accounts-Based-in-China-Auto-Mute) Auto-Mute CCP troll X (Twitter) accounts.
 
 - Imagus Similar Imagusextensions and Scripts:
   - ![GitHub Repo stars](https://img.shields.io/github/stars/hababr/Imagus-Reborn) [Imagus Reborn](https://github.com/hababr/Imagus-Reborn) ⭐
@@ -2063,7 +2064,7 @@ Adblock Filters
 ### 📂File Manager 文件管理
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/files-community/Files) [Files](https://github.com/files-community/Files) 开源文件管理器
-- [Everything](https://www.voidtools.com) (Win)文件查找 文件重命名 ⭐
+- [Everything](https://www.voidtools.com) (Windows)文件查找 文件重命名 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/srwi/EverythingToolbar) [EverythingToolbar](https://github.com/srwi/EverythingToolbar) Tweaked Taskbars
 - [Listary](https://www.listary.com) 第三方的文件管理系统 搜索实用程序
 - [TextSeek](https://www.textseek.net/en) (💵)
@@ -2073,18 +2074,18 @@ Adblock Filters
 - [AllDup](https://alldup.info) 重复文件查找
 - [FastCopy](https://fastcopy.jp) 复制增强工具 ⭐
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk) 文件重命名
-- [ReNamer](https://www.den4b.com/products/renamer) (Win) 文件重命名
-- ![GitHub Repo stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive) [Spacedrive](https://github.com/spacedriveapp/spacedrive) (Win)
-- [OneCommander](https://www.onecommander.com) (Win) 分免费版和Pro版
+- [ReNamer](https://www.den4b.com/products/renamer) (Windows) 文件重命名
+- ![GitHub Repo stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive) [Spacedrive](https://github.com/spacedriveapp/spacedrive) (Windows)
+- [OneCommander](https://www.onecommander.com) (Windows) 分免费版和Pro版
 - [Marta](https://marta.sh) (macOS) File Manager
-- ![GitHub Repo stars](https://img.shields.io/github/stars/MHNightCat/superfile) [superfile](https://github.com/MHNightCat/superfile) (Linux, macOS, Win)终端文件管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MHNightCat/superfile) [superfile](https://github.com/MHNightCat/superfile) (Linux, macOS, Windows)终端文件管理器
 - [Fileso](https://apps.apple.com/us/app/fileso-unzip-tar-gz-rar-7z-xz/id6544783659) (iOS) file management
 - [Documents](https://apps.apple.com/us/app/id364901807) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka) [Czkawka](https://github.com/qarmin/czkawka) (Windows, Linux) Multi functional app to find duplicates, empty folders, similar images etc.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sxyazi/yazi) [Yazi](https://github.com/sxyazi/yazi) (Windows, Linux) Blazing Fast Terminal File Manager
-- ![GitHub Repo stars](https://img.shields.io/github/stars/kimlimjustin/xplorer) [Xplorer](https://github.com/kimlimjustin/xplorer) (Win) a customizable, modern file manager
-- [File Pilot](https://filepilot.tech) (Win)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/tablacus/TablacusExplorer) [Tablacus Explorer](https://github.com/tablacus/TablacusExplorer) (Win)标签文件管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kimlimjustin/xplorer) [Xplorer](https://github.com/kimlimjustin/xplorer) (Windows) a customizable, modern file manager
+- [File Pilot](https://filepilot.tech) (Windows)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tablacus/TablacusExplorer) [Tablacus Explorer](https://github.com/tablacus/TablacusExplorer) (Windows)标签文件管理器
 - [SpaceSniffer](https://www.uderzo.it/main_products/space_sniffer) 磁盘空间分析
 - [Beyond Compare](https://www.scootersoftware.com/) 文件及文件夹对比工具
 - [FreeCommander XE](https://freecommander.com) 已更新27.12.2024
@@ -2106,7 +2107,7 @@ Adblock Filters
 - [Lock Launcher Widgets LockFlow](https://apps.apple.com/us/app/lock-launcher-widgets-lockflow/id1641012054?l=zh-Hans-CN) (iOS)
 - [Alfred](https://www.alfredapp.com) (macOS)(💵) 热键、关键字、文本扩展等效率工具，快捷启动
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gnachman/iTerm2) [iTerm2](https://github.com/gnachman/iTerm2) (macOS) 命令行控制电脑工具
-- ![GitHub Repo stars](https://img.shields.io/github/stars/cairoshell/cairoshell) [Cairo Desktop Environment](https://github.com/cairoshell/cairoshell) (Win) 类macOS的顶部菜单栏
+- ![GitHub Repo stars](https://img.shields.io/github/stars/cairoshell/cairoshell) [Cairo Desktop Environment](https://github.com/cairoshell/cairoshell) (Windows) 类macOS的顶部菜单栏
 - [Raycast](https://www.raycast.com) (macOS) 生产力应用程序，您的一切捷径
 - [Folder Preview](https://apps.apple.com/cn/app/folder-preview/id6698876601?mt=12) (macOS) 让文件夹也有快速查看功能
 
@@ -2271,8 +2272,8 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/Macast) [Macast](https://github.com/xfangfang/Macast) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/barry-ran/QtScrcpy) [QtScrcpy](https://github.com/barry-ran/QtScrcpy) (Android)
 - [AnLink](https://anl.ink)  (Android)
-- [Letsview](https://letsview.com)  (iOS, Android, Win)
-- [AirServer](https://www.airserver.com/PC) (Win)
+- [Letsview](https://letsview.com)  (iOS, Android, Windows)
+- [AirServer](https://www.airserver.com/PC) (Windows)
 - [XMirror](https://apps.apple.com/app/id6469104483) (iOS) 特斯拉投屏
 - [Replica](https://apps.apple.com/app/id1468495939) (iOS) Screen Mirroring 支持投屏到电视、安卓 TV、特斯拉车机、浏览器
 - [iVCam](https://www.e2esoft.com/ivcam) Phone to webcam 手机做电脑摄像头
@@ -2328,7 +2329,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/daliansky/Hackintosh) [Hackintosh](https://github.com/daliansky/Hackintosh) 黑苹果
 - [iMazing](https://imazing.com) (Windows, macOS) Manage your iPhone.On your terms
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iDescriptor/iDescriptor) [iDescriptor](https://github.com/iDescriptor/iDescriptor) iDescriptor 是一个跨平台、开源且免费的 iDevice 管理工具。它支持 USB 连接、AirPlay、从 Apple Store 下载安装应用、虚拟位置模拟等。
-- [iMazing](https://imazing.com/zh) (macOS, Win) iOS设备管理器
+- [iMazing](https://imazing.com/zh) (macOS, Windows) iOS设备管理器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PlayCover/PlayCover) [PlayCover](https://github.com/PlayCover/PlayCover) Runs iOS apps on Apple Silicon Macs
 
 - **📥macOS下载站**
@@ -2416,7 +2417,7 @@ Adblock Filters
   - [BlueStacks.com](https://www.bluestacks.com) 蓝叠模拟器 by now.gg ⭐
     - [MSI appplayer](https://www.msi.com/landing/appplayer)
 - [Google Play](https://play.google.com) 谷歌官方Android商店
-  - [Play games across your devices](https://play.google.com/googleplaygames) (Win)
+  - [Play games across your devices](https://play.google.com/googleplaygames) (Windows)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/microg/GmsCore) [GmsCore](https://github.com/microg/GmsCore) 开源的替代Google Play服务的解决方案
   - [APKMirror](https://www.apkmirror.com)
   - [Aptoide](https://www.aptoide.com)
