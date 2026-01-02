@@ -2054,6 +2054,7 @@ Adblock Filters
 
 - Imagus Similar Imagusextensions and Scripts:
   - ![GitHub Repo stars](https://img.shields.io/github/stars/hababr/Imagus-Reborn) [Imagus Reborn](https://github.com/hababr/Imagus-Reborn) ⭐
+    - [Imagus mod](https://addons.mozilla.org/en-US/firefox/addon/imagus-mod) (Sep 21, 2023)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/extesy/hoverzoom) [Hover Zoom+](https://github.com/extesy/hoverzoom) (Manifest V2)
   - [Image Max URL](https://github.com/qsniyg/maxurl)
   - [PhotoShow](https://chromewebstore.google.com/detail/photoshow/mgpdnhlllbpncjpgokgfogidhoegebod)
