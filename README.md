@@ -1668,6 +1668,7 @@ iOS Safari Adblocking
 - [Total Adblock](https://apps.apple.com/us/app/total-adblock-ad-blocker/id1564900435) ($7.99)
 - [AdBlock Pro－Browser Ad Blocker](https://apps.apple.com/cn/app/adblock-pro-browser-ad-blocker/id1018301773)
 - [Adblock Plus for Safari (ABP)](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1028871868)
+- [1Blocker](https://apps.apple.com/us/app/1blocker-ad-blocker-privacy/id1365531024)
 
 Adblock Filters
 
