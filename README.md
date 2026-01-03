@@ -1322,7 +1322,7 @@
 
 #### Mail Forwarding 邮件转发 邮件别名（Alias）
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/simple-login/app) [SimpleLogin](https://simplelogin.io) 开源，在欧洲制作和托管，已被Proton收购
+- ![GitHub Repo stars](https://img.shields.io/github/stars/simple-login/app) [SimpleLogin](https://simplelogin.io) 开源，在欧洲制作和托管，已被Proton收购，12个月活跃
 - [Firefox Relay](https://relay.firefox.com) 每封电子邮件的大小上限为10MB
 - [DuckDuckGo Email Protection](https://duckduckgo.com/email)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/anonaddy/anonaddy) [Addy.io](https://github.com/anonaddy/anonaddy) AnonAddy 免费版每月带宽限制10M
