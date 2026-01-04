@@ -1974,8 +1974,6 @@ Adblock Filters
 - [ArcSphere](https://apps.apple.com/us/app/arcsphere-ai-native-browser/id6502280398) (iOS, Android) AI浏览器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium) GrapheneOS用户的浏览器，未正式提供给GrapheneOS以外的用户
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS) 多浏览器管理工具，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
-
 - 🗃️Archived
   - [Kiwi Browser](https://github.com/kiwibrowser/src.next) 已停止维护
   - [Sidekick](https://www.meetsidekick.com) 已停止维护
@@ -1988,6 +1986,15 @@ Adblock Filters
   - [Avast Secure Browser](https://www.avast.com/secure-browser#pc) (Windows, macOS, iOS, Android) 反网络钓鱼
   - [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc)  (Windows, macOS, Android)
   [Board Browser](https://github.com/RicardoCA/board-browser)
+
+#### 浏览器测评、浏览器管理
+
+- [浏览器对比](https://browsers.avoidthehack.com)
+- [BrowseRating](https://www.browserating.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS) 多浏览器管理工具，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
+- [Speedometer3.1](https://browserbench.org/Speedometer3.1) Browser Performance 网页浏览器的基准测试，通过对不同工作负载下的模拟用户交互进行时序来衡量网页应用响应速度
+- 🗃️Archived
+  - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
 
 #### 🍭Browser Extensions 浏览器插件(扩展)
 
@@ -2536,9 +2543,6 @@ Adblock Filters
 - [Filehippo](https://filehippo.com)
 - [lo4d](https://www.lo4d.com) 免费软件
 - [Similar Web](https://www.similarweb.com)
-- [隐私测试](https://privacytests.org)
-- [浏览器对比](https://browsers.avoidthehack.com)
-- [BrowseRating](https://www.browserating.com)
 
 ### 影视资源站（PT站、BT资源网站）
 
