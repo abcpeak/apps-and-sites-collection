@@ -541,8 +541,9 @@
 - [BoxPlayer](https://apps.apple.com/cn/app/boxplayer/id6739804060)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agersant/polaris) [Polaris](https://github.com/agersant/polaris) (Windows) Music streaming application自托管音乐流媒体服务器
 - [DeePlayer](https://apps.apple.com/app/id6744684471)
-- [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=en-US&gl=CN) (Windows)
+- [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=en-US&gl=CN) (Windows) 支持emby的播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MCDFsteve/NipaPlay-Reload) [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) 支持挂载Emby, Jellyfin媒体库
+
 - 🗃️Archived
   - [IIVA](https://apps.apple.com/us/app/iiva/id1614231457) (最后更新2023.10)
   - [iPlay](https://github.com/ourfor/iPlay)
@@ -1993,6 +1994,7 @@ Adblock Filters
 - [BrowseRating](https://www.browserating.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS) 多浏览器管理工具，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
 - [Speedometer3.1](https://browserbench.org/Speedometer3.1) Browser Performance 网页浏览器的基准测试，通过对不同工作负载下的模拟用户交互进行时序来衡量网页应用响应速度
+
 - 🗃️Archived
   - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
 
