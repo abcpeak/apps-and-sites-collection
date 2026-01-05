@@ -1907,6 +1907,8 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/CrossPaste/crosspaste-desktop) [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop) 跨设备的通用粘贴板
 - ![GitHub Repo stars](https://img.shields.io/github/stars/urikdev/Urik) [Urik](https://github.com/urikdev/Urik) (Android) Privacy-first keyboard
 - ![GitHub Repo stars](https://img.shields.io/github/stars/aardio/ImTip) [ImTip](https://github.com/aardio/ImTip) 输入法状态提示工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PinchToDebug/DragWin) [DragWin](https://github.com/PinchToDebug/DragWin) (Windows) 使用鼠标右键移动窗口
+- ![GitHub Repo stars](https://img.shields.io/github/stars/alirezagsm/Trayy) [Trayy](https://github.com/alirezagsm/Trayy) (Windows) 程序关闭时自动最小化到托盘图标
 
 - 🗃️Archived
   - [Clipboard : Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) (iOS) 剪贴板同步 Oct 11, 2024
