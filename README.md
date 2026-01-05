@@ -563,6 +563,7 @@ Enjoy 🤩
 - [DeePlayer](https://apps.apple.com/app/id6744684471)
 - [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=en-US&gl=CN) (Windows) 支持emby的播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MCDFsteve/NipaPlay-Reload) [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) 支持挂载Emby, Jellyfin媒体库
+- [OrionTV](https://github.com/orion-lib/OrionTV) 基于 React Native TVOS 和 Expo 构建的播放器
 
 - 🗃️Archived
   - [IIVA](https://apps.apple.com/us/app/iiva/id1614231457) (最后更新2023.10)
@@ -1946,7 +1947,7 @@ Adblock Filters
   - [Wavebox](https://wavebox.io) (💵)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Windows, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) 在您的浏览器上运行的 AI 代理，而不是在云中运行
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) (macOS, 即将支持 Linux) 在您的浏览器上运行的AI代理，而不是在云中运行
   - ![GitHub Repo stars](https://img.shields.io/github/stars/the-ora/browser) [Ora Browser](https://github.com/the-ora/browser) (macOS)
   - [AdsPower](https://www.adspower.com) 指纹浏览器
 
