@@ -51,11 +51,11 @@ Enjoy 🤩
 - [diff-pdf](https://vslavik.github.io/diff-pdf) A simple tool for visually comparing two PDF files
 - [Icecream PDF Editor](https://icecreamapps.com/PDF-Editor)
 - [PDF mpjex](https://apps.apple.com/app/id6450148824) (iOS)
-- [Photo PDF Converter App](https://apps.apple.com/app/id6477564684) (iOS)JPG to PDF, JPEG Converter
+- [Photo PDF Converter App](https://apps.apple.com/app/id6477564684) (iOS) JPG to PDF, JPEG Converter
 - [Master PDF Editor](https://code-industry.net/get-masterpdfeditor) (Windows, Linux, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DDULDDUCK/every-pdf) [Every-PDF](https://github.com/DDULDDUCK/every-pdf) (Windows, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/readur/readur) [readur](https://github.com/readur/readur) 文档管理系统，支持文件上传、OCR 提取文本、多语言搜索和同步，适用于需要快速处理 PDF、图像、Office 文档等的场景
-- [JOPDF](https://www.jopdf.com)
+- [JOPDF](https://www.jopdf.com) (Windows, Linux, macOS) 免费的跨平台PDF编辑器
 
 ### 📙Reading 看书软件 电子书
 
@@ -85,7 +85,7 @@ Enjoy 🤩
 - [奇点阅读](https://apps.apple.com/app/id6651841743) (iOS)
 - [Eleven Reader](https://apps.apple.com/app/id6479373050) 32种语言的数十种声音朗读书籍、文章和PDF
   - ![GitHub Repo stars](https://img.shields.io/github/stars/omnivore-app/omnivore) [Omnivore](https://github.com/omnivore-app/omnivore) 稍后阅读工具，已被ElevenLabs收购，停止维护
-- [读不舍手](https://apps.apple.com/app//id1662413517) (iOS)仅支持txt
+- [读不舍手](https://apps.apple.com/app/id1662413517) (iOS) 仅支持txt
   - ![GitHub Repo stars](https://img.shields.io/github/stars/shidahuilang/shuyuan) [shuyuan](https://github.com/shidahuilang/shuyuan) 书源
 - [iReadNote](https://apps.apple.com/gb/app/ireadnote/id6450734655) (iOS) 爱阅记
 
@@ -94,7 +94,7 @@ Enjoy 🤩
 - [Z-library](https://www.reddit.com/r/zlibrary/wiki/index/access) 在线数字图书馆 Zlibrary
 - [Free eBooks](https://www.gutenberg.org) over 75,000 free eBooks
 - [Anna's Archive](https://annas-archive.org) 安娜的档案
-- [中國歷史事件](https://apps.apple.com/app//id595161478) 從傳說時代到清朝
+- [中國歷史事件](https://apps.apple.com/app/id595161478) 從傳說時代到清朝
 
 ## 💼Business 商务
 
@@ -106,7 +106,7 @@ Enjoy 🤩
 - 公司名单
   - [955.WLB](https://github.com/formulahendry/955.WLB) 955不加班的公司名单
   - [996.ICU](https://github.com/996icu/996.ICU) 工作996生病ICU
-- [潮汕话翻译](https://apps.apple.com/us/app/id6755832408)
+- [潮汕话翻译](https://apps.apple.com/us/app/id6755832408) (iOS)
 
 ## 👨‍💻Developer Tools 软件开发工具
 
