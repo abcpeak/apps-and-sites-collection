@@ -2241,7 +2241,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/JunkFood02/Seal) [Seal](https://github.com/JunkFood02/Seal) Video/Audio Downloader for Android, based on yt-dlp. Oct 17, 2024
   - ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) 基于 yt-dlp 项目的音视频下载工具 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/axcore/tartube) [Tartube](https://github.com/axcore/tartube) GUI for yt-dl and yt-dlp. Can download videos with segments cut out.
-
+- [ClipGrab](https://clipgrab.org) (Windows) 原理也是使用 youtube-dlp 下载视频，所以初次安装需要下载ytb-dlp
 - [Transmission](https://transmissionbt.com) Bittorrent客户端
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
