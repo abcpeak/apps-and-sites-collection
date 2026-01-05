@@ -1647,7 +1647,6 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lihaoyun6/AirBattery) [AirBattery](https://github.com/lihaoyun6/AirBattery) 在macOS上显示所有设备电量信息在Dock、状态栏、小组件上
 - [MagicKit Pro](https://apps.apple.com//app/id6746649752) (iOS)智能工具箱
 
-
 - 🗃️Archived
   - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) 纯粹的Windows右键菜单管理程序，最后更新2021.8
   - [Car Dashboard](https://apps.apple.com/us/app/car-dashboard-music-maps/id6654923547) (iOS) Music & Maps Nov 22, 2024
