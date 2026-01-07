@@ -1262,12 +1262,12 @@ Enjoy 🤩
 - [Drafts](https://getdrafts.com) (macOS, iOS) 本地，支持TOC，语音输入转文字，拖动行排列，右上角选markdown可以预览md，全文搜索，find section区域内搜索
 - [Effie](https://www.effie.co)
 - [Goodnotes](https://www.goodnotes.com) (macOS, iOS, Windows, Android)
-- [Notability](https://notability.com/zh-Hans) (iOS) iPad手写，离线记录，本地，webdav 、笔记自动备份成pdf。缺点仅iOS，小公司，同步收费
+- [Notability](https://notability.com/zh-Hans) (iOS) 小公司，同步收费
 - [OneNote](https://www.onenote.com) 微软旗下
 - [Microsoft Loop](https://loop.microsoft.com) 微软旗下
 - [Roam Research](https://roamresearch.com) 付费，知识管理
 - [Simplenote](https://simplenote.com) (macOS, iOS, Windows, Android, Linux) 过于简陋，不能创建文件夹
-- [Standard Notes](https://standardnotes.com) Proton旗下，E2EE 同步、静态加密、U2F 支持和独立安全审计 ⭐
+- [Standard Notes](https://standardnotes.com) Proton旗下，E2EE同步、静态加密、U2F 支持和独立安全审计 ⭐
 - [iA Writer](https://ia.net/writer) (macOS, Windows, iOS and Android) (💵)
 - [EmEditor](https://www.emeditor.com)
 - [cherrytree](https://www.giuspen.net/cherrytree)
@@ -1277,7 +1277,7 @@ Enjoy 🤩
 - [notepad3](https://www.rizonesoft.com/downloads/notepad3)
 - [brackets](https://brackets.io)
 - [Helix](https://helix-editor.com)
-- [Typora](https://typora.io) (Windows, macOS) （$14.99）Markdown工具
+- [Typora](https://typora.io) (Windows, macOS) ($14.99) Markdown工具
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) (Windows, macOS, iOS) (💵) 长篇小说写作软件
 - [MarginNote](https://www.marginnote.com) (macOS, iOS)
 - [AsciiDoc](https://asciidoc.org)
@@ -1296,7 +1296,7 @@ Enjoy 🤩
 
 - [Microsoft Office](https://www.office.com) 微软Office
 - [LibreOffice](https://www.libreoffice.org/download/download-libreoffice)
-- [iWork](https://www.apple.com/iwork) (macOS)免费办公套件
+- [iWork](https://www.apple.com/iwork) (macOS) 免费办公套件
 - [OpenOffice](https://www.openoffice.org/download) 甲骨文和Apache基金会旗下
 - [Calligre Suite](https://calligra.org)
 - [KDE Office](https://apps.kde.org/categories/office)
@@ -1348,7 +1348,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/simple-login/app) [SimpleLogin](https://simplelogin.io) 开源，在欧洲制作和托管，已被Proton收购，12个月活跃
 - [Firefox Relay](https://relay.firefox.com) 每封电子邮件的大小上限为10MB
 - [DuckDuckGo Email Protection](https://duckduckgo.com/email)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/anonaddy/anonaddy) [Addy.io](https://github.com/anonaddy/anonaddy) AnonAddy 免费版每月带宽限制10M
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anonaddy/anonaddy) [Addy.io](https://github.com/anonaddy/anonaddy) AnonAddy, 免费版每月带宽限制10M
 - [AdGuard Mail](https://adguard-mail.com) 临时电子邮件地址
 - [33Mail](https://www.33mail.com) 免费
 - [Mailgw](https://mailgw.com) 免费
@@ -1377,12 +1377,12 @@ Enjoy 🤩
 - [Feedbin](https://feedbin.com) Web三栏式 (💵)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Athou/commafeed) [CommaFeed](https://github.com/Athou/commafeed) Web展开式
 - ![GitHub Repo stars](https://img.shields.io/github/stars/miniflux/v2) [Miniflux 2](https://github.com/miniflux/v2) Web单栏式
-- ![GitHub Repo stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS) [FreshRSS](https://github.com/FreshRSS/FreshRSS) 自建 RSS
-- [RSS.app](https://rss.app) 从任何 URL 即时生成 RSS 提要
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS) [FreshRSS](https://github.com/FreshRSS/FreshRSS) 自建RSS
+- [RSS.app](https://rss.app) 从任何URL即时生成RSS提要
 - [Inoreader](https://www.inoreader.com)
 - [Feedly](https://feedly.com)
 - [Newsblur](https://www.newsblur.com)
-- [FeedFlow](https://www.feedflow.dev) (Android, iOS, macOS) 开源免费 RSS Reader
+- ![GitHub Repo stars](https://img.shields.io/github/stars/prof18/feed-flow) [FeedFlow](https://github.com/prof18/feed-flow) (Windows, Android, iOS, macOS) 开源免费RSSReader
 - [Pintap: An RSS Reader](https://apps.apple.com/us/app/pintap-an-rss-reader/id6463398545)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/spacecowboy/Feeder) [Feeder](https://github.com/spacecowboy/Feeder) (Android) RSS reader app
 - [feeeed](https://apps.apple.com/us/app/feeeed-rss-reader-and-more/id1600187490) (iOS, macOS) ⭐
