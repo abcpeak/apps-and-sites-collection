@@ -79,7 +79,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/koreader/koreader) [KOReader](https://github.com/koreader/koreader) (Android, Linux)
 - [NeatReader](https://www.neat-reader.com) ePub Reader
 - [BookFusion](https://www.bookfusion.com) eBook Reader, Manager & Cloud
-- [ePubkit](https://epubkit.app) 将网页转换为 EPUB 电子书
+- [ePubkit](https://epubkit.app) 将网页转换为EPUB电子书
 - [Yomu EBook Reader](https://apps.apple.com/app/id562211012) (iOS)
 - [英阅阅读器(EReader)](https://apps.apple.com/app/id1558805880) (iOS, Android)
 - [PocketBook](https://pocketbook.ch/en-ch/app)
@@ -1417,7 +1417,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) A KeePass/Password Safe Client 需付费
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassium/KeePassium) [KeePassium](https://github.com/keepassium/KeePassium) (iOS, macOS) 需付费
 - ![GitHub Repo stars](https://img.shields.io/github/stars/authpass/authpass) [AuthPass](https://github.com/authpass/authpass) based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible
-- [Enpass](https://www.enpass.io) (Windows, macOS, Linux)可以设置webdav同步
+- [Enpass](https://www.enpass.io) (Windows, macOS, Linux) 可以设置webdav同步
 - [pwSafe - Password Safe](https://pwsafe.org) pwSafe
 - [Wilhelmina Password Manager](https://www.byteptr.com/wilhelmina)
 - [Keeper Password Manager](https://www.keepersecurity.com)
@@ -1425,8 +1425,7 @@ Enjoy 🤩
 - [1Password 8](https://1password.com/product)
   - [1Password 7](https://apps.apple.com/cn/app/1password-password-manager/id568903335)
 - [Password Manager SafeInCloud 2](https://safe-in-cloud.com/en)
-- [Secrets](https://apps.apple.com/app/id1591056366) (macOS, iOS)
-
+- [Secrets](https://apps.apple.com/app/id1591056366) (macOS, iOS) ⭐
 - [Norton Password](https://my.norton.com/extspa/passwordmanager)
 - [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) 免费版限制200个密码
@@ -2034,8 +2033,8 @@ Adblock Filters
   - [Black Menu for Google™](https://apps.jeurissen.co/black-menu-for-google)
   - [PocketTube](https://pockettube.io) YouTube Subscription Manager
   - [x.app](https://apps.apple.com/us/app/x-app/id1533525753) (iOS) YouTube背景播放
-  - [PiP](https://apps.apple.com/app/id1635796246)(iOS)YouTube窗口化
-  - [Tube PiP - PiP for YouTube](https://apps.apple.com/app/id6476895094)(iOS)
+  - [PiP](https://apps.apple.com/app/id1635796246)(iOS) YouTube窗口化
+  - [Tube PiP - PiP for YouTube](https://apps.apple.com/app/id6476895094) (iOS) YouTube窗口化
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xlch88/YoutubeTweak) [Youtube Tweak](https://github.com/xlch88/YoutubeTweak) 固定播放分辨率、快速调节播放速度
   - [YouTube AdBlock - Coffee Break for YouTube](https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap)
   - [AdShield - Ultimate Ad Blocker for YouTube](https://chromewebstore.google.com/detail/adshield-ultimate-ad-bloc/gmjaaefflbggfiacjihajgijemdlhkeb)
@@ -2063,16 +2062,15 @@ Adblock Filters
   - [raindrop](https://raindrop.io)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/linkwarden/linkwarden) [linkwarden](https://github.com/linkwarden/linkwarden)
   - 书签清理：[Bookmarks clean up](https://chrome.google.com/webstore/detail/oncbjlgldmiagjophlhobkogeladjijl)、[LazyCat](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef)
-  - [favbox](https://github.com/dd3v/favbox)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/dd3v/favbox) [favbox](https://github.com/dd3v/favbox) enhances and simplifies bookmark management
   - [Bookmarkie](https://chromewebstore.google.com/detail/bookmarkie-bookmarks-in-p/ahlphbdcaacfhkiajebghpngknafklbj) Bookmarks in popup
   - [Momentum](https://momentumdash.com) 定制新标签页 ⭐
   - [OneTab](https://www.one-tab.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dessant/search-by-image) [search-by-image](https://github.com/dessant/search-by-image)
 - [Glarity](https://glarity.app) 利用ChatGPT4生成摘要，支持YouTube和Google
 - [Keepa](https://keepa.com) Amazon Price Tracker
-- Dark Mode 黑暗模式
-  - [Noir](https://getnoir.app) Safari黑暗模式
-  - [Dark Reader](https://darkreader.org)
+- [Noir](https://getnoir.app) Safari黑暗模式
+- [Dark Reader](https://darkreader.org) Dark Mode 黑暗模式
 - ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) This theme compatible with Firefox 143+ on macOS, Linux & Windows
 - [Vimium](https://vimium.github.io) 键盘快捷键
 
