@@ -115,6 +115,15 @@
 | 8 | [**Image Downloader - Save Pictures**](https://chrome.google.com/webstore/detail/image-downloader-save-pic/lljfdfgehokbedlmjobjijdimlpajchg) | Find, choose, and download images from any web pages or bulk download all images at once. |
 | 9 | [**Imagus Reborn**](https://chromewebstore.google.com/detail/imagus-reborn/fcjmgeodgobggcppooncdagfkogfffdm) | Enlarge thumbnails, and show images/videos from links with a mouse hover. |
 
+### [Workflow & Planning](https://chromewebstore.google.com/category/extensions/productivity/workflow)
+
+| No. | Extension | Description  |
+| ------ | ------ |--------------|
+| 1 | [**StayFocusd – Website Blocker & Focus Timer & Shorts Blocker**](https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji) | Boost your productivity by limiting the amount of time you spend on time-wasting websites. |
+| 2 | [**Adobe Acrobat: PDF edit, convert, sign tools**](https://chromewebstore.google.com/detail/adobe-acrobat-pdf-edit-co/efaidnbmnnnibpcajpcglclefindmkaj) | Do more in Google Chrome with Adobe Acrobat PDF tools. View, fill, comment, sign, and try convert and compress tools. |
+
+
+
 ### 🚫 Ad-Blockers
 
 | No. | Extension | Description  |

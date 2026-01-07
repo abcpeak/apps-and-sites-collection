@@ -1011,7 +1011,7 @@ Enjoy 🤩
 ### 🖼️图片管理 看图工具
 
 - [XnView MP](https://www.xnview.com/en)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/d2phap/ImageGlass) [ImageGlass](https://github.com/d2phap/ImageGlass) 免费轻量级、多功能的图像查看器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/d2phap/ImageGlass) [ImageGlass](https://github.com/d2phap/ImageGlass) 免费轻量级、多功能的图像查看器 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Lymphatus/caesium-image-compressor) [Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor) 开源的图像压缩器
 - [IrfanView64](https://www.irfanview.com/64bit.htm)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/szTheory/exifcleaner) [exifcleaner](https://github.com/szTheory/exifcleaner) clean image metadata
@@ -1027,7 +1027,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sprout2000/leafview) [LeafView](https://github.com/sprout2000/leafview) Minimalist image viewer
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jurplel/qView) [qView](https://github.com/jurplel/qView) 图片查看软件
 - [WebP Codec for Windows](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/WebpCodecSetup.exe)
-- [HEIF 图像扩展](https://apps.microsoft.com/store/detail/heif-图像扩展/9PMMSR1CGPWG?hl=zh-cn&gl=CN)、[HEVC 视频扩展](https://apps.microsoft.com/store/detail/来自设备制造商的-hevc-视频扩展/9N4WGH0Z6VHQ?hl=zh-cn&gl=CN)(Win默认不支持H265格式的视频 装了这个就能播H265格式的视频了， H265即HEVC编码格式)
+- [HEIF 图像扩展](https://apps.microsoft.com/store/detail/heif-图像扩展/9PMMSR1CGPWG?hl=zh-cn&gl=CN)、[HEVC 视频扩展](https://apps.microsoft.com/store/detail/来自设备制造商的-hevc-视频扩展/9N4WGH0Z6VHQ?hl=zh-cn&gl=CN) Win默认不支持H265格式的视频，装了这个就能播H265格式的视频了，H265即HEVC编码格式
 
 #### Material Library 素材库 images, videos and music
 
