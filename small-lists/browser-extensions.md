@@ -4,26 +4,26 @@
 
 ### 🤖 AI Copilots and Productivity Tools
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**LINER: ChatGPT AI Copilot for Web&YouTube&PDF**](https://chromewebstore.google.com/detail/liner-chatgpt-ai-copilot/bmhcbmnbenmcecpmpepghooflbehcack?hl=en) | Use ChatGPT directly on websites, including YouTube. Add AI Copilot to enhance productivity with your personal AI assistant. |
-| 2 | [**Monica - Your AI Copilot powered by GPT-4**](https://chromewebstore.google.com/detail/monica-all-in-one-ai-assi/ofpnmcalabcbjgholdjcjblkibolbppb) | AI Copilot powered by GPT-4. Answers complex questions, writes emails, reads articles, and searches smartly. Usable everywhere. |
+| 2 | [**Monica: All-In-One AI Assist Gemini 3 Pro, Nano Banana Pro**](https://chromewebstore.google.com/detail/monica-all-in-one-ai-assi/ofpnmcalabcbjgholdjcjblkibolbppb) | AI Copilot powered by GPT-4. Answers complex questions, writes emails, reads articles, and searches smartly. Usable everywhere. |
 | 3 | [**MaxAI.me: Use ChatGPT AI Anywhere Online**](https://chromewebstore.google.com/detail/maxaime-use-chatgpt-ai-an/mhnlakgilnojmhinhkckjpncpbhabphi?hl=en) | Fastest way to use ChatGPT, Claude, Bard, Bing anywhere online. The only generative AI-powered extension you need. |
 | 4 | [**SciSpace: Do hours of research in minutes**](https://chrome.google.com/webstore/detail/scispace-do-hours-of-rese/cipccbpjpemcnijhjcdjmkjhmhniiick?hl=en) | SciSpace provides research-backed explanations or summaries for text, maths, and tables in research papers, technical blog posts, or reports. |
 | 5 | [**SearchGPT for Chrome**](https://chrome.google.com/webstore/detail/searchgpt-for-chrome/ninecedhhpccjifamhafbdelibdjibgd?hl=en) | Display ChatGPT AI responses within search engines like Google and Bing. Enhance your browsing experience with AI-generated responses. |
 | 6 | [**Merlin: 1-click access to Powerful AI Plugins**](https://chrome.google.com/webstore/detail/merlin-1-click-access-to/camppjleccjaphfdbohjdohecfnoikec?hl=en) | Merlin AI helps you summarize videos, scrape websites, respond to emails, and grow your social media presence with powerful AI plugins. |
- 7 | [**Jarvis AI: Chat GPT, Bing, Claude, Bard, BOT**](https://chrome.google.com/webstore/detail/jarvis-ai-chat-gpt-bing-c/kbhaffhbhcfmogkkbfanilniagcefnhi?hl=en) | Jarvis AI Copilot Chatbot powered by ChatGPT, OpenAI, Claude, and Midjourney. Offers English translation, chat chatting GPT, grammar checking, and rewriting capabilities. |
+| 7 | [**Jarvis AI: Chat GPT, Bing, Claude, Bard, BOT**](https://chrome.google.com/webstore/detail/jarvis-ai-chat-gpt-bing-c/kbhaffhbhcfmogkkbfanilniagcefnhi?hl=en) | Jarvis AI Copilot Chatbot powered by ChatGPT, OpenAI, Claude, and Midjourney. Offers English translation, chat chatting GPT, grammar checking, and rewriting capabilities. |
 | 8 | [**ChatSider: Free ChatGPT Sidebar&AI Copilot**](https://chrome.google.com/webstore/detail/chatsiderfree-chatgpt-sid/ecnknpjoomhilbhjipoipllgdgaldhll?hl=en) | Free ChatGPT sidebar and AI co-pilot powered by OpenAI. This AI co-pilot software is proficient in solving questions and inquiries. |
-| 9 | [**HARPA AI - Automation Agent with Claude & GPT**](https://chrome.google.com/webstore/detail/harpa-ai-automation-agent/eanggfilgoajaocelnaflolkadkeghjp?hl=en) | HARPA is your private AI copilot for web browsing and automation. Integrates ChatGPT, GPT-3/GPT-4, ClaudeAI, web monitoring, and automation into any tab. |
+| 9 | [**HARPA AI: Web Automation with ChatGPT, Claude, Gemini, Grok**](https://chromewebstore.google.com/detail/harpa-ai-web-automation-w/eanggfilgoajaocelnaflolkadkeghjp) | Free AI sidebar with ChatGPT, Claude, Gemini & DeepSeek. 100+ commands to automate, monitor prices, summarize & write. |
 | 10 | [**Mano - Your AI Copilot powered by GPT-4**](https://chrome.google.com/webstore/detail/mano-your-ai-copilot-powe/icgjkfebljaiiccoeeihocdmjnojmeal?hl=en) | Mano brings powerful AI tools directly into any site, powered by OpenAI's GPT-4. |
 | 11 | [**ChatGPT for Amazon with GPT4 Shulex Copilot**](https://chrome.google.com/webstore/detail/chatgpt-for-amazon-with-g/fchbhcjlkcdchcaklpkdofllfoimelgb?hl=en) | Copilot for ecommerce & sellers. Browser sidebar, Review Analysis, AI assistant capable of handling various tasks for Amazon sellers. |
 | 12 | [**ChatsNow：ChatGPT, Claude SideBar(GPT- 4,Draw)**](https://chrome.google.com/webstore/detail/chatsnow%EF%BC%9Achatgpt-claude-s/hcmiiaachajoiijecmakkhlcpagafklj?hl=en) | AI assistant utilizing OpenAI's GPT-4, GPT-3.5, and GPT-4 models. Offers writing assistance, AI-generated drawings, enhanced search engines, and answers to various questions. |
-| 13 | [**ChatGPT Widescreen Mode**](https://chromewebstore.google.com/detail/chatgpt-widescreen-mode/jgnjpnmofkalfliddjelaciggjgnphgm) | Adds Widescreen + Fullscreen modes to [chatgpt.com](https://chatgpt.com) + [perplexity.ai](https://perplexity.ai) + [poe.com](https://poe.com) to enhance viewing and reduce scrolling. |
+| 13 | [**ChatGPT Widescreen**](https://chromewebstore.google.com/detail/chatgpt-widescreen/jgnjpnmofkalfliddjelaciggjgnphgm) | Adds Widescreen + Fullscreen modes to [chatgpt.com](https://chatgpt.com) + [perplexity.ai](https://perplexity.ai) + [poe.com](https://poe.com) to enhance viewing and reduce scrolling. |
 
 ### 🔣 Translator
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**AnyDoc Translator - Translate Web and PDF**](https://chromewebstore.google.com/detail/anydoc-translator-transla/aopddeflghjljihihabdclejbojaomaf) | The ultimate AI translator for web, files, ebooks, academic papers, images, and text. |
 | 2 | [**KISS Translator**](https://chromewebstore.google.com/detail/kiss-translator/bdiifdefkgmcblbcghdlonllpjhhjgof) | A minimalist bilingual translation extension that supports webpage, text selection, and video subtitle translation. |
 | 3 | [**ImTranslator: Translator, Dictionary, TTS**](https://chromewebstore.google.com/detail/imtranslator-translator-d/noaijdpnepcgjemiklgfkcfbkokogabh) | ImTranslator translates selected text, dictionary words, phrases, and webpages between more than 160 languages using translation providers such as Google, Microsoft Bing, and Translator. |
@@ -33,15 +33,15 @@
 
 ### 💬 Social Networking
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Checker Plus for Gmail™**](https://chromewebstore.google.com/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj) | Get notifications, read, listen to or delete emails without opening Gmail and easily manage multiple accounts. |
 | 2 | [**Emoji Keyboard by JoyPixels®**](https://chromewebstore.google.com/detail/emoji-keyboard-by-joypixe/ipdjnhgkpapgippgcgkfcbpdpcgifncb) | Emoji keyboard for Chrome. Now Unicode 16 compatible! |
 
 ### 🛡️ Password Manager & Security
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Bitwarden - Free Password Manager**](https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | Bitwarden is the easiest and safest way to store all of your logins and passwords while conveniently keeping them synced between all of your devices. |
 | 2 | [**Keeper® Password Manager & Digital Vault**](https://chromewebstore.google.com/detail/keeper%C2%AE-password-manager/bfogiafebfohielmmehodmfbbebbbpei) | The most secure way to store your passwords, passkeys, and private information, protecting you against credential-related cyber threats. |
 | 3 | [**Dashlane — Password Manager**](https://chromewebstore.google.com/detail/dashlane-%E2%80%94-password-manag/fdjamakpfbbddfjaooikfcpapjohcfmg) | With the Dashlane extension, you can view, copy, and generate passwords and save and autofill logins and forms as you browse the internet. |
@@ -51,8 +51,8 @@
 
 ### 📂 Tab Management
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Workona Spaces & Tab Manager**](https://chrome.google.com/webstore/detail/workona-spaces-tab-manage/ailcmbgekjpnablpdkmaaccecekgdhlh) | This Best Chrome Extension will help you get your work under control and finally feel organized. Use it to manage tabs, organize projects, and bring together all of your work in the browser. |
 | 2 | [**TABLERONE tab manager**](https://chrome.google.com/webstore/detail/tablerone-tab-manager/andpjllgocabfacjlelkfpdemfklpfpo) | All-in-one tab manager to save tabs, restore sessions, and Organise bookmarks. |
 | 3 | [**Tabrr Dashboard**](https://chrome.google.com/webstore/detail/tabrr-dashboard-new-tab-w/ehmneimbopigfgchjglgngamiccjkijh/) | Get this extension to get a personal dashboard with organized bookmarks favorite websites, Widgets like clock, notes, search, image widgets, ChatGPT and many more when you open a New Tab. |
@@ -65,8 +65,8 @@
 
 ### 🎥 Screen Capture and Recording
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Nimbus Screenshot & Screen Video Recorder**](https://chromewebstore.google.com/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) | Make online screencasts of your desktop or selected browser tabs, or create videos using your webcam. |
 | 2 | [**GoFullPage - Full Page Screen Capture**](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capture a screenshot of your current page in its entirety and reliably—without requesting any extra permissions! |
 | 3 | [**Lightshot Downloader**](https://chromewebstore.google.com/detail/lightshot-downloader/opgmkcnbfkfkpefcbcidclkcenhgjnim) | This extension allows you to open Lightshot screenshots via direct URL. Photos can be uploaded for photo editing. |
@@ -79,15 +79,15 @@
 
 ### 🖋️ Text Generator
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Lorem Ipsum Generator**](https://chromewebstore.google.com/detail/lorem-ipsum-generator/pglahbfamjiifnafcicdibiiabpakkkb) | Quickly generate Lorem Ipsum placeholder text. Select a desired length and choose between paragraphs, words, bytes or lists. |
-| 2 | [**Lipsum Generator**](https://chromewebstore.google.com/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna) | Generate lorem ipsum dummy text in a drop of a hat. Over 1.5K users on Chrome Store. Available as a web app.|
+| 2 | [**Lipsum Generator**](https://chromewebstore.google.com/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna) | Generate lorem ipsum dummy text in a drop of a hat. Over 1.5K users on Chrome Store. Available as a web app. |
 
 ### ✏ Writing and Grammar
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Grammarly: Grammar Checker and AI Writing App**](https://chromewebstore.google.com/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen) | Improve your writing with all-in-one communication assistance—including grammar check, generative AI, and more. |
 | 2 | [**Magical: AI Writer & Autofill Text Expander**](https://chromewebstore.google.com/detail/magical-ai-writer-autofil/iibninhmiggehlcdolcilmhacighjamp) | Magical’s free AI writer, text expander, and autofill extension automates repetitive tasks, powered by OpenAI tools (ChatGPT, GPT4). |
 | 3 | [**QuillBot: AI Writing and Grammar Checker Tool**](https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko) | Elevate your writing with QuillBot's AI-powered productivity tools: Grammar Checker, Paraphraser, AI writer, Summarizer, and more! |
@@ -95,7 +95,7 @@
 | 5 | [**TextCortex: Personal AI Assistant & AI Writer**](https://chromewebstore.google.com/detail/textcortex-personal-ai-as/hahkojdegblcccihngmgndhdfheheofe) | An AI companion that is designed to understand you and your writing needs. It actively presents options on how to make your content more authentic. |
 | 6 | [**Text Blaze: Templates and Snippets**](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj) | Create smart text expansions to get more done and streamline your work. Billions of keystrokes saved! |
 | 7 | [**ProKeys**](https://chromewebstore.google.com/detail/prokeys/ekfnbpgmmeahnnlpjibofkobpdkifapn) | Save time and effort in emails, etc., with ProKeys! Define snippets, do math in the browser, auto-complete braces, and much more. |
-| 8 | [**Compose AI: AI-powered Writing Tool**](https://chrome.google.com/webstore/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj) | Generate any text using AI. Autocomplete your sentences where you type. With Compose AI, you can write emails, create documents, and chat faster.|
+| 8 | [**Compose AI: AI-powered Writing Tool**](https://chrome.google.com/webstore/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj) | Generate any text using AI. Autocomplete your sentences where you type. With Compose AI, you can write emails, create documents, and chat faster. |
 | 9 | [**HyperWrite - AI Assistant**](https://chrome.google.com/webstore/detail/hyperwrite-ai-assistant/kljjoeapehcmaphfcjkmbhkinoaopdnd) | An AI-powered assistant for web browsing, content creation, online research, task automation, and more – all in one extension. |
 | 10 | [**AISEO - AI Writing Companion.**](https://chrome.google.com/webstore/detail/aiseo-ai-writing-companio/hkfhclakgkhajfogkehjopahbphofpbn) | Paraphrase your content quickly and easily, and create unique, engaging content with just a few clicks using this Best Chrome extension |
 | 11 | [**Wordtune: Generative AI productivity platform**](https://chromewebstore.google.com/detail/wordtune-generative-ai-pr/nllcnknpjnininklegdoijpljgdjkijc?hl=en) | Wordtune is a Generative AI platform for work productivity by writing emails, creating documents or sending instant messages to colleagues or clients. |
@@ -103,8 +103,8 @@
 
 ### ⬇ Image and Video Downloaders
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Image Downloader - Imageye**](https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) | Find, browse, and download all the images present on a web page with this Image Downloader. |
 | 2 | [**Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) | Browse and download images from the web. |
 | 3 | [**Image Finder - Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader-image-fi/jfafkhnopckjfmnpekbmpmghhdlijaja) | Find images on web pages, sort them by resolution or format, and download one image or bulk download multiple. |
@@ -117,17 +117,15 @@
 
 ### [Workflow & Planning](https://chromewebstore.google.com/category/extensions/productivity/workflow)
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**StayFocusd – Website Blocker & Focus Timer & Shorts Blocker**](https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji) | Boost your productivity by limiting the amount of time you spend on time-wasting websites. |
 | 2 | [**Adobe Acrobat: PDF edit, convert, sign tools**](https://chromewebstore.google.com/detail/adobe-acrobat-pdf-edit-co/efaidnbmnnnibpcajpcglclefindmkaj) | Do more in Google Chrome with Adobe Acrobat PDF tools. View, fill, comment, sign, and try convert and compress tools. |
 
-
-
 ### 🚫 Ad-Blockers
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**AdGuard AdBlocker**](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg) | Effectively blocks all types of ads on all web pages, including Facebook, YouTube, and more. |
 | 2 | [**AdLock: Adblocker & Privacy Protection**](https://chrome.google.com/webstore/detail/adlock-adblocker-privacy/aemffjkmgcepimloclpkecifcnipnodh?hl=en) | Blocks ads on favorite websites, including video and audio ads on platforms like YouTube, Crunchyroll, Spotify, SoundCloud, etc. |
 | 3 | [**AdBlocker Ultimate**](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=en) | Free extension that blocks text, banner ads, Facebook ads, and malicious domains known to spread malware. |
@@ -140,30 +138,30 @@
 
 ## 🎵For music lovers
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
-| 1 | [**Chrome Piano**](https://chromewebstore.google.com/detail/chrome-piano/pjafcgbpdclmdeiipolenjgkikeldljl)  | Play the piano in your browser. Record your own music or pick a song from a wide variety of artists from the music sheet. There is virtually no learning curve. The only thing you need is your keyboard or mouse.   |
-| 2 | [**Music Mode for YouTube™**](https://chromewebstore.google.com/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna)   | Hides the video and thumbnails on YouTube. Blocks the video keeping only the audio on YouTube Music. |
-| 3 | [**Volume Master**](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)   | Up to 600% volume boost. |
-| 4 | [**Smart Mute**](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh)   | Listen to audio one tab at a time. |
-| 4 | [**Equalizer for Chrome browser**](https://chromewebstore.google.com/detail/equalizer-for-chrome-brow/abikfbojmghmfjdjlbagiamkinbmbaic)   | Equalizer for your Browser. Customize your sound by 10 bands, equalizer presets with collection music genres and a bass booster. |
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
+| 1 | [**Chrome Piano**](https://chromewebstore.google.com/detail/chrome-piano/pjafcgbpdclmdeiipolenjgkikeldljl) | Play the piano in your browser. Record your own music or pick a song from a wide variety of artists from the music sheet. There is virtually no learning curve. The only thing you need is your keyboard or mouse. |
+| 2 | [**Music Mode for YouTube™**](https://chromewebstore.google.com/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna) | Hides the video and thumbnails on YouTube. Blocks the video keeping only the audio on YouTube Music. |
+| 3 | [**Volume Master**](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) | Up to 600% volume boost. |
+| 4 | [**Smart Mute**](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) | Listen to audio one tab at a time. |
+| 4 | [**Equalizer for Chrome browser**](https://chromewebstore.google.com/detail/equalizer-for-chrome-brow/abikfbojmghmfjdjlbagiamkinbmbaic) | Equalizer for your Browser. Customize your sound by 10 bands, equalizer presets with collection music genres and a bass booster. |
 
 ## 👨🏻‍💻 For Developers
 
 ### 👨🏻‍💻 Code Editors and IDEs
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
-| 1 | [**Liquify - Shopify Code Search & Editor**](https://chrome.google.com/webstore/detail/liquify-shopify-code-sear/edekihmjmpkkkaolmojnajojfgphccma?utm_content=Best&Chrome&Extension)  | Liquify is a browser extension to enhance the Shopify theme code editor and add some quality-of-life functions that a traditional code editor would have.   |
-| 2 | [**Text Editor**](https://chrome.google.com/webstore/detail/text-editor/demheclfdlemkkpadenmajhjbdhbjjml?utm_content=Best&Chrome&Extension)   | A free, highly customizable text and code editor extension for your browser. This add-on has plenty of options to adjust and is built on top of the famous CodeMirror open-source JavaScript library |
-| 3 | [**XML Editor**](https://chrome.google.com/webstore/detail/xml-editor/offpnjldifddbopdmimolhcjniloicin) | Edit your file XML directly on your Chrome browser with advanced search and replace with XML Code Editor and Validator.   |
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
+| 1 | [**Liquify - Shopify Code Search & Editor**](https://chrome.google.com/webstore/detail/liquify-shopify-code-sear/edekihmjmpkkkaolmojnajojfgphccma?utm_content=Best&Chrome&Extension) | Liquify is a browser extension to enhance the Shopify theme code editor and add some quality-of-life functions that a traditional code editor would have. |
+| 2 | [**Text Editor**](https://chrome.google.com/webstore/detail/text-editor/demheclfdlemkkpadenmajhjbdhbjjml?utm_content=Best&Chrome&Extension) | A free, highly customizable text and code editor extension for your browser. This add-on has plenty of options to adjust and is built on top of the famous CodeMirror open-source JavaScript library |
+| 3 | [**XML Editor**](https://chrome.google.com/webstore/detail/xml-editor/offpnjldifddbopdmimolhcjniloicin) | Edit your file XML directly on your Chrome browser with advanced search and replace with XML Code Editor and Validator. |
 | 4 | [**Markdown Editor for Chrome**](https://chrome.google.com/webstore/detail/markdown-editor-for-chrom/dkpldbigkfcgpamifjimiejipmodkigk?hl=en) | Introducing a powerful and easy-to-use Markdown editor where you can create and view markdown files from anywhere. Simple and easy. A Github Flavored Markdown Editor. |
 | 5 | [**CloudBoard - Online Code Editor and Compiler**](https://chromewebstore.google.com/detail/kcghbbipihbbcjclnlmljpniibannhad) | A powerful Chrome extension allows you to easily edit and test your code generated by ChatGpt, all within your browser. |
 
 ### 🧪 Debugging and Testing
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Mobile simulator - responsive testing tool**](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) | A smartphone and tablet simulator on a computer with 52 devices are available for responsive tests |
 | 2 | [**Responsive Viewer**](https://chromewebstore.google.com/detail/inmopeiepgfljkpkidclfgbgbmfcennb) | This extension will help you to show multiple screens in one view and to allow front-end developers to test multiple screens while developing responsive websites/applications. |
 | 3 | [**Clear Cache**](https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) | Clear your cache and browsing data with a single click of a button. |
@@ -178,8 +176,8 @@
 
 ### 🖌️ CSS Tools
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Live editor for CSS, Less & Sass - Magic CSS**](https://chromewebstore.google.com/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) | With this tool, you can start writing your CSS/Less/Sass code in the browser extension and see it applied instantly. Your code will be saved in the extension or site's local storage. |
 | 2 | [**Amino: CSS Live Editor**](https://chromewebstore.google.com/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf) | Customize websites with CSS by creating your own user style sheets. Customize page appearance, fix rendering bugs, and many more. |
 | 3 | [**Visual CSS Editor**](https://chromewebstore.google.com/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) | Customize any website without coding click on an element and start visual editing, adjust colors, fonts, sizes, positions, and a lot more. |
@@ -187,21 +185,21 @@
 
 ### 🗂️ Version Control
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Gitako - GitHub file tree**](https://chromewebstore.google.com/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk) | Gitako is a browser extension that provides a file tree view for GitHub repositories. It enhances the GitHub user interface by adding a sidebar that displays the directory structure of the repository you are currently viewing. |
 | 2 | [**Refined GitHub**](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) | GitHub offers basic version-control features, while Refined GitHub enhances the experience with added functionality and customization options for version-controlled projects. |
 
 ### 📈 Workflow
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Wappalyzer - Technology profiler**](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) | This extension is a technology profiler that shows you what websites are built with and Find out what CMS a website is using, as well as any framework, ecommerce platform, etc. |
 
 ### 📊 SEO and Web Analysis Tools
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**SEO SERP Counter - Free SERP Checker tool**](https://chromewebstore.google.com/detail/seo-serp-counter-free-ser/bogkphfdgobbdiapedfgjmdibojjnppa) | Free SERP checker + counter tool to count the rankings. |
 | 2 | [**FindNiche - Shopify™ store traffic analysis**](https://chromewebstore.google.com/detail/findniche-shopify-store-t/kiniklbpicchjlhhagjhchoabjffogni) | A Shopify store traffic analysis Chrome extension that helps you inspect your competitors' marketing, listing, Google search, Bing keywords, and social media campaigns. |
 | 3 | [**Website Keyword Extractor & Planner Tool**](https://chromewebstore.google.com/detail/website-keyword-extractor/eiddpicgliccgcgclfoddoiebfaippkj) | Free website keywords tool to check search volume, CPC, and more. Research competitors and improve website keyword rank. |
@@ -220,22 +218,22 @@
 
 ### 📚 Frameworks and Libraries
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**React Developer Tools**](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools. |
 | 2 | [**Redux DevTools**](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | The extension provides power-ups for your Redux development workflow. Apart from Redux, it can be used with any other architectures which handle the state. |
 
 ### 🚀 Automation and Productivity Tools
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Proton VPN: Fast & Secure**](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa) | Proton VPN is created by the CERN scientists behind Proton Mail - the world's largest encrypted email service. |
 | 2 | [**AdGuard VPN — free & secure proxy for Chrome**](https://chrome.google.com/webstore/detail/adguard-vpn-%E2%80%94-free-secure/hhdobjgopfphlmjbmnpglhfcgppchgje) | A Freemium VPN extension to surf the Internet fast, safely, and securely. Protect your privacy and stay anonymous with our private VPN proxy. |
 | 3 | [**1clickVPN Free VPN for Chrome**](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/fcfhplploccackoneaefokcmbjfbkenj) | Best Chrome Extension to Bypass any online restrictions and safeguard your internet experience. |
@@ -246,8 +244,8 @@
 
 ### 🌍🔎 Web Scrapping
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**CSS Peeper**](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | CSS Peeper is a tool for designers to view CSS styles, allowing them to focus on design by spending less time digging through code. |
 | 2 | [**Web Scraper - Free Web Scraping**](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn) | Web data extraction tool with an easy point-and-click interface for modern web |
 | 3 | [**Instant Data Scraper**](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) | Instant Data Scraper is an automated data extraction tool for any website. It uses AI to predict which data is most relevant on a HTML page and allows saving it to Excel or CSV file (XLS, XLSX, CSV). |
@@ -261,23 +259,23 @@
 
 ### 🌈 Best Color Pickers and Palettes Chrome Extensions
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
-| 1 | [**Smart Color Picker**](https://chrome.google.com/webstore/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl?)                   | Smartest color picker tool for your browser. HEX, RGB, HSL colors, eyedropper tool, website palette.                                                  |
-| 2 | [**ColorPick Eyedropper**](https://chrome.google.com/webstore/detail/colorpick-eyedropper/gogbiohkminacikoppmljeolgccpmlop/)               |       |
-| 3 | [**Geco - Color Picker Tool**](https://chrome.google.com/webstore/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp)          | Grab colors from web pages, color picker, color history. Compared to Color Picker, Color Pick, eyedropper, and colorzilla this is better. An easy-to-use eyedropper tool that automatically copies the Hex Code of the desired color. |
-| 4 | [**Colour Contrast Checker**](https://chrome.google.com/webstore/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe)          | Check the contrast between different color combinations against WCAG standards                                                                        |
-| 5 | [**Chroma: Eyedropper & Color Picker Tool**](https://chrome.google.com/webstore/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn) | Best Chrome extension for Eyedropper, color picker, and palette creator. Generate sharable palette pages, pick your colors from any pages, and many more.                                                                     |
-| 6 | [**Palette creator**](https://chrome.google.com/webstore/detail/palette-creator/iofmialeiddolmdlkbheakaefefkjokp)                          | Creates a colour palette from any image. Just right-click on the image and select the “Palette Creator” option.                                       |
-| 7 | [**Amazing color picker**](https://chrome.google.com/webstore/detail/amazing-color-picker/hclbckmnpbnkcpemopdngipibdagmjei)                | The Amazing Color Picker app helps you get HEX color from the page.           |
-| 8 | [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)                                    | ColorZilla is the most user-friendly, full-featured, secure, and reliable color picker and color related suite of tools.                              |
-| 9 | [**Extract Colors DevTool**](https://chromewebstore.google.com/detail/extract-colors-devtool/nfliekkcalinkhldnlpjgfigimdngchm)             | Extract Colors DevTool offers: color palette extractor, color picker, clearing cache, leaning page (removes ads), full-page screenshot, and window resizer.
-| 10 | [**Palette & Hues 🎨**](https://chromewebstore.google.com/detail/palettes-hues-%F0%9F%8E%A8/miokoikjlpbhhfepkneagdjmgakendep)             | Palettes & Hues 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image. |
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
+| 1 | [**Smart Color Picker**](https://chromewebstore.google.com/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl) | Smartest color picker tool for your browser. HEX, RGB, HSL colors, eyedropper tool, website palette. |
+| 2 | [**ColorPick Eyedropper**](https://chrome.google.com/webstore/detail/colorpick-eyedropper/gogbiohkminacikoppmljeolgccpmlop/) | Simple and convenient color picker. Use the interactive color picker to select, adjust, and export color codes. |
+| 3 | [**Geco - Color Picker Tool**](https://chrome.google.com/webstore/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp) | Grab colors from web pages, color picker, color history. Compared to Color Picker, Color Pick, eyedropper, and colorzilla this is better. An easy-to-use eyedropper tool that automatically copies the Hex Code of the desired color. |
+| 4 | [**Colour Contrast Checker**](https://chrome.google.com/webstore/detail/colour-contrast-checker/nmmjeclfkgjdomacpcflgdkgpphpmnfe) | Check the contrast between different color combinations against WCAG standards |
+| 5 | [**Chroma: Eyedropper & Color Picker Tool**](https://chrome.google.com/webstore/detail/chroma-eyedropper-color-p/pkgejkfioihnchalojepdkefnpejomgn) | Best Chrome extension for Eyedropper, color picker, and palette creator. Generate sharable palette pages, pick your colors from any pages, and many more. |
+| 6 | [**Palette creator**](https://chrome.google.com/webstore/detail/palette-creator/iofmialeiddolmdlkbheakaefefkjokp) | Creates a colour palette from any image. Just right-click on the image and select the “Palette Creator” option. |
+| 7 | [**Amazing color picker**](https://chrome.google.com/webstore/detail/amazing-color-picker/hclbckmnpbnkcpemopdngipibdagmjei) | The Amazing Color Picker app helps you get HEX color from the page. |
+| 8 | [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | ColorZilla is the most user-friendly, full-featured, secure, and reliable color picker and color related suite of tools. |
+| 9 | [**Extract Colors DevTool**](https://chromewebstore.google.com/detail/extract-colors-devtool/nfliekkcalinkhldnlpjgfigimdngchm) | Extract Colors DevTool offers: color palette extractor, color picker, clearing cache, leaning page (removes ads), full-page screenshot, and window resizer. |
+| 10 | [**Palette & Hues 🎨**](https://chromewebstore.google.com/detail/palettes-hues-%F0%9F%8E%A8/miokoikjlpbhhfepkneagdjmgakendep) | Palettes & Hues 🎨 is a chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image. |
 
 ### 🆎 Typography Tools
 
-| No. | Extension | Description  |
-| ------ | ------ |--------------|
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
 | 1 | [**Fonts Ninja**](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website, bookmark, try, and buy them. |
 | 2 | [**What Font**](https://chrome.google.com/webstore/detail/what-font-find-font/acpcapnaopbhbelhmbbmppghilclpkep/) | Lets you know what font is used on any website |
 | 3 | [**What Font - font finder**](https://chrome.google.com/webstore/detail/what-font-font-finder/opogloaldjiplhogobhmghlgnlciebin) | Identify the font on a web page, html font size, color, and font family. This extension has a simple and intuitive interface for a more pleasant experience. |
