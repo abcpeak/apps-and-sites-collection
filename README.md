@@ -2023,7 +2023,7 @@ Adblock Filters
 - 🗃️Archived
   - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
 
-#### 🍭Browser Extensions 浏览器插件(扩展)
+#### 🍭Browser Extensions 浏览器插件(扩展) Plugins, add-ons
 
 - **Google, YouTube, Gmail**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) Skip YouTube Sponsorships ⭐
@@ -2073,11 +2073,10 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) This theme compatible with Firefox 143+ on macOS, Linux & Windows
 - [Vimium](https://vimium.github.io) 键盘快捷键
 
-#### 📜Userscripts Extension Manager 脚本管理，自定义和网页增强
+#### 🐵Userscripts Extension Manager 脚本管理，自定义和网页增强
 
-- [Tampermonkey](https://www.tampermonkey.net) 篡改猴，闭源，[Tampermonkey for iOS](https://apps.apple.com/us/app/tampermonkey/id6738342400)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey) [Violentmonkey](https://github.com/violentmonkey/violentmonkey) 🐵 暴力猴，更符合国人使用习惯
-
+- [Tampermonkey Web](https://www.tampermonkey.net), [Tampermonkey for iOS](https://apps.apple.com/us/app/tampermonkey/id6738342400) 篡改猴，闭源
+- ![GitHub Repo stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey) [Violentmonkey](https://github.com/violentmonkey/violentmonkey) 暴力猴，更符合大陆使用习惯
 - ![GitHub Repo stars](https://img.shields.io/github/stars/scriptscat/scriptcat) [Scriptcat](https://github.com/scriptscat/scriptcat) 脚本猫
 - ![GitHub Repo stars](https://img.shields.io/github/stars/quoid/userscripts) [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) (iOS) ⭐
 - [Stay for Safari](https://apps.apple.com/us/app/stay-for-safari/id1591620171) (iOS)($4.99) 深色模式、资源嗅探、广告拦截
