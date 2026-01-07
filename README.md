@@ -5,6 +5,8 @@
 </p>
 
 > 最全面的APP和网站，APP和网站汇总，强烈推荐收藏，资源收集整理的天花板！软件和网站收集，软件大全、优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台软件(Cross-Platform)、免费开源软件 FOSS(Free and Open Source Software)。
+>
+> Multi-platform: Web, Windows, Apple(iOS, macOS, iPadOS, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android(Android TV, Android Watch), Linux
 
 Welcome to the Curated List of Best Awesome Apps & Sites Collection!
 
@@ -1692,6 +1694,7 @@ iOS Safari Adblocking
 - [AdBlock Pro－Browser Ad Blocker](https://apps.apple.com/cn/app/adblock-pro-browser-ad-blocker/id1018301773)
 - [Adblock Plus for Safari (ABP)](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1028871868)
 - [1Blocker](https://apps.apple.com/us/app/1blocker-ad-blocker-privacy/id1365531024)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/oblador/hush) [Hush](https://github.com/oblador/hush) ([iOS](https://apps.apple.com/us/app/hush-nag-blocker/id1544743900))  ⭐
 
 Adblock Filters
 
@@ -2360,8 +2363,6 @@ Adblock Filters
 ## 💻OS 操作系统
 
 > Operating Systems 操作系统，软件聚合平台
->
-> Multi-platform: Web, Windows, Apple(iOS, macOS, Apple TV/tvOS, Apple Watch/watchOS), Android(Android TV, Android Watch), Linux
 
 ### 🪟Windows
 
@@ -2369,9 +2370,10 @@ Adblock Filters
 - [Playbook](https://www.revi.cc/docs/playbook/general)
   - [ReviOS](https://www.revi.cc) (已停产) 转为Playbook
 - [AtlasOS](https://atlasos.net) 基于Windows10精简定制，一个开源免费的项目，适合运行游戏。
-- Tiny11  Win11的精简轻量级版本
+- [Tiny11](https://github.com/ntdevlabs/tiny11builder)  Win11的精简轻量级版本
   - Tiny11 Builder，NTDev制作，保留原有系统精简能力，可以选择版本，家庭版、专业版、教育版、企业版
   - NTDev使用[GpuRamDrive](https://github.com/prsyahmi/GpuRamDrive)工具在显存中创建“硬盘”环境，接着使用Hyper-V等创建模拟器，将Tiny11装进了显存中
+  - [Nano11](https://github.com/ntdevlabs/nano11) 适合虚拟机，比Tiny11更精简
 - 激活Windows和Office
   - [TSforge](https://massgrave.dev/blog/tsforge) 永久激活Windows和Office
   - ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition) [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) Win10/Win11 数字权利（数字许可证）激活工具
@@ -2381,18 +2383,17 @@ Adblock Filters
 ### 🍎Apple
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/daliansky/Hackintosh) [Hackintosh](https://github.com/daliansky/Hackintosh) 黑苹果
-- [iMazing](https://imazing.com) (Windows, macOS) Manage your iPhone.On your terms
-- ![GitHub Repo stars](https://img.shields.io/github/stars/iDescriptor/iDescriptor) [iDescriptor](https://github.com/iDescriptor/iDescriptor) iDescriptor 是一个跨平台、开源且免费的 iDevice 管理工具。它支持 USB 连接、AirPlay、从 Apple Store 下载安装应用、虚拟位置模拟等。
-- [iMazing](https://imazing.com/zh) (macOS, Windows) iOS设备管理器
+- [iMazing](https://imazing.com) (Windows, macOS) Manage your iPhone on your terms. iOS设备管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/iDescriptor/iDescriptor) [iDescriptor](https://github.com/iDescriptor/iDescriptor) 跨平台开源免费iDevice管理工具。支持USB连接、AirPlay、从 Apple Store 下载安装应用、虚拟位置模拟等。
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PlayCover/PlayCover) [PlayCover](https://github.com/PlayCover/PlayCover) Runs iOS apps on Apple Silicon Macs
 
 - **📥macOS下载站**
-  - [Open-Source macOS Apps](https://github.com/iCHAIT/awesome-macOS) Open Source macOS Apps苹果电脑软件
+  - [Open-Source macOS Apps](https://github.com/iCHAIT/awesome-macOS) Open Source macOS Apps 苹果电脑软件
   - [awesome-open-source-mac-apps](https://indiegoodies.com/awesome-open-source-mac-apps)
   - [macOS-ISOs](https://github.com/Pyenb/macOS-ISOs)
 - **📥iOS App Store**
   - [App Store 网页版](https://apps.apple.com)
-  - [AppRaven: Apps Gone Free](https://apps.apple.com/us/app/appraven-apps-gone-free/id1490607195) (iOS)限免 最后更新Oct 7, 2024
+  - [AppRaven: Apps Gone Free](https://apps.apple.com/us/app/appraven-apps-gone-free/id1490607195) (iOS) 限免 最后更新Oct 7, 2024
   - [AltStore](https://altstore.io) 应用商店，欧盟地区可用
   - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) 开源iOS应用程序
   - [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店：需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
@@ -2414,7 +2415,7 @@ Adblock Filters
 - [Paranoid Android](https://paranoidandroid.co) AOSPA
 - [Evolution X](https://evolution-x.org) 预装的Google应用程序和Pixel的应用程序
 - [ArrowOS](https://arrowos.net) 轻量级的ROM
-- ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app) [Termux](https://github.com/termux/termux-app) 安卓手机变成迷你 Linux电脑
+- ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app) [Termux](https://github.com/termux/termux-app) 安卓手机变成迷你Linux电脑
 - Android刷机工具
   - [TWRP](https://twrp.me) Android设备上进行备份、恢复、刷机
 
@@ -2432,7 +2433,7 @@ Adblock Filters
   - [Aptoide](https://www.aptoide.com)
   - [apkcombo](https://apkcombo.com/apk-downloader)
   - [Neo Store](https://f-droid.org/zh_Hant/packages/com.machiav3lli.fdroid)
-  - [F-Droid](https://f-droid.org) 可安装FOSS（Free and Open Source Software免费开源软件）应用程序
+  - [F-Droid](https://f-droid.org) 可安装Free and Open Source Software免费开源软件
     - [Droid-ify](https://github.com/Droid-ify/client) F-Droid client with Material UI.
   - [G-Droid](https://f-droid.org/en/packages/org.gdroid.gdroid)
   - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) 开源的谷歌商店第三方客户端，Yalp Store的一个分支
