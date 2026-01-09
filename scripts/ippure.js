@@ -1,17 +1,17 @@
 $httpClient.get({
     url: "https://my.ippure.com/v1/info",
-    timeout: 5000  // ÉÔÑÓ³¤³¬Ê±£¬±ÜÃâÈõÍøÊ§°Ü
+    timeout: 5000  // ç¨å»¶é•¿è¶…æ—¶ï¼Œé¿å…å¼±ç½‘å¤±è´¥
 }, (error, response, data) => {
     const notify = $notification.post;
     
     if (error) {
-        notify("IP ²éÑ¯Ê§°Ü", "", `´íÎó: ${error}`);
+        notify("IP æŸ¥è¯¢å¤±è´¥", "", `é”™è¯¯: ${error}`);
         $done();
         return;
     }
     
     if (!data || response.status !== 200) {
-        notify("IP ²éÑ¯Ê§°Ü", "", "ÏìÓ¦Òì³£»òÎª¿Õ");
+        notify("IP æŸ¥è¯¢å¤±è´¥", "", "å“åº”å¼‚å¸¸æˆ–ä¸ºç©º");
         $done();
         return;
     }
@@ -19,34 +19,34 @@ $httpClient.get({
     try {
         const info = JSON.parse(data);
         
-        // ¶¨Î»´¦Àí£º¹ıÂË¿ÕÖµ£¬±ÜÃâ¶àÓà¶ººÅ
+        // å®šä½å¤„ç†ï¼šè¿‡æ»¤ç©ºå€¼ï¼Œé¿å…å¤šä½™é€—å·
         const locationParts = [info.city, info.region, info.countryCode].filter(Boolean);
-        const location = locationParts.length > 0 ? locationParts.join(", ") : "Î´Öª";
+        const location = locationParts.length > 0 ? locationParts.join(", ") : "æœªçŸ¥";
         
-        // ÊôĞÔÃèÊö
-        const broadcastType = info.isBroadcast ? "¹ã²¥" : "Ô­Éú";
-        const residentialType = info.isResidential ? "×¡Õ¬" : "»ú·¿";
+        // å±æ€§æè¿°
+        const broadcastType = info.isBroadcast ? "å¹¿æ’­" : "åŸç”Ÿ";
+        const residentialType = info.isResidential ? "ä½å®…" : "æœºæˆ¿";
         
-        // ·çÏÕÆÀ·ÖÑÕÉ«ÌáÊ¾£¨¿ÉÑ¡ÔöÇ¿£©
+        // é£é™©è¯„åˆ†é¢œè‰²æç¤ºï¼ˆå¯é€‰å¢å¼ºï¼‰
         const riskLevel = info.fraudScore 
-            ? (info.fraudScore <= 30 ? "µÍ·çÏÕ" 
-               : info.fraudScore <= 60 ? "ÖĞµÈ·çÏÕ" 
-               : "¸ß·çÏÕ")
-            : "Î´Öª";
+            ? (info.fraudScore <= 30 ? "ä½é£é™©" 
+               : info.fraudScore <= 60 ? "ä¸­ç­‰é£é™©" 
+               : "é«˜é£é™©")
+            : "æœªçŸ¥";
         
-        const subtitle = `·çÏÕ: ${info.fraudScore ?? "N/A"} (${riskLevel})`;
+        const subtitle = `é£é™©: ${info.fraudScore ?? "N/A"} (${riskLevel})`;
         const content = 
-`? ¶¨Î»: ${location}
-? ×éÖ¯: ${info.asOrganization || "Î´Öª"} (ASN: ${info.asn || "Î´Öª"})
-? ÊôĞÔ: ${broadcastType} - ${residentialType}
-?? ·çÏÕÆÀ·Ö: ${info.fraudScore ?? "N/A"}
-? Ê±Çø: ${info.timezone || "Î´Öª"}
-? ×ø±ê: ${info.latitude ? info.latitude + ", " + info.longitude : "Î´Öª"}`;
+`? å®šä½: ${location}
+? ç»„ç»‡: ${info.asOrganization || "æœªçŸ¥"} (ASN: ${info.asn || "æœªçŸ¥"})
+? å±æ€§: ${broadcastType} - ${residentialType}
+?? é£é™©è¯„åˆ†: ${info.fraudScore ?? "N/A"}
+? æ—¶åŒº: ${info.timezone || "æœªçŸ¥"}
+? åæ ‡: ${info.latitude ? info.latitude + ", " + info.longitude : "æœªçŸ¥"}`;
         
-        notify(`IP ? ${info.ip || "Î´Öª"}`, subtitle, content);
+        notify(`IP ? ${info.ip || "æœªçŸ¥"}`, subtitle, content);
         
     } catch (parseError) {
-        notify("½âÎöÊ§°Ü", "", `JSON ½âÎö´íÎó: ${parseError.message}`);
+        notify("è§£æå¤±è´¥", "", `JSON è§£æé”™è¯¯: ${parseError.message}`);
     }
     
     $done();
