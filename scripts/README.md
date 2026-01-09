@@ -14,9 +14,7 @@ https://raw.githubusercontent.com/用户名/仓库名/分支/路径
 
 ## JS Scripts
 
-https://raw.githubusercontent.com/abcpeak/apps-and-sites-collection/main/scripts/ippure.js
-
-iOS Shortcuts：IPPure
+iOS Shortcuts IPPure js: https://raw.githubusercontent.com/abcpeak/apps-and-sites-collection/main/scripts/ippure.js
 
 ## Shadowrocket(小火箭) 安装JS、模块module
 
@@ -45,12 +43,6 @@ Shadowrocket 模块：[YouTubeNoAd.sgmodule](https://raw.githubusercontent.com/a
 功能：精简底部标签栏，去除开屏与应用内广告
 
 Shadowrocket 模块：[DiDiClean.sgmodule](https://raw.githubusercontent.com/abcpeak/apps-and-sites-collection/main/modules/DiDiClean.sgmodule)
-
-### 🌍 国际版哔哩净化
-
-功能：移除热搜、搜索发现，精简 “我的” 页面布局
-
-Shadowrocket 模块：[BiliIntlClean.sgmodule](https://raw.githubusercontent.com/abcpeak/apps-and-sites-collection/main/modules/BiliIntlClean.sgmodule)
 
 ### 📕 小红书去广告及水印
 
