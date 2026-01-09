@@ -23,13 +23,17 @@ iOS Shortcuts：IPPure
 
 ## Shadowrocket(小火箭) 安装JS、模块module
 
-> 小火箭去广告原理：通过重写将可莉插件中心的Loon插件借用Script-Hub无缝转换为Shadowrocket支持的模块。
+> Script-Hub，一个重写 & 规则集转换工具
+>
+> 把可莉插件中心（PluginHub）的 原生 Loon 插件(.lpx)，自动转换成 Shadowrocket（小火箭）可安装的模块模块(.sgmodule )
 
-1、Shadowrocket 安装 Script-Hub 模块
+1、安装[Script-Hub](https://github.com/Script-Hub-Org/Script-Hub/wiki/%E5%AE%89%E8%A3%85)的Shadowrocket 模块：
 
-2、安装Shadowrocket转换器：[PluginHub2Shadowrocket.srmodule](https://raw.githubusercontent.com/abcpeak/apps-and-sites-collection/main/modules/PluginHub2Shadowrocket.srmodule)
+https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.rocket.module
 
-3、访问[可莉插件中心](https://pluginhub.kelee.one)，直接点击安装即可。
+2、PluginHub to Shadowrocket转换器：[PluginHub2Shadowrocket.srmodule](https://raw.githubusercontent.com/abcpeak/apps-and-sites-collection/main/modules/PluginHub2Shadowrocket.srmodule)
+
+3、访问[可莉插件中心](https://pluginhub.kelee.one)，直接安装插件。
 
 ### 📺 YouTube 去广告
 
