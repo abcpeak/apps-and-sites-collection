@@ -12,9 +12,22 @@ https://github.com/用户名/仓库名/blob/分支/路径
 ⬇
 https://raw.githubusercontent.com/用户名/仓库名/分支/路径
 
-## JS Scripts
+## Shortcuts
+
+https://www.reddit.com/r/shortcuts/
+
+### IPPure
 
 iOS Shortcuts IPPure js: https://raw.githubusercontent.com/abcpeak/apps-and-sites-collection/main/scripts/ippure.js
+
+### Remainders
+
+Link: https://remainders.vercel.app/
+
+GitHub: https://github.com/Ti-03/remainders
+
+
+
 
 ## Shadowrocket(小火箭) 安装JS、模块module
 
