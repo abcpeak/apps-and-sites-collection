@@ -1556,6 +1556,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/thilobillerbeck/skymoth) [Skymoth](https://github.com/thilobillerbeck/skymoth) Mastodon to Bluesky crossposter
   - [Mastogram](https://mastogr.am) Bridge your Mastodon, Telegram and Bluesky
   - [Buffer](https://buffer.com) 免费版支持3个平台 ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/ycccccccy/echotrace) [EchoTrace](https://github.com/ycccccccy/echotrace) 微信聊天记录本地导出、分析与年度报告生成工具
 
 ### 💏Dating Platform 婚恋平台 交友平台
 
@@ -2083,7 +2084,7 @@ Adblock Filters
 - [Tampermonkey Web](https://www.tampermonkey.net), [Tampermonkey for iOS](https://apps.apple.com/us/app/tampermonkey/id6738342400) 篡改猴，闭源
 - ![GitHub Repo stars](https://img.shields.io/github/stars/violentmonkey/violentmonkey) [Violentmonkey](https://github.com/violentmonkey/violentmonkey) 暴力猴，更符合大陆使用习惯
 - ![GitHub Repo stars](https://img.shields.io/github/stars/scriptscat/scriptcat) [Scriptcat](https://github.com/scriptscat/scriptcat) 脚本猫
-- ![GitHub Repo stars](https://img.shields.io/github/stars/quoid/userscripts) [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) (iOS) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/quoid/userscripts) [Userscripts for Safari](https://apps.apple.com/us/app/userscripts/id1463298887) (iOS) ⭐
 - [Stay for Safari](https://apps.apple.com/us/app/stay-for-safari/id1591620171) (iOS)($4.99) 深色模式、资源嗅探、广告拦截
 - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey) Firefox Extension，更新缓慢，最后更新Aug 6, 2024
 - ![GitHub Repo stars](https://img.shields.io/github/stars/syhyz1990/baiduyun) [网盘直链下载助手](https://github.com/syhyz1990/baiduyun) 开源协议：AGPL3
@@ -2393,16 +2394,20 @@ Adblock Filters
 - **📥macOS下载站**
   - [Open-Source macOS Apps](https://github.com/iCHAIT/awesome-macOS) Open Source macOS Apps 苹果电脑软件
   - [awesome-open-source-mac-apps](https://indiegoodies.com/awesome-open-source-mac-apps)
-  - [macOS-ISOs](https://github.com/Pyenb/macOS-ISOs)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Pyenb/macOS-ISOs) [macOS-ISOs](https://github.com/Pyenb/macOS-ISOs) macOS ISO Download Links
 - **📥iOS App Store**
   - [App Store 网页版](https://apps.apple.com)
   - [AppRaven: Apps Gone Free](https://apps.apple.com/us/app/appraven-apps-gone-free/id1490607195) (iOS) 限免 最后更新Oct 7, 2024
   - [AltStore](https://altstore.io) 应用商店，欧盟地区可用
   - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) 开源iOS应用程序
-  - [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店：需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/Asspp) [Asspp](https://github.com/Lakr233/Asspp) 一个界面管理多个 Apple ID，还能获取历史版本
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/opa334/TrollStore) [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店，需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
   - [Indie App Santa](https://apps.apple.com/us/app/indie-app-santa/id1594011307) APP限免
   - [iRingo](https://github.com/NSRingo) 解锁国行完整的Apple功能和集成服务
-  - IPA签名工具：[IPA-Resign](https://github.com/missuo/resign), [Sideloadly](https://sideloadly.io/)
+  - IPA签名工具
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/missuo/resign) [IPA-Resign](https://github.com/missuo/resign)
+    - [Sideloadly](https://sideloadly.io)
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/DanTheMan827/ios-app-signer) [iOS App Signer](https://dantheman827.github.io/ios-app-signer)
 
 ### 👾Android
 
