@@ -1617,7 +1617,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/koekeishiya/yabai) [yabai for macOS](https://github.com/koekeishiya/yabai) macOS内置窗口管理器的扩展
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MrKai77/Loop) [Loop](https://github.com/MrKai77/Loop) (macOS) 窗口管理
 - [ShortCat](https://shortcat.app) (macOS) 用键盘操作mac电脑
-- ![GitHub Repo stars](https://img.shields.io/github/stars/noah-nuebling/mac-mouse-fix) [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) macOS, makes your mouse better
+- ![GitHub Repo stars](https://img.shields.io/github/stars/noah-nuebling/mac-mouse-fix) [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) (macOS) makes your mouse better
 - OCR 图片文字识别
   - ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR) [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) 文字识别工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/TheJoeFin/Text-Grab) [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
@@ -2109,14 +2109,14 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive) [Spacedrive](https://github.com/spacedriveapp/spacedrive) (Windows)
 - [OneCommander](https://www.onecommander.com) (Windows) 分免费版和Pro版
 - [Marta](https://marta.sh) (macOS) File Manager
-- ![GitHub Repo stars](https://img.shields.io/github/stars/MHNightCat/superfile) [superfile](https://github.com/MHNightCat/superfile) (Linux, macOS, Windows)终端文件管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MHNightCat/superfile) [superfile](https://github.com/MHNightCat/superfile) (Linux, macOS, Windows) 终端文件管理器
 - [Fileso](https://apps.apple.com/us/app/fileso-unzip-tar-gz-rar-7z-xz/id6544783659) (iOS) file management
 - [Documents](https://apps.apple.com/us/app/id364901807) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka) [Czkawka](https://github.com/qarmin/czkawka) (Windows, Linux) Multi functional app to find duplicates, empty folders, similar images etc.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sxyazi/yazi) [Yazi](https://github.com/sxyazi/yazi) (Windows, Linux) Blazing Fast Terminal File Manager
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kimlimjustin/xplorer) [Xplorer](https://github.com/kimlimjustin/xplorer) (Windows) a customizable, modern file manager
 - [File Pilot](https://filepilot.tech) (Windows)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/tablacus/TablacusExplorer) [Tablacus Explorer](https://github.com/tablacus/TablacusExplorer) (Windows)标签文件管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tablacus/TablacusExplorer) [Tablacus Explorer](https://github.com/tablacus/TablacusExplorer) (Windows) 标签文件管理器
 - [SpaceSniffer](https://www.uderzo.it/main_products/space_sniffer) 磁盘空间分析
 - [Beyond Compare](https://www.scootersoftware.com/) 文件及文件夹对比工具
 - [FreeCommander XE](https://freecommander.com) 已更新27.12.2024
