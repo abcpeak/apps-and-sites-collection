@@ -2133,7 +2133,7 @@ Adblock Filters
 - [Rolan](https://getrolan.com)
 - [Dawn Launcher](https://dawnlauncher.com)
 - [Raycast](https://www.raycast.com) (macOS) 免费launcher
-- [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en_US) Android上的快捷启动软件
+- [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en_US) (Android) 快捷启动软件
 - [Lock Launcher](https://apps.apple.com/us/app/lock-launcher-screen-widgets/id1636719674) (iOS) 快捷启动软件
 - [Lock Launcher Widgets LockFlow](https://apps.apple.com/us/app/lock-launcher-widgets-lockflow/id1641012054?l=zh-Hans-CN) (iOS)
 - [Alfred](https://www.alfredapp.com) (macOS)(💵) 热键、关键字、文本扩展等效率工具，快捷启动
@@ -2147,7 +2147,7 @@ Adblock Filters
 - [BTSync](https://www.getsync.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing) [Syncthing](https://github.com/syncthing/syncthing) 连续文件同步，可在多台计算机之间实时同步文件，命令行 ⭐
   - [syncthing-macos](https://github.com/syncthing/syncthing-macos) (macOS)
-  - [SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) 轻量级但功能齐全的 Windows 安装程序
+  - [SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) (Windows) 轻量级但功能齐全的安装程序
   - [Möbius Sync](https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216) (iOS) Moebius莫比乌斯
 - [FreeFileSync](https://freefilesync.org) 文件夹比较同步
 - [goodsync](https://www.goodsync.com)
