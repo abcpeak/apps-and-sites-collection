@@ -2146,7 +2146,7 @@ Adblock Filters
 - [Echosync](https://www.luminescence-software.org/en/echosync/download) 差分文件同步软件
 - [BTSync](https://www.getsync.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing) [Syncthing](https://github.com/syncthing/syncthing) 连续文件同步，可在多台计算机之间实时同步文件，命令行 ⭐
-  - [syncthing-macos](https://github.com/syncthing/syncthing-macos/releases/latest) (macOS)
+  - [syncthing-macos](https://github.com/syncthing/syncthing-macos) (macOS)
   - [SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) 轻量级但功能齐全的 Windows 安装程序
   - [Möbius Sync](https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216) (iOS) Moebius莫比乌斯
 - [FreeFileSync](https://freefilesync.org) 文件夹比较同步
