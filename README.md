@@ -1654,13 +1654,13 @@ Enjoy 🤩
 - [Jima Caller ID](https://apps.apple.com/us/app/jima-caller-id/id910656808) 香港号码来电☎️识别阻拦
 - [Spam Call Blocker: Stop Scam](https://apps.apple.com/us/app/spam-call-blocker-stop-scam/id1505796584)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/metowolf/vCards) [vCards](https://github.com/metowolf/vCards) (iOS, macOS) 导入常用联系人头像
-- [Contact Cleanup](https://apps.apple.com/us/app/contact-cleanup/id717884032) (iOS)联系人清理
-- ![GitHub Repo stars](https://img.shields.io/github/stars/octoshrimpy/quik)[quik](https://github.com/octoshrimpy/quik) Android 第三方短信应用
+- [Contact Cleanup](https://apps.apple.com/us/app/contact-cleanup/id717884032) (iOS) 联系人清理
+- ![GitHub Repo stars](https://img.shields.io/github/stars/octoshrimpy/quik)[quik](https://github.com/octoshrimpy/quik) (Android) 第三方短信应用
 
 ### 📛Adblock 去广告 Block ads
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Windows, macOS, Linux)通过代理阻止广告
-- ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android)搞快点，自动跳过开屏广告
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Windows, macOS, Linux) 通过代理阻止广告
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android) 搞快点，自动跳过开屏广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions) ⭐
 
@@ -1716,7 +1716,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Archeb/opentrace) [OpenTrace](https://github.com/Archeb/opentrace) NextTrace的跨平台GUI界面，可视化路由跟踪工具，在地图上追踪并显示IP地址
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Leo-Corporation/InternetTest) [InternetTest](https://github.com/Leo-Corporation/InternetTest) Win网络测试工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor) [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 显示网速、CPU及内存利用率的桌面悬浮窗软件 Feb 10, 2025
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Diorser/LiteMonitor) [LiteMonitor](https://github.com/Diorser/LiteMonitor) 桌面硬件监控软件 — 实时监测 CPU、GPU、内存、磁盘、网络等系统性能
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Diorser/LiteMonitor) [LiteMonitor](https://github.com/Diorser/LiteMonitor) 桌面硬件监控软件，实时监测 CPU、GPU、内存、磁盘、网络等系统性能
   - [Net Speed Meter](https://netspeedm.com) 显示网速的软件
   - [Test your IPv6](https://test-ipv6.com)
   - Speed Test 网速测试：[Speed Cloudflare](https://speed.cloudflare.com) 、[Speedtest](https://www.speedtest.net)、[fast](https://fast.com)、[LibreSpeed](https://librespeed.org)
