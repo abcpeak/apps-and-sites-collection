@@ -1714,7 +1714,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/VREMSoftwareDevelopment/WiFiAnalyzer) [WiFi Analyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) (Android)WiFi分析仪
   - [WirelessMon](https://www.passmark.com/products/wirelessmonitor) 检测周围 WIFI 信道
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Archeb/opentrace) [OpenTrace](https://github.com/Archeb/opentrace) NextTrace的跨平台GUI界面，可视化路由跟踪工具，在地图上追踪并显示IP地址
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Leo-Corporation/InternetTest) [InternetTest](https://github.com/Leo-Corporation/InternetTest) Win网络测试工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Leo-Corporation/InternetTest) [InternetTest](https://github.com/Leo-Corporation/InternetTest) (Windows) 网络测试工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/TrafficMonitor) [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 显示网速、CPU及内存利用率的桌面悬浮窗软件 Feb 10, 2025
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Diorser/LiteMonitor) [LiteMonitor](https://github.com/Diorser/LiteMonitor) 桌面硬件监控软件，实时监测 CPU、GPU、内存、磁盘、网络等系统性能
   - [Net Speed Meter](https://netspeedm.com) 显示网速的软件
@@ -2232,6 +2232,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/JunkFood02/Seal) [Seal](https://github.com/JunkFood02/Seal) Video/Audio Downloader for Android, based on yt-dlp. Oct 17, 2024
   - ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) 基于 yt-dlp 项目的音视频下载工具 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/axcore/tartube) [Tartube](https://github.com/axcore/tartube) GUI for yt-dl and yt-dlp. Can download videos with segments cut out.
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/nexmoe/VidBee) [VidBee](https://github.com/nexmoe/VidBee) (macOS, Windows, Linux) Download videos from almost any website worldwide 界面现代化，支持通过 RSS 订阅自动下载⭐
 - [ClipGrab](https://clipgrab.org) (Windows) 原理也是使用 youtube-dlp 下载视频，所以初次安装需要下载ytb-dlp
 - [Transmission](https://transmissionbt.com) Bittorrent客户端
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
@@ -2256,7 +2257,7 @@ Adblock Filters
 - [SaveTik](https://savetik.co/zh-cn) 下载Tiktok视频
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/nexmoe/VidBee) [VidBee](https://github.com/nexmoe/VidBee) Download videos from almost any website worldwide ⭐
+
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，停更 ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
