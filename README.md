@@ -2589,7 +2589,7 @@ Adblock Filters
 
 Firstly, Thank you for expressing your interest in contributing to our repository to improve the list of 🧩Apps & Sites Collection. 🤗
 
-Note: To support this repository, please give us a star⭐ and share🔁 and promote it to increase its visibility. Let's make it a win-win. 😉
+Note: To support this repository, please give us a star⭐ and share🔁 and promote📢 it to increase its visibility. Let's make it a win-win. 😉
 
 ## 📄License 许可证
 
