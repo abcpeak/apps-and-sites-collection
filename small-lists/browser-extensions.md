@@ -49,6 +49,17 @@
 | 5 | [**DualSafe Password Manager & Digital Vault**](https://chromewebstore.google.com/detail/dualsafe-password-manager/lgbjhdkjmpgjgcbcdlhkokkckpjmedgc) | DualSafe Password Manager extension lets you safely manage passwords in one place to autosave, autofill & access them anytime. |
 | 6 | [**Proton Pass: Free Password Manager**](https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde) | Free and unlimited password manager to keep your login credentials safe and manage them directly in your browser. |
 
+### 🖱️ Mouse Gesture
+
+| No. | Extension | Description |
+| ------ | ------ | ----------- |
+| 1 | [**Mouse Gesture**](https://chromewebstore.google.com/detail/mouse-gesture/nipdbleimjhfpfdkopbfeagjjkmcfhbj) | A Chrome/Edge extension that supports mouse gestures, super drag functionality and popup view. Open source: https://github.com/imgs/MouseGesture |
+| 2 | [**Cesturefy**](https://chromewebstore.google.com/detail/cesturefy/bifgfhokfobhebifcogneljkpaaloonp) | forked from Robbendebiene Gesturefy. |
+| 3 | [**Grand Gesture**](https://chromewebstore.google.com/detail/grand-gesture/kmdhnmlelcmpeafnienldlcfchkkajfb) | 源码：https://github.com/david-04/grand-gesture |
+| 4 | [**FlowMouse**](https://chromewebstore.google.com/detail/flowmouse-mouse-gestures/fnldhkfidchnjiokpoemdhoejmaojkgp) | 来自52pojie. |
+| 5 | [**Simple Mouse Gestures**](https://chromewebstore.google.com/detail/simple-mouse-gestures/niailegbonoknccjigjjaijppileoilm) | 源码：https://github.com/lrydzkowski/SimpleMouseGestures |
+| 6 | [**CrxMouse: Mouse Gestures**](https://chromewebstore.google.com/detail/crxmouse-mouse-gestures/jlgkpaicikihijadgifklkbpdajbkhjo) | 700,000 users. |
+
 ### 📂 Tab Management
 
 | No. | Extension | Description |

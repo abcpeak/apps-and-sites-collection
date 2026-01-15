@@ -10,7 +10,7 @@
 
 Welcome to the Curated List of Best Awesome Apps & Sites Collection!
 
-Don't forget to show your appreciation by giving this repository a star⭐!
+Don't forget to show your appreciation by giving this repository a ⭐Star!
 
 Enjoy 🤩
 
@@ -731,6 +731,7 @@ Enjoy 🤩
 - Adobe: [Photoshop](https://www.photoshop.com), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) ⭐
 - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) 图像查看器
 - [Kiko Card](https://apps.apple.com/us/app/kiko-card-text-post-carousel/id6463467787) 文字生成图片
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MewPurPur/GodSVG) [GodSVG](https://github.com/MewPurPur/GodSVG) (Windows, Android) 免费开源SVG矢量图形编辑工具，支持在线编辑
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GNOME/gimp) [GIMP](https://www.gimp.org) 跨平台图像编辑器
 - [Glimpse](https://glimpse-editor.org)
 - [RawTherapee](https://www.rawtherapee.com)
@@ -1041,6 +1042,7 @@ Enjoy 🤩
 - [videvo](https://www.videvo.net)
 - [audiojungle](https://audiojungle.net) free music and audio tracks
 - ![GitHub Repo stars](https://img.shields.io/github/stars/simple-icons/simple-icons) [simpleicons](https://simpleicons.org) SVG素材库
+
 
 ### Image Hosts 图床工具 图库
 
@@ -1635,6 +1637,7 @@ Enjoy 🤩
   - [Windows File Recovery](https://apps.microsoft.com/detail/9n26s50ln705?hl=zh-cn&gl=CN) 微软出品的完全免费的删除文件数据恢复工具
   - [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) Change Startup Programs
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BornToBeRoot/NETworkManager) [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) 管理网络和解决网络问题的强大工具
+- [My NAT](https://apps.apple.com/us/app/my-nat/id6757288463) (iOS) 网络状态检测
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Caldis/Mos) [Mos](https://github.com/Caldis/Mos) (macOS) 平滑鼠标滚动效果
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lihaoyun6/AirBattery) [AirBattery](https://github.com/lihaoyun6/AirBattery) 在macOS上显示所有设备电量信息在Dock、状态栏、小组件上
 - [MagicKit Pro](https://apps.apple.com//app/id6746649752) (iOS)智能工具箱
@@ -1882,7 +1885,7 @@ Adblock Filters
 
 ### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) RIME输入法 (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韻 Linux + IBus 輸入法框架) ，跨平台、开源免费
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) RIME输入法 (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韻 Linux + IBus 輸入法框架) ，跨平台、开源免费 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) 雨燕拼音输入法 (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey) [AutoHotkey](https://www.autohotkey.com) a scripting language for desktop automation热键脚本语言
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xianyukang/MyKeymap) [MyKeymap](https://github.com/xianyukang/MyKeymap) 一款基于AutoHotkey的键盘映射工具
@@ -2014,6 +2017,7 @@ Adblock Filters
 - [BrowseRating](https://www.browserating.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS) 多浏览器管理工具，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
 - [Speedometer3.1](https://browserbench.org/Speedometer3.1) Browser Performance 网页浏览器的基准测试，通过对不同工作负载下的模拟用户交互进行时序来衡量网页应用响应速度
+- ![GitHub Repo stars](https://img.shields.io/github/stars/corbindavenport/just-the-browser) [Just the Browser](https://github.com/corbindavenport/just-the-browser) 移除桌面浏览器中的 AI 功能、遥测数据报告、赞助内容、产品集成
 
 - 🗃️Archived
   - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
@@ -2370,6 +2374,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/TGSAN/CMWTAT_Digital_Edition) [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) Win10/Win11 数字权利（数字许可证）激活工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts) [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator) [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases) 可永久激活Windows 11和Microsoft Office
+- [LetRecovery](https://github.com/NORMAL-EX/LetRecovery) 重装系统
 
 ### 🍎Apple
 
@@ -2540,6 +2545,7 @@ Adblock Filters
   - PPSSPP Gold，PPSSPP黄金版，支持开发组的捐赠版，仅图标变成金色，性能和免费版没有差别
 - [Dolphin Emulator](https://dolphin-emu.org) 海豚模拟器，对应任天堂游戏主机 GameCube和Wii 的模拟器
 - [Skyline Emulator](https://skyline-emu.com) Switch模拟器，被认为是安卓平台上最好的模拟器之一
+- ![GitHub Repo stars](https://img.shields.io/github/stars/shadps4-emu/shadPS4) [shadPS4](https://github.com/shadps4-emu/shadPS4) (Windows, Linux and macOS) PlayStation 4 emulator
 
 ## 💾Resource Download Site 资源下载站
 
@@ -2590,7 +2596,7 @@ Adblock Filters
 
 Firstly, Thank you for expressing your interest in contributing to our repository to improve the list of 🧩Apps & Sites Collection. 🤗
 
-Note: To support this repository, please give us a star⭐ and share🔁 and promote📢 it to increase its visibility. Let's make it a win-win. 😉
+Note: To support this repository, please give us a ⭐Star and 🔁Share and 📢Promote it to increase its visibility. Let's make it a win-win. 😉
 
 ## 📄License 许可证
 
