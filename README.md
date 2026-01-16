@@ -1321,7 +1321,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/M66B/FairEmail) [FairEmail](https://github.com/M66B/FairEmail) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vladimiry/ElectronMail) [ElectronMail](https://github.com/vladimiry/ElectronMail) 支持Tuta和ProtonMail，Unofficial ProtonMail Desktop App
 - [PreVeil](https://www.preveil.com)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/tutao/tutanota) [Tuta](https://github.com/tutao/tutanota/releases) 位于德国，全平台开源的加密邮箱。如果帐户超过六个月未被访问，则会将其删除，但如果用户知道密码并订阅付费版本，则允许恢复。
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tutao/tutanota) [Tuta](https://github.com/tutao/tutanota/releases) 位于德国，全平台开源的加密邮箱。超过六个月未访问帐户会删除，用户订阅付费版本则允许恢复。
 - [Guerrilla Mail](https://www.guerrillamail.com)
 - [ProtonMail](https://protonapps.com) 位于瑞士的安全电子邮件 ⭐
   - [Proton Mail Bridge](https://proton.me/mail/bridge) 使用Apple Mail、Outlook、Thunderbird等访问ProtonMail, Proton Mail Bridge is available only with a paid plan
@@ -1973,6 +1973,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%，on Sep 17, 2024
   - [Pale Moon](https://www.palemoon.org) 苍月浏览器，基于几年前的Firefox/Mozilla源代码，后续自研了渲染引擎Goanna，Gecko的一个分支，并优化了布局系统
   - [Basilisk](https://www.basilisk-browser.org/) 基于Goanna布局和渲染引擎，并建立在统一XUL平台（UXP）之上，由独立于Pale Moon项目的开发团队开发
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/greeeen-dev/natsumi-browser) [Natsumi](https://github.com/greeeen-dev/natsumi-browser) a skin made for Firefox and its forks. NOT a standalone browser.
 
 - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://www.qutebrowser.org) A keyboard-driven, vim-like browser based on Python and Qt.
