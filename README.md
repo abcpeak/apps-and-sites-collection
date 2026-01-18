@@ -1295,6 +1295,7 @@ Enjoy 🤩
 - [KDE Office](https://apps.kde.org/categories/office)
 - [Google Docs](https://docs.google.com)
 - Proton Doc 不支持国家emoji
+- [Tally](https://tally.so) 在线表单服务，免费
 
 ### 📧Email 电子邮箱
 
