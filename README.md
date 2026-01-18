@@ -121,10 +121,10 @@ Enjoy 🤩
 - [jQuery](https://jquery.com)
 - [Algolia](https://www.algolia.com) 提供搜索即服务的 SaaS
 - [Hammerspoon](https://www.hammerspoon.org) 免费 自动化工具 编写Lua代码
-- [ProxyPin](https://github.com/wanghongenpin/network_proxy_flutter) 跨平台开源免费Http、Https抓包工具
-- [t3](https://github.com/still-scene/t3) 实时动态图像
-- [dufs](https://github.com/sigoden/dufs) 搭建文件服务器
-- [druid](https://github.com/alibaba/druid) 阿里云计算平台DataWorks团队出品，为监控而生的数据库连接池
+- ![GitHub Repo stars](https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter) [ProxyPin](https://github.com/wanghongenpin/network_proxy_flutter) 跨平台开源免费Http、Https抓包工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/still-scene/t3) [t3](https://github.com/still-scene/t3) 实时动态图像
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sigoden/dufs) [dufs](https://github.com/sigoden/dufs) 搭建文件服务器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/druid) [druid](https://github.com/alibaba/druid) 阿里云计算平台DataWorks团队出品，为监控而生的数据库连接池
 - ![GitHub Repo stars](https://img.shields.io/github/stars/axios/axios) [Axios](https://axios-http.com/zh) 基于 promise 的HTTP客户端库，可以用于浏览器和 node.js
 - [redis](https://redis.com) Real-time speed and simplicity
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nostr-protocol/nostr) [nostr](https://github.com/nostr-protocol/nostr) 对抗审查的开放协议 Open protocol
@@ -137,7 +137,6 @@ Enjoy 🤩
 - [Dash](https://kapeli.com/dash) (macOS, Windows) API工具
 - [Rapidapi](https://rapidapi.com) API工具
 - [Docker](https://www.docker.com) Docker容器
-
 - [Emacs Org Mode](https://orgmode.org) 语法与Markdown类似，但Emacs为其赋予了很多功能
 - [Liquid](https://shopify.dev/api/liquid) liquid语法
 - [Markdown](https://github.github.com/gfm)
