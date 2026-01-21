@@ -1824,8 +1824,6 @@ Adblock Filters
 
 ### 📦Compression 压缩软件
 
-> Archiving, Compression
-
 - [7-Zip](https://www.7-zip.org) 免费开源压缩软件，[7-Zip源代码](https://sourceforge.net/projects/sevenzip)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mcmilk/7-Zip-zstd) [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) 7z的分支，添加了新的压缩算法
   - ![GitHub Repo stars](https://img.shields.io/github/stars/M2Team/NanaZip) [NanaZip](https://github.com/M2Team/NanaZip) ⭐
