@@ -1768,10 +1768,11 @@ Adblock Filters
 ### 🧹Clean 软件卸载&优化
 
 - [CCleaner](https://www.ccleaner.com/ccleaner) ⭐
+- [Winslop](https://www.neowin.net/software/winslop-03550) (Windows) 能够去除不必要的系统冗余
 - ![GitHub Repo stars](https://img.shields.io/github/stars/guhcostan/windows-cleaner-cli) [Windows Cleaner CLI](https://github.com/guhcostan/windows-cleaner-cli) Windows cleanup tool
 - [Revo Uninstaller](https://www.revouninstaller.com)
 - [Registry Finder](https://registry-finder.com)
-- [TweakPower](https://www.kurtzimmermann.com/tweakpowerext_en.html) 系统优化工具
+- [TweakPower](https://www.majorgeeks.com/files/details/tweakpower.html) (Windows) 系统清理、优化、调校工具箱
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rayenghanmi/RyTuneX) [RyTuneX](https://github.com/rayenghanmi/RyTuneX) Windows 优化工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit) [BleachBit](https://www.bleachbit.org) 开源免费的系统清理工具
 - [Wise Registry Cleaner](https://www.wisecleaner.com/wise-registry-cleaner.html)
