@@ -2395,6 +2395,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/Asspp) [Asspp](https://github.com/Lakr233/Asspp) 一个界面管理多个 Apple ID，还能获取历史版本
   - ![GitHub Repo stars](https://img.shields.io/github/stars/opa334/TrollStore) [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店，需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
   - [Indie App Santa](https://apps.apple.com/us/app/indie-app-santa/id1594011307) APP限免
+  - [LiveContainer](https://github.com/LiveContainer/LiveContainer) Run iOS apps without actually installing them
   - [iRingo](https://github.com/NSRingo) 解锁国行完整的Apple功能和集成服务
   - IPA签名工具
     - ![GitHub Repo stars](https://img.shields.io/github/stars/missuo/resign) [IPA-Resign](https://github.com/missuo/resign)
