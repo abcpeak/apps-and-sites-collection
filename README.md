@@ -5,10 +5,10 @@
 </p>
 
 > 最佳最棒的APP与网站合集，最全面的应用和网站收集汇总，资源收集整理的天花板，超赞软件和网站收集，最佳实用 App & 网站大全，优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台软件(Cross-Platform)、免费开源软件 FOSS(Free and Open Source Software)。👉强烈推荐收藏⭐！
->
-> Multi-platform: Web, Windows, Apple(iOS, macOS, iPadOS, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android(Android TV, Android Watch), Linux
 
 Welcome to the Curated List of Best Awesome Apps & Sites Collection!
+
+Multi-platform: Web, Windows, Apple(iOS, macOS, iPadOS, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android(Android TV, Android Watch), Linux
 
 Don't forget to show your appreciation by giving this repository a ⭐Star!
 
@@ -29,7 +29,7 @@ Enjoy 🤩
 | [🍔Food & Drink](#food--drink-美食佳饮)                               | [🎵Music](#music-音乐)                      | [💬Social Networking](#social-networking-社交网络) |      [💾Resource](#resource-download-site-资源下载站)           |
 
 | 0️⃣ | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
-|:---:|:---:|:---:|:---:|:---:|
+| :---: | :---: | :---: | :---: | :---: |
 | 🍿 | [🎬Movies & TV](#movies--tv) | [▶️Video Player](#%EF%B8%8Fvideo-player-视频播放器) | [🎞️Emby](#%EF%B8%8Femby-plex-jellyfin-媒体服务器软件-流媒体服务器) | [🛑IPTV](#iptv) |
 | ⚡ | [🤖AI](#ai) | [📑Note Taking](#note-taking-笔记软件) | [📧Email](#email-电子邮箱) | [🔐Pass](#password-manager-密码管理-pwm) |
 | 🛠️ | [📛Adblock](#adblock-去广告-block-ads) |  [📶Network](#network-dns-vpn-vps-idc)  | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) |
@@ -862,7 +862,6 @@ Enjoy 🤩
 - [Musify](https://apps.apple.com/us/app/musify-music-player/id1575902185)
 - [Spotify](https://www.spotify.com/us/download/other)  (Windows, Android, iOS) 总部位于瑞典斯德哥尔摩，只有Spotify Premium用户可以在移动端播放本地文件
   - ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube) [Spotube](https://github.com/KRTirtho/spotube) 开源免费跨平台 Spotify 第三方客户端 ![Last Commit](https://img.shields.io/github/release-date/KRTirtho/spotube) ![commit-activity](https://img.shields.io/github/commit-activity/m/KRTirtho/spotube)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/whoeevee/EeveeSpotify) [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) spotify修改版，自定义歌词显示 ![Last Commit](https://img.shields.io/github/release-date/whoeevee/EeveeSpotify)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
 - [AIMP](https://www.aimp.ru) (Windows, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器 ⭐
 - [MediaMonkey](https://www.mediamonkey.com) (Windows, Android)
@@ -1066,10 +1065,10 @@ Enjoy 🤩
 ### 🎥Video Edit 视频音频剪辑软件
 
 - [kdenlive](https://kdenlive.org/zh) KDE Non-Linear Video Editor 非线性视频编辑器
-- [OpenShot](https://www.openshot.org)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OpenShot/openshot-qt) [OpenShot](https://github.com/OpenShot/openshot-qt) (Linux, macOS, and Windows) ⭐
 - [Lightworks](https://lwks.com)
 - [Shotcut](https://shotcut.org)
-- [OpenCut](https://github.com/OpenCut-app/OpenCut) 开源视频剪辑
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut) [OpenCut](https://github.com/OpenCut-app/OpenCut) (Web) 最接近剪映的开源平替 ⭐
 - [AVS Video ReMaker](https://www.avs4you.com/avs-video-remaker.aspx)
 - [Audacity](https://www.audacityteam.org) 音频处理软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut) [LosslessCut](https://github.com/mifi/lossless-cut) 无损剪辑
@@ -1361,6 +1360,7 @@ Enjoy 🤩
 - [Resend](https://resend.com/emails) 免费1个域名，Up to 3,000 emails/month ⭐
 - [SelfMailKit](https://selfmailkit.com) 免费Up to 5,000 emails/month
 - [flodesk](https://flodesk.com) 使用Flodesk获得更多打开次数、更多点击次数和更多销售额
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Gururagavendra/gmail-cleaner) [Gmail Bulk Unsubscribe & Cleanup Tool](https://github.com/Gururagavendra/gmail-cleaner)
 
 ### 🆕RSS feed 订阅
 
@@ -1768,7 +1768,7 @@ Adblock Filters
 ### 🧹Clean 软件卸载&优化
 
 - [CCleaner](https://www.ccleaner.com/ccleaner) ⭐
-- [Winslop](https://www.neowin.net/software/winslop-03550) (Windows) 能够去除不必要的系统冗余
+- [Winslop](https://www.neowin.net/software/winslop-03550) (Windows) 去除不必要的系统冗余
 - ![GitHub Repo stars](https://img.shields.io/github/stars/guhcostan/windows-cleaner-cli) [Windows Cleaner CLI](https://github.com/guhcostan/windows-cleaner-cli) Windows cleanup tool
 - [Revo Uninstaller](https://www.revouninstaller.com)
 - [Registry Finder](https://registry-finder.com)
@@ -2214,7 +2214,7 @@ Adblock Filters
 - [Microsoft Edge Drop](https://www.microsoft.com/en-us/edge/features/drop) need Microsoft Edge installed
 - [Intel® Unison™](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26?hl=en-us&gl=us)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/magic-wormhole/magic-wormhole) [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，命令行工具和Python库，通过一个短代码在两台设备间安全地传输文件
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) 适用于macOS的Android文件传输
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) (macOS) 与Android文件传输
 - [Blip Transfer](https://blip.net) 即传即下，边传边下，No waiting to upload and download separately ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/abhi16180/photon) [Photon](https://github.com/abhi16180/photon)
 - [Smash](https://fromsmash.com) 免费2G文件传输
