@@ -1955,6 +1955,7 @@ Adblock Filters
   - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS) 集成了广告拦截，暗黑模式，不收集任何数据，注重隐私
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
+  - [Quetta Browser](https://apps.apple.com/us/app/quetta-video-adblock-browser/id6504077999) (iOS, Android)
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
 
