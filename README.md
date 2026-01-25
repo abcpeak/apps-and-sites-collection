@@ -2043,7 +2043,10 @@ Adblock Filters
 - [Extension Bridge](https://github.com/michaelnyc17/extension-bridge) Find Firefox alternatives for Chrome extensions
 - [Save to Notion](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm)
 - [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf)
-- 右键解锁：[SuperCopy - Enable Copy](https://chrome.google.com/webstore/detail/onepmapfbjohnegdmfhndpefjkppbjkm)、[Allow Right-Click](https://chromewebstore.google.com/detail/allow-right-click/hnafhkjheookmokbkpnfpmemlppjdgoi)、[Allow Copy](https://chromewebstore.google.com/detail/allow-copy-select-enable/mmpljcghnbpkokhbkmfdmoagllopfmlm)
+- 右键解锁
+  - [SuperCopy - Enable Copy](https://chrome.google.com/webstore/detail/onepmapfbjohnegdmfhndpefjkppbjkm)
+  - [Allow Right-Click](https://chromewebstore.google.com/detail/allow-right-click/hnafhkjheookmokbkpnfpmemlppjdgoi)
+  - [Allow Copy](https://chromewebstore.google.com/detail/allow-copy-select-enable/mmpljcghnbpkokhbkmfdmoagllopfmlm)
 - [Click&amp;Clean](https://www.hotcleaner.com/clickclean_chrome.html)
 - [Privacy Badger](https://privacybadger.org/zh-cn) 隐私獾
 - [Copyfish](https://ocr.space/copyfish) 抓取图片视频中的文字
