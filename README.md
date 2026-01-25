@@ -2600,6 +2600,8 @@ Adblock Filters
 
 ## 🤝Contribute 贡献
 
+Best Awesome [🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection) was made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
+
 Firstly, Thank you for expressing your interest in contributing to our repository to improve the list of 🧩Apps & Sites Collection. 🤗
 
 Note: To support this repository, please give us a ⭐Star and 🔁Share and 📢Promote it to increase its visibility. Let's make it a win-win. 😉
@@ -2613,8 +2615,6 @@ Copyright © 2025
 ## 🌟Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)](https://www.star-history.com/#abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)
-
-Best Awesome [🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection) was made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
 
 <div align="right">
 
