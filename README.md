@@ -957,6 +957,7 @@ Enjoy 🤩
 - [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus) free, open source and usable online and offline.
 - [Organic Maps](https://organicmaps.app)
 - [Maps.me](https://maps.me) (iOS, Andorid)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/originalankur/maptoposter) [City Map Poster Generator](https://github.com/originalankur/maptoposter) 从OpenStreetMap中获取街道网络、水体特征和公园等信息，然后转换为世界上任何城市的精美极简地图海报 ⭐
 
 ## 📰News 新闻
 
@@ -1526,7 +1527,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Nekogram/Nekogram) [Nekogram](https://github.com/Nekogram/Nekogram) (Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/NextAlone/Nagram) [Nagram](https://github.com/NextAlone/Nagram) (Android) 轻量级客户端
   - [Plus Messenger](https://plusmessenger.org)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/AyuGram/AyuGramDesktop) [AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/AyuGram/AyuGramDesktop) [AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop) (Windows, macOS, Linux, Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Android) [Signal](https://signal.org) 独立的非营利机构，加密通信
 - [Discord](https://discord.com) ⭐
 - [Element](https://element.io/get-started)
