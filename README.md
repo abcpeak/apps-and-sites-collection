@@ -4,11 +4,11 @@
   <img src="https://raw.githubusercontent.com/abcpeak/apps-and-sites-collection/refs/heads/main/assets/apps-and-sites-collection-banner.png" alt="GitHub repository showcasing 'Best Awesome Apps & Sites Collection' for Developers, Designers, Builders, Creators, Productivity Enthusiasts, and Everyday Users. The image displays a curated collection of apps and websites, organized across different platforms to improve productivity, creativity, and workflow efficiency" style="max-width: 100%;">
 </p>
 
-> 最佳最棒的APP与网站合集，最全面的应用和网站收集汇总，资源收集整理的天花板，超赞软件和网站收集，最佳实用 App & 网站大全，优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台软件(Cross-Platform)、免费开源软件 FOSS(Free and Open Source Software)。👉强烈推荐收藏⭐！
+> 最佳最棒的APP与网站合集，最全面的应用和网站收集汇总，资源收集整理的天花板，超赞软件和网站收集，最佳实用 App & 网站大全，优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台 Cross-Platform、免费 Freeware、开源软件 FOSS(Free and Open Source Software)。👉强烈推荐收藏⭐！
 
 Welcome to the Curated List of Best Awesome Apps & Sites Collection!
 
-Multi-platform: Web, Windows, Apple(iOS, macOS, iPadOS, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android(Android TV, Android Watch), Linux
+Multi-platform: Web, Windows, Apple (iOS/iPhone, macOS/Mac, iPadOS/iPad, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android (Android TV, Android Watch), Linux, ChromeOS
 
 Don't forget to show your appreciation by giving this repository a ⭐Star!
 
@@ -131,7 +131,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ripienaar/free-for-dev) [free-for-dev](https://github.com/ripienaar/free-for-dev) 开发者免费服务大全，涵盖主要云厂商的长期免费配额，以及从 CI/CD、监控、CDN、安全认证到数据库、API、存储、部署等服务，所有条目要求具有真实可用的「免费套餐」，有超过 1700 位开发者参与维护、条目十余万
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tweepy/tweepy) [Tweepy](https://github.com/tweepy/tweepy) Twitter机器人项目 for Python
 - ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode) [massCode](https://github.com/massCodeIO/massCode) 代码片段管理器
-- 可以显示仓库加星标的数量: [llc.ovh](https://llc.ovh)、[shields.io](https://shields.io)
+
 - [Xcode](https://developer.apple.com/xcode) 开发、测试和分发应用程序
 - [Swift](https://developer.apple.com/swift)、[SwiftUI](https://developer.apple.com/xcode/swiftui)、[Swift Playgrounds](https://developer.apple.com/swift-playgrounds)
 - [Dash](https://kapeli.com/dash) (macOS, Windows) API工具
@@ -257,9 +257,10 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/halo-dev/halo) [Halo](https://github.com/halo-dev/halo) 开源建站工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/yournextstore/yournextstore) [yournextstore](https://github.com/yournextstore/yournextstore) 以Next.js和 Stripe为后端的现代商务网站
 - [mataroa](https://mataroa.blog) 极简博客
-- 网站开发 国外主流广告联盟：Google Adsense, Media.net, Adsterra等
-- Awesome Badges Dynamic badge services
+- 国外主流广告联盟：Google Adsense, Media.net, Adsterra等
+- Awesome Badges Dynamic badge services 可以显示仓库加星标的数量
   - [Shields.io](https://shields.io) Original home of the badges, launched in 2014. ⭐
+  - [llc.ovh](https://llc.ovh)
   - [Badgen.net](https://badgen.net) Fast badge generating service launched in 2018.
   - [NodeICO](https://nodei.co) Large-format status badges for Node.js projects which were once very popular!
   - [PlayBadges](https://playbadges.pavi2410.me) Show off your Play Store™ app's downloads and ratings in your repo
@@ -464,6 +465,7 @@ Enjoy 🤩
 ### 🎬Movies & TV
 
 - [YouTube](https://youtube.com) 油管
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) YouTube第三方客户端去广告
 - [Odysee](https://odysee.com)
 - [Rumble](https://rumble.com)
 - [Max: Stream HBO, TV, &amp; Movies](https://www.max.com)
@@ -911,6 +913,9 @@ Enjoy 🤩
 - [Pocket Casts Web](https://play.pocketcasts.com) 播客工具
 - [LocMusic](https://apps.apple.com/us/app/locmusic-local-play-lrc-show/id1505426566) (iOS) 支持本地lrc歌词，灵动岛歌词，文件夹管理
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jeffvli/feishin) [Feishin](https://github.com/jeffvli/feishin) A modern self-hosted music player
+- [ALSong: Player & Lyrics](https://apps.apple.com/us/app/alsong-player-lyrics/id398956188) (iOS， Android) 自动显示同步歌词
+- [Dynamic-Lyrics](https://apps.apple.com/us/app/dynamic-lyrics/id6476125287) (iOS) 动态滚动歌词显示，在锁屏、CarPlay展示歌词
+- [Lyra Music](https://apps.apple.com/us/app/lyra-music-radio-esound/id6747066887) (iOS) 社区推的音乐App，无订阅、播放含歌词
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -1434,7 +1439,7 @@ Enjoy 🤩
 
 ### 🗝️2FA secret key(TOTP) 二次验证 2步验证
 
-- [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605) Jun 26, 2024
+- [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605)
 - [Proton Auth](https://proton.me/authenticator) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://apps.apple.com/us/app/2fa-authenticator-2fas/id1217793794) (iOS, Android) ⭐
 - [Bitwarden Authenticator](https://apps.apple.com/us/app/bitwarden-authenticator/id6497335175) (iOS, Android) 不支持同步，只能导入
@@ -1451,9 +1456,9 @@ Enjoy 🤩
 
 ### 🔐Encryption 文件磁盘加密
 
-- [Cryptomator](https://cryptomator.org) 开源免费，支持多平台的网盘文件加密
-- [Veracrypt](https://www.veracrypt.fr) 开源免费磁盘加密软件，文件加密和分区加密
-- [Bitlocker](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker) 微软出品，Win专业版以上自带
+- ![GitHub Repo stars](https://img.shields.io/github/stars/cryptomator/cryptomator) [Cryptomator](https://github.com/cryptomator/cryptomator) 开源免费，支持多平台的网盘文件加密
+- ![GitHub Repo stars](https://img.shields.io/github/stars/veracrypt/VeraCrypt) [Veracrypt](https://github.com/veracrypt/VeraCrypt) 开源免费磁盘加密软件，文件加密和分区加密
+- [Bitlocker](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker) 微软在一宗联邦调查中向美国联邦调查局（FBI）提供了三台笔记本电脑硬盘的BitLocker恢复密钥，用于解锁其中加密的数据
 - 🗃️Archived
   - [Picocrypt](https://github.com/Picocrypt/Picocrypt)
 
@@ -2231,7 +2236,6 @@ Adblock Filters
 
 > 下载视频工具，下载软件，YouTube, Bilibili, X, TikTok
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) YouTube第三方客户端去广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt) [cobalt](https://github.com/imputnet/cobalt) 没有广告、跟踪器的免费在线下载工具
 - [iTubeGo](https://itubego.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT) [BiglyBT](https://www.github.com/BiglySoftware/BiglyBT) 开源免费BT种子客户端
@@ -2242,7 +2246,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) 基于 yt-dlp 项目的音视频下载工具 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/axcore/tartube) [Tartube](https://github.com/axcore/tartube) GUI for yt-dl and yt-dlp. Can download videos with segments cut out.
   - ![GitHub Repo stars](https://img.shields.io/github/stars/nexmoe/VidBee) [VidBee](https://github.com/nexmoe/VidBee) (macOS, Windows, Linux) Download videos from almost any website worldwide 界面现代化，支持通过 RSS 订阅自动下载⭐
-- [ClipGrab](https://clipgrab.org) (Windows) 原理也是使用 youtube-dlp 下载视频，所以初次安装需要下载ytb-dlp
+  - [ClipGrab](https://clipgrab.org) (Windows) 原理也是使用 youtube-dlp 下载视频，所以初次安装需要下载ytb-dlp
 - [Transmission](https://transmissionbt.com) Bittorrent客户端
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
@@ -2250,7 +2254,7 @@ Adblock Filters
 - [4K Video Downloader](https://www.4kdownload.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent) [qBittorrent](https://github.com/qbittorrent/qBittorrent) 轻量级BitTorrent客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed) [Gopeed](https://www.gopeed.com) 开源免费下载器，支持HTTP, BitTorrent, Magnet
-- [XDown](https://xdown.org) 免费无广告的idm torrent合成体 ⭐
+- [XDown](https://xdown.org) 免费无广告的idm torrent合成体 最后更新2025-05-18⭐
 - [By Click Downloader](https://www.byclickdownloader.com)
 - [Downie for Mac](https://downiemac.com/downie-video-download-tool) 视频下载软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/webtorrent/webtorrent) [WebTorrent Desktop](https://webtorrent.io/desktop)
