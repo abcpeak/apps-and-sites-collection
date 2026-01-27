@@ -1916,21 +1916,22 @@ Adblock Filters
 
 > 支持Manifest V2：Brave, Safari, Firefox, Supermium。不再支持Manifest V2：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://github.com/chromium/chromium) Blink浏览器引擎，Webkit的分支内核，The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
+- The Chromium-based web browser，Blink浏览器引擎，Webkit的分支内核
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://github.com/chromium/chromium) The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，，内置广告和跟踪器拦截 – 不需要uBlock或Privacy Badger等三方扩展（尽管您仍然可以使用它们），页面加载速度更快。隐私优先的设计 – 它不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
     - [SlimBrave](https://github.com/ltx0101/SlimBrave) (Windows) 管理员权限运行command in PowerShell
     - [brave-extreme-debloat-privacy.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-extreme-debloat-privacy.reg) (Windows) 偏激进的 Brave 深度精简策略，最大化去功能和隐私保护。关闭了 AI、Rewards、钱包、VPN、新闻、通话、播放列表、Tor 等几乎所有附加服务，同时禁用遥测与统计上报，并强制启用加密 DNS 且指定固定提供商
-    - [brave-minimal-debloat-daily.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-minimal-debloat-daily.reg) (Windows) 改动少，仅关闭 Rewards、钱包、VPN、AI Chat 和 Tor 等争议或非必要功能，保留大部分默认体验，同时将新标签页指向 Brave Search，DNS 采用自动模式以保证兼容性
+    - [brave-minimal-debloat-daily.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-minimal-debloat-daily.reg) (Windows) 改动少，仅关闭 Rewards、钱包、VPN、AI Chat 和 Tor 等争议或非必要功能，保留大部分默认体验，新标签页指向 Brave Search，DNS 采用自动模式以保证兼容性
   - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
-  - [Vivaldi](https://vivaldi.com/download) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译，无法从其他浏览器导入密码，内核更新不及时。建议至少每6个月登录一次 ⭐
+  - [Vivaldi](https://vivaldi.com) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译，无法从其他浏览器导入密码，内核更新不及时。建议至少每6个月登录一次 ⭐
   - [Yandex Browser](https://browser.yandex.com) 来自俄罗斯
   - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
-  - [Ulaa Browser](https://ulaa.zoho.com) 电子邮件提供商Zoho推出的全平台隐私安全浏览器
-  - [Dia](https://www.diabrowser.com)  Atlassian Corporation在2025年9月收购了The Browser Company
+  - [Ulaa Browser](https://ulaa.zoho.com) (Windows) 电子邮件提供商Zoho推出的全平台隐私安全浏览器
+  - [Dia](https://www.diabrowser.com)  (macOS) Atlassian Corporation在2025年9月收购了The Browser Company
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deta/surf) [Deta Surf Browser](https://github.com/deta/surf) Deta GmbH 个人AI笔记本应用
   - [Comet](https://www.perplexity.ai/comet) 搜索广告公司Perplexity推出的AI浏览器
   - [ChatGPT Atlas](https://chatgpt.com/atlas) AI浏览器
@@ -1963,15 +1964,13 @@ Adblock Filters
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - [Quetta Browser](https://apps.apple.com/us/app/quetta-video-adblock-browser/id6504077999) (iOS, Android)
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
-
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
   - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://github.com/BrowserWorks/Waterfox) 水狐浏览器，基于Firefox，只提供64位版本，支持Widevine
   - [K-Meleon](https://kmeleonbrowser.org)
-  - [LibreWolf](https://librewolf.net) 支持 Widevine，增强对跟踪和指纹技术的保护
+  - [LibreWolf](https://librewolf.net) 开源（Codeberg或GitLab社区支持），增强对跟踪和指纹技术的保护，distribution on Windows via the Microsoft Store
   - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) 基于火狐ESR，支持 Widevine，Privacy-preserving Firefox-based browser with Chromium-like UI and features
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) 基于火狐ESR，Privacy-preserving Firefox-based browser with Chromium-like UI and features
   - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android) 原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
@@ -1981,9 +1980,11 @@ Adblock Filters
   - [Basilisk](https://www.basilisk-browser.org/) 基于Goanna布局和渲染引擎，并建立在统一XUL平台（UXP）之上，由独立于Pale Moon项目的开发团队开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/greeeen-dev/natsumi-browser) [Natsumi](https://github.com/greeeen-dev/natsumi-browser) a skin made for Firefox and its forks. NOT a standalone browser.
 
-- [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://www.qutebrowser.org) A keyboard-driven, vim-like browser based on Python and Qt.
+- QtWebEngine
+  - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://github.com/qutebrowser/qutebrowser) (Windows, macOS) QtWebEngine引擎，A keyboard-driven, vim-like browser based on Python and Qt.
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook Browser](https://github.com/nook-browser/Nook) (macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
 - [Antidetect Browser](https://undetectable.io) Fingerprint browser
@@ -1998,7 +1999,7 @@ Adblock Filters
 - [Puma Browser](https://www.pumabrowser.com) (iOS, Android)
 - [IDENTORY](https://identory.com/en) (Windows) 指纹浏览器 Fingerprint browser
 - [Nyxt:](https://nyxt.atlas.engineer) the hacker's browser
-- [SeaMonkey](https://www.seamonkey-project.org/releases) 支持 Widevine
+- [SeaMonkey](https://www.seamonkey-project.org/releases)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/garuda-linux/firedragon) [Firedragon](https://github.com/garuda-linux/firedragon) (Linux) A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 
 - [Slimjet](https://www.slimjet.com) (Windows, macOS, Linux)
@@ -2016,7 +2017,7 @@ Adblock Filters
   - [Avira Secure Browser](https://www.avira.com/en/avira-secure-browser) (Windows, macOS)
   - [Avast Secure Browser](https://www.avast.com/secure-browser#pc) (Windows, macOS, iOS, Android) 反网络钓鱼
   - [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc)  (Windows, macOS, Android)
-  [Board Browser](https://github.com/RicardoCA/board-browser)
+  - [Board Browser](https://github.com/RicardoCA/board-browser)
 
 #### 浏览器速度测评、浏览器管理
 
@@ -2025,6 +2026,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS) 多浏览器管理工具，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
 - [Speedometer3.1](https://browserbench.org/Speedometer3.1) Browser Performance 网页浏览器的基准测试，通过对不同工作负载下的模拟用户交互进行时序来衡量网页应用响应速度
 - ![GitHub Repo stars](https://img.shields.io/github/stars/corbindavenport/just-the-browser) [Just the Browser](https://github.com/corbindavenport/just-the-browser) 移除桌面浏览器中的 AI 功能、遥测数据报告、赞助内容、产品集成
+- [已安装的扩展（Chrome内核浏览器）](https://chromewebstore.google.com/user/installed) 支持在Chrome、Brave、Vivaldi等浏览器中打开
 
 - 🗃️Archived
   - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
