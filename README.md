@@ -1892,8 +1892,8 @@ Adblock Filters
 
 ### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) RIME输入法 (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韻 Linux + IBus 輸入法框架) ，跨平台、开源免费 ⭐
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) 雨燕拼音输入法 (Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韻 Linux + IBus 輸入法框架) 跨平台开源免费 ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) (Android) 雨燕拼音输入法 
 - [仓输入法](https://apps.apple.com/us/app/%E4%BB%93%E8%BE%93%E5%85%A5%E6%B3%95/id6446617683) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey) [AutoHotkey](https://www.autohotkey.com) a scripting language for desktop automation热键脚本语言
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xianyukang/MyKeymap) [MyKeymap](https://github.com/xianyukang/MyKeymap) 一款基于AutoHotkey的键盘映射工具
@@ -1901,8 +1901,8 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mulaRahul/keyviz) [Keyviz](https://github.com/mulaRahul/keyviz) 键盘按键可视化 visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time
 - [GestureSign](https://zh.gesturesign.Windows) 笔记本触摸板手势
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taojy123/KeymouseGo) [KeymouseGo](https://github.com/taojy123/KeymouseGo) 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入
-- ![GitHub Repo stars](https://img.shields.io/github/stars/pqrs-org/Karabiner-Elements) [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) macOS，MacBook加蓝牙键盘，连上蓝牙键盘自动禁用，断开连接，恢复功能
-- [ClipBook](https://clipbook.app) (macOS)免费剪贴板工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/pqrs-org/Karabiner-Elements) [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) (macOS) MacBook加蓝牙键盘，连上蓝牙键盘自动禁用，断开连接，恢复功能
+- [ClipBook](https://clipbook.app) (macOS) 免费剪贴板工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PasteBar/PasteBarApp) [PasteBarApp](https://github.com/PasteBar/PasteBarApp) 本地剪贴板管理器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/p0deje/Maccy) [Karabiner-Elements](https://github.com/p0deje/Maccy) Lightweight clipboard manager for macOS
 - [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) (macOS) 一键启用或禁用键盘
@@ -2257,7 +2257,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/axcore/tartube) [Tartube](https://github.com/axcore/tartube) GUI for yt-dl and yt-dlp. Can download videos with segments cut out.
   - ![GitHub Repo stars](https://img.shields.io/github/stars/nexmoe/VidBee) [VidBee](https://github.com/nexmoe/VidBee) (macOS, Windows, Linux) Download videos from almost any website worldwide 界面现代化，支持通过 RSS 订阅自动下载⭐
   - [ClipGrab](https://clipgrab.org) (Windows) 原理也是使用 youtube-dlp 下载视频，所以初次安装需要下载ytb-dlp
-- [Transmission](https://transmissionbt.com) Bittorrent客户端
+- ![GitHub Repo stars](https://img.shields.io/github/stars/transmission/transmission) [Transmission](https://github.com/transmission/transmission) Bittorrent客户端
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
 - [Torrex Lite](https://apps.microsoft.com/store/detail/torrex-lite-torrent-downloader/9WZDNCRFJB3D)
