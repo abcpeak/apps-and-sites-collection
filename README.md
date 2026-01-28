@@ -1966,6 +1966,7 @@ Adblock Filters
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - [Quetta Browser](https://apps.apple.com/us/app/quetta-video-adblock-browser/id6504077999) (iOS, Android)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
 
 - **Firefox，Gecko 内核**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。⭐
@@ -1997,7 +1998,6 @@ Adblock Filters
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) (Linux) for the GNOME desktop
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (2026年夏季发布Linux和macOS) using a novel engine based on web standards
 - [Aloha Browser](https://apps.apple.com/app/id1105317682) (iOS, Android) 内置免费VPN
-- ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，并且建立在尊重隐私的基础上，默认搜索引擎Kagi，支持扩展
 - [GNU IceCat](https://icecatbrowser.org) (Windows, macOS, Linux)
 - [Basilisk](https://basilisk-browser.org) (Windows, macOS, Linux)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hyphanet/fred) [Hyphanet](https://github.com/hyphanet/fred) (Windows, macOS, Linux)
@@ -2035,7 +2035,7 @@ Adblock Filters
 - 🗃️Archived
   - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
 
-#### 🍭Browser Extensions 浏览器插件(扩展) Plugins, add-ons
+#### 🍭Browser Extensions 浏览器插件(扩展) 主题 Plugins, add-ons, theme
 
 - [Chrome内核浏览器已安装的扩展](https://chromewebstore.google.com/user/installed)
 - **Google, YouTube, Gmail**
@@ -2075,7 +2075,8 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub)
   - [raindrop](https://raindrop.io)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/linkwarden/linkwarden) [linkwarden](https://github.com/linkwarden/linkwarden)
-  - 书签清理：[Bookmarks clean up](https://chrome.google.com/webstore/detail/oncbjlgldmiagjophlhobkogeladjijl)、[LazyCat](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef)
+  - [Bookmarks clean up](https://chrome.google.com/webstore/detail/oncbjlgldmiagjophlhobkogeladjijl) 书签清理
+  - [LazyCat](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef) 书签清理
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dd3v/favbox) [favbox](https://github.com/dd3v/favbox) enhances and simplifies bookmark management
   - [Bookmarkie](https://chromewebstore.google.com/detail/bookmarkie-bookmarks-in-p/ahlphbdcaacfhkiajebghpngknafklbj) Bookmarks in popup
   - [Momentum](https://momentumdash.com) 定制新标签页 ⭐
@@ -2085,8 +2086,9 @@ Adblock Filters
 - [Keepa](https://keepa.com) Amazon Price Tracker
 - [Noir](https://getnoir.app) Safari黑暗模式
 - [Dark Reader](https://darkreader.org) Dark Mode 黑暗模式
-- ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) This theme compatible with Firefox 143+ on macOS, Linux & Windows
 - [Vimium](https://vimium.github.io) 键盘快捷键
+- 主题 Theme
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) This theme compatible with Firefox 143+ on macOS, Linux & Windows， 果味🦊皮
 
 #### 🐵Userscripts Extension Manager 脚本管理，自定义和网页增强
 
