@@ -469,8 +469,10 @@ Enjoy 🤩
 - [Odysee](https://odysee.com)
 - [Rumble](https://rumble.com)
 - [Max: Stream HBO, TV, &amp; Movies](https://www.max.com)
-- [TikTok](https://www.tiktok.com/en)
-  - Tiktok工具：![GitHub Repo stars](https://img.shields.io/github/stars/pablouser1/ProxiTok) [ProxiTok](https://github.com/pablouser1/ProxiTok)、[TikTok Analyzer](https://urlebird.com)
+- [TikTok](https://www.tiktok.com)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/pablouser1/ProxiTok) Tiktok工具
+  - [ProxiTok](https://github.com/pablouser1/ProxiTok)
+  - [TikTok Analyzer](https://urlebird.com)
 - [Ticketmaster](https://www.ticketmaster.com)
 - [Amazon Prime Video](https://www.amazon.com/gp/video/storefront)
 - [Stream](https://www.stremio.com) 媒体中心
@@ -1916,11 +1918,12 @@ Adblock Filters
 
 > 支持Manifest V2：Brave, Safari, Firefox, Supermium。不再支持Manifest V2：Edge, Chrome, Vivaldi。原生广告拦截功能：Brave, Vivaldi, Edge, DuckDuckGo。
 
-- The Chromium-based web browser，Blink浏览器引擎，Webkit的分支内核
+- **The Chromium-based web browser，Blink内核，Webkit的分支**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://github.com/chromium/chromium) The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
   - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
+    - [Brave™ portable](hhttps://github.com/portapps/brave-portable) (Windows)
     - [SlimBrave](https://github.com/ltx0101/SlimBrave) (Windows) 管理员权限运行command in PowerShell
     - [brave-extreme-debloat-privacy.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-extreme-debloat-privacy.reg) (Windows) 偏激进的 Brave 深度精简策略，最大化去功能和隐私保护。关闭了 AI、Rewards、钱包、VPN、新闻、通话、播放列表、Tor 等几乎所有附加服务，同时禁用遥测与统计上报，并强制启用加密 DNS 且指定固定提供商
     - [brave-minimal-debloat-daily.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-minimal-debloat-daily.reg) (Windows) 改动少，仅关闭 Rewards、钱包、VPN、AI Chat 和 Tor 等争议或非必要功能，保留大部分默认体验，新标签页指向 Brave Search，DNS 采用自动模式以保证兼容性
@@ -1964,7 +1967,9 @@ Adblock Filters
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - [Quetta Browser](https://apps.apple.com/us/app/quetta-video-adblock-browser/id6504077999) (iOS, Android)
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。⭐
+- **Firefox，Gecko 内核**
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。⭐
+    - [Mozilla Firefox, Portable Edition](https://portableapps.com/apps/internet/firefox_portable)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
   - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://github.com/BrowserWorks/Waterfox) 水狐浏览器，基于Firefox，只提供64位版本，支持Widevine
   - [K-Meleon](https://kmeleonbrowser.org)
@@ -2026,13 +2031,13 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS) 多浏览器管理工具，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
 - [Speedometer3.1](https://browserbench.org/Speedometer3.1) Browser Performance 网页浏览器的基准测试，通过对不同工作负载下的模拟用户交互进行时序来衡量网页应用响应速度
 - ![GitHub Repo stars](https://img.shields.io/github/stars/corbindavenport/just-the-browser) [Just the Browser](https://github.com/corbindavenport/just-the-browser) 移除桌面浏览器中的 AI 功能、遥测数据报告、赞助内容、产品集成
-- [已安装的扩展（Chrome内核浏览器）](https://chromewebstore.google.com/user/installed) 支持在Chrome、Brave、Vivaldi等浏览器中打开
 
 - 🗃️Archived
   - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
 
 #### 🍭Browser Extensions 浏览器插件(扩展) Plugins, add-ons
 
+- [Chrome内核浏览器已安装的扩展](https://chromewebstore.google.com/user/installed)
 - **Google, YouTube, Gmail**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) Skip YouTube Sponsorships ⭐
   - [Checker Plus for Gmail™](https://jasonsavard.com)
@@ -2575,6 +2580,7 @@ Adblock Filters
 - [AlternativeTo](https://alternativeto.net)
 - [Privacy Tools Guide](https://www.privacytools.io) 隐私工具导航
 - [Portable App](https://portableapps.com/apps) 绿色软件
+- [portapps.io](https://portapps.io) 绿色软件，数量不多
 - [Giveaway of the Day - free licensed software daily](https://www.giveawayoftheday.com) 软件限免
 - [topkeygen.com](https://topkeygen.com) Crack破解软件
 - [Delightful Club](https://delightful.club) 来自Awesome Humane Tech
