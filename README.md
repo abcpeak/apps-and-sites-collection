@@ -1097,6 +1097,7 @@ Enjoy 🤩
 - [Vegas](https://www.vegas.com) (💵) 视频剪辑
 - [Adobe Premiere](https://www.adobe.com/products/premiere.html) (💵) 视频剪辑
 - [Final Cut Pro](https://www.apple.com/final-cut-pro) 视频创作 macOS视频剪辑，苹果店airdrop先到手机再到电脑
+- [Apple Creator Studio](https://www.apple.com/apple-creator-studio/)
 - [VivaCut](https://apps.apple.com/tr/app/vivacut-ai-video-editor/id1489090374) (iOS)
 - [Logic Pro for Mac](https://www.apple.com/logic-pro) macOS上的全能专业音乐创作app
 - [iMovie](https://www.apple.com/imovie) macOS视频剪辑
@@ -1968,6 +1969,7 @@ Adblock Filters
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - [Quetta Browser](https://apps.apple.com/us/app/quetta-video-adblock-browser/id6504077999) (iOS, Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/enzocarpentier/Axonium) [Axonium](https://github.com/enzocarpentier/Axonium) (macOS)
 
 - **Firefox，Gecko 内核**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。⭐
