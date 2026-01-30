@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/abcpeak/apps-and-sites-collection/refs/heads/main/assets/apps-and-sites-collection-banner.png" alt="GitHub repository showcasing 'Best Awesome Apps & Sites Collection' for Developers, Designers, Builders, Creators, Productivity Enthusiasts, and Everyday Users. The image displays a curated collection of apps and websites, organized across different platforms to improve productivity, creativity, and workflow efficiency" style="max-width: 100%;">
 </p>
 
-> 最佳最棒的APP与网站合集，最全面的应用和网站收集汇总，资源收集整理的天花板，超赞软件和网站收集，最佳实用 App & 网站大全，优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台 Cross-Platform、免费 Freeware、开源软件 FOSS(Free and Open Source Software)。👉强烈推荐收藏⭐！
+> 最佳最棒的APP与网站合集，最全面的应用和网站收集汇总，超赞软件和网站收集，最佳实用 App & 网站大全，优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台 Cross-Platform、免费 Freeware、开源软件 FOSS(Free and Open Source Software)。强烈推荐收藏👉Best Awesome [🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection)⭐资源收集整理的天花板⭐APP界的百科全书⭐网站界的维基百科⭐！
 
 Welcome to the Curated List of Best Awesome Apps & Sites Collection!
 
@@ -2178,7 +2178,7 @@ Adblock Filters
 - [FreeFileSync](https://freefilesync.org) 文件夹比较同步
 - [goodsync](https://www.goodsync.com)
 - [TuneFUSION](https://www.dbpoweramp.com/tunefusion.htm) 自动将音频同步到各种设备，支持foobar2000
-- [PhotoSync](https://apps.apple.com/us/app/photosync-transfer-photos/id415850124) transfer photos，支持WebDAV
+- [PhotoSync](https://apps.apple.com/us/app/photosync-transfer-photos/id415850124) 需付费，transfer photos，支持WebDAV
 
 #### ☁️Cloud Storage 网盘云存储
 
