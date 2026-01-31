@@ -523,6 +523,7 @@ Enjoy 🤩
 - [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)(💵)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko) [animeko](https://github.com/open-ani/animeko) 集找番、追番、看番的一站式弹幕追番平台
 - [Player Xtreme – Video Player](https://apps.apple.com/us/app/player-xtreme-video-player/id6737277424) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yattee/yattee) [Yattee](https://github.com/yattee/yattee) (iOS, tvOS and macOS)
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
@@ -1429,7 +1430,7 @@ Enjoy 🤩
 - [Secrets](https://apps.apple.com/app/id1591056366) (macOS, iOS) ⭐
 - [Norton Password](https://my.norton.com/extspa/passwordmanager)
 - [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
-- ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) 免费版限制200个密码
+- ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) (iOS) 免费版限制200个密码
 - [MEGA Pass](https://mega.io/pass) €0.99 per month
 - [PearPass](https://pass.pears.com)  (Windows, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费 ⭐
 
@@ -1444,11 +1445,11 @@ Enjoy 🤩
 
 - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605)
 - [Proton Auth](https://proton.me/authenticator) ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://apps.apple.com/us/app/2fa-authenticator-2fas/id1217793794) (iOS, Android) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://apps.apple.com/us/app/2fa-authenticator-2fas/id1217793794) (iOS, Apple Watch, Android) ⭐
 - [Bitwarden Authenticator](https://apps.apple.com/us/app/bitwarden-authenticator/id6497335175) (iOS, Android) 不支持同步，只能导入
 - [Authy](https://authy.com) (iOS, Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jamie-mh/AuthenticatorPro) [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) 适用于Android + Wear OS的双因素身份验证（2FA）客户端
-- [Ente Auth](https://ente.io/auth) 两步认证 2 step verification⭐
+- [Ente Auth](https://ente.io/auth)  (Web, iOS, Windows，Android) Ente是一家开源公司，两步认证 2 step verification ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/raivo-otp/ios-application) [RaivoOTP](https://github.com/raivo-otp/ios-application) iOS本地、轻量级和安全的一次性密码（OTP）解决方案
 - [Duo mobile](https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/freeotp/freeotp-ios) [FreeOTP](https://github.com/freeotp)
