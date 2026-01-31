@@ -2039,9 +2039,9 @@ Adblock Filters
 - 🗃️Archived
   - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
 
-#### 🍭Browser Extensions 浏览器插件(扩展) 主题 Plugins, add-ons, theme
+#### 🍭Browser Extensions (Plugins, add-ons) and Theme 浏览器插件(扩展)及主题
 
-- [Chrome内核浏览器已安装的扩展](https://chromewebstore.google.com/user/installed)
+- [Chrome Web Store - My items](https://chromewebstore.google.com/user/installed) 当前Chromium内核浏览器已安装的扩展
 - **Google, YouTube, Gmail**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/ajayyy/SponsorBlock) [SponsorBlock](https://github.com/ajayyy/SponsorBlock) Skip YouTube Sponsorships ⭐
   - [Checker Plus for Gmail™](https://jasonsavard.com)
