@@ -282,7 +282,7 @@ Enjoy 🤩
 - 邮件营销：[Convertkit](https://app.convertkit.com)、[Mailchimp](https://mailchimp.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LloydAsp/nfd) [NFD](https://github.com/LloydAsp/nfd) 一个基于cloudflare worker的Telegram消息转发bot，集成了反欺诈功能
 - 站点统计
-  - [Google Analytics](https://marketingplatform.google.com/)
+  - [Google Analytics](https://marketingplatform.google.com)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/electerious/Ackee) [Ackee](https://github.com/electerious/Ackee) 这是一款自托管的开源统计工具，可以在你自己的服务器上搭建，提供了强大的个性化定制和隐私保护功能
   - [Clarity统计](https://clarity.microsoft.com) 微软推出的统计工具，而且在大陆访问体验很好 ⭐
 
@@ -377,11 +377,11 @@ Enjoy 🤩
 - [Lyket](https://lyket.dev) 添加点赞按钮或拍手按钮，基础4€/month
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments)
 - [Native Comments](https://wordpress.org/support/article/comments) WordPress默认的评论系统
-- [Jetpack Native Enhanced](https://jetpack.com/) 由WordPress官方开发的插件
-- [Postmatic](https://postmatic.com/) 增强型的评论系统
-- [Muut](https://muut.com/) 轻量级的评论系统，可以嵌入到WordPress网站
-- [wpDiscuz](https://wpdiscuz.com/) WordPress评论插件
-- [CommentLuv](https://commentluv.com/) 增强型的评论插件
+- [Jetpack Native Enhanced](https://jetpack.com) 由WordPress官方开发的插件
+- [Postmatic](https://postmatic.com) 增强型的评论系统
+- [Muut](https://muut.com) 轻量级的评论系统，可以嵌入到WordPress网站
+- [wpDiscuz](https://wpdiscuz.com) WordPress评论插件
+- [CommentLuv](https://commentluv.com) 增强型的评论插件
 
 ### 😃UI设计 图标库 Emoji
 
@@ -922,6 +922,7 @@ Enjoy 🤩
 - [ALSong: Player & Lyrics](https://apps.apple.com/us/app/alsong-player-lyrics/id398956188) (iOS， Android) 自动显示同步歌词
 - [Dynamic-Lyrics](https://apps.apple.com/us/app/dynamic-lyrics/id6476125287) (iOS) 动态滚动歌词显示，在锁屏、CarPlay展示歌词
 - [Lyra Music](https://apps.apple.com/us/app/lyra-music-radio-esound/id6747066887) (iOS) 社区推的音乐App，无订阅、播放含歌词
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vibe-music/vibe-music-web) [Vibe Music](https://github.com/vibe-music/vibe-music-web) 云音乐部署到服务器
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -1053,7 +1054,6 @@ Enjoy 🤩
 - [audiojungle](https://audiojungle.net) free music and audio tracks
 - ![GitHub Repo stars](https://img.shields.io/github/stars/simple-icons/simple-icons) [simpleicons](https://simpleicons.org) SVG素材库
 
-
 ### Image Hosts 图床工具 图库
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Molunerfinn/PicGo) [PicGo](https://github.com/Molunerfinn/PicGo) 图片上传+管理，支持七牛图床, 腾讯云 COS, 又拍云, GitHub, SM.MS, 阿里云 OSS, Imgur
@@ -1101,7 +1101,7 @@ Enjoy 🤩
 - [Vegas](https://www.vegas.com) (💵) 视频剪辑
 - [Adobe Premiere](https://www.adobe.com/products/premiere.html) (💵) 视频剪辑
 - [Final Cut Pro](https://www.apple.com/final-cut-pro) 视频创作 macOS视频剪辑，苹果店airdrop先到手机再到电脑
-- [Apple Creator Studio](https://www.apple.com/apple-creator-studio/)
+- [Apple Creator Studio](https://www.apple.com/apple-creator-studio)
 - [VivaCut](https://apps.apple.com/tr/app/vivacut-ai-video-editor/id1489090374) (iOS)
 - [Logic Pro for Mac](https://www.apple.com/logic-pro) macOS上的全能专业音乐创作app
 - [iMovie](https://www.apple.com/imovie) macOS视频剪辑
@@ -1444,14 +1444,14 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop) [Buttercup](https://github.com/buttercup/buttercup-desktop) (iOS, Android)Passwords & Secrets Vault 最后更新May 4, 2024, archived on Jun 27, 2025
   - [LastPass](https://www.lastpass.com) 不推荐
 
-### 🗝️2FA secret key(TOTP) 二次验证 2步验证
+### 🗝️2FA secret key(TOTP) 二次验证 2步验证 双因素身份验证
 
 - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605)
-- [Proton Auth](https://proton.me/authenticator) ⭐
+- [Proton Authenticator](https://proton.me/authenticator) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://apps.apple.com/us/app/2fa-authenticator-2fas/id1217793794) (iOS, Apple Watch, Android) ⭐
 - [Bitwarden Authenticator](https://apps.apple.com/us/app/bitwarden-authenticator/id6497335175) (iOS, Android) 不支持同步，只能导入
 - [Authy](https://authy.com) (iOS, Android)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/jamie-mh/AuthenticatorPro) [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) 适用于Android + Wear OS的双因素身份验证（2FA）客户端
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jamie-mh/AuthenticatorPro) [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) 适用于Android + Wear OS的2FA客户端
 - [Ente Auth](https://ente.io/auth)  (Web, iOS, Windows，Android) Ente是一家开源公司，两步认证 2 step verification ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/raivo-otp/ios-application) [RaivoOTP](https://github.com/raivo-otp/ios-application) iOS本地、轻量级和安全的一次性密码（OTP）解决方案
 - [Duo mobile](https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app)
@@ -1515,7 +1515,7 @@ Enjoy 🤩
   - [Instagram](https://www.instagram.com)
   - [Threads](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002) built by the Instagram team
   - [Whatsapp](https://www.whatsapp.com) Meta的产品
-    - [ZapZap](https://github.com/rafatosta/zapzap/) WhatsApp Desktop for Linux
+    - [ZapZap](https://github.com/rafatosta/zapzap) (Linux) WhatsApp Desktop
 - [What's going on? Friend Diary](https://apps.apple.com/ai/app/whats-going-on-journal-diary/id6471529194) (iOS) 你最社交的日记
 - [Gettr](https://gettr.com)
 - [Truth Social](https://truthsocial.com)
@@ -1561,7 +1561,6 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/thilobillerbeck/skymoth) [Skymoth](https://github.com/thilobillerbeck/skymoth) Mastodon to Bluesky crossposter
   - [Mastogram](https://mastogr.am) Bridge your Mastodon, Telegram and Bluesky
   - [Buffer](https://buffer.com) 免费版支持3个平台 ⭐
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/ycccccccy/echotrace) [EchoTrace](https://github.com/ycccccccy/echotrace) 微信聊天记录本地导出、分析与年度报告生成工具
 
 ### 💏Dating Platform 婚恋平台 交友平台
 
@@ -1589,7 +1588,7 @@ Enjoy 🤩
 
 ## 🏖️Travel 旅游
 
-- [无忧行-流量机票酒店火车票预订](https://apps.apple.com/cn/app/%E6%97%A0%E5%BF%A7%E8%A1%8C-%E6%B5%81%E9%87%8F%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%A2%84%E8%AE%A2/id1037589370) jegotrip⭐
+- [无忧行-流量机票酒店火车票预订](https://apps.apple.com/cn/app/%E6%97%A0%E5%BF%A7%E8%A1%8C-%E6%B5%81%E9%87%8F%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%A2%84%E8%AE%A2/id1037589370) (iOS, Android) jegotrip⭐
 - [Uber - Request a ride](https://www.uber.com)
 - [Airbnb](https://www.airbnb.com)
 - [Lyft](https://www.lyft.com)
@@ -1677,7 +1676,7 @@ Enjoy 🤩
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Windows, macOS, Linux) 通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android) 搞快点，自动跳过开屏广告
-- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions) ⭐
 
 DNS Adblocking
@@ -1898,7 +1897,7 @@ Adblock Filters
 ### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韻 Linux + IBus 輸入法框架) 跨平台开源免费 ⭐
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) (Android) 雨燕拼音输入法 
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) (Android) 雨燕拼音输入法
 - [仓输入法](https://apps.apple.com/us/app/%E4%BB%93%E8%BE%93%E5%85%A5%E6%B3%95/id6446617683) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey) [AutoHotkey](https://www.autohotkey.com) a scripting language for desktop automation热键脚本语言
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xianyukang/MyKeymap) [MyKeymap](https://github.com/xianyukang/MyKeymap) 一款基于AutoHotkey的键盘映射工具
@@ -1964,6 +1963,7 @@ Adblock Filters
   - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) (macOS, 即将支持 Linux) 在您的浏览器上运行的AI代理，而不是在云中运行
   - ![GitHub Repo stars](https://img.shields.io/github/stars/the-ora/browser) [Ora Browser](https://github.com/the-ora/browser) (macOS)
   - [AdsPower](https://www.adspower.com) 指纹浏览器
+  - [Elixir](https://github.com/SF-FLAM/ElixirBrowser) (Android) a Chromium-based browser with full extension support
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
@@ -1990,7 +1990,7 @@ Adblock Filters
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%，on Sep 17, 2024
   - [Pale Moon](https://www.palemoon.org) 苍月浏览器，基于几年前的Firefox/Mozilla源代码，后续自研了渲染引擎Goanna，Gecko的一个分支，并优化了布局系统
-  - [Basilisk](https://www.basilisk-browser.org/) 基于Goanna布局和渲染引擎，并建立在统一XUL平台（UXP）之上，由独立于Pale Moon项目的开发团队开发
+  - [Basilisk](https://www.basilisk-browser.org) 基于Goanna布局和渲染引擎，并建立在统一XUL平台（UXP）之上，由独立于Pale Moon项目的开发团队开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/greeeen-dev/natsumi-browser) [Natsumi](https://github.com/greeeen-dev/natsumi-browser) a skin made for Firefox and its forks. NOT a standalone browser.
 
 - QtWebEngine
@@ -2148,7 +2148,7 @@ Adblock Filters
 - [File Pilot](https://filepilot.tech) (Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tablacus/TablacusExplorer) [Tablacus Explorer](https://github.com/tablacus/TablacusExplorer) (Windows) 标签文件管理器
 - [SpaceSniffer](https://www.uderzo.it/main_products/space_sniffer) 磁盘空间分析
-- [Beyond Compare](https://www.scootersoftware.com/) 文件及文件夹对比工具
+- [Beyond Compare](https://www.scootersoftware.com) 文件及文件夹对比工具
 - [FreeCommander XE](https://freecommander.com) 已更新27.12.2024
 - 🗃️Archived
   - [Total Commander](https://www.ghisler.com) 最后更新2022-07-07
@@ -2180,6 +2180,7 @@ Adblock Filters
   - [SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) (Windows) 轻量级但功能齐全的安装程序
   - [Möbius Sync](https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216) (iOS) Moebius莫比乌斯
 - [FreeFileSync](https://freefilesync.org) 文件夹比较同步
+- ![GitHub Repo stars](https://img.shields.io/github/stars/polius/FileSync) [FileSync](https://github.com/polius/FileSync) (Web)
 - [goodsync](https://www.goodsync.com)
 - [TuneFUSION](https://www.dbpoweramp.com/tunefusion.htm) 自动将音频同步到各种设备，支持foobar2000
 - [PhotoSync](https://apps.apple.com/us/app/photosync-transfer-photos/id415850124) 需付费，transfer photos，支持WebDAV
@@ -2286,7 +2287,6 @@ Adblock Filters
 - [SaveTik](https://savetik.co/zh-cn) 下载Tiktok视频
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
-
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，停更 ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
