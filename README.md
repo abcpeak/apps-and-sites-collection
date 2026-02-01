@@ -447,13 +447,16 @@ Enjoy 🤩
 
 ### 🗣️English
 
-- [嗯背单词](https://apps.apple.com/app/id6450109182) 学英语
-- [奇蹟背單字](https://apps.apple.com/app/id6741516031)
+- [嗯背单词](https://apps.apple.com/app/id6450109182) (iOS) 学英语
+- [奇蹟背單字](https://apps.apple.com/app/id6741516031) (iOS)
 
 ### 🔭Star 观星 📡Satellite卫星
 
-- sky guide、star chart、night sky4、SkyView® Lite
-- [Star walk 2 Pro](https://apps.apple.com/us/app/star-walk-2-pro-sky-map-live/id892279069)
+- [Sky Guide](https://apps.apple.com/us/app/sky-guide/id576588894) (iOS)
+- [Star Chart](https://apps.apple.com/us/app/star-chart/id345542655) (iOS)
+- [Night Sky](https://apps.apple.com/us/app/night-sky/id475772902) (iOS)
+- [SkyView® Lite](https://apps.apple.com/nl/app/skyview-lite/id413936865) (iOS)
+- [Star walk 2 Pro](https://apps.apple.com/us/app/star-walk-2-pro-sky-map-live/id892279069) (iOS)
 
 - [Starlink](https://www.starlink.com) SpaceX的星链
 - [Live Starlink Satellite and Coverage Map](https://satellitemap.space)
@@ -499,7 +502,7 @@ Enjoy 🤩
 - [PlaynPlay](https://apps.apple.com/us/app/playnplay/id1664643965) (iOS, Android)
 - [zFuse](https://apps.apple.com/us/app/zfuse-media-player/id1054505347) (iOS)
 - [TracyPlayer](https://apps.apple.com/tr/app/tracyplayer/id6450770064) (iOS)
-- [Potplayer](https://potplayer.tv) (Windows) 来自韩国
+- [Potplayer](https://potplayer.tv) (Windows) 来自韩国 Kakao Corp.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc) [VLC media player](https://github.com/videolan/vlc) 开源免费的跨平台多媒体播放器 ![Latest Release Date](https://img.shields.io/github/last-commit/videolan/vlc)
 - [PlayerFab Ultra HD Player](https://www.videohelp.com/software/DVDFab-Media-Player) 蓝光高清播放器
 - [GOM Player Plus](https://www.gomlab.com/gomplayerplus-media-player) 来自韩国播放器
