@@ -409,7 +409,7 @@ Enjoy 🤩
 - [Coursera](https://www.coursera.org)
 - [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)
 - [freeCodeCamp](https://freecodecamp.org) nonprofit organization that offers free online coding education
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ripose-jp/Memento) [Memento](https://github.com/ripose-jp/Memento) (Win、macOS、Linux) 专为学习日语设计的播放器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ripose-jp/Memento) [Memento](https://github.com/ripose-jp/Memento) (Windows, macOS, Linux) 专为学习日语设计的播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/byoungd/English-level-up-tips) [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
 - [ielts.neea.cn](https://ielts.neea.cn) 雅思考试
 - [Twinkl.co.uk](https://www.twinkl.co.uk) 提供幼儿园到高中的词卡、练习纸、电子书、手工、班级管理和教室布置等资源，支持多语言（含中文）。
@@ -880,7 +880,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/digimezzo/dopamine) [Dopamine](https://github.com/digimezzo/dopamine) (Windows, Linux and Mac)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GStreamer/gstreamer) [GStreamer](https://github.com/GStreamer/gstreamer) GStreamer open-source multimedia framework
 - [Winamp](https://winamp.com) (Android, iOS)
-- [Qmmp](https://qmmp.yloftware.com) (Windows)开源的音乐播放器Qt-based Multimedia Player
+- [Qmmp](https://qmmp.yloftware.com) (Windows) 开源的音乐播放器Qt-based Multimedia Player
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicPlayer) [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) (Windows, Linux) ![Last Commit](https://img.shields.io/github/release-date/Greedysky/TTKMusicPlayer)
 - [EverPlay Music](https://everplay.mobi) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/any-listen/any-listen) [any-listen](https://github.com/any-listen/any-listen) 一个跨平台的私人音乐播放服务
@@ -897,7 +897,6 @@ Enjoy 🤩
   - [Flacbox](https://apps.apple.com/jp/app/id1097564256) (iOS) 适合无损 Hi-Res，用FFMPEG解码稀有格式，支持WebDAV，
   - [Evertag](https://apps.apple.com/app/id1450763230) (iOS) 音乐标签（Metadata）编辑器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Windows) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
-- [Listenify](https://apps.apple.com/us/app/listenify/id6475892753) (iOS)(💵)($5.99)支持歌词API
 - [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS) 支持歌词API，支持本地lrc歌词，灵动岛歌词，不支持infini-cloud，支持koofr，
 - [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
 - [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS) 拉动进度条有卡顿bug
@@ -931,6 +930,7 @@ Enjoy 🤩
   - [Doppler](https://brushedtype.co/doppler) (iOS, macOS)
   - [LoveMusic Player](https://apps.apple.com/us/app/lovemusic-player-local-play/id1592073552) 支持本地lrc歌词，最后更新2024
   - [Clementine](https://www.clementine-player.org) Tuesday, April 19, 2016
+  - [Listenify](https://apps.apple.com/us/app/listenify/id6475892753) (iOS) ($5.99)支持歌词API
 
 #### 📄Lyrics 歌词 字幕
 
@@ -941,7 +941,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WXRIW/Lyricify-App) [Lyricify-App](https://github.com/WXRIW/Lyricify-App) 为Spotify等各种应用提供滚动歌词
 - [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) foobar2000的歌词插件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ESLyric/release) [ESLyric](https://github.com/ESLyric/release) foobar2000的歌词插件，桌面卡拉OK歌词
-- ![GitHub Repo stars](https://img.shields.io/github/stars/real-zony/ZonyLrcToolsX) [ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) (Win、Linux、Mac)批量下载歌词 ![Last Commit](https://img.shields.io/github/release-date/real-zony/ZonyLrcToolsX)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/real-zony/ZonyLrcToolsX) [ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) (Windows, Linux, macOS) 批量下载歌词 ![Last Commit](https://img.shields.io/github/release-date/real-zony/ZonyLrcToolsX)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/91270/MeiamSubtitles) [MeiamSubtitles](https://github.com/91270/MeiamSubtitles) Emby Jellyfin 中文字幕插件
 - [LDDC](https://github.com/chenmozhijin/LDDC) 歌词(卡拉OK歌词)下载匹配工具
 
@@ -1241,7 +1241,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/overleaf/overleaf) [overleaf](https://github.com/overleaf/overleaf) A web-based collaborative LaTeX editor
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Zettlr/Zettlr) [Zettlr](https://github.com/Zettlr/Zettlr)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/streetwriters/notesnook) [Notesnook](https://github.com/streetwriters/notesnook) ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases) [Obsidian](https://obsidian.md) (macOS、iOS、Win、Android、Linux) 闭源Freeware，官方同步收费。Obsidian LiveSync同步插件。同步手机端使用频率高不建议用obsidian-git 。remotely-save通过Cloudflare R2 (S3 API)在多个设备同步，免费每月10G。iCloud同步缺点: Linux 不好同步；每次打开都要同步 iCloud，vault 较大时间会很久；Home 等页面出现多文件的情况（如 Home Dashboard 2），原因是 iCloud 不会自己同步；iCloud 没有版本管理功能，如果不小心误删文件无法找回（设置删除文件时移动到回收站来解决）；没有数据库管理（当笔记数量很多的时候效率变慢）。无网页版。Obsidian插件：Code editor shortcuts, easy typing, kanban, surfing, advanced tables, better command palette, calendar
+- ![GitHub Repo stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases) [Obsidian](https://obsidian.md) (macOS, iOS, Windows, Android, Linux) 闭源Freeware，官方同步收费。Obsidian LiveSync同步插件。同步手机端使用频率高不建议用obsidian-git 。remotely-save通过Cloudflare R2 (S3 API)在多个设备同步，免费每月10G。iCloud同步缺点: Linux 不好同步；每次打开都要同步 iCloud，vault 较大时间会很久；Home 等页面出现多文件的情况（如 Home Dashboard 2），原因是 iCloud 不会自己同步；iCloud 没有版本管理功能，如果不小心误删文件无法找回（设置删除文件时移动到回收站来解决）；没有数据库管理（当笔记数量很多的时候效率变慢）。无网页版。Obsidian插件：Code editor shortcuts, easy typing, kanban, surfing, advanced tables, better command palette, calendar
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/ghostwriter) [GhostWriter](https://github.com/KDE/ghostwriter)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nuttyartist/notes) [Notes](https://github.com/nuttyartist/notes) Version 2.2.1 Latest on 2024.10.11
@@ -1256,7 +1256,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim) [Neovim](https://github.com/neovim/neovim) (Windows, Linux, MacOS)Vim的一个分支，现代化文本编辑器
 - [Sublime Text](https://www.sublimetext.com)
 - [Google Keep](https://keep.google.com) 单个限制2万字符，历史版本仅文本，时间可超半年，支持手绘
-- [Kate](https://kate-editor.org)
+- [Kate](https://kate-editor.org) (Linux, Windows and macOS) 开源，源码托管在 KDE 的 GitLab 上
 - [UpNote](https://getupnote.com) 免费版本只能导入TXT和导出TXT与HTML格式，The free version allows up to 50 notes with basic features.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) [docmost](https://github.com/docmost/docmost) 协作 wiki 和文档软件
 - [Notion](https://www.notion.com) (cross-platform) Note-Taking ⭐
@@ -1412,7 +1412,7 @@ Enjoy 🤩
 
 - 密码泄露检测: [Firefox Monitor](https://monitor.firefox.com)、[HaveIbeenPwned](https://haveibeenpwned.com)、[Intelligence X](https://intelx.io)、[Dehashed](https://www.dehashed.com)
 
-- [Apple Passwords App](https://apps.apple.com/us/app/passwords/id6473799789) ⭐
+- [Apple Passwords App](https://apps.apple.com/us/app/passwords/id6473799789) 仅支持Mac导入，iOS不能导入密码⭐
 - [Microsoft Password Manager in Edge](https://www.microsoft.com/en-us/edge/download)
 - [Google Password Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager&pli=1) (Android)
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
@@ -1915,6 +1915,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/aardio/ImTip) [ImTip](https://github.com/aardio/ImTip) 输入法状态提示工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PinchToDebug/DragWin) [DragWin](https://github.com/PinchToDebug/DragWin) (Windows) 使用鼠标右键移动窗口
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alirezagsm/Trayy) [Trayy](https://github.com/alirezagsm/Trayy) (Windows) 程序关闭时自动最小化到托盘图标
+- ![GitHub Repo stars](https://img.shields.io/github/stars/feschber/lan-mouse) [Lan Mouse](https://github.com/feschber/lan-mouse) (Windows, Linux, macOS) 跨平台鼠标和键盘共享软件，通过一套鼠标和键盘使用多台电脑
 
 - 🗃️Archived
   - [Clipboard : Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) (iOS) 剪贴板同步 Oct 11, 2024
