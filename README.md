@@ -2553,7 +2553,7 @@ Adblock Filters
 - [JoyToKey](https://joytokey.net/en) 游戏摇杆控制
 - ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite) [Playnite](https://github.com/JosefNemec/Playnite) 开源视频游戏库管理器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher) [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) (Windows, Linux, macOS) A games launcher for GOG, Amazon and Epic Games
-- [HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) 雪藏HsFreezer(Hidden in the snow)，游戏暂停冻结软件
+- [HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) 雪藏HsFreezer (Hidden in the snow)，游戏暂停冻结软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/game1024/Speedy) [Speedy](https://github.com/game1024/Speedy) 一款开源的游戏变速器
 
 ### 🎮Emulators 掌机模拟器
@@ -2617,6 +2617,8 @@ Adblock Filters
 - [1337X](https://1337x.to)
 
 ## 🔞Sex
+
+> Porn, pornography, adult content, explicit sexual content
 
 - [Onlyfans](https://onlyfans.com)
 
