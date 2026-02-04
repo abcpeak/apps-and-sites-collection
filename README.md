@@ -1781,6 +1781,7 @@ Adblock Filters
 ### 🧹Clean 软件卸载&优化
 
 - [CCleaner](https://www.ccleaner.com/ccleaner) ⭐
+- [Geek Uninstaller](https://geekuninstaller.com)
 - [Winslop](https://www.neowin.net/software/winslop-03550) (Windows) 去除不必要的系统冗余
 - ![GitHub Repo stars](https://img.shields.io/github/stars/guhcostan/windows-cleaner-cli) [Windows Cleaner CLI](https://github.com/guhcostan/windows-cleaner-cli) Windows cleanup tool
 - [Revo Uninstaller](https://www.revouninstaller.com)
