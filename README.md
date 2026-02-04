@@ -922,6 +922,7 @@ Enjoy 🤩
 - [Dynamic-Lyrics](https://apps.apple.com/us/app/dynamic-lyrics/id6476125287) (iOS) 动态滚动歌词显示，在锁屏、CarPlay展示歌词
 - [Lyra Music](https://apps.apple.com/us/app/lyra-music-radio-esound/id6747066887) (iOS) 社区推的音乐App，无订阅、播放含歌词
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vibe-music/vibe-music-web) [Vibe Music](https://github.com/vibe-music/vibe-music-web) 云音乐部署到服务器
+- [iGrooveMuse](https://apps.apple.com/us/app/igroovemuse/id6757769363) (iOS)
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -2039,6 +2040,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS) 多浏览器管理工具，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
 - [Speedometer3.1](https://browserbench.org/Speedometer3.1) Browser Performance 网页浏览器的基准测试，通过对不同工作负载下的模拟用户交互进行时序来衡量网页应用响应速度
 - ![GitHub Repo stars](https://img.shields.io/github/stars/corbindavenport/just-the-browser) [Just the Browser](https://github.com/corbindavenport/just-the-browser) 移除桌面浏览器中的 AI 功能、遥测数据报告、赞助内容、产品集成
+- [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
 
 - 🗃️Archived
   - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
@@ -2108,7 +2110,6 @@ Adblock Filters
 - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey) Firefox Extension，更新缓慢，最后更新Aug 6, 2024
 - ![GitHub Repo stars](https://img.shields.io/github/stars/syhyz1990/baiduyun) [网盘直链下载助手](https://github.com/syhyz1990/baiduyun) 开源协议：AGPL3
 - [GM_script](https://github.com/langren1353/GM_script) AC-baidu:重定向优化百度搜狗谷歌搜索_去广告_favicon_双列
-- [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
 - [GitHub Freshness](https://greasyfork.org/en/scripts/524465-github-freshness)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hmjz100/LinkSwift) [LinkSwift](https://github.com/hmjz100/LinkSwift) 一个基于JavaScript的网盘文件下载地址获取工具
 - [X-Accounts-Based-in-China-Auto-Mute](https://github.com/anonym-g/X-Accounts-Based-in-China-Auto-Mute) Auto-Mute CCP troll X (Twitter) accounts.
@@ -2366,6 +2367,7 @@ Adblock Filters
 
 ## 🌦️Weather 天气
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PranshulGG/WeatherMaster) [WeatherMaster](https://github.com/PranshulGG/WeatherMaster) (Android)
 - [Weather - The Weather Channel](https://weather.com)
 - [My Aurora Forecast &amp; Alerts](https://apps.apple.com/us/app/my-aurora-forecast-alerts/id1073082439) 北极光Northern Lights
 - [AccuWeather: Weather Alerts](https://apps.apple.com/us/app/accuweather-weather-alerts/id300048137)
