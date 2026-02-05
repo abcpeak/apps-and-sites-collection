@@ -1674,47 +1674,43 @@ Enjoy 🤩
 - [Contact Cleanup](https://apps.apple.com/us/app/contact-cleanup/id717884032) (iOS) 联系人清理
 - ![GitHub Repo stars](https://img.shields.io/github/stars/octoshrimpy/quik)[quik](https://github.com/octoshrimpy/quik) (Android) 第三方短信应用
 
-### 📛Adblock 去广告 Block ads
+### 📛Adblock 去广告 Block Ads
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Windows, macOS, Linux) 通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android) 搞快点，自动跳过开屏广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions) ⭐
 
-DNS Adblocking
+- DNS Adblocking
+  - [DNS Providers](https://adguard-dns.io/kb/general/dns-providers) DNS Provider Index
+  - [NextDNS](https://nextdns.io)
+  - [ControlD](https://controld.com)
+  - [Pi-Hole](https://pi-hole.net) 全网络广告拦截应用程序，DNS级拦截广告
 
-- [DNS Providers](https://adguard-dns.io/kb/general/dns-providers) DNS Provider Index
-- [NextDNS](https://nextdns.io)
-- [ControlD](https://controld.com)
-- [Pi-Hole](https://pi-hole.net) 全网络广告拦截应用程序，DNS级拦截广告
+- iOS Safari Adblocking
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/0xCUB3/wBlock) [wBlock](https://github.com/0xCUB3/wBlock) ⭐
+  - [uBlock Origin Lite for iOS](https://apps.apple.com/au/app/ublock-origin-lite/id6745342698)
+  - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99)
+  - [1Blocker](https://apps.apple.com/us/app/1blocker/id1365531024) Ad Blocker
+  - [Easy Adblock for Safari](https://apps.apple.com/cn/app/easy-adblock-for-safari/id6477549966)
+  - [Wipr 2](https://apps.apple.com/us/app/wipr-2/id1662217862) 设置iOS系统主语言和副语言
+  - [Ghostery](https://apps.apple.com/us/app/ghostery-privacy-ad-blocker/id6504861501) Block ads, trackers, and popups on Safari
+  - [Total Adblock](https://apps.apple.com/us/app/total-adblock-ad-blocker/id1564900435) ($7.99)
+  - [AdBlock Pro－Browser Ad Blocker](https://apps.apple.com/cn/app/adblock-pro-browser-ad-blocker/id1018301773)
+  - [Adblock Plus for Safari (ABP)](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1028871868)
+  - [1Blocker](https://apps.apple.com/us/app/1blocker-ad-blocker-privacy/id1365531024)
 
-iOS Safari Adblocking
-
-- ![GitHub Repo stars](https://img.shields.io/github/stars/0xCUB3/wBlock) [wBlock](https://github.com/0xCUB3/wBlock) ⭐
-- [uBlock Origin Lite for iOS](https://apps.apple.com/au/app/ublock-origin-lite/id6745342698)
-- [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99)
-- [1Blocker](https://apps.apple.com/us/app/1blocker/id1365531024) Ad Blocker
-- [Easy Adblock for Safari](https://apps.apple.com/cn/app/easy-adblock-for-safari/id6477549966)
-- [Wipr 2](https://apps.apple.com/us/app/wipr-2/id1662217862) 设置iOS系统主语言和副语言
-- [Ghostery](https://apps.apple.com/us/app/ghostery-privacy-ad-blocker/id6504861501) Block ads, trackers, and popups on Safari
-- [Total Adblock](https://apps.apple.com/us/app/total-adblock-ad-blocker/id1564900435) ($7.99)
-- [AdBlock Pro－Browser Ad Blocker](https://apps.apple.com/cn/app/adblock-pro-browser-ad-blocker/id1018301773)
-- [Adblock Plus for Safari (ABP)](https://apps.apple.com/cn/app/adblock-plus-for-safari-abp/id1028871868)
-- [1Blocker](https://apps.apple.com/us/app/1blocker-ad-blocker-privacy/id1365531024)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/oblador/hush) [Hush](https://github.com/oblador/hush) ([iOS](https://apps.apple.com/us/app/hush-nag-blocker/id1544743900))  ⭐
-
-Adblock Filters
-
-- [QuantumultX 小白2.0配置](https://github.com/ddgksf2013) 去广告配置
-- [Shadowrocket 去广告配置](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、[shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) ⭐
-- [AdRules](https://github.com/Cats-Team/AdRules) List for blocking ads in the Chinese region
-- [AdGuard Chinese filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) 中文广告
-- [LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) Query Parameter Cleaning Rules
-- [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
-- [FilterLists](https://filterlists.com) Filter and host lists directory
-- [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) Unsafe Sites Filter
-- [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
-- [AdBlock_Rule_For_Clash](https://github.com/REIJI007/AdBlock_Rule_For_Clash)
+- Adblock Filters
+  - [QuantumultX 小白2.0配置](https://github.com/ddgksf2013) 去广告配置
+  - [Shadowrocket 去广告配置](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、[shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) ⭐
+  - [AdRules](https://github.com/Cats-Team/AdRules) List for blocking ads in the Chinese region
+  - [AdGuard Chinese filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) 中文广告
+  - [LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) Query Parameter Cleaning Rules
+  - [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
+  - [FilterLists](https://filterlists.com) Filter and host lists directory
+  - [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) Unsafe Sites Filter
+  - [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
+  - [AdBlock_Rule_For_Clash](https://github.com/REIJI007/AdBlock_Rule_For_Clash)
 
 - 🗃️Archived
   - [Adblock For Safari - No Porn](https://apps.apple.com/us/app/adblock-for-safari-no-porn/id6737194096)
@@ -1722,6 +1718,7 @@ Adblock Filters
   - [AdBlock for Mobile](https://getadblock.com/en/iOS) 最后更新2017.1
   - [Ad Blocker Pro - Secure & Safe](https://apps.apple.com/gb/app/ad-blocker-pro-secure-safe/id6448680871) 最后更新2024.12
   - [Ad Block One](https://apps.apple.com/app/id1491889901) block baidumap ad 最后更新2024.8
+  - [Hush Nag Blocker](https://apps.apple.com/us/app/hush-nag-blocker/id1544743900) (iOS)
 
 ### 📶Network (DNS VPN VPS IDC)
 
