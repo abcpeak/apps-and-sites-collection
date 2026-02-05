@@ -90,6 +90,7 @@ Enjoy 🤩
 - [读不舍手](https://apps.apple.com/app/id1662413517) (iOS) 仅支持txt
   - ![GitHub Repo stars](https://img.shields.io/github/stars/shidahuilang/shuyuan) [shuyuan](https://github.com/shidahuilang/shuyuan) 书源
 - [iReadNote](https://apps.apple.com/gb/app/ireadnote/id6450734655) (iOS) 爱阅记
+- [MoboReader-The Alpha King](https://apps.apple.com/us/app/moboreader-the-alpha-king/id1291247971)
 
 ### 📓Library Resource Repository 图书资源库
 
@@ -734,7 +735,7 @@ Enjoy 🤩
 
 > 图片处理 PS设计排版 Paint 绘图🖌️
 
-- [Photopea](https://www.photopea.com) ⭐
+- [Photopea](https://www.photopea.com) (Web) ⭐
 - Adobe: [Photoshop](https://www.photoshop.com), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) ⭐
 - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) 图像查看器
 - [Kiko Card](https://apps.apple.com/us/app/kiko-card-text-post-carousel/id6463467787) 文字生成图片
@@ -760,7 +761,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/flxzt/rnote) [Rnote](https://github.com/flxzt/rnote) 基于矢量的开源绘图应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/inpaint-web) [Inpaint-web](https://github.com/lxfater/inpaint-web) 图片修复、放大
 - [BandiView](https://www.bandisoft.com/bandiview) image viewer，HoneyView的升级版
-- ![GitHub Repo stars](https://img.shields.io/github/stars/voidtools/voidImageViewer) [void Image Viewer](https://github.com/voidtools/voidImageViewer) 来自Everything开发团队 voidtools ⭐
+
 - [FotoSketcher](https://fotosketcher.com) 免费软件，将普通照片转换为艺术作品
 - [iMazing Converter](https://imazing.com/zh/converter) 图片格式转换，转换HEIC至JPEG或PNG
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter) [File Converter](https://github.com/Tichau/FileConverter) 文件格式转换
@@ -768,7 +769,6 @@ Enjoy 🤩
 - [NXStudio](https://downloadcenter.nikonimglib.com/en/products/564/NX_Studio.html) 尼康的专业图像处理软件
 - [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/T8RIN/ImageToolbox) [ImageToolbox](https://github.com/T8RIN/ImageToolbox) 全能型图片处理工具
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Ruben2776/PicView) [PicView](https://github.com/Ruben2776/PicView) (Windows, macOS) 多功能图像查看器
 
 ## 💪Health & Fitness 健康健美
 
@@ -795,7 +795,6 @@ Enjoy 🤩
 
 ## 🗞️Magazines & Newspapers 报刊杂志
 
-- [MoboReader-The Alpha King](https://apps.apple.com/us/app/moboreader-the-alpha-king/id1291247971)
 - [Washington Post](https://www.washingtonpost.com) 华盛顿邮报
 - [The New York Times](https://www.nytimes.com)
 - [The Guardian](https://www.theguardian.com) 英国卫报，免费，靠捐助运行
@@ -975,7 +974,7 @@ Enjoy 🤩
 
 ## 📰News 新闻
 
-- [X (Formerly Twitter)](https://www.x.com)
+- [X (Formerly Twitter)](https://www.x.com) 𝕏 ⭐
 - [Nextdoor](https://nextdoor.com)
 - [Substack](https://substack.com)
 - [Quora](https://www.quora.com) 在线问答网站 新闻
@@ -1026,6 +1025,7 @@ Enjoy 🤩
 - [IrfanView64](https://www.irfanview.com/64bit.htm)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/szTheory/exifcleaner) [exifcleaner](https://github.com/szTheory/exifcleaner) clean image metadata
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) 图片压缩
+- ![GitHub Repo stars](https://img.shields.io/github/stars/voidtools/voidImageViewer) [void Image Viewer](https://github.com/voidtools/voidImageViewer) 看图软件，来自Everything开发团队voidtools ⭐
 - [Xnapper](https://xnapper.com) macOS 多功能智能截图工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/greenshot/greenshot) [Greenshot](https://github.com/greenshot/greenshot) 截图工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Satty-org/Satty) [Satty](https://github.com/Satty-org/Satty) Modern Screenshot Annotation
@@ -1037,6 +1037,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jurplel/qView) [qView](https://github.com/jurplel/qView) 图片查看软件
 - [WebP Codec for Windows](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/WebpCodecSetup.exe)
 - [HEIF 图像扩展](https://apps.microsoft.com/store/detail/heif-图像扩展/9PMMSR1CGPWG?hl=zh-cn&gl=CN)、[HEVC 视频扩展](https://apps.microsoft.com/store/detail/来自设备制造商的-hevc-视频扩展/9N4WGH0Z6VHQ?hl=zh-cn&gl=CN) Win默认不支持H265格式的视频，装了这个就能播H265格式的视频了，H265即HEVC编码格式
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Ruben2776/PicView) [PicView](https://github.com/Ruben2776/PicView) (Windows, macOS) 多功能图像查看器
 
 #### Material Library 素材库 images, videos and music
 
