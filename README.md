@@ -760,6 +760,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/flxzt/rnote) [Rnote](https://github.com/flxzt/rnote) 基于矢量的开源绘图应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/inpaint-web) [Inpaint-web](https://github.com/lxfater/inpaint-web) 图片修复、放大
 - [BandiView](https://www.bandisoft.com/bandiview) image viewer，HoneyView的升级版
+- ![GitHub Repo stars](https://img.shields.io/github/stars/voidtools/voidImageViewer) [void Image Viewer](https://github.com/voidtools/voidImageViewer) 来自Everything开发团队 voidtools ⭐
 - [FotoSketcher](https://fotosketcher.com) 免费软件，将普通照片转换为艺术作品
 - [iMazing Converter](https://imazing.com/zh/converter) 图片格式转换，转换HEIC至JPEG或PNG
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter) [File Converter](https://github.com/Tichau/FileConverter) 文件格式转换
@@ -940,7 +941,7 @@ Enjoy 🤩
 - [opensubtitles](https://www.opensubtitles.org) 全球最大的字幕网站
 - [Versefy](https://versefy.app) view the lyrics
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WXRIW/Lyricify-App) [Lyricify-App](https://github.com/WXRIW/Lyricify-App) 为Spotify等各种应用提供滚动歌词
-- [OpenLyrics](https://www.foobar2000.org/components/view/foo_openlyrics) foobar2000的歌词插件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jacquesh/foo_openlyrics) [OpenLyrics](https://github.com/jacquesh/foo_openlyrics) foobar2000的歌词插件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ESLyric/release) [ESLyric](https://github.com/ESLyric/release) foobar2000的歌词插件，桌面卡拉OK歌词
 - ![GitHub Repo stars](https://img.shields.io/github/stars/real-zony/ZonyLrcToolsX) [ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) (Windows, Linux, macOS) 批量下载歌词 ![Last Commit](https://img.shields.io/github/release-date/real-zony/ZonyLrcToolsX)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/91270/MeiamSubtitles) [MeiamSubtitles](https://github.com/91270/MeiamSubtitles) Emby Jellyfin 中文字幕插件
@@ -1904,6 +1905,7 @@ Adblock Filters
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey) [AutoHotkey](https://www.autohotkey.com) a scripting language for desktop automation热键脚本语言
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xianyukang/MyKeymap) [MyKeymap](https://github.com/xianyukang/MyKeymap) 一款基于AutoHotkey的键盘映射工具
 - [Clavier+](https://gryder.org/software/clavier-plus) 键盘全局快捷键工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/cjpais/Handy) [Handy](https://github.com/cjpais/Handy) (Windows, macOS, Linux) 语音转文本工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mulaRahul/keyviz) [Keyviz](https://github.com/mulaRahul/keyviz) 键盘按键可视化 visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time
 - [GestureSign](https://zh.gesturesign.Windows) 笔记本触摸板手势
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taojy123/KeymouseGo) [KeymouseGo](https://github.com/taojy123/KeymouseGo) 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入
