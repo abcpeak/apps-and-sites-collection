@@ -90,7 +90,7 @@ Enjoy 🤩
 - [读不舍手](https://apps.apple.com/app/id1662413517) (iOS) 仅支持txt
   - ![GitHub Repo stars](https://img.shields.io/github/stars/shidahuilang/shuyuan) [shuyuan](https://github.com/shidahuilang/shuyuan) 书源
 - [iReadNote](https://apps.apple.com/gb/app/ireadnote/id6450734655) (iOS) 爱阅记
-- [MoboReader-The Alpha King](https://apps.apple.com/us/app/moboreader-the-alpha-king/id1291247971)
+- [MoboReader-The Alpha King](https://apps.apple.com/us/app/moboreader-the-alpha-king/id1291247971) (iOS)
 
 ### 📓Library Resource Repository 图书资源库
 
