@@ -503,7 +503,7 @@ Enjoy 🤩
 - [PlaynPlay](https://apps.apple.com/us/app/playnplay/id1664643965) (iOS, Android)
 - [zFuse](https://apps.apple.com/us/app/zfuse-media-player/id1054505347) (iOS)
 - [TracyPlayer](https://apps.apple.com/tr/app/tracyplayer/id6450770064) (iOS)
-- [Potplayer](https://potplayer.tv) (Windows) 来自韩国 Kakao Corp.
+- [Potplayer](https://potplayer.tv) (Windows) 来自韩国 Kakao Corp. 支持播放WebDAV
 - ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc) [VLC media player](https://github.com/videolan/vlc) 开源免费的跨平台多媒体播放器 ![Latest Release Date](https://img.shields.io/github/last-commit/videolan/vlc)
 - [PlayerFab Ultra HD Player](https://www.videohelp.com/software/DVDFab-Media-Player) 蓝光高清播放器
 - [GOM Player Plus](https://www.gomlab.com/gomplayerplus-media-player) 来自韩国播放器
@@ -2426,6 +2426,8 @@ Enjoy 🤩
   - [Indie App Santa](https://apps.apple.com/us/app/indie-app-santa/id1594011307) APP限免
   - [LiveContainer](https://github.com/LiveContainer/LiveContainer) Run iOS apps without actually installing them
   - [iRingo](https://github.com/NSRingo) 解锁国行完整的Apple功能和集成服务
+  - [IPA Installer](https://apps.apple.com/us/app/ipa-installer/id6748286191) 专门用来在 iPhone/iPad 上直接安装 .ipa 或 .iipa 格式文件的工具
+
   - IPA签名工具
     - ![GitHub Repo stars](https://img.shields.io/github/stars/missuo/resign) [IPA-Resign](https://github.com/missuo/resign)
     - [Sideloadly](https://sideloadly.io)
