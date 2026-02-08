@@ -469,7 +469,7 @@ Enjoy 🤩
 ### 🎬Movies & TV
 
 - [YouTube](https://youtube.com) 油管
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) YouTube第三方客户端去广告
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) (Windows, macOS, Linux) YouTube第三方客户端去广告 ⭐
 - [Odysee](https://odysee.com)
 - [Rumble](https://rumble.com)
 - [Max: Stream HBO, TV, &amp; Movies](https://www.max.com)
@@ -493,13 +493,13 @@ Enjoy 🤩
 - [Stremio Lite](https://apps.apple.com/us/app/stremio-lite/id6741710156) (iOS)官方或第三方插件来访问 YouTube、Netflix、公共领域内容等
 - [Popcorn Time](https://github.com/popcorntime/popcorntime) 其他平台如JustWatch或Reelgood充当目录，Popcorn Time可以播放自己的文件
 
-- [Trakt](https://trakt.tv) 剧集管理
+- [Trakt](https://trakt.tv) 剧集管理 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/michaldrabik/Showly-2.0) [Showly](https://github.com/michaldrabik/Showly-2.0) (Android) Trakt的第三方客户端
   - [FilmNoir TV Tracker for Trakt](https://apps.apple.com/us/app/filmnoir-tv-tracker-for-trakt/id1528417240) (iOS)
   
 #### ▶️Video Player 视频播放器
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/moneytoo/Player) [Just (Video) Player](https://github.com/moneytoo/Player) Android 开源视频播放器 ![Latest Release Date](https://img.shields.io/github/release-date/moneytoo/Player)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/moneytoo/Player) [Just (Video) Player](https://github.com/moneytoo/Player) (Android) 开源视频播放器 ![Latest Release Date](https://img.shields.io/github/release-date/moneytoo/Player)
 - [PlaynPlay](https://apps.apple.com/us/app/playnplay/id1664643965) (iOS, Android)
 - [zFuse](https://apps.apple.com/us/app/zfuse-media-player/id1054505347) (iOS)
 - [TracyPlayer](https://apps.apple.com/tr/app/tracyplayer/id6450770064) (iOS)
@@ -514,7 +514,7 @@ Enjoy 🤩
 - [IINA](https://iina.io) (macOS) 现代媒体播放器
 - [Fig Player](https://zh.okaapps.com/product/1612400976#) (macOS) 的音视频播放器
 - [5kplayer](https://www.5kplayer.com) (Windows, macOS)
-- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) (Android, iOS)(💵)多媒体播放器
+- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) (Android, iOS) (💵)多媒体播放器
 - [HEVC Video Extension](https://www.free-codecs.com/download/hevc_video_extension.htm) 播放高效视频编码HEVC视频
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&gl=IN)  (Android)
 - [KMPlayer](https://www.kmplayer.com) KMPlayer64是新开发的软件，和32位版本完全不一样
@@ -527,12 +527,12 @@ Enjoy 🤩
 - [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)(💵)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko) [animeko](https://github.com/open-ani/animeko) 集找番、追番、看番的一站式弹幕追番平台
 - [Player Xtreme – Video Player](https://apps.apple.com/us/app/player-xtreme-video-player/id6737277424) (iOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/yattee/yattee) [Yattee](https://github.com/yattee/yattee) (iOS, tvOS and macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yattee/yattee) [Yattee](https://github.com/yattee/yattee) (iOS, tvOS, macOS)
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
-  - [BLBewly](https://github.com/BewlyBewly/BewlyBewly) (macOS)第三方B站客户端 archived on Feb 26, 2025
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/xiaye13579/BBLL) [BBLL](https://github.com/xiaye13579/BBLL) (Android TV)第三方B站客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xiaye13579/BBLL)
+  - [BLBewly](https://github.com/BewlyBewly/BewlyBewly) (macOS) 第三方B站客户端 archived on Feb 26, 2025
+  - [BBLL](https://github.com/xiaye13579/BBLL) (Android TV) 第三方B站客户端
 
 #### Teleprompter 提词器
 
@@ -869,7 +869,7 @@ Enjoy 🤩
 - [Cotton Music](https://apps.apple.com/app/id6752617064) 棉花音乐
 - [Musify](https://apps.apple.com/us/app/musify-music-player/id1575902185)
 - [Spotify](https://www.spotify.com/us/download/other)  (Windows, Android, iOS) 总部位于瑞典斯德哥尔摩，只有Spotify Premium用户可以在移动端播放本地文件
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube) [Spotube](https://github.com/KRTirtho/spotube) 开源免费跨平台 Spotify 第三方客户端 ![Last Commit](https://img.shields.io/github/release-date/KRTirtho/spotube) ![commit-activity](https://img.shields.io/github/commit-activity/m/KRTirtho/spotube)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube) [Spotube](https://github.com/KRTirtho/spotube) 开源免费跨平台 Spotify 第三方客户端 ⭐ ![Last Commit](https://img.shields.io/github/release-date/KRTirtho/spotube) ![commit-activity](https://img.shields.io/github/commit-activity/m/KRTirtho/spotube)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
 - [AIMP](https://www.aimp.ru) (Windows, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器 ⭐
 - [MediaMonkey](https://www.mediamonkey.com) (Windows, Android)
@@ -888,7 +888,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nukeop/nuclear) [Nuclear player](https://github.com/nukeop/nuclear) (Windows, macOS, Linux) 开源免费的在线音乐播放和下载工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhongyang219/MusicPlayer2) [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) (Windows) ![Last Commit](https://img.shields.io/github/release-date/zhongyang219/MusicPlayer2)
 - [FluentCast](https://apps.microsoft.com/detail/9pm46jrsdqqr?hl=en-us&gl=US) (Windows) Ad-free podcast app
-- ![GitHub Repo stars](https://img.shields.io/github/stars/maxrave-dev/SimpMusic) [SimpMusic](https://github.com/maxrave-dev/SimpMusic) A simple music app using YouTube Music for backend ![Last Commit](https://img.shields.io/github/release-date/maxrave-dev/SimpMusic)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/maxrave-dev/SimpMusic) [SimpMusic](https://github.com/maxrave-dev/SimpMusic) (Windows, macOS, Linux) A simple music app using YouTube Music for backend ![Last Commit](https://img.shields.io/github/release-date/maxrave-dev/SimpMusic)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/th-ch/youtube-music) [youtube-music](https://github.com/th-ch/youtube-music) Desktop player for YouTube music ![Last Commit](https://img.shields.io/github/release-date/th-ch/youtube-music)
 - [SoundCloud](https://soundcloud.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Moriafly/SaltPlayerSource) [椒盐音乐 Salt Player](https://github.com/Moriafly/SaltPlayerSource) (Android) ![Last Commit](https://img.shields.io/github/release-date/Moriafly/SaltPlayerSource)
@@ -897,7 +897,7 @@ Enjoy 🤩
   - [Flacbox](https://apps.apple.com/jp/app/id1097564256) (iOS) 适合无损 Hi-Res，用FFMPEG解码稀有格式，支持WebDAV，
   - [Evertag](https://apps.apple.com/app/id1450763230) (iOS) 音乐标签（Metadata）编辑器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Windows) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
-- [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS) 支持歌词API，支持本地lrc歌词，灵动岛歌词，不支持infini-cloud，支持koofr，
+- [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS) 支持歌词API，支持本地lrc歌词，灵动岛歌词，不支持infini-cloud，支持koofr ⭐
 - [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
 - [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS) 拉动进度条有卡顿bug
 - [Anywhere offine Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)
@@ -1354,7 +1354,7 @@ Enjoy 🤩
 
 #### Mail Forwarding 邮件转发 邮件别名（Alias）
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/simple-login/app) [SimpleLogin](https://simplelogin.io) 开源，在欧洲制作和托管，已被Proton收购，12个月活跃
+- ![GitHub Repo stars](https://img.shields.io/github/stars/simple-login/app) [SimpleLogin](https://github.com/simple-login/app) 开源，在欧洲制作和托管，已被Proton收购，12个月活跃
 - [Firefox Relay](https://relay.firefox.com) 每封电子邮件的大小上限为10MB
 - [DuckDuckGo Email Protection](https://duckduckgo.com/email)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/anonaddy/anonaddy) [Addy.io](https://github.com/anonaddy/anonaddy) AnonAddy, 免费版每月带宽限制10M
@@ -2000,6 +2000,7 @@ Enjoy 🤩
   - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://github.com/qutebrowser/qutebrowser) (Windows, macOS) QtWebEngine引擎，A keyboard-driven, vim-like browser based on Python and Qt.
 
+- [Mishmish](https://mishmish.io/download/rUVQGP0UBU5m) (Windows) 新概念浏览器 + 协作工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook Browser](https://github.com/nook-browser/Nook) (macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
