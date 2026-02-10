@@ -529,7 +529,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko) [animeko](https://github.com/open-ani/animeko) 集找番、追番、看番的一站式弹幕追番平台
 - [Player Xtreme – Video Player](https://apps.apple.com/us/app/player-xtreme-video-player/id6737277424) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/yattee/yattee) [Yattee](https://github.com/yattee/yattee) (iOS, tvOS, macOS)
-- [KRed Player](https://apps.microsoft.com/detail/9nshcvrbc7qd?hl=en-US&gl=US) (Windows) 大陆公司开发的
+- [KRed Player](https://apps.microsoft.com/detail/9nshcvrbc7qd?hl=en-US&gl=US) (Windows) 大陆的公司开发的
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
