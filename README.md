@@ -202,20 +202,21 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/videojs/video.js) [video.js](https://github.com/videojs/video.js) open source HTML5 video player
   - [Mojo](https://www.modular.com/mojo) 面向AI的编程语言
 
-- [GUI Clients](https://git-scm.com/downloads/guis) 图形化客户端 Code Clients, IDEs(Integrated Development Environment 集成开发环境)
-  - [GitHub](https://www.github.com) 全球最大程序员平台，技术栈
-    - ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop) [GitHub Desktop](https://desktop.github.com/download) 基于electron，typeScript and uses React
+- IDEs(Integrated Development Environment 集成开发环境)，版本控制和开发协作服务，[GUI Clients](https://git-scm.com/downloads/guis) 图形化客户端 Code Clients
+  - [GitHub](https://www.github.com) 全球最大程序员平台，技术栈，属于Microsoft公司 ⭐
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/desktop/desktop) [GitHub Desktop](https://github.com/desktop/desktop) (Windows, macOS) 基于electron，typeScript and uses React
   - [GitButler](https://gitbutler.com) (Windows, Linux, macOS)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/shiftkey/desktop) [GitHub Desktop for Linux](https://github.com/shiftkey/desktop) shiftkey开发的
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/shiftkey/desktop) [GitHub Desktop for Linux](https://github.com/shiftkey/desktop) (Linux) shiftkey开发的
   - [SmartGit](https://www.syntevo.com/smartgit) (Windows, Linux, macOS)
   - [Git Cola](https://git-cola.github.io) (Windows, Linux, macOS)
-  - [GitKraken](https://www.gitkraken.com) (Windows, Linux, macOS)
+  - [GitKraken](https://www.gitkraken.com) (Windows, Linux, macOS) 支持GitLab
   - [SourceTree](https://www.sourcetreeapp.com) (Windows, macOS)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegit-scm/sourcegit) [sourcegit](https://github.com/sourcegit-scm/sourcegit) (Windows, Linux, macOS)
-  - [ugit](https://ugit.qq.com) 腾讯自研Git客户端
-  - [Fork](https://git-fork.com) 不收费，接受donate
+    - ![GitHub Repo stars](https://img.shields.io/github/stars/sourcegit-scm/sourcegit) [sourcegit](https://github.com/sourcegit-scm/sourcegit) (Windows, Linux, macOS) 支持GitLab
+  - [UGit](https://ugit.qq.com) (Windows, macOS) 腾讯自研Git客户端
+  - [Fork](https://git-fork.com) (Windows, macOS) 支持GitLab，不收费，接受donate
+  - [GitLab](https://gitlab.com) 企业友好 ⭐
+  - [GitFlic.ru](https://gitflic.ru) 俄罗斯的软件开发平台网站
 
-- [GitLab](https://gitlab.com)
 - [Bitbucket](https://bitbucket.org/product)
 - [Stack Overflow](https://stackoverflow.com) IT技术问答社区
 - [WebStorm](https://www.jetbrains.com/webstorm) The JavaScript and TypeScript IDE. WebStorm is free for non-commercial use
@@ -487,7 +488,7 @@ Enjoy 🤩
 - [Hulu](https://www.hulu.com)
 - [Pandora](https://pandora.tv)
 - [Dailymotion](https://www.dailymotion.com)
-- [Paramount+](https://www.paramountplus.com) 派拉蒙＋
+- [Paramount+](https://www.paramountplus.com) 派拉蒙+
 - [PeerTube](https://joinpeertube.org)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/yuliskov/SmartTube) [SmartTube](https://github.com/yuliskov/SmartTube) (Android TV)
 - [Stremio Lite](https://apps.apple.com/us/app/stremio-lite/id6741710156) (iOS)官方或第三方插件来访问 YouTube、Netflix、公共领域内容等
@@ -528,6 +529,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko) [animeko](https://github.com/open-ani/animeko) 集找番、追番、看番的一站式弹幕追番平台
 - [Player Xtreme – Video Player](https://apps.apple.com/us/app/player-xtreme-video-player/id6737277424) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/yattee/yattee) [Yattee](https://github.com/yattee/yattee) (iOS, tvOS, macOS)
+- [KRed Player](https://apps.microsoft.com/detail/9nshcvrbc7qd?hl=en-US&gl=US) (Windows) 大陆公司开发的
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/lizongying/my-tv) [my-tv](https://github.com/lizongying/my-tv) (Android TV) 电视直播软件 ![Latest Release Date](https://img.shields.io/github/release-date/lizongying/my-tv)
@@ -572,6 +574,7 @@ Enjoy 🤩
 - [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=en-US&gl=CN) (Windows) 支持emby的播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MCDFsteve/NipaPlay-Reload) [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) 支持挂载Emby, Jellyfin媒体库
 - [OrionTV](https://github.com/orion-lib/OrionTV) 基于 React Native TVOS 和 Expo 构建的播放器
+- [MiraPlay](https://apps.apple.com/us/app/miraplay/id6749287494)
 
 - 🗃️Archived
   - [IIVA](https://apps.apple.com/us/app/iiva/id1614231457) (最后更新2023.10)
