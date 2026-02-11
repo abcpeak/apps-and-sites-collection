@@ -338,6 +338,7 @@ Enjoy 🤩
 ### Forum Framework 开源论坛框架
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/discourse/discourse) [Discourse](https://github.com/discourse/discourse)
+  - [discourse.group](https://id.discourse.com/create-site) Discourse的免费版测试
 - ![GitHub Repo stars](https://img.shields.io/github/stars/NodeBB/NodeBB) [NodeBB](https://github.com/NodeBB/NodeBB)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LemmyNet/lemmy) [lemmy](https://github.com/LemmyNet/lemmy)
 
@@ -1659,6 +1660,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Caldis/Mos) [Mos](https://github.com/Caldis/Mos) (macOS) 平滑鼠标滚动效果
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lihaoyun6/AirBattery) [AirBattery](https://github.com/lihaoyun6/AirBattery) 在macOS上显示所有设备电量信息在Dock、状态栏、小组件上
 - [MagicKit Pro](https://apps.apple.com//app/id6746649752) (iOS)智能工具箱
+- ![GitHub Repo stars](https://img.shields.io/github/stars/karakeep-app/karakeep) [karakeep](https://github.com/karakeep-app/karakeep) A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 - 🗃️Archived
   - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) 纯粹的Windows右键菜单管理程序，最后更新2021.8
@@ -1959,7 +1961,7 @@ Enjoy 🤩
   - [Samsung Internet Browser](https://www.samsung.com/us/support/owners/app/samsung-internet) Android, for your phone and tablet
   - [Tempest Browser](https://tempest.com/browser) 暴风雨浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Windows, Linux) Cromite是从Bromite fork（分支）出来的项目，内置广告拦截和隐私保护
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Windows, Linux) Cromite是从Bromite fork（分支）出来的项目，内置广告拦截和隐私保护，Win版是绿色版
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gonzazoid/Ultimatum) [Ultimatum](https://github.com/gonzazoid/Ultimatum) (Android) Ultimatum is a chromium fork with webextensions support
   - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,来自imputnet团队(开发过cobalt.tools),based on ungoogled-chromium，不支持 Widevine DRM，支持MV2，内置uBO
   - [Quetta Browser](https://www.quetta.net) (iOS, Android)
