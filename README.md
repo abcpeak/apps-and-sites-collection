@@ -927,6 +927,7 @@ Enjoy 🤩
 - [Lyra Music](https://apps.apple.com/us/app/lyra-music-radio-esound/id6747066887) (iOS) 社区推的音乐App，无订阅、播放含歌词
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vibe-music/vibe-music-web) [Vibe Music](https://github.com/vibe-music/vibe-music-web) 云音乐部署到服务器
 - [iGrooveMuse](https://apps.apple.com/us/app/igroovemuse/id6757769363) (iOS)
+- [LudyAmp - Offline Music Player](https://apps.apple.com/us/app/ludyamp-offline-music-player/id6759071307) (iOS)已内购
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -1900,7 +1901,7 @@ Enjoy 🤩
 - [信用中国](https://creditchina.gov.cn)
 - [民政部](https://mca.gov.cn/index.html)
 
-### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板
+### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板 🖱️Remote Mouse 远程鼠标
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韻 Linux + IBus 輸入法框架) 跨平台开源免费 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) (Android) 雨燕拼音输入法
@@ -1923,6 +1924,12 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PinchToDebug/DragWin) [DragWin](https://github.com/PinchToDebug/DragWin) (Windows) 使用鼠标右键移动窗口
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alirezagsm/Trayy) [Trayy](https://github.com/alirezagsm/Trayy) (Windows) 程序关闭时自动最小化到托盘图标
 - ![GitHub Repo stars](https://img.shields.io/github/stars/feschber/lan-mouse) [Lan Mouse](https://github.com/feschber/lan-mouse) (Windows, Linux, macOS) 跨平台鼠标和键盘共享软件，通过一套鼠标和键盘使用多台电脑
+- [Spatial Pointer](https://apps.apple.com/sk/app/spatial-pointer/id6759103550) (iOS) iPhone手机变成鼠标
+- [Remote Mouse](https://www.remotemouse.net) 远程鼠标控制
+- [synergy](https://symless.com/synergy) 多电脑屏幕共享键盘鼠标
+- [Remote Mouse](https://apps.apple.com/us/app/remote-mouse/id385894596) (iOS)
+- [Remote, Mouse & Keyboard Pro](https://apps.apple.com/us/app/remote-mouse-keyboard-pro/id884153085), [Remote, Mouse & Keyboard](https://apps.apple.com/us/app/remote-mouse-keyboard/id629019487) (iOS) 这2个功能一样的
+- [远程鼠标和键盘](https://cherpake.com/apps/remote-mouse-keyboard)、[电视遥控器](https://cherpake.com/apps/remote-control-tv) 来自[Evgeny Cherpak](https://cherpake.com)
 
 - 🗃️Archived
   - [Clipboard : Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) (iOS) 剪贴板同步 Oct 11, 2024
@@ -2322,13 +2329,10 @@ Enjoy 🤩
 - [MeshCentral](https://meshcentral.com) 用于远程设备管理的开源、多平台、自托管、功能丰富的网站
 - [WireGuard](https://www.wireguard.com) 远程穿透
 - [woterm](https://github.com/aoyiduo/woterm) (Windows, Linux, macOS) 跨平台远程管理终端
-- [Remote Mouse](https://www.remotemouse.net) 远程鼠标控制
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/H-M-H/Weylus) [Weylus](https://github.com/H-M-H/Weylus) 手机变成电脑的触控屏
 - [Deskreen](https://deskreen.com) 电脑的辅助屏幕 Turn any device into a secondary screen for your computer
-- [synergy](https://symless.com/synergy) 多电脑屏幕共享键盘鼠标
-- [Remote Mouse](https://apps.apple.com/us/app/remote-mouse/id385894596) (iOS)
-- [Remote, Mouse & Keyboard Pro](https://apps.apple.com/us/app/remote-mouse-keyboard-pro/id884153085), [Remote, Mouse & Keyboard](https://apps.apple.com/us/app/remote-mouse-keyboard/id629019487) (iOS) 这2个功能一样的
-- [远程鼠标和键盘](https://cherpake.com/apps/remote-mouse-keyboard)、[电视遥控器](https://cherpake.com/apps/remote-control-tv) 来自[Evgeny Cherpak](https://cherpake.com)
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow) [deskflow](https://github.com/deskflow/deskflow) Share a single keyboard and mouse between multiple computers
 - WOL Wake-on-LAN 局域网电脑唤醒
 - [ToDesk](https://todesk.com/?lang=en) 免费用户配额每月连接时长缩减至80小时
