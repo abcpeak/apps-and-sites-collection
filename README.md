@@ -2649,7 +2649,7 @@ Note: To support this repository, please give us a ⭐Star and 🔁Share and �
 
 This work is licensed under [The MIT License (MIT)](https://opensource.org/licenses/MIT).
 
-Copyright © 2025
+Copyright © 2025 - 2026
 
 ## 🌟Star History
 
