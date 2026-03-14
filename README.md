@@ -1032,6 +1032,7 @@ Enjoy 🤩
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) 图片压缩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/voidtools/voidImageViewer) [void Image Viewer](https://github.com/voidtools/voidImageViewer) 看图软件，来自Everything开发团队voidtools ⭐
 - [Xnapper](https://xnapper.com) macOS 多功能智能截图工具
+- [FSCapture](http://www.faststone.org) 截图工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/greenshot/greenshot) [Greenshot](https://github.com/greenshot/greenshot) 截图工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Satty-org/Satty) [Satty](https://github.com/Satty-org/Satty) Modern Screenshot Annotation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mg-chao/snow-shot) [Snow Shot](https://github.com/mg-chao/snow-shot) 一键OCR、录屏、翻译、AI 对话，滚动截图，智能框选
@@ -1082,13 +1083,14 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/SegoCode/AutoWall) [AutoWall](https://github.com/SegoCode/AutoWall) Live wallpapers on Windows
 - ![GitHub Repo stars](https://img.shields.io/github/stars/leminlimez/Nugget) [Nugget](https://github.com/leminlimez/Nugget)  设置iOS动画壁纸
 
-### 🎥Video Edit 视频音频剪辑软件
+### 🎥Video Edit 音视频剪辑软件
 
 - [kdenlive](https://kdenlive.org/zh) KDE Non-Linear Video Editor 非线性视频编辑器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OpenShot/openshot-qt) [OpenShot](https://github.com/OpenShot/openshot-qt) (Linux, macOS, and Windows) ⭐
 - [Lightworks](https://lwks.com)
 - [Shotcut](https://shotcut.org)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut) [OpenCut](https://github.com/OpenCut-app/OpenCut) (Web) 最接近剪映的开源平替 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut) [OpenCut](https://github.com/OpenCut-app/OpenCut) (Web) 最接近剪映CapCut的开源平替
+- [CapCut](https://www.capcut.com/PC/download) 自动字幕和背景音乐要收费
 - [AVS Video ReMaker](https://www.avs4you.com/avs-video-remaker.aspx)
 - [Audacity](https://www.audacityteam.org) 音频处理软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut) [LosslessCut](https://github.com/mifi/lossless-cut) 无损剪辑
