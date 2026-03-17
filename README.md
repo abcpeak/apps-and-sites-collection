@@ -2537,7 +2537,7 @@ Enjoy 🤩
 - [Proxmox](https://www.proxmox.com/en) Proxmox Virtual Environment，既可运行虚拟机也能运行 Docker 容器的虚拟化环境平台
   - ![GitHub Repo stars](https://img.shields.io/github/stars/luchina-gabriel/OSX-PROXMOX) [OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) install macOS on ANY Computer
 - [QEMU](https://www.qemu.org) 开源虚拟化软件
-- [Quickemu](https://github.com/quickemu-project/quickemu) Quickemu 是优秀 QEMU 的包装 创建虚拟机时会自动“做正确的事”。
+- [Quickemu](https://github.com/quickemu-project/quickemu) 优秀QEMU的包装，创建虚拟机时会自动“做正确的事”
 
 ### 🛜Router 路由器 WiFi
 
