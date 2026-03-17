@@ -928,6 +928,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vibe-music/vibe-music-web) [Vibe Music](https://github.com/vibe-music/vibe-music-web) 云音乐部署到服务器
 - [iGrooveMuse](https://apps.apple.com/us/app/igroovemuse/id6757769363) (iOS)
 - [LudyAmp - Offline Music Player](https://apps.apple.com/us/app/ludyamp-offline-music-player/id6759071307) (iOS)已内购
+- ![GitHub Repo stars](https://img.shields.io/github/stars/afkarxyz/SpotiFLAC) [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -2536,6 +2537,7 @@ Enjoy 🤩
 - [Proxmox](https://www.proxmox.com/en) Proxmox Virtual Environment，既可运行虚拟机也能运行 Docker 容器的虚拟化环境平台
   - ![GitHub Repo stars](https://img.shields.io/github/stars/luchina-gabriel/OSX-PROXMOX) [OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) install macOS on ANY Computer
 - [QEMU](https://www.qemu.org) 开源虚拟化软件
+- [Quickemu](https://github.com/quickemu-project/quickemu) Quickemu 是优秀 QEMU 的包装 创建虚拟机时会自动“做正确的事”。
 
 ### 🛜Router 路由器 WiFi
 
