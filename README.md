@@ -1680,7 +1680,7 @@ Enjoy 🤩
 - [短信拦截 - 垃圾短信防骚扰](https://apps.apple.com/app/id1639460076)
 - [Jima Caller ID](https://apps.apple.com/us/app/jima-caller-id/id910656808) 香港号码来电☎️识别阻拦
 - [Spam Call Blocker: Stop Scam](https://apps.apple.com/us/app/spam-call-blocker-stop-scam/id1505796584)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/metowolf/vCards) [vCards](https://github.com/metowolf/vCards) (iOS, macOS) 导入常用联系人头像
+- ![GitHub Repo stars](https://img.shields.io/github/stars/metowolf/vCards) [vCards](https://github.com/metowolf/vCards) (iOS, macOS) 导入常用联系人头像 ⭐
 - [Contact Cleanup](https://apps.apple.com/us/app/contact-cleanup/id717884032) (iOS) 联系人清理
 - ![GitHub Repo stars](https://img.shields.io/github/stars/octoshrimpy/quik)[quik](https://github.com/octoshrimpy/quik) (Android) 第三方短信应用
 
