@@ -317,7 +317,7 @@ Enjoy 🤩
   - [names.co.uk](https://www.names.co.uk) 英国公司
   - [freenom](https://www.freenom.com)
   - [pp.ua](https://pp.ua) Free pp.ua subdomains.
-  - [digitalplat](https://domain.digitalplat.org) Free dpdns.org subdomains. 前身是us.kg ⭐
+  - [DigitalPlat](https://domain.digitalplat.org) Free dpdns.org subdomains. 前身是us.kg ⭐
 - 域名价格比较：[domcomp](https://www.domcomp.com) 、[tld-list](https://zh-hans.tld-list.com)
 - 域名交易：[sedo](https://sedo.com/cn) 、[dan](https://dan.com)
 - SSL 证书：HubSpot, Let’s Encrypt, Comodo, Cloudflare Free SSL/TLS, GoDaddy, GoGetSSL, zerossl, Sectigo(COMODO), google gts, Buypass Go SSL,lookssl
