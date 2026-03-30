@@ -2200,6 +2200,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing) [Syncthing](https://github.com/syncthing/syncthing) 连续文件同步，可在多台计算机之间实时同步文件，命令行 ⭐
   - [syncthing-macos](https://github.com/syncthing/syncthing-macos) (macOS)
   - [SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) (Windows) 轻量级但功能齐全的安装程序
+  - [Synctrain](https://apps.apple.com/gb/app/synctrain/id6553985316) (iOS)
   - [Möbius Sync](https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216) (iOS) Moebius莫比乌斯
 - [FreeFileSync](https://freefilesync.org) 文件夹比较同步
 - ![GitHub Repo stars](https://img.shields.io/github/stars/polius/FileSync) [FileSync](https://github.com/polius/FileSync) (Web)
@@ -2287,6 +2288,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/nexmoe/VidBee) [VidBee](https://github.com/nexmoe/VidBee) (macOS, Windows, Linux) Download videos from almost any website worldwide 界面现代化，支持通过 RSS 订阅自动下载⭐
   - [ClipGrab](https://clipgrab.org) (Windows) 原理也是使用 youtube-dlp 下载视频，所以初次安装需要下载ytb-dlp
 - ![GitHub Repo stars](https://img.shields.io/github/stars/transmission/transmission) [Transmission](https://github.com/transmission/transmission) Bittorrent客户端
+- ![GitHub Repo stars](https://img.shields.io/github/stars/putyy/res-downloader) [res-downloader](https://github.com/putyy/res-downloader) 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! ⭐
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
 - [Torrex Lite](https://apps.microsoft.com/store/detail/torrex-lite-torrent-downloader/9WZDNCRFJB3D)
