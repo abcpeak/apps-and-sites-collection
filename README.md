@@ -1392,13 +1392,13 @@ Enjoy 🤩
 - RSStoMail：[follow.it](https://follow.it/enter-website)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rss-translator/RSS-Translator) [RSS-Translator](https://github.com/rss-translator/RSS-Translator) 开源、简洁、可自部署的RSS翻译器
 - [FetchRSS](https://fetchrss.com) Generate RSS from any. 自动抓取任何网页变化，并将此变化生成RSS地址用于订阅。免费版本适用于低频监控网页变化，付费版本可实现更高频率的抓取。
-- [Feedbin](https://feedbin.com) Web三栏式 (💵)
+- [Feedbin](https://feedbin.com) Web三栏式 (💵) $5 a month
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Athou/commafeed) [CommaFeed](https://github.com/Athou/commafeed) Web展开式
-- ![GitHub Repo stars](https://img.shields.io/github/stars/miniflux/v2) [Miniflux 2](https://github.com/miniflux/v2) Web单栏式
+- ![GitHub Repo stars](https://img.shields.io/github/stars/miniflux/v2) [Miniflux 2](https://github.com/miniflux/v2) Web单栏式，自托管的项目
 - ![GitHub Repo stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS) [FreshRSS](https://github.com/FreshRSS/FreshRSS) 自建RSS
 - [RSS.app](https://rss.app) 从任何URL即时生成RSS提要
-- [Inoreader](https://www.inoreader.com)
-- [Feedly](https://feedly.com)
+- [Inoreader](https://www.inoreader.com) 免费150个订阅
+- [Feedly](https://feedly.com) 对一些VPN节点会直接拒绝请求，就会报Invalid request，手机端不能直接导出
 - [Newsblur](https://www.newsblur.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/prof18/feed-flow) [FeedFlow](https://github.com/prof18/feed-flow) (Windows, Android, iOS, macOS) 开源免费RSSReader
 - [Pintap: An RSS Reader](https://apps.apple.com/us/app/pintap-an-rss-reader/id6463398545)
@@ -1946,6 +1946,7 @@ Enjoy 🤩
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
   - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
+    - [Brave Origin](https://github.com/brave/brave-browser/releases) Windows收费60美元，Linux免费，只保留最底层隐私安全功能，砍掉所有附加功能
     - [Brave™ portable](https://github.com/portapps/brave-portable) (Windows)
     - [SlimBrave](https://github.com/ltx0101/SlimBrave) (Windows) 管理员权限运行command in PowerShell
     - [brave-extreme-debloat-privacy.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-extreme-debloat-privacy.reg) (Windows) 偏激进的 Brave 深度精简策略，最大化去功能和隐私保护。关闭了 AI、Rewards、钱包、VPN、新闻、通话、播放列表、Tor 等几乎所有附加服务，同时禁用遥测与统计上报，并强制启用加密 DNS 且指定固定提供商
@@ -2079,10 +2080,11 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xlch88/YoutubeTweak) [Youtube Tweak](https://github.com/xlch88/YoutubeTweak) 固定播放分辨率、快速调节播放速度
   - [YouTube AdBlock - Coffee Break for YouTube](https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap)
   - [AdShield - Ultimate Ad Blocker for YouTube](https://chromewebstore.google.com/detail/adshield-ultimate-ad-bloc/gmjaaefflbggfiacjihajgijemdlhkeb)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/goodtube4u/goodtube) [GoodTube](https://github.com/goodtube4u/goodtube) 100% 免费使用
+  - [GoodTube](https://github.com/goodtube4u/goodtube) 100% 免费使用，因为有盗版，开源仓库被作者摧毁了
   - [YouPlay](https://apps.apple.com/us/app/youplay-adblock-video-browser/id6751497996) (iOS) YouTube去广告
 
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
+- [RSS Feed Reader](https://chromewebstore.google.com/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?pli=1) 免费200feeds
 - [Extension Bridge](https://github.com/michaelnyc17/extension-bridge) Find Firefox alternatives for Chrome extensions
 - [Save to Notion](https://chrome.google.com/webstore/detail/save-to-notion/ldmmifpegigmeammaeckplhnjbbpccmm)
 - [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf)
@@ -2200,7 +2202,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/syncthing/syncthing) [Syncthing](https://github.com/syncthing/syncthing) 连续文件同步，可在多台计算机之间实时同步文件，命令行 ⭐
   - [syncthing-macos](https://github.com/syncthing/syncthing-macos) (macOS)
   - [SyncthingWindowsSetup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) (Windows) 轻量级但功能齐全的安装程序
-  - [Synctrain](https://apps.apple.com/gb/app/synctrain/id6553985316) (iOS)
+  - [Synctrain](https://apps.apple.com/gb/app/synctrain/id6553985316) (iOS) ⭐
   - [Möbius Sync](https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216) (iOS) Moebius莫比乌斯
 - [FreeFileSync](https://freefilesync.org) 文件夹比较同步
 - ![GitHub Repo stars](https://img.shields.io/github/stars/polius/FileSync) [FileSync](https://github.com/polius/FileSync) (Web)
