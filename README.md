@@ -1441,12 +1441,12 @@ Enjoy 🤩
 - [1Password 8](https://1password.com/product)
   - [1Password 7](https://apps.apple.com/cn/app/1password-password-manager/id568903335)
 - [Password Manager SafeInCloud 2](https://safe-in-cloud.com/en)
-- [Secrets](https://apps.apple.com/app/id1591056366) (macOS, iOS) ⭐
+- [Secrets](https://apps.apple.com/app/id1591056366) (macOS, iOS) [Chrome extension](https://chromewebstore.google.com/detail/secrets/nljhipdleaglbopomanmebenmiibbkmg) ⭐
 - [Norton Password](https://my.norton.com/extspa/passwordmanager)
 - [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) (iOS) 免费版限制200个密码
 - [MEGA Pass](https://mega.io/pass) €0.99 per month
-- [PearPass](https://pass.pears.com)  (Windows, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tetherto/pearpass-app-mobile) [PearPass mobile](https://github.com/tetherto/pearpass-app-mobile) (Windows, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费 ⭐
 
 - 🗃️Archived
   - Dropbox Passwords 已关闭
@@ -1760,7 +1760,7 @@ Enjoy 🤩
   - [Google Public DNS](https://developers.google.com/speed/public-dns) IPv4: 8.8.8.8 和 8.8.4.4
   - [AdGuard DNS](https://adguard-dns.io) IPv4: 94.140.14.14 和 94.140.15.15
 
-- iOS VPN: [Surge](https://apps.apple.com/us/app/surge-5/id1442620678), [Shadowsocket](https://apps.apple.com/ie/app/shadowrocket/id932747118), [sing-box](https://apps.apple.com/us/app/sing-box-vt/id6673731168), [Potatso](https://apps.apple.com/us/app/potatso/id1239860606), Wingy, [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620), squirrelVPN, nthLink, banana, gitspeed, flyrouter, mumevpn, anyconnect, Kitsunebi, [Outline App](https://apps.apple.com/us/app/outline-app/id1356177741), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [Loon](https://apps.apple.com/us/app/loon/id1373567447), [jamjams](https://apps.apple.com/us/app/jamjams/id6477182037), wireguard, [V2box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690), [Streisand](https://apps.apple.com/us/app/streisand/id6450534064), [Clash Mi](https://apps.apple.com/us/app/clash-mi/id6744321968)
+- iOS VPN: [Surge 不推荐](https://apps.apple.com/us/app/surge-5/id1442620678), [Shadowsocket](https://apps.apple.com/ie/app/shadowrocket/id932747118), [sing-box](https://apps.apple.com/us/app/sing-box-vt/id6673731168), [Potatso](https://apps.apple.com/us/app/potatso/id1239860606), Wingy, [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620), squirrelVPN, nthLink, banana, gitspeed, flyrouter, mumevpn, anyconnect, Kitsunebi, [Outline App](https://apps.apple.com/us/app/outline-app/id1356177741), [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [Loon](https://apps.apple.com/us/app/loon/id1373567447), [jamjams](https://apps.apple.com/us/app/jamjams/id6477182037), wireguard, [V2box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690), [Streisand](https://apps.apple.com/us/app/streisand/id6450534064), [Clash Mi](https://apps.apple.com/us/app/clash-mi/id6744321968)
 
 - Android VPN: [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid), [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid), [v2rayNG](https://github.com/2dust/v2rayNG), [Surfboard](https://github.com/getsurfboard/surfboard), [Hiddify Next](https://github.com/hiddify/hiddify-next), [Clash for Flutter](https://github.com/mapleafgo/clash-for-flutter), [Shadowsocks-Android](https://github.com/shadowsocks/shadowsocks-android/releases)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/SagerNet/sing-box) [Sing Box](https://github.com/SagerNet/sing-box) 创建网络代理服务器、客户端和透明代理
