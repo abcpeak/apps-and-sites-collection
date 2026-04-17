@@ -2310,6 +2310,8 @@ Enjoy 🤩
 - [SaveTik](https://savetik.co/zh-cn) 下载Tiktok视频
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next) [Motrix Next](https://github.com/AnInsomniacy/motrix-next) ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
+
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，停更 ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
