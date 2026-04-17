@@ -189,6 +189,7 @@ Enjoy 🤩
   - [The Best Web Scraping Discord Servers](https://scrapeops.io/web-scraping-playbook/best-web-scraping-discord-servers)
   - [Easy Scraper](https://easyscraper.com)
   - [Distill Web Monitor](https://distill.io) ⭐
+  - [Spider_XHS](https://github.com/cv-cat/Spider_XHS) 小红书爬虫数据采集
 
 - Programming language 编程语言：JavaScript, C#, php, C++, Java, go...
   - ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react) [React](https://github.com/facebook/react) 用于构建用户界面的JavaScript框架
@@ -1742,6 +1743,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Diorser/LiteMonitor) [LiteMonitor](https://github.com/Diorser/LiteMonitor) 桌面硬件监控软件，实时监测 CPU、GPU、内存、磁盘、网络等系统性能
   - [Net Speed Meter](https://netspeedm.com) 显示网速的软件
   - [Test your IPv6](https://test-ipv6.com)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet) [sniffnet](https://github.com/GyulyVGC/sniffnet) 监控网络，互联网流量流向的国家和域名信息、使用的协议，了解哪些应用和程序正在占用你的带宽
   - Speed Test 网速测试：[Speed Cloudflare](https://speed.cloudflare.com) 、[Speedtest](https://www.speedtest.net)、[fast](https://fast.com)、[LibreSpeed](https://librespeed.org)
   - 网络分析：[Network Analyzer App](https://techet.net/netanalyzer), [WiFiman](https://wifiman.com), [Fing](https://apps.apple.com/us/app/fing-network-scanner/id430921107), [iSocketTool](https://apps.apple.com/us/app/isockettool/id1461652639)
   - IP查询：[IPinfo](https://ipinfo.io/what-is-my-ip)、[IPCheck.ing](https://ipcheck.ing)、[WHOER](https://whoer.net/zh)、[ping.pe](https://ping.pe)、[IP Address details](https://ipleak.net)、[myip](https://www.myip.com)、[whatismyipaddress](https://whatismyipaddress.com)
@@ -2347,6 +2349,7 @@ Enjoy 🤩
 - [ToDesk](https://todesk.com/?lang=en) 免费用户配额每月连接时长缩减至80小时
 - PC有线网卡+ddns+端口映射就可以远程唤醒
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kunkundi/crossdesk) [CrossDesk](https://github.com/kunkundi/crossdesk) 跨平台远程桌面软件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Zarestia-Dev/rclone-manager) [RClone Manager](https://github.com/Zarestia-Dev/rclone-manager) 管理 Rclone 远程设备
 
 ### 📲Screen Share 手机投屏 Screen Mirror
 
