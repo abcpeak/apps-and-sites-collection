@@ -1048,7 +1048,6 @@ Enjoy 🤩
 
 #### Material Library 素材库 images, videos and music
 
-- [Pinterest](https://www.pinterest.com)
 - [pixabay](https://pixabay.com)
 - [Flickr](https://www.flickr.com) 图片分享的社交网站
 - [Freepik](https://www.freepik.com)
@@ -1990,7 +1989,6 @@ Enjoy 🤩
   - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS) 集成了广告拦截，暗黑模式，不收集任何数据，注重隐私
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
-  - [Quetta Browser](https://apps.apple.com/us/app/quetta-video-adblock-browser/id6504077999) (iOS, Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
   - ![GitHub Repo stars](https://img.shields.io/github/stars/enzocarpentier/Axonium) [Axonium](https://github.com/enzocarpentier/Axonium) (macOS)
 
@@ -2165,7 +2163,6 @@ Enjoy 🤩
 - [Marta](https://marta.sh) (macOS) File Manager
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MHNightCat/superfile) [superfile](https://github.com/MHNightCat/superfile) (Linux, macOS, Windows) 终端文件管理器
 - [Fileso](https://apps.apple.com/us/app/fileso-unzip-tar-gz-rar-7z-xz/id6544783659) (iOS) file management
-- [Documents](https://apps.apple.com/us/app/id364901807) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qarmin/czkawka) [Czkawka](https://github.com/qarmin/czkawka) (Windows, Linux) Multi functional app to find duplicates, empty folders, similar images etc.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sxyazi/yazi) [Yazi](https://github.com/sxyazi/yazi) (Windows, Linux) Blazing Fast Terminal File Manager
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kimlimjustin/xplorer) [Xplorer](https://github.com/kimlimjustin/xplorer) (Windows) a customizable, modern file manager
