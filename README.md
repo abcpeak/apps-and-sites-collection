@@ -1513,6 +1513,7 @@ Enjoy 🤩
 - [Costco](https://www.costco.com) 开市客
 - [eneba](https://www.eneba.com) 游戏、礼品卡
 - [AliExpress](https://best.aliexpress.com)
+- [Ozon](https://ozon.com) 俄罗斯本土头部综合电商平台
 
 ## 💬Social Networking 社交网络
 
