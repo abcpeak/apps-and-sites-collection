@@ -550,7 +550,7 @@ Enjoy 🤩
 - [Kodi](https://kodi.tv) 媒体中心，智能电视的播放软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tsukinaha/tsukimi) [Tsukimi](https://github.com/tsukinaha/tsukimi) (Windows, Linux) A simple third-party Emby client
 - [Infuse](https://firecore.com/infuse) (iOS, macOS, AppleTV) 支持HDR和杜比。不支持多版本选择，扫库机制体验较差
-- ![GitHub Repo stars](https://img.shields.io/github/stars/AttemptD/AfuseKt-release) [AfuseKt](https://github.com/AttemptD/AfuseKt-release/releases) 非开源，GitHub发布release版本，不包含任何代码，需安卓11以上，支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AttemptD/AfuseKt-release) [AfuseKt](https://github.com/AttemptD/AfuseKt-release/releases) 非开源，GitHub仅发布release版本，不包含任何代码。需安卓11以上，支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘
 - [Plex Media Server](https://www.plex.tv/media-server-downloads) 看IPTV用 Cigaras 或 IPTV.bundle 插件
   - ![GitHub Repo stars](https://img.shields.io/github/stars/sct/overseerr) [Plex Overseerr](https://overseerr.dev) 与Plex搭配使用
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin) [Jellyfin](https://github.com/jellyfin/jellyfin) The Free Software Media System 官方称由于Emby 3.6开始闭源后，引起了一些核心开发人员的不满，所以最近在Emby的基础上单独开发了Jellyfin媒体服务器
@@ -1264,7 +1264,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/portive/wysimark) [wysimark](https://github.com/portive/wysimark) Markdown Web 应用程序
 - [Notepad++](https://notepad-plus-plus.org) note taking app ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vim/vim) [Vim](https://github.com/vim/vim)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim) [Neovim](https://github.com/neovim/neovim) (Windows, Linux, MacOS)Vim的一个分支，现代化文本编辑器
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/neovim/neovim) [Neovim](https://github.com/neovim/neovim) (Windows, Linux, MacOS) Vim的一个分支，现代化文本编辑器
 - [Sublime Text](https://www.sublimetext.com)
 - [Google Keep](https://keep.google.com) 单个限制2万字符，历史版本仅文本，时间可超半年，支持手绘
 - [Kate](https://kate-editor.org) (Linux, Windows and macOS) 开源，源码托管在 KDE 的 GitLab 上
@@ -1801,7 +1801,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit) [BleachBit](https://www.bleachbit.org) 开源免费的系统清理工具
 - [Wise Registry Cleaner](https://www.wisecleaner.com/wise-registry-cleaner.html)
 - [HiBit Uninstaller](https://hibitsoft.ir) uninstalling Windows software
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller) [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) 卸载神器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller) [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) 卸载神器 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher) [Flow-Launcher](https://github.com/Flow-Launcher/Flow.Launcher) Quick file search & app launcher  (Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Rem0o/FanControl.Releases) [Fan Control](https://github.com/Rem0o/FanControl.Releases) Windows风扇控制软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kando-menu/kando) [kando](https://github.com/kando-menu/kando) The Cross-Platform Pie Menu 跨平台桌面饼图菜单工具
@@ -2153,6 +2153,7 @@ Enjoy 🤩
 - [Everything](https://www.voidtools.com) (Windows)文件查找 文件重命名 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/srwi/EverythingToolbar) [EverythingToolbar](https://github.com/srwi/EverythingToolbar) Tweaked Taskbars
 - [Listary](https://www.listary.com) 第三方的文件管理系统 搜索实用程序
+- [once_power](https://github.com/ilgnefz/once_power) 文件批量重命名工具
 - [TextSeek](https://www.textseek.net/en) (💵)
 - [Agent Ransack](https://www.mythicsoft.com/agentransack) 快速有效地查找硬盘驱动器上的文件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WinMerge/winmerge) [WinMerge](https://github.com/WinMerge/winmerge) differencing and merging tool
