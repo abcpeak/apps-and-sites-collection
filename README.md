@@ -2284,14 +2284,14 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT) [BiglyBT](https://www.github.com/BiglySoftware/BiglyBT) 开源免费BT种子客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl) [youtube-dl](https://github.com/ytdl-org/youtube-dl) YouTube download. Dec 17, 2021
   - ![GitHub Repo stars](https://img.shields.io/github/stars/alexta69/metube) [MeTube](https://github.com/alexta69/metube) Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) [yt-dlp](https://github.com/yt-dlp/yt-dlp) A youtube-dl fork with additional features and fixes. Most active fork of yt-dl. ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) [yt-dlp](https://github.com/yt-dlp/yt-dlp) A youtube-dl fork with additional features and fixes. Most active fork of yt-dl ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/JunkFood02/Seal) [Seal](https://github.com/JunkFood02/Seal) Video/Audio Downloader for Android, based on yt-dlp. Oct 17, 2024
   - ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) 基于 yt-dlp 项目的音视频下载工具 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/axcore/tartube) [Tartube](https://github.com/axcore/tartube) GUI for yt-dl and yt-dlp. Can download videos with segments cut out.
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/nexmoe/VidBee) [VidBee](https://github.com/nexmoe/VidBee) (macOS, Windows, Linux) Download videos from almost any website worldwide 界面现代化，支持通过 RSS 订阅自动下载⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/nexmoe/VidBee) [VidBee](https://github.com/nexmoe/VidBee) (macOS, Windows, Linux) Download videos from almost any website worldwide 界面现代化，支持通过 RSS 订阅自动下载 ⭐
   - [ClipGrab](https://clipgrab.org) (Windows) 原理也是使用 youtube-dlp 下载视频，所以初次安装需要下载ytb-dlp
 - ![GitHub Repo stars](https://img.shields.io/github/stars/transmission/transmission) [Transmission](https://github.com/transmission/transmission) Bittorrent客户端
-- ![GitHub Repo stars](https://img.shields.io/github/stars/putyy/res-downloader) [res-downloader](https://github.com/putyy/res-downloader) 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/putyy/res-downloader) [res-downloader](https://github.com/putyy/res-downloader) 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载  ⭐
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
 - [Torrex Lite](https://apps.microsoft.com/store/detail/torrex-lite-torrent-downloader/9WZDNCRFJB3D)
@@ -2315,7 +2315,6 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next) [Motrix Next](https://github.com/AnInsomniacy/motrix-next) ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
-
 
 - 🗃️Archived
   - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，停更 ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
