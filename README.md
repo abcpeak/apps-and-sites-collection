@@ -88,7 +88,6 @@ Enjoy 🤩
 - [Eleven Reader](https://apps.apple.com/app/id6479373050) 32种语言的数十种声音朗读书籍、文章和PDF
   - ![GitHub Repo stars](https://img.shields.io/github/stars/omnivore-app/omnivore) [Omnivore](https://github.com/omnivore-app/omnivore) 稍后阅读工具，已被ElevenLabs收购，停止维护
 - [读不舍手](https://apps.apple.com/app/id1662413517) (iOS) 仅支持txt
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/shidahuilang/shuyuan) [shuyuan](https://github.com/shidahuilang/shuyuan) 书源
 - [iReadNote](https://apps.apple.com/gb/app/ireadnote/id6450734655) (iOS) 爱阅记
 - [MoboReader-The Alpha King](https://apps.apple.com/us/app/moboreader-the-alpha-king/id1291247971) (iOS)
 
@@ -774,6 +773,8 @@ Enjoy 🤩
 - [NXStudio](https://downloadcenter.nikonimglib.com/en/products/564/NX_Studio.html) 尼康的专业图像处理软件
 - [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/T8RIN/ImageToolbox) [ImageToolbox](https://github.com/T8RIN/ImageToolbox) 全能型图片处理工具
+- Scrollie (iOS)
+- StitchPics (iOS)
 
 ## 💪Health & Fitness 健康健美
 
@@ -1638,7 +1639,7 @@ Enjoy 🤩
 - [NetLimiter](https://www.netlimiter.com) 程序网络控制 Change network configuration
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sammwyy/MikuMikuBeam) [MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) (Windows, Linux, macOS, Android)只需创建代理列表、用户代理列表文件即可开始测压。支持实时攻击可视化、基于工作线程的攻击处理等
 - [AutoOff](https://www.starcodec.com/en/autooff) 自动关机，最后更新2023.8.10
-- ![GitHub Repo stars](https://img.shields.io/github/stars/lukaslangrock/ShutdownTimerClassic) [ShutdownTimerClassic](https://github.com/lukaslangrock/ShutdownTimerClassic) 自动关机，最后更新2025.2.3
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lukaslangrock/ShutdownTimerClassic) [ShutdownTimerClassic](https://github.com/lukaslangrock/ShutdownTimerClassic) 自动关机
 - [Automate mouse clicks](https://www.opautoclicker.com) 鼠标自动点击器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/koekeishiya/yabai) [yabai for macOS](https://github.com/koekeishiya/yabai) macOS内置窗口管理器的扩展
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MrKai77/Loop) [Loop](https://github.com/MrKai77/Loop) (macOS) 窗口管理
@@ -2299,7 +2300,6 @@ Enjoy 🤩
 - [4K Video Downloader](https://www.4kdownload.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent) [qBittorrent](https://github.com/qbittorrent/qBittorrent) 轻量级BitTorrent客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed) [Gopeed](https://www.gopeed.com) 开源免费下载器，支持HTTP, BitTorrent, Magnet
-- [XDown](https://xdown.org) 免费无广告的idm torrent合成体 最后更新2025-05-18⭐
 - [By Click Downloader](https://www.byclickdownloader.com)
 - [Downie for Mac](https://downiemac.com/downie-video-download-tool) 视频下载软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/webtorrent/webtorrent) [WebTorrent Desktop](https://webtorrent.io/desktop)
@@ -2318,6 +2318,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next) [Motrix Next](https://github.com/AnInsomniacy/motrix-next) ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
 
 - 🗃️Archived
+  - [XDown](https://xdown.org) 免费无广告的idm torrent合成体 最后更新2025-05-18
   - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，停更 ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/imfile-io/imfile-desktop) [imFile](https://github.com/imfile-io/imfile-desktop) 基于Motrix的fork并维护，最后更新Aug 29, 2024
   - ![GitHub Repo stars](https://img.shields.io/github/stars/KurtBestor/Hitomi-Downloader) [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) Oct 27, 2024
