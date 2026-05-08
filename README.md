@@ -1533,6 +1533,7 @@ Enjoy 🤩
 - [Gettr](https://gettr.com)
 - [Truth Social](https://truthsocial.com)
 - [Gab](https://gab.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/DimensionDev/Flare) [Flare](https://github.com/DimensionDev/Flare) Browse Mastodon, Bluesky, X, Misskey, Nostr and RSS all in one app
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mastodon/mastodon) [Mastodon](https://github.com/mastodon/mastodon) ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/LucasGGamerM/moshidon) [Moshidon](https://github.com/LucasGGamerM/moshidon) (Android)
 - [fediverse](https://www.fediverse.to) 项目：Diaspora、Hubzilla、Pleroma、Peertube、Misskey、Friendica、Hoot.it
