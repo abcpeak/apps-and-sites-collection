@@ -1339,7 +1339,6 @@ Enjoy 🤩
 - [shortwave](https://www.shortwave.com) Agentic AI that helps you organize, write, search, schedule, and more with just a prompt
 - [Mailbox.org](https://mailbox.org)
 - [StartMail](https://www.startmail.com) 每月2.5USD
-- [eM Client](https://www.emclient.com) (Windows, macOS, Android, iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bkaankose/Wino-Mail) [Wino Mail](https://github.com/bkaankose/Wino-Mail) (Windows) 三账号以上需要购买高级版
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Foundry376/Mailspring) [Mailspring](https://github.com/Foundry376/Mailspring) (macOS, Linux, Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/M66B/FairEmail) [FairEmail](https://github.com/M66B/FairEmail) (Android)
@@ -1348,18 +1347,27 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tutao/tutanota) [Tuta](https://github.com/tutao/tutanota/releases) 位于德国，全平台开源的加密邮箱。超过六个月未访问帐户会删除，用户订阅付费版本则允许恢复。
 - [Guerrilla Mail](https://www.guerrillamail.com)
 - [ProtonMail](https://protonapps.com) 位于瑞士的安全电子邮件 ⭐
-  - [Proton Mail Bridge](https://proton.me/mail/bridge) 使用Apple Mail、Outlook、Thunderbird等访问ProtonMail, Proton Mail Bridge is available only with a paid plan
+  
 - [Mailfence](https://mailfence.com) 位于比利时的OpenPGP电子邮件服务
 - [Fastmail](https://www.fastmail.com)
 - [Zoho Mail](https://www.zoho.com)
 - [Rackspace](https://apps.rackspace.com/login)
-- [Thunderbird](https://www.thunderbird.net/en-US) 雷鸟邮件客户端
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android) Thunderbird
-- [Spark Mail](https://sparkmailapp.com) 乌克兰公司Readdle的邮箱产品
+
 - [Mailbird](https://www.getmailbird.com) 免费版支持1个账户
 - [Airmail](https://airmailapp.com) (macOS, iOS)
 - [Vivaldi Webmail](https://webmail.vivaldi.net) 位于冰岛
 - [Secria](https://secria.me) 完全加密的、注重隐私保护，无广告，无监控
+
+#### Desktop Email Clients 邮件客户端
+
+- [Thunderbird](https://www.thunderbird.net/en-US) 雷鸟邮件客户端
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android) Thunderbird
+- [Spark Mail](https://sparkmailapp.com) 乌克兰公司Readdle的邮箱产品
+- [Missive](https://missiveapp.com) 需付费
+- [eM Client](https://www.emclient.com) Free license is limited for personal, non‑commercial use.
+- [Proton Mail Bridge](https://proton.me/mail/bridge) 使用Apple Mail、Outlook、Thunderbird等访问ProtonMail, Proton Mail Bridge is available only with a paid plan
+- [Roundcube](https://roundcube.net)
+- [SnappyMail](https://github.com/the-djmaze/snappymail)
 
 #### Mail Forwarding 邮件转发 邮件别名（Alias）
 
