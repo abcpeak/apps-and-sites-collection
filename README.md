@@ -2437,6 +2437,8 @@ Enjoy 🤩
 - [iMazing](https://imazing.com) (Windows, macOS) Manage your iPhone on your terms. iOS设备管理器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iDescriptor/iDescriptor) [iDescriptor](https://github.com/iDescriptor/iDescriptor) 跨平台开源免费iDevice管理工具。支持USB连接、AirPlay、从 Apple Store 下载安装应用、虚拟位置模拟等。
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PlayCover/PlayCover) [PlayCover](https://github.com/PlayCover/PlayCover) Runs iOS apps on Apple Silicon Macs
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/AssppWeb) [AssppWeb](https://github.com/Lakr233/AssppWeb) 网页端iOS免签直装工具，一键装 IPA
+
 
 - **📥macOS下载站**
   - [Open-Source macOS Apps](https://github.com/iCHAIT/awesome-macOS) Open Source macOS Apps 苹果电脑软件
@@ -2566,6 +2568,8 @@ Enjoy 🤩
 
 ## 🎮Games 游戏
 
+### 🃏游戏平台
+
 - [Steam](https://store.steampowered.com) 最大的视频游戏在线零售商，游戏时间不到2小时并购买不到14天支持退款
 - [Twitch](https://www.twitch.tv) 游戏直播平台
 - [Epic](https://store.epicgames.com)
@@ -2580,7 +2584,9 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/godotengine/godot) [Godot](https://github.com/godotengine/godot) 开源游戏引擎
 - [Warsow](https://www.warsow.net) 免费和快节奏的FPS游戏
 
-### 🎮Game Tool 游戏工具
+- [XBOX](https://www.xbox.com) 微软旗下的游戏主机品牌
+
+### 🕹️Game Tool 游戏工具
 
 - [JoyToKey](https://joytokey.net/en) 游戏摇杆控制
 - ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite) [Playnite](https://github.com/JosefNemec/Playnite) 开源视频游戏库管理器
