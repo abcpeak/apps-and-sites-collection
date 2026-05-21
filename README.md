@@ -1958,7 +1958,7 @@ Enjoy 🤩
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
   - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
-    - [Brave Origin](https://github.com/brave/brave-browser/releases) Windows收费60美元，Linux免费，只保留最底层隐私安全功能，砍掉所有附加功能
+    - [Brave Origin](https://github.com/brave/brave-browser/releases) (Windows收费60美元，Linux免费) 只保留最底层隐私安全功能，砍掉所有附加功能
     - [Brave™ portable](https://github.com/portapps/brave-portable) (Windows)
     - [SlimBrave](https://github.com/ltx0101/SlimBrave) (Windows) 管理员权限运行command in PowerShell
     - [brave-extreme-debloat-privacy.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-extreme-debloat-privacy.reg) (Windows) 偏激进的 Brave 深度精简策略，最大化去功能和隐私保护。关闭了 AI、Rewards、钱包、VPN、新闻、通话、播放列表、Tor 等几乎所有附加服务，同时禁用遥测与统计上报，并强制启用加密 DNS 且指定固定提供商
