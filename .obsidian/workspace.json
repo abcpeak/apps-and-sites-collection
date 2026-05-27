@@ -185,20 +185,32 @@
               "type": "outline",
               "state": {
                 "file": "README.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "5cacaed6fc838a5c",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +223,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "4d0371df7b8444f1",
+  "active": "9b82f3549734113e",
   "lastOpenFiles": [
     "small-lists/awesome-free-apps.md",
     "README.md",

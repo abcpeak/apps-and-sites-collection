@@ -1368,6 +1368,7 @@ Enjoy 🤩
 - [Proton Mail Bridge](https://proton.me/mail/bridge) 使用Apple Mail、Outlook、Thunderbird等访问ProtonMail, Proton Mail Bridge is available only with a paid plan
 - [Roundcube](https://roundcube.net)
 - [SnappyMail](https://github.com/the-djmaze/snappymail)
+- [Eppie](https://github.com/Eppie-io/Eppie-App) 来自爱沙尼亚（Estonia）
 
 #### Mail Forwarding 邮件转发 邮件别名（Alias）
 
