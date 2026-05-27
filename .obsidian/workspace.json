@@ -49,8 +49,7 @@
               "title": "awesome-free-apps"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "small-lists/awesome-free-apps.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for awesome-free-apps"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -142,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "small-lists/awesome-free-apps.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from awesome-free-apps"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "small-lists/awesome-free-apps.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of awesome-free-apps"
+              "title": "Outline of README"
             }
           }
         ]
@@ -212,10 +211,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d42af4f636f0fbe",
+  "active": "4d0371df7b8444f1",
   "lastOpenFiles": [
-    "README.md",
     "small-lists/awesome-free-apps.md",
+    "README.md",
     "small-lists/browser-extensions.md",
     "small-lists/行业内幕完整版.md",
     "Untitled.canvas",
