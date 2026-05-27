@@ -1347,13 +1347,10 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tutao/tutanota) [Tuta](https://github.com/tutao/tutanota/releases) 位于德国，全平台开源的加密邮箱。超过六个月未访问帐户会删除，用户订阅付费版本则允许恢复。
 - [Guerrilla Mail](https://www.guerrillamail.com)
 - [ProtonMail](https://protonapps.com) 位于瑞士的安全电子邮件 ⭐
-  
 - [Mailfence](https://mailfence.com) 位于比利时的OpenPGP电子邮件服务
 - [Fastmail](https://www.fastmail.com)
 - [Zoho Mail](https://www.zoho.com)
 - [Rackspace](https://apps.rackspace.com/login)
-
-- [Mailbird](https://www.getmailbird.com) 免费版支持1个账户
 - [Airmail](https://airmailapp.com) (macOS, iOS)
 - [Vivaldi Webmail](https://webmail.vivaldi.net) 位于冰岛
 - [Secria](https://secria.me) 完全加密的、注重隐私保护，无广告，无监控
@@ -1364,6 +1361,9 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android) Thunderbird
 - [Spark Mail](https://sparkmailapp.com) 乌克兰公司Readdle的邮箱产品
 - [Missive](https://missiveapp.com) 需付费
+- [Mailbird](https://www.getmailbird.com) 免费版支持1个账户
+- [Edison Mail](https://www.edisonmail.com)
+- [BlueMail](https://bluemail.me) (Windows, macOS, iOS, Android)
 - [eM Client](https://www.emclient.com) Free license is limited for personal, non‑commercial use.
 - [Proton Mail Bridge](https://proton.me/mail/bridge) 使用Apple Mail、Outlook、Thunderbird等访问ProtonMail, Proton Mail Bridge is available only with a paid plan
 - [Roundcube](https://roundcube.net)
@@ -2094,6 +2094,7 @@ Enjoy 🤩
   - [GoodTube](https://github.com/goodtube4u/goodtube) 100% 免费使用，因为有盗版，开源仓库被作者摧毁了
   - [YouPlay](https://apps.apple.com/us/app/youplay-adblock-video-browser/id6751497996) (iOS) YouTube去广告
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OspreyProject/Osprey) [Osprey](https://github.com/OspreyProject/Osprey) 保护你免受恶意网站的侵害
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
 - [RSS Feed Reader](https://chromewebstore.google.com/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?pli=1) 免费200feeds
 - [Extension Bridge](https://github.com/michaelnyc17/extension-bridge) Find Firefox alternatives for Chrome extensions
