@@ -2650,8 +2650,7 @@ Enjoy 🤩
 - [filepuma.com](https://www.filepuma.com)
 - [Filehippo](https://filehippo.com)
 - [lo4d](https://www.lo4d.com) 免费软件
-- [Similar Web](https://www.similarweb.com)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/rainxchzed/Github-Store) [Github-Store](https://github.com/rainxchzed/Github-Store) (Android, Windows) A free, open-source app store for GitHub releases ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rainxchzed/Github-Store) [Github-Store](https://github.com/rainxchzed/Github-Store) (Android, Windows) App store for GitHub releases
 
 ### 影视资源站（PT站、BT资源网站）
 
