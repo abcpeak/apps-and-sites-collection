@@ -1434,7 +1434,7 @@ Enjoy 🤩
 
 - 密码泄露检测: [Firefox Monitor](https://monitor.firefox.com)、[HaveIbeenPwned](https://haveibeenpwned.com)、[Intelligence X](https://intelx.io)、[Dehashed](https://www.dehashed.com)
 
-- [Apple Passwords App](https://apps.apple.com/us/app/passwords/id6473799789) 仅支持Mac导入，iOS不能导入密码⭐
+- [Apple Passwords App](https://apps.apple.com/us/app/passwords/id6473799789) 导入仅支持Mac，iOS不能导入密码⭐
 - [Microsoft Password Manager in Edge](https://www.microsoft.com/en-us/edge/download)
 - [Google Password Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager&pli=1) (Android)
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
@@ -1457,7 +1457,7 @@ Enjoy 🤩
 - [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) (iOS) 免费版限制200个密码
 - [MEGA Pass](https://mega.io/pass) €0.99 per month
-- ![GitHub Repo stars](https://img.shields.io/github/stars/tetherto/pearpass-app-mobile) [PearPass mobile](https://github.com/tetherto/pearpass-app-mobile) (Windows, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tetherto/pearpass-app-mobile) [PearPass mobile](https://github.com/tetherto/pearpass-app-mobile) (Windows, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费
 
 - 🗃️Archived
   - Dropbox Passwords 已关闭
@@ -2219,7 +2219,7 @@ Enjoy 🤩
   - [Synctrain](https://apps.apple.com/gb/app/synctrain/id6553985316) (iOS) ⭐
   - [Möbius Sync](https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216) (iOS) Moebius莫比乌斯
 - [FreeFileSync](https://freefilesync.org) 文件夹比较同步
-- ![GitHub Repo stars](https://img.shields.io/github/stars/polius/FileSync) [FileSync](https://github.com/polius/FileSync) (Web)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/polius/FileSync) [FileSync](https://github.com/polius/FileSync) (Web) https://filesync.app
 - [goodsync](https://www.goodsync.com)
 - [TuneFUSION](https://www.dbpoweramp.com/tunefusion.htm) 自动将音频同步到各种设备，支持foobar2000
 - [PhotoSync](https://apps.apple.com/us/app/photosync-transfer-photos/id415850124) 需付费，transfer photos，支持WebDAV
