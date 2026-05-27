@@ -2575,6 +2575,7 @@ Enjoy 🤩
 - 梅林(Merlin)路由器科学上网软件：[fancyss](https://github.com/hq450/fancyss) 、[梅林Clash教程](https://mcreadme.gitbook.io/mc)
   - Merlin Clash插件：运行在KoolCenter软件中心上的Clash GUI插件，支持SS/SSR/Trojan/V2Ray等多种协议
 - 华硕路由器固件：[Asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin)
+- WrtHub (iOS) OpenWrt管理应用
 
 ## 🎮Games 游戏
 
@@ -2593,7 +2594,6 @@ Enjoy 🤩
 - [Unity](https://unity3d.com) 免费游戏引擎
 - ![GitHub Repo stars](https://img.shields.io/github/stars/godotengine/godot) [Godot](https://github.com/godotengine/godot) 开源游戏引擎
 - [Warsow](https://www.warsow.net) 免费和快节奏的FPS游戏
-
 - [XBOX](https://www.xbox.com) 微软旗下的游戏主机品牌
 
 ### 🕹️Game Tool 游戏工具
@@ -2650,7 +2650,7 @@ Enjoy 🤩
 - [Filehippo](https://filehippo.com)
 - [lo4d](https://www.lo4d.com) 免费软件
 - [Similar Web](https://www.similarweb.com)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/rainxchzed/Github-Store) [Github-Store](https://github.com/rainxchzed/Github-Store) (Android & Windows) A free, open-source app store for GitHub releases ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rainxchzed/Github-Store) [Github-Store](https://github.com/rainxchzed/Github-Store) (Android, Windows) A free, open-source app store for GitHub releases ⭐
 
 ### 影视资源站（PT站、BT资源网站）
 
@@ -2670,7 +2670,8 @@ Enjoy 🤩
 
 - [Onlyfans](https://onlyfans.com)
 
-## 🤝Contribute 贡献
+## 🔚End
+### 🤝Contribute 贡献
 
 Best Awesome [🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection) was made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
 
@@ -2678,18 +2679,12 @@ Firstly, Thank you for expressing your interest in contributing to our repositor
 
 Note: To support this repository, please give us a ⭐Star and 🔁Share and 📢Promote it to increase its visibility. Let's make it a win-win. 😉
 
-## 📄License 许可证
+### 📄License 许可证
 
 This work is licensed under [The MIT License (MIT)](https://opensource.org/licenses/MIT).
 
 Copyright © 2025 - 2026
 
-## 🌟Star History
+### 🌟Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)](https://www.star-history.com/#abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)
-
-<div align="right">
-
-[**Top 🔼**](https://github.com/abcpeak/apps-and-sites-collection#table-of-contents)
-
-</div>
