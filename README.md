@@ -145,6 +145,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/apache/echarts) [Apache ECharts](https://github.com/apache/echarts) 基于JavaScript的开源可视化图表库，Charts & Visualizations
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mermaid-js/mermaid) [Mermaid](https://github.com/mermaid-js/mermaid) 基于JavaScript的图表和图表工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/livekit/livekit) [LiveKit](https://github.com/livekit/livekit) 面向开发人员的实时视频、音频和数据
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ViscousPot/GitSync) [GitSync](https://github.com/ViscousPot/GitSync) (Android, iOS) 手机端的同步工具
 
 - 包管理
   - [Homebrew](https://brew.sh) (macOS, Linux) The Missing Package Manager
