@@ -6,7 +6,7 @@
 
 > 最佳最棒的APP与网站合集，最全面的应用和网站收集汇总，超赞软件和网站收集，最佳实用 App & 网站大全，优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台 Cross-Platform、免费 Freeware、开源软件 FOSS(Free and Open Source Software)。强烈推荐收藏👉Best Awesome [🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection)⭐资源收集整理的天花板，APP界的百科全书，网站界的维基百科！
 
-Welcome to the Curated List of Best Awesome Apps & Sites Collection!
+Welcome to the **Curated List of Best Awesome Apps & Sites Collection**!
 
 Multi-platform: Web, Windows, Apple (iOS/iPhone, macOS/Mac, iPadOS/iPad, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android (Android TV, Android Watch), Linux, ChromeOS
 
@@ -1703,6 +1703,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android) 搞快点，自动跳过开屏广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions) ⭐
+- [Vivaldi-Tracker_Ad_Blocking_Lists-Customized](https://github.com/dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized)
 
 - DNS Adblocking
   - [DNS Providers](https://adguard-dns.io/kb/general/dns-providers) DNS Provider Index
@@ -1959,15 +1960,15 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://github.com/chromium/chromium) The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。Brave运营自己的服务器，仅用于临时中转加密数据包。服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。服务器仅用于临时中转加密数据包，服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
     - [Brave Origin](https://github.com/brave/brave-browser/releases) (Windows收费60美元，Linux免费) 只保留最底层隐私安全功能，砍掉所有附加功能
     - [Brave™ portable](https://github.com/portapps/brave-portable) (Windows)
     - [SlimBrave](https://github.com/ltx0101/SlimBrave) (Windows) 管理员权限运行command in PowerShell
     - [brave-extreme-debloat-privacy.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-extreme-debloat-privacy.reg) (Windows) 偏激进的 Brave 深度精简策略，最大化去功能和隐私保护。关闭了 AI、Rewards、钱包、VPN、新闻、通话、播放列表、Tor 等几乎所有附加服务，同时禁用遥测与统计上报，并强制启用加密 DNS 且指定固定提供商
-    - [brave-minimal-debloat-daily.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-minimal-debloat-daily.reg) (Windows) 改动少，仅关闭 Rewards、钱包、VPN、AI Chat 和 Tor 等争议或非必要功能，保留大部分默认体验，新标签页指向 Brave Search，DNS 采用自动模式以保证兼容性
+    - [brave-minimal-debloat-daily.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-minimal-debloat-daily.reg) (Windows) 仅关闭 Rewards、钱包、VPN、AI Chat 和 Tor 等争议或非必要功能，保留大部分默认体验，新标签页指向 Brave Search，DNS 采用自动模式以保证兼容性
   - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
-  - [Vivaldi](https://vivaldi.com) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex的自动翻译。建议至少每6个月登录一次 ⭐
+  - [Vivaldi](https://vivaldi.com) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex自动翻译。建议至少每6个月登录一次 ⭐
   - [Yandex Browser](https://browser.yandex.com) 来自俄罗斯
   - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
@@ -2005,7 +2006,7 @@ Enjoy 🤩
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/enzocarpentier/Axonium) [Axonium](https://github.com/enzocarpentier/Axonium) (macOS)
+
 
 - **Firefox，Gecko 内核**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。⭐
@@ -2066,15 +2067,15 @@ Enjoy 🤩
   - [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc)  (Windows, macOS, Android)
   - [Board Browser](https://github.com/RicardoCA/board-browser)
 
-#### 浏览器速度测评、浏览器管理
+#### 🚀Browser Speed Test浏览器速度测评、浏览器管理
 
 - [浏览器对比](https://browsers.avoidthehack.com)
 - [BrowseRating](https://www.browserating.com)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS) 多浏览器管理工具，未来会支持Window和 Linux，支持创建无限本地配置文件、多浏览器下载及管理等功能
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS, Window, Linux) 多浏览器管理工具，支持创建无限本地配置文件、多浏览器下载及管理等功能
 - [Speedometer3.1](https://browserbench.org/Speedometer3.1) Browser Performance 网页浏览器的基准测试，通过对不同工作负载下的模拟用户交互进行时序来衡量网页应用响应速度
 - ![GitHub Repo stars](https://img.shields.io/github/stars/corbindavenport/just-the-browser) [Just the Browser](https://github.com/corbindavenport/just-the-browser) 移除桌面浏览器中的 AI 功能、遥测数据报告、赞助内容、产品集成
 - [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
-- [Vivaldi-Tracker_Ad_Blocking_Lists-Customized](https://github.com/dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized)
+
 
 - 🗃️Archived
   - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
