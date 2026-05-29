@@ -508,6 +508,7 @@ Enjoy 🤩
 - [TracyPlayer](https://apps.apple.com/tr/app/tracyplayer/id6450770064) (iOS)
 - [Potplayer](https://potplayer.tv) (Windows) 来自韩国 Kakao Corp. 支持播放WebDAV
 - ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc) [VLC media player](https://github.com/videolan/vlc) 开源免费的跨平台多媒体播放器 ![Latest Release Date](https://img.shields.io/github/last-commit/videolan/vlc)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vzhd1701/gridplayer) [Gridplayer](https://github.com/vzhd1701/gridplayer) (Linux, Mac, and Windows)  VLC 的媒体播放器，可以同时播放多个视频
 - [PlayerFab Ultra HD Player](https://www.videohelp.com/software/DVDFab-Media-Player) 蓝光高清播放器
 - [GOM Player Plus](https://www.gomlab.com/gomplayerplus-media-player) 来自韩国播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Hiram-Wong/ZyPlayer) [ZyPlayer Hiram-Wong](https://github.com/Hiram-Wong/ZyPlayer) 支持IPTV、主流视频平台解析 ![Latest Release Date](https://img.shields.io/github/release-date/Hiram-Wong/ZyPlayer)
