@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "small-lists/很好用的开源安卓软件.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "很好用的开源安卓软件"
+              "title": "README"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "small-lists/很好用的开源安卓软件.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 很好用的开源安卓软件"
+              "title": "Outline of README"
             }
           },
           {
@@ -225,9 +225,9 @@
   },
   "active": "4d0371df7b8444f1",
   "lastOpenFiles": [
+    "small-lists/很好用的开源安卓软件.md",
     "README.md",
     "small-lists/Awesome-Windows.md",
-    "small-lists/很好用的开源安卓软件.md",
     "small-lists/web-and-apps-collection.md",
     "small-lists/programthink-README.wiki",
     "small-lists/offa_android-foss.md",

@@ -1194,6 +1194,16 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3) [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) 为可扩展和高效的语言处理而设计
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1) [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) 用于推理任务，加强了大模型的深度思考能力
 
+向量数据库
+- [Faiss（Meta）](https://github.com/facebookresearch/faiss) 本地部署、免费、性能强；**不支持实时更新**，只能离线建索引。数据量小用 Faiss，不需服务器，不需付费，在自己电脑上就能跑
+- [Milvus（Zilliz）](https://github.com/milvus-io/milvus) 支持**实时插入 / 删除**、分布式、生态好、社区活跃
+- [Qdrant](https://github.com/qdrant/qdrant)
+- [Pinecone](https://www.pinecone.io/)
+- [Weaviate](https://github.com/weaviate/weaviate)
+企业级 RAG（检索增强生成）
+- [ragflow](https://github.com/infiniflow/ragflow) 检索增强生成引擎Retrieval-Augmented Generation (RAG) engine
+
+
 5.**其他AI工具与扩展**
 
 - [NVIDIA ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx) Nvidia英伟达发布的AI工具，可以使用Ilama或Mistral AI模型
