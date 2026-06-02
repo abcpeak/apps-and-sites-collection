@@ -49,7 +49,8 @@
               "title": "awesome-free-apps"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "small-lists/awesome-free-apps.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of awesome-free-apps"
             }
           },
           {
@@ -223,10 +224,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4d0371df7b8444f1",
+  "active": "7c6a630ea471a060",
   "lastOpenFiles": [
-    "small-lists/很好用的开源安卓软件.md",
     "README.md",
+    "small-lists/很好用的开源安卓软件.md",
     "small-lists/Awesome-Windows.md",
     "small-lists/web-and-apps-collection.md",
     "small-lists/programthink-README.wiki",
