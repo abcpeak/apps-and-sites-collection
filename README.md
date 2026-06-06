@@ -1725,7 +1725,7 @@ Enjoy 🤩
 - iOS Safari Adblocking
   - ![GitHub Repo stars](https://img.shields.io/github/stars/0xCUB3/wBlock) [wBlock](https://github.com/0xCUB3/wBlock) ⭐
   - [uBlock Origin Lite for iOS](https://apps.apple.com/au/app/ublock-origin-lite/id6745342698)
-  - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99)
+  - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99) 忘掉ublock吧，换成更高级的 Adguard 浏览器扩展⭐
   - [1Blocker](https://apps.apple.com/us/app/1blocker/id1365531024) Ad Blocker
   - [Easy Adblock for Safari](https://apps.apple.com/cn/app/easy-adblock-for-safari/id6477549966)
   - [Wipr 2](https://apps.apple.com/us/app/wipr-2/id1662217862) 设置iOS系统主语言和副语言
