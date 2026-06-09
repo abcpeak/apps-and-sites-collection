@@ -1097,6 +1097,7 @@ Enjoy 🤩
 - [CapCut](https://www.capcut.com/PC/download) 自动字幕和背景音乐要收费
 - [AVS Video ReMaker](https://www.avs4you.com/avs-video-remaker.aspx)
 - [Audacity](https://www.audacityteam.org) 音频处理软件
+- [AudioMass](https://github.com/pkalogiros/AudioMass) 免费的全功能网页音频与波形编辑工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut) [LosslessCut](https://github.com/mifi/lossless-cut) 无损剪辑
 - [vocalremover](https://vocalremover.org/zh) AI移除人声
 - [Bandicam](https://www.bandicam.com/downloads) 由韩国开发的高清游戏及视频录制的电脑工具
