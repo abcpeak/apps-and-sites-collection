@@ -1339,7 +1339,6 @@ Enjoy 🤩
 - [Apple Mail](https://www.icloud.com/mail) ⭐
 - [Gmail](https://gmail.com) 谷歌邮箱
 - [Outlook](https://outlook.cloud.microsoft) 微软旗下，订阅office 365无广告
-- [Notion Mail](https://mail.notion.so) AI驱动的电子邮件客户端，支持Gmail
 - [Yahoo Mail](https://mail.yahoo.com) 雅虎邮箱
 - [Mail.ru](https://mail.ru) 俄罗斯
 - [Yandex Mail](https://mail.yandex.com) 俄罗斯
@@ -2148,6 +2147,7 @@ Enjoy 🤩
 - [Vimium](https://vimium.github.io) 键盘快捷键
 - 浏览器主题 Theme
   - ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) (macOS, Linux & Windows) This theme compatible with Firefox 143+， 果味🦊皮
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Godiesc/firefox-gx) [firefox-gx](https://github.com/Godiesc/firefox-gx)  Opera-GX Theme for Firefox Css
 
 #### 🐵Userscripts Extension Manager 脚本管理，自定义和网页增强
 
