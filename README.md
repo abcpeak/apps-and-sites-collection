@@ -1835,6 +1835,9 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/memstechtips/Winhance) [Winhance](https://github.com/memstechtips/Winhance) 删除Windows应用程序（永久）
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jdm-contrib/jdm) [JustDeleteMe](https://github.com/jdm-contrib/jdm) 迅速找到要删除帐户的服务
 - [Doggy Cleaner](https://apps.apple.com/us/app/doggy-cleaner-photo-storage/id6747192774) (iOS) 相册清理
+- ![GitHub Repo stars](https://img.shields.io/github/stars/builtbybel/FluentCleaner) [FluentCleaner](https://github.com/builtbybel/FluentCleaner) A real WinUI desktop cleaner with terminal control and multi-database support
+
+
 - Hardware 检测
   - [AIDA64 Extreme Edition](https://www.aida64.com/downloads) 系统诊断和基准测试软件
   - [CPU-z](https://www.cpuid.com/softwares/cpu-z.html) 查看CPU 显卡 主板型号
@@ -2283,6 +2286,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile) [Seafile](https://github.com/haiwen/seafile) Open Source File Sync&Share and Document Collaboration Platform
 - [Cloudreve](https://github.com/cloudreve/Cloudreve) Self-hosted file management and sharing system, supports multiple storage providers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lithium0003/ccViewer) [CryptCloudViewer](https://github.com/lithium0003/ccViewer) 可以在 Filen.io 云端播放音乐
+- [LitePan](https://github.com/Ponphil/LitePan) 多网盘聚合与管理工具，支持 Web 界面、WebDAV、STRM 生成、媒体整理等
 
 #### 🍉Cross-Platform File Transfer 跨平台文件传输
 
