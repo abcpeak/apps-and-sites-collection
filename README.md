@@ -1990,7 +1990,6 @@ Enjoy 🤩
   - [Dia](https://www.diabrowser.com)  (macOS) Atlassian Corporation在2025年9月收购了The Browser Company
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deta/surf) [Deta Surf Browser](https://github.com/deta/surf) Deta GmbH 个人AI笔记本应用
   - [Comet](https://www.perplexity.ai/comet) 搜索广告公司Perplexity推出的AI浏览器
-  - [ChatGPT Atlas](https://chatgpt.com/atlas) AI浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/iridium-browser/iridium-browser) [Iridium Browser](https://iridiumbrowser.de) Enhance the privacy
   - ![GitHub Repo stars](https://img.shields.io/github/stars/ungoogled-software/ungoogled-chromium) [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) Chromium变体，删除 Google 集成并增强隐私、控制和透明度
   - [CCleaner Browser](https://www.ccleaner.com/ccleaner/browser) 出自Piriform
