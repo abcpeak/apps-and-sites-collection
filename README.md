@@ -2063,8 +2063,8 @@ Enjoy 🤩
 
 - [Slimjet](https://www.slimjet.com) (Windows, macOS, Linux)
 - [ArcSphere](https://apps.apple.com/us/app/arcsphere-ai-native-browser/id6502280398) (iOS, Android) AI浏览器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium) GrapheneOS用户的浏览器，未正式提供给GrapheneOS以外的用户
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium)  [GrapheneOS](https://github.com/GrapheneOS)用户的浏览器，未正式提供给GrapheneOS以外的用户
+	- ![GitHub Repo stars](https://img.shields.io/github/stars/jqssun/android-titanium-browser) [Titanium Browser for Android](https://github.com/jqssun/android-titanium-browser) 基于GrapheneOS的 Vanadium
 - [WebLibre](https://github.com/FaFre/WebLibre)
 
 - 🗃️Archived
