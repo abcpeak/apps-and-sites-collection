@@ -2554,6 +2554,9 @@ Enjoy 🤩
 - [Chromium OS Builds](https://chromium.arnoldthebat.co.uk/?dir=daily) 谷歌基于Linux开发的操作系统，Chromebook专用
 - [Tiny Core Linux](https://tinycorelinux.net)
 - [Kernel source tree for Raspberry Pi](https://github.com/raspberrypi/linux) 树莓派Linux内核源代码树
+- [openSuse](https://www.opensuse.org/) 目标是提供一个稳定的、用户友好的发行版，主要面向终端用户
+- [Devuan](https://getfedora.org/) 没有使用 systemd 工具的基于 Debian 的发行版
+- [Rocky Linux](https://rockylinux.org/) 开源发行版，目标是要 100% 兼容 Red hat Enterprise Linux (RHEL)
 - Linux App Store
   - [Flathub](https://flathub.org)
   - [Chocolatey](https://chocolatey.org)
