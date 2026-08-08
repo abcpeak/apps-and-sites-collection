@@ -2003,7 +2003,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Windows, Linux) Cromite是从Bromite fork（分支）出来的项目，内置广告拦截功能和隐私保护，Win版是绿色版
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gonzazoid/Ultimatum) [Ultimatum](https://github.com/gonzazoid/Ultimatum) (Android) Ultimatum is a chromium fork with webextensions support
   - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,来自imputnet团队(开发过cobalt.tools),based on ungoogled-chromium，不支持 Widevine DRM，支持MV2，内置uBO
-  - [Quetta Browser](https://www.quetta.net) (iOS, Android)
+  - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
   - [Wavebox](https://wavebox.io) (💵)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Windows, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
@@ -2130,6 +2130,7 @@ Enjoy 🤩
 - [Free Blocker - Ad blocker & Ads Remover](https://chromewebstore.google.com/detail/free-blocker-ad-blocker-a/ajmonbkfjffgdhhacjmlkfpdpbfnaeon)
 - 🔖Bookmark & Tab 书签和标签页
   - ![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus) 跨浏览器书签同步 ⭐
+  - [konode](https://github.com/konabe-studio/konode) 跨浏览器扩展同步
   - [EverSync everhelper](https://everhelper.me)
   - [xBrowserSync](https://www.xbrowsersync.org)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub)
@@ -2147,6 +2148,7 @@ Enjoy 🤩
 - [Noir](https://getnoir.app) Safari黑暗模式
 - [Dark Reader](https://darkreader.org) Dark Mode 黑暗模式
 - [Vimium](https://vimium.github.io) 键盘快捷键
+- [Osprey: Browser Protection](https://chromewebstore.google.com/detail/osprey-browser-protection/jmnpibhfpmpfjhhkmpadlbgjnbhpjgnd)
 - 浏览器主题 Theme
   - ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) (macOS, Linux & Windows) This theme compatible with Firefox 143+， 果味🦊皮
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Godiesc/firefox-gx) [firefox-gx](https://github.com/Godiesc/firefox-gx)  Opera-GX Theme for Firefox Css
