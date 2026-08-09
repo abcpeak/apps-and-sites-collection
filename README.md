@@ -2692,6 +2692,7 @@ Enjoy 🤩
 - [Onlyfans](https://onlyfans.com)
 
 ## 🔚End
+
 ### 🤝Contribute 贡献
 
 Best Awesome [🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection) was made with ❤️ by [ABCPEAK](https://github.com/abcpeak)
@@ -2705,7 +2706,3 @@ Note: To support this repository, please give us a ⭐Star and 🔁Share and �
 This work is licensed under [The MIT License (MIT)](https://opensource.org/licenses/MIT).
 
 Copyright © 2025 - 2026
-
-### 🌟Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)](https://www.star-history.com/#abcpeak/apps-and-sites-collection&type=timeline&legend=top-left)
