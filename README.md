@@ -114,6 +114,7 @@ Enjoy 🤩
 
 ### Code RD 编程 开发
 
+- [Codex Theme Builder](https://codextheme.tools) (Web) OpenAI Codex 终端主题构建器，实时预览并导出 CSS token
 - [trendshift](https://trendshift.io)
 - [Can I use](https://caniuse.com) Support tables for HTML5, CSS3, etc
 - [Apple开发者论坛](https://developer.apple.com/forums) iOS开发 Swift编程
@@ -799,6 +800,8 @@ Enjoy 🤩
 
 ## 🌿Lifestyle 生活
 
+- [Pressure Washer Fix](https://pressurewasherfix.com) (Web) 高压清洗机故障排查指南
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) (Web) 图片转钩针图样
 - [Pinterest](https://pintrest.com)
 
 ## 🗞️Magazines & Newspapers 报刊杂志
@@ -1654,6 +1657,10 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/VirtualHotBar/HotPEToolBox) [HotPEToolBox](https://github.com/VirtualHotBar/HotPEToolBox) HotPE 工具箱
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mtniehaus/MediaTool) [OofhoursMediaTool](https://github.com/mtniehaus/MediaTool/blob/main/OofhoursMediaTool.zip) Win11启动盘制作
 - 🧮 **Calculator 计算器**
+  - [WorkroomCalc](https://workroomcalc.co.uk) (Web) 免费罗马帘计算器，按窗洞估算成品尺寸、褶皱、面料/衬里裁切
+  - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) (Web) 按面积与服务项估算割草费用
+  - [WattsCalc](https://wattscalc.com) (Web) 电线管弯曲、线缆填充与压降计算器
+  - [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) (Web) 按针数与面料估算刺绣报价
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Qalculate/libqalculate) [Qalculate!](https://github.com/Qalculate/libqalculate) (Windows) 多功能计算器
   - [Numms](https://apps.apple.com/cn/app/id1644598526), [Calculator with History+](https://apps.apple.com/us/app/calculator-with-history/id1458583388), [Desktop Calculator](https://apps.apple.com/us/app/desktop-calculator/id6450638014), [Calculator mini](https://apps.apple.com/us/app/calculator-mini-combo/id1672581992)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/clementwzk/OpenCalc) [OpenCalc](https://github.com/clementwzk/OpenCalc) (Android)
@@ -2620,6 +2627,7 @@ Enjoy 🤩
 
 ### 🕹️Game Tool 游戏工具
 
+- [SkyCOTL Tools](https://skycotl.tools) (Web) Sky: Children of the Light 免费攻略与计算器
 - [JoyToKey](https://joytokey.net/en) 游戏摇杆控制
 - ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite) [Playnite](https://github.com/JosefNemec/Playnite) 开源视频游戏库管理器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher) [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) (Windows, Linux, macOS) A games launcher for GOG, Amazon and Epic Games
