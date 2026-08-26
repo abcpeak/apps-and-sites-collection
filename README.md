@@ -1962,6 +1962,7 @@ Enjoy 🤩
 - [Remote Mouse](https://apps.apple.com/us/app/remote-mouse/id385894596) (iOS)
 - [Remote, Mouse & Keyboard Pro](https://apps.apple.com/us/app/remote-mouse-keyboard-pro/id884153085), [Remote, Mouse & Keyboard](https://apps.apple.com/us/app/remote-mouse-keyboard/id629019487) (iOS) 这2个功能一样的
 - [远程鼠标和键盘](https://cherpake.com/apps/remote-mouse-keyboard)、[电视遥控器](https://cherpake.com/apps/remote-control-tv) 来自[Evgeny Cherpak](https://cherpake.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AprilNEA/OpenLogi) [OpenLogi](https://github.com/AprilNEA/OpenLogi) 开源的 Logitech Options+ 替代工具
 
 - 🗃️Archived
   - [Clipboard : Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) (iOS) 剪贴板同步 Oct 11, 2024
