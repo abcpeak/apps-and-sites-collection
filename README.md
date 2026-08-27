@@ -908,13 +908,12 @@ Enjoy 🤩
 - [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS) 支持歌词API，支持本地lrc歌词，灵动岛歌词，不支持infini-cloud，支持koofr ⭐
 - [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
 - [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS) 拉动进度条有卡顿bug
-- [Anywhere offine Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)
+- [Anywhere - Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)  文件夹上传限100个文件
 - [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS) 维克音乐，支持本地lrc歌词，自动转为内嵌歌词 ⭐
 - [Ever Play](https://apps.apple.com/app/id1202642773) (iOS) 需付费支持歌词
 - [One Player](https://apps.apple.com/app/id1614115295) (iOS) 需付费支持歌词，免费没有歌词滚动
 - [Musixmatch](https://apps.apple.com/us/app/musixmatch-lyrics-finder/id448278467) (iOS)
 - [Phocid](https://github.com/TJYSunset/Phocid) (Android 11+) 本地音乐播放器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_desktop) [Listen 1](https://github.com/listen1/listen1_desktop) (Windows, Linux) ![Last Commit](https://img.shields.io/github/release-date/listen1/listen1_desktop)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer) [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) (Windows, Linux, macOS) ![Last Commit](https://img.shields.io/github/release-date/algerkong/AlgerMusicPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OuterTune/OuterTune) [Music Player](https://github.com/OuterTune/OuterTune) (Android) support local file & YouTube Music
 - ![GitHub Repo stars](https://img.shields.io/github/stars/martpie/museeks) [museeks](https://github.com/martpie/museeks) A simple, clean and cross-platform music player
@@ -942,6 +941,7 @@ Enjoy 🤩
   - [LoveMusic Player](https://apps.apple.com/us/app/lovemusic-player-local-play/id1592073552) 支持本地lrc歌词，最后更新2024
   - [Clementine](https://www.clementine-player.org) Tuesday, April 19, 2016
   - [Listenify](https://apps.apple.com/us/app/listenify/id6475892753) (iOS) ($5.99)支持歌词API
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_desktop) [Listen 1](https://github.com/listen1/listen1_desktop) (Windows, Linux) ![Last Commit](https://img.shields.io/github/release-date/listen1/listen1_desktop)
 
 #### 📄Lyrics 歌词 字幕
 
@@ -2336,7 +2336,6 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/webtorrent/webtorrent) [WebTorrent Desktop](https://webtorrent.io/desktop)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/webtorrent/instant.io) [instant.io](https://github.com/webtorrent/instant.io) Streaming file transfer over WebTorrent (torrents on the web)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/amir1376/ab-download-manager) [AB Download Manager](https://github.com/amir1376/ab-download-manager) ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/yaobiao131/downkyicore) [downkyicore](https://github.com/yaobiao131/downkyicore) (Windows, linux, macOS)下载哔哩哔哩视频 ![Last Commit](https://img.shields.io/github/release-date/yaobiao131/downkyicore)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhiyiYo/Fluent-M3U8) [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) M3U8下载器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mikf/gallery-dl) [gallery-dl](https://github.com/mikf/gallery-dl) 命令行程序，用于从多个图像托管站点下载图像库和集合
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Ftbom/Aria2Manager) [Aria2Manager](https://github.com/Ftbom/Aria2Manager)
@@ -2346,13 +2345,13 @@ Enjoy 🤩
 - [SaveTik](https://savetik.co/zh-cn) 下载Tiktok视频
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next) [Motrix Next](https://github.com/AnInsomniacy/motrix-next) ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next) [Motrix Next](https://github.com/AnInsomniacy/motrix-next) ⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
 
 - 🗃️Archived
   - [XDown](https://xdown.org) 免费无广告的idm torrent合成体 最后更新2025-05-18
   - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，停更 ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/imfile-io/imfile-desktop) [imFile](https://github.com/imfile-io/imfile-desktop) 基于Motrix的fork并维护，最后更新Aug 29, 2024
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/KurtBestor/Hitomi-Downloader) [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) Oct 27, 2024
+  - [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) Oct 27, 2024
 
 ### 🖱️Remote Access and Control 远程访问控制
 
