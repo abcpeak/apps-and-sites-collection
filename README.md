@@ -1391,6 +1391,7 @@ Enjoy 🤩
 - [AdGuard Mail](https://adguard-mail.com) 临时电子邮件地址
 - [33Mail](https://www.33mail.com) 免费
 - [Mailgw](https://mailgw.com) 免费
+- Brave Email aliases  免费5个
 
 #### 临时邮箱（Temp Mail） 一次性邮箱
 
