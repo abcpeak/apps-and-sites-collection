@@ -280,6 +280,7 @@ Enjoy 🤩
 - [Backendless](https://backendless.com)
 - [AWS Amplify](https://aws.amazon.com/amplify)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse) [Lighthouse](https://github.com/GoogleChrome/lighthouse) 网站性能测试，Chrome的产品
+- [Agent QA](https://github.com/vostride/agent-qa) 源码可用的自然语言 Web、移动端和桌面应用回归测试工具，提供 CLI/MCP 接口、执行记忆、UI 变更适配及可审查的步骤、截图与结果。采用 FSL-1.1-ALv2，发布两年后转为 Apache-2.0
 - [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle) 网页离线保存工具
 - SEO工具：[serprobot](https://www.serprobot.com/serp-check) 、[Ahrefs站长工具](https://ahrefs.com/zh/webmaster-tools) 、[Google trends](https://trends.google.com/trends/?hl=zh-CN) 、[Wordtracker](https://www.wordtracker.com) 、[Soovle](https://soovle.com) 、[kwfinder](https://mangools.com/kwfinder)、[keywordseverywhere](https://keywordseverywhere.com)、[Meet Keyword Explorer](https://moz.com/explorer)、[keywordtool](https://keywordtool.io)、[answerthepublic](https://answerthepublic.com)
 - 邮件营销：[Convertkit](https://app.convertkit.com)、[Mailchimp](https://mailchimp.com)
