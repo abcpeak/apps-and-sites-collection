@@ -920,7 +920,6 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/akudamatata/Solara) [Solara](https://github.com/akudamatata/Solara) 一个极简风格的基于免费API的音乐播放器
 - [海螺音乐](https://apps.apple.com/us/app/%E6%B5%B7%E8%9E%BA%E9%9F%B3%E4%B9%90/id6475198331) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/fooyin/fooyin) [fooyin](https://github.com/fooyin/fooyin)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/imsyy/splayer) [SPlayer](https://github.com/imsyy/splayer) 简约的音乐播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/playwora/wora) [Wora](https://github.com/playwora/wora) player for audiophiles
 - [Pocket Casts Web](https://play.pocketcasts.com) 播客工具
 - [LocMusic](https://apps.apple.com/us/app/locmusic-local-play-lrc-show/id1505426566) (iOS) 支持本地lrc歌词，灵动岛歌词，文件夹管理
@@ -942,6 +941,7 @@ Enjoy 🤩
   - [Clementine](https://www.clementine-player.org) Tuesday, April 19, 2016
   - [Listenify](https://apps.apple.com/us/app/listenify/id6475892753) (iOS) ($5.99)支持歌词API
   - ![GitHub Repo stars](https://img.shields.io/github/stars/listen1/listen1_desktop) [Listen 1](https://github.com/listen1/listen1_desktop) (Windows, Linux) ![Last Commit](https://img.shields.io/github/release-date/listen1/listen1_desktop)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/imsyy/splayer) [SPlayer](https://github.com/imsyy/splayer) 简约的音乐播放器
 
 #### 📄Lyrics 歌词 字幕
 
@@ -2326,6 +2326,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/transmission/transmission) [Transmission](https://github.com/transmission/transmission) Bittorrent客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/putyy/res-downloader) [res-downloader](https://github.com/putyy/res-downloader) 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载  ⭐
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
+- [nexdm](https://nexdm.in) (Windows)
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
 - [Torrex Lite](https://apps.microsoft.com/store/detail/torrex-lite-torrent-downloader/9WZDNCRFJB3D)
 - [4K Video Downloader](https://www.4kdownload.com)
