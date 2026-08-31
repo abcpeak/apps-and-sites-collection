@@ -44,6 +44,7 @@ Enjoy 🤩
 
 - 在线PDF翻译: [onlinedoctranslator.com](https://www.onlinedoctranslator.com/zh-CN)
 - 在线PDF编辑: [sejda.com/pdf-editor](https://www.sejda.com/pdf-editor)
+- 在线PDF解锁/去除密码: [Nutilz Unlock PDF](https://nutilz.com/unlock-pdf) 输入当前密码即可在线解密PDF，无需注册，文件不会保存在服务器上
 - 压缩: [tinywow.com/pdf/compress](https://tinywow.com/pdf/compress)、[pdf2go.com/compress-pdf](https://www.pdf2go.com/compress-pdf)
 - 在线PDF转换工具: [Smallpdf](https://smallpdf.com)、[cleverpdf](https://www.cleverpdf.com/cn)
 - [PDF-XChange Editor Plus](https://www.tracker-software.com/product/downloads) PDF编辑
