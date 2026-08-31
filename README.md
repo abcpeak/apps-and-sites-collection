@@ -2004,7 +2004,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
   - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Windows, Linux) Cromite是从Bromite fork（分支）出来的项目，内置广告拦截功能和隐私保护，Win版是绿色版
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gonzazoid/Ultimatum) [Ultimatum](https://github.com/gonzazoid/Ultimatum) (Android) Ultimatum is a chromium fork with webextensions support
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,来自imputnet团队(开发过cobalt.tools),based on ungoogled-chromium，不支持 Widevine DRM，支持MV2，内置uBO
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,来自imputnet团队(开发过cobalt.tools),based on ungoogled-chromium，不支持 Widevine DRM，支持MV2，内置uBO  ⭐
   - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
   - [Wavebox](https://wavebox.io) (💵)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Windows, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
@@ -2017,7 +2017,7 @@ Enjoy 🤩
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
   - [Orion](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension
-  - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS) 集成了广告拦截，暗黑模式，不收集任何数据，注重隐私
+  - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS) 集成了广告拦截，暗黑模式，不收集任何数据，注重隐私 Made in Tokyo🗼
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
@@ -2132,7 +2132,7 @@ Enjoy 🤩
 - [Free Blocker - Ad blocker & Ads Remover](https://chromewebstore.google.com/detail/free-blocker-ad-blocker-a/ajmonbkfjffgdhhacjmlkfpdpbfnaeon)
 - 🔖Bookmark & Tab 书签和标签页
   - ![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus) 跨浏览器书签同步 ⭐
-  - [konode](https://github.com/konabe-studio/konode) 跨浏览器扩展同步
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/konabe-studio/konode) [konode](https://github.com/konabe-studio/konode) 跨浏览器书签&扩展同步
   - [EverSync everhelper](https://everhelper.me)
   - [xBrowserSync](https://www.xbrowsersync.org)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub)
