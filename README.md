@@ -433,7 +433,7 @@ Enjoy 🤩
 - [DeepL](https://www.deepl.com/translator)
 - [VoiceTra](https://apps.apple.com/us/app/voicetra/id581137577) 精准的日语翻译
 - ![GitHub Repo stars](https://img.shields.io/github/stars/CopyTranslator/CopyTranslator) [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) 最后更新2023.2.27
-- [Immersive Translate](https://immersivetranslate.com) 沉浸式翻译，非开源，不推荐
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mengxi-ream/read-frog) [Read Frog](https://github.com/mengxi-ream/read-frog) 陪读蛙，开源沉浸式翻译
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bistutu/FluentRead) [FluentRead](https://github.com/Bistutu/FluentRead)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xiao-zaiyi/illa-helper) [illa-helper](https://github.com/xiao-zaiyi/illa-helper)
@@ -448,6 +448,8 @@ Enjoy 🤩
 - [Trancy](https://www.trancy.org) 翻译插件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator) [openai-translator](https://github.com/openai-translator/openai-translator) 2024.8.1
 - ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator) [RTranslator](https://github.com/niedev/RTranslator) (Android) Offline real-time translation app
+- 🗃️Archived
+	- [Immersive Translate](https://immersivetranslate.com) 沉浸式翻译，非开源，不推荐
 
 ### 🗣️English
 
@@ -1172,7 +1174,7 @@ Enjoy 🤩
   - [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech)
 - [Claude](https://claude.ai) Anthropic公司研发，由前OpenAI工程师于2021年创立，谷歌和亚马逊都有投资
 
-- [DuckDuckGo AI](https://duck.ai)
+- [DuckDuckGo AI](https://duck.ai) Duck.ai can analyze PDFs
 - [Lumo](https://lumo.proton.me) Proton AI
 - [Poe](https://poe.com) Quora出品，支持多模型（ChatGPT/Claude 等）
 - [Coze](https://www.coze.com) 字节跳动 Coze（国际版）
@@ -2238,7 +2240,7 @@ Enjoy 🤩
   - [Synctrain](https://apps.apple.com/gb/app/synctrain/id6553985316) (iOS) ⭐
   - [Möbius Sync](https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216) (iOS) Moebius莫比乌斯
 - [FreeFileSync](https://freefilesync.org) 文件夹比较同步
-- ![GitHub Repo stars](https://img.shields.io/github/stars/polius/FileSync) [FileSync](https://github.com/polius/FileSync) (Web) https://filesync.app
+- ![GitHub Repo stars](https://img.shields.io/github/stars/polius/FileSync) [FileSync](https://github.com/polius/FileSync) (Web) 通过网页传输文件
 - [goodsync](https://www.goodsync.com)
 - [TuneFUSION](https://www.dbpoweramp.com/tunefusion.htm) 自动将音频同步到各种设备，支持foobar2000
 - [PhotoSync](https://apps.apple.com/us/app/photosync-transfer-photos/id415850124) 需付费，transfer photos，支持WebDAV
@@ -2305,6 +2307,7 @@ Enjoy 🤩
 - [Blip Transfer](https://blip.net) 即传即下，边传边下，No waiting to upload and download separately ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/abhi16180/photon) [Photon](https://github.com/abhi16180/photon)
 - [Smash](https://fromsmash.com) 免费2G文件传输
+- [tailcat](https://github.com/tailscale/tailcat)
 
 - 🗃️Archived
   - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) (Android) 通过 Magic Wormhole 协议创建的应用程序，2023年最后更新
@@ -2348,10 +2351,10 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/motrix-next) [Motrix Next](https://github.com/AnInsomniacy/motrix-next) ⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，Motrix Turbo 2.0复活  ⭐
 
 - 🗃️Archived
   - [XDown](https://xdown.org) 免费无广告的idm torrent合成体 最后更新2025-05-18
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，停更 ![Last Commit](https://img.shields.io/github/release-date/agalwood/Motrix)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/imfile-io/imfile-desktop) [imFile](https://github.com/imfile-io/imfile-desktop) 基于Motrix的fork并维护，最后更新Aug 29, 2024
   - [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) Oct 27, 2024
 
