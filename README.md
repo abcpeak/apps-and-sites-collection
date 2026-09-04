@@ -2088,14 +2088,14 @@ Enjoy 🤩
 
 - [浏览器对比](https://browsers.avoidthehack.com)
 - [BrowseRating](https://www.browserating.com)
+- [PrivacyTests.org浏览器隐私测试](https://privacytests.org) 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhom/donutbrowser) [Donut Browser](https://github.com/zhom/donutbrowser) (macOS, Window, Linux) 多浏览器管理工具，支持创建无限本地配置文件、多浏览器下载及管理等功能
 - [Speedometer3.1](https://browserbench.org/Speedometer3.1) Browser Performance 网页浏览器的基准测试，通过对不同工作负载下的模拟用户交互进行时序来衡量网页应用响应速度
 - ![GitHub Repo stars](https://img.shields.io/github/stars/corbindavenport/just-the-browser) [Just the Browser](https://github.com/corbindavenport/just-the-browser) 移除桌面浏览器中的 AI 功能、遥测数据报告、赞助内容、产品集成
 - [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
 
 
-- 🗃️Archived
-  - [浏览器隐私测试](https://privacytests.org) Updated 2025-08-12
+
 
 #### 🍭Browser Extensions (Plugins, add-ons) and Theme 浏览器插件(扩展)及主题
 
