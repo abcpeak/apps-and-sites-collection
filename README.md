@@ -1716,6 +1716,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Windows, macOS, Linux) 通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android) 搞快点，自动跳过开屏广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock Origin (uBO)](https://github.com/gorhill/uBlock) efficient blocker. Fast and lean. ⭐
+	- [uBlock Origin (uBO) MV3 Port](https://github.com/r58playz/uBlock-mv3) 第三方开发者
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions) ⭐
 - [Vivaldi-Tracker_Ad_Blocking_Lists-Customized](https://github.com/dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized)
 
