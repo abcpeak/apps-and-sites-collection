@@ -1698,15 +1698,15 @@ Enjoy 🤩
   - [Car Dashboard](https://apps.apple.com/us/app/car-dashboard-music-maps/id6654923547) (iOS) Music & Maps Nov 22, 2024
   - ![GitHub Repo stars](https://img.shields.io/github/stars/arkane-systems/mousejiggler) [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) Microsoft Defender检测未木马，将“虚假”输入推送到 Windows 输入队列中，这正是几乎每个远程控制木马为启用远程控制而必须做的事情
 
-### 📞Call & SMS Block 来电拦截 短信拦截
+### 📞Call & SMS Block 来电拦截 短信拦截 陌生电话拦截
 
 - [熊猫吃短信 - 旧版](https://apps.apple.com//app/id1319191852) (iOS)
-- [小鱼短信](https://apps.apple.com//app/id1515035333)
-- [Message Keyword Filter](https://apps.apple.com/us/app/message-keyword-filter/id1672730162)
-- [拦截猫](https://apps.apple.com/app/id6476010032)
-- [短信拦截 - 垃圾短信防骚扰](https://apps.apple.com/app/id1639460076)
-- [Jima Caller ID](https://apps.apple.com/us/app/jima-caller-id/id910656808) 香港号码来电☎️识别阻拦
-- [Spam Call Blocker: Stop Scam](https://apps.apple.com/us/app/spam-call-blocker-stop-scam/id1505796584)
+- [小鱼短信](https://apps.apple.com//app/id1515035333) (iOS)
+- [Message Keyword Filter]( (iOS)https://apps.apple.com/us/app/message-keyword-filter/id1672730162)
+- [拦截猫](https://apps.apple.com/app/id6476010032) (iOS) 需内购
+- [短信拦截 - 垃圾短信防骚扰](https://apps.apple.com/app/id1639460076) (iOS)
+- [Jima Caller ID](https://apps.apple.com/us/app/jima-caller-id/id910656808)  (iOS) 香港号码来电☎️识别阻拦
+- [Spam Call Blocker: Stop Scam](https://apps.apple.com/us/app/spam-call-blocker-stop-scam/id1505796584) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/metowolf/vCards) [vCards](https://github.com/metowolf/vCards) (iOS, macOS) 导入常用联系人头像 ⭐
 - [Contact Cleanup](https://apps.apple.com/us/app/contact-cleanup/id717884032) (iOS) 联系人清理
 - ![GitHub Repo stars](https://img.shields.io/github/stars/octoshrimpy/quik)[quik](https://github.com/octoshrimpy/quik) (Android) 第三方短信应用
@@ -1752,7 +1752,7 @@ Enjoy 🤩
 
 - 🗃️Archived
   - [Adblock For Safari - No Porn](https://apps.apple.com/us/app/adblock-for-safari-no-porn/id6737194096)
-  - [Adblock](https://apps.apple.com/us/app/adblock/id691121579)最后更新2021.7
+  - [Adblock](https://apps.apple.com/us/app/adblock/id691121579) 最后更新2021.7
   - [AdBlock for Mobile](https://getadblock.com/en/iOS) 最后更新2017.1
   - [Ad Blocker Pro - Secure & Safe](https://apps.apple.com/gb/app/ad-blocker-pro-secure-safe/id6448680871) 最后更新2024.12
   - [Ad Block One](https://apps.apple.com/app/id1491889901) block baidumap ad 最后更新2024.8
@@ -2026,14 +2026,14 @@ Enjoy 🤩
 
 
 - **Firefox，Gecko 内核**
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃。⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃 ⭐
     - [Mozilla Firefox, Portable Edition](https://portableapps.com/apps/internet/firefox_portable)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
   - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://github.com/BrowserWorks/Waterfox) 水狐浏览器，基于Firefox，只提供64位版本，支持Widevine
   - [K-Meleon](https://kmeleonbrowser.org)
   - [LibreWolf](https://librewolf.net) 开源（Codeberg或GitLab社区支持），增强对跟踪和指纹技术的保护，distribution on Windows via the Microsoft Store
   - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) 基于火狐ESR，Privacy-preserving Firefox-based browser with Chromium-like UI and features
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) (Windows, macOS, Linux, iOS) 基于火狐, 支持鼠标手势, Privacy-preserving Firefox-based browser with Chromium-like UI and features ⭐
   - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android) 原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
