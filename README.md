@@ -1702,7 +1702,7 @@ Enjoy 🤩
 
 - [熊猫吃短信 - 旧版](https://apps.apple.com//app/id1319191852) (iOS)
 - [小鱼短信](https://apps.apple.com//app/id1515035333) (iOS)
-- [Message Keyword Filter]( (iOS)https://apps.apple.com/us/app/message-keyword-filter/id1672730162)
+- [Message Keyword Filter](https://apps.apple.com/us/app/message-keyword-filter/id1672730162) (iOS)
 - [拦截猫](https://apps.apple.com/app/id6476010032) (iOS) 需内购
 - [短信拦截 - 垃圾短信防骚扰](https://apps.apple.com/app/id1639460076) (iOS)
 - [Jima Caller ID](https://apps.apple.com/us/app/jima-caller-id/id910656808)  (iOS) 香港号码来电☎️识别阻拦
@@ -1715,7 +1715,7 @@ Enjoy 🤩
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Windows, macOS, Linux) 通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android) 搞快点，自动跳过开屏广告
-- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock](https://github.com/gorhill/uBlock) uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock Origin (uBO)](https://github.com/gorhill/uBlock) efficient blocker. Fast and lean. ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions) ⭐
 - [Vivaldi-Tracker_Ad_Blocking_Lists-Customized](https://github.com/dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized)
 
@@ -1728,7 +1728,7 @@ Enjoy 🤩
 - iOS Safari Adblocking
   - ![GitHub Repo stars](https://img.shields.io/github/stars/0xCUB3/wBlock) [wBlock](https://github.com/0xCUB3/wBlock) ⭐
   - [uBlock Origin Lite for iOS](https://apps.apple.com/au/app/ublock-origin-lite/id6745342698)
-  - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99) 忘掉ublock吧，换成更高级的 Adguard 浏览器扩展⭐
+  - [AdGuard Pro — adblock&privacy](https://apps.apple.com/us/app/adguard-pro-adblock-privacy/id1126386264) ($9.99) ⭐
   - [1Blocker](https://apps.apple.com/us/app/1blocker/id1365531024) Ad Blocker
   - [Easy Adblock for Safari](https://apps.apple.com/cn/app/easy-adblock-for-safari/id6477549966)
   - [Wipr 2](https://apps.apple.com/us/app/wipr-2/id1662217862) 设置iOS系统主语言和副语言
@@ -2300,7 +2300,6 @@ Enjoy 🤩
 - [KDE Connect](https://kdeconnect.kde.org)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/marchellodev/sharik) [Sharik](https://github.com/marchellodev/sharik) (Android, iOS, Windows, macOS, and Linux)
 - [LANDrop](https://landrop.app) (Android, iOS, Windows, macOS, and Linux)
-- [Microsoft Edge Drop](https://www.microsoft.com/en-us/edge/features/drop) need Microsoft Edge installed
 - [Intel® Unison™](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26?hl=en-us&gl=us)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/magic-wormhole/magic-wormhole) [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) 魔法虫洞，命令行工具和Python库，通过一个短代码在两台设备间安全地传输文件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ganeshrvel/openmtp) [OpenMTP](https://github.com/ganeshrvel/openmtp) (macOS) 与Android文件传输
