@@ -912,6 +912,7 @@ Enjoy 🤩
 - [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS) 拉动进度条有卡顿bug
 - [Anywhere - Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)  文件夹上传限100个文件
 - [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS) 维克音乐，支持本地lrc歌词，自动转为内嵌歌词 ⭐
+- [Primuse](https://github.com/chenqi92/primuse) (iOS, macOS, Apple TV)
 - [Ever Play](https://apps.apple.com/app/id1202642773) (iOS) 需付费支持歌词
 - [One Player](https://apps.apple.com/app/id1614115295) (iOS) 需付费支持歌词，免费没有歌词滚动
 - [Musixmatch](https://apps.apple.com/us/app/musixmatch-lyrics-finder/id448278467) (iOS)
