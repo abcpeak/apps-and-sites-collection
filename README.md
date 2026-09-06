@@ -570,16 +570,15 @@ Enjoy 🤩
 - 影音宝软件家族：[iemc](https://apps.apple.com/app/id1467462861) iOS/iPadOS；[EMTV](https://apps.apple.com/us/app/id1671608662) AppleTV；[yyb](https://apps.apple.com/cn/app/yyb/id1468401388) iOS/iPadOS/macOS/AppleTV；[yybx](https://apps.apple.com/cn/app/id1519723194) (💵)
 - [Filebar](https://apps.apple.com/cn/app/fileball/id1558391784) (iOS, AppleTV) 支持hdr，缓存，字幕，webdav可显示歌词，支持lrc歌词，长按播放按钮可跳转Infuse等外部播放器，可导入字幕
 - [网易爆米花](https://bmh.163.com) 来自网易团队
-- [Forward](https://apps.apple.com/app/id6503940939) (iOS, Apple TV) 新视界
 - [BeeJoy](https://apps.apple.com/us/app/beejoy/id6670792086) (iOS)
-- [Lenna](https://apps.apple.com/us/app/lenna-video-library-player/id6502967807)
-- [BoxPlayer](https://apps.apple.com/cn/app/boxplayer/id6739804060)
+- [Lenna](https://apps.apple.com/us/app/lenna-video-library-player/id6502967807) (iOS)
+- [BoxPlayer](https://apps.apple.com/cn/app/boxplayer/id6739804060)  (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agersant/polaris) [Polaris](https://github.com/agersant/polaris) (Windows) Music streaming application自托管音乐流媒体服务器
-- [DeePlayer](https://apps.apple.com/app/id6744684471)
+- [DeePlayer](https://apps.apple.com/app/id6744684471)(iOS)
 - [Hills Lite](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=en-US&gl=CN) (Windows) 支持emby的播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MCDFsteve/NipaPlay-Reload) [NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) 支持挂载Emby, Jellyfin媒体库
 - [OrionTV](https://github.com/orion-lib/OrionTV) 基于 React Native TVOS 和 Expo 构建的播放器
-- [MiraPlay](https://apps.apple.com/us/app/miraplay/id6749287494)
+- [MiraPlay](https://apps.apple.com/us/app/miraplay/id6749287494) (iOS)
 
 - 🗃️Archived
   - [IIVA](https://apps.apple.com/us/app/iiva/id1614231457) (最后更新2023.10)
@@ -588,7 +587,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/LibreSpark/LibreTV) [LibreTV](https://github.com/LibreSpark/LibreTV) 一分钟搭建影视站，archived on Nov 5, 2025
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MoonTechLab/LunaTV) [MoonTV](https://github.com/MoonTechLab/LunaTV) 停止更新
 
-#### 🛑IPTV
+#### 📺IPTV 直播频道
 
 - IPTV直播源：[eja.tv](https://eja.tv) 、[iptv-org](https://iptv-org.github.io) 、[直播源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)、[iptv.shop](https://iptv.shop) 、[直播源搜索引擎](https://www.foodieguide.com/iptvsearch) 、[卫星电视频道的数据库LyngSat](https://www.lyngsat.com)、[iptv-sources](https://github.com/HerbertHe/iptv-sources)
 - [XPTV](https://apps.apple.com/us/app/xptv/id6459409368) ($7.99)
