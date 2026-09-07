@@ -5,7 +5,7 @@
 </p>
 
 > 最佳最棒的APP与网站合集，最全面的应用和网站收集汇总，超赞软件和网站收集，最佳实用 App & 网站大全，优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台 Cross-Platform、免费 Freeware、开源软件 FOSS(Free and Open Source Software)。强烈推荐收藏👉Best Awesome [🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection)⭐资源收集整理的天花板，APP界的百科全书，网站界的维基百科！
-> 
+
 [![Telegram Chat](https://img.shields.io/badge/Telegram-交流群-blue.svg?logo=telegram)](https://t.me/+R4hLo3wy6VM1NWM9)
 
 Welcome to the **Curated List of Best Awesome Apps & Sites Collection**!
@@ -935,7 +935,8 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vibe-music/vibe-music-web) [Vibe Music](https://github.com/vibe-music/vibe-music-web) 云音乐部署到服务器
 - [iGrooveMuse](https://apps.apple.com/us/app/igroovemuse/id6757769363) (iOS)
 - [LudyAmp - Offline Music Player](https://apps.apple.com/us/app/ludyamp-offline-music-player/id6759071307) (iOS) 已内购
-- ![GitHub Repo stars](https://img.shields.io/github/stars/afkarxyz/SpotiFLAC) [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (iOS, Android) 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/afkarxyz/SpotiFLAC) [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (iOS, Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHatDevX/openspot-music-app) [OpenSpot Music](https://github.com/BlackHatDevX/openspot-music-app)
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -2709,10 +2710,20 @@ Best Awesome [🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-s
 
 Firstly, Thank you for expressing your interest in contributing to our repository to improve the list of 🧩Apps & Sites Collection. 🤗
 
-Note: To support this repository, please give us a ⭐Star and 🔁Share and 📢Promote it to increase its visibility. Let's make it a win-win. 😉
+### 📈Star History
 
+
+[![Star History Chart](https://starhistory.link/abcpeak/apps-and-sites-collection.svg?theme=cyan)](https://starhistory.link/abcpeak/apps-and-sites-collection)
 ### 📄License 许可证
 
 This work is licensed under [The MIT License (MIT)](https://opensource.org/licenses/MIT).
 
 Copyright © 2025 - 2026
+
+---
+
+<div align="center">
+  <strong>⭐ If you enjoy 🧩Apps & Sites Collection, drop a ⭐Star and 🔁Share it  – it really helps!</strong>
+  <br />
+  <em>Let's make it a win-win. 😉</em>
+</div>
