@@ -5,6 +5,8 @@
 </p>
 
 > 最佳最棒的APP与网站合集，最全面的应用和网站收集汇总，超赞软件和网站收集，最佳实用 App & 网站大全，优秀网站、网址导航、全球必看网站推荐，精选高质量很好用的软件及网址，跨平台 Cross-Platform、免费 Freeware、开源软件 FOSS(Free and Open Source Software)。强烈推荐收藏👉Best Awesome [🧩Apps & Sites Collection](https://github.com/abcpeak/apps-and-sites-collection)⭐资源收集整理的天花板，APP界的百科全书，网站界的维基百科！
+> 
+[![Telegram Chat](https://img.shields.io/badge/Telegram-交流群-blue.svg?logo=telegram)](https://t.me/+R4hLo3wy6VM1NWM9)
 
 Welcome to the **Curated List of Best Awesome Apps & Sites Collection**!
 
@@ -13,6 +15,7 @@ Multi-platform: Web, Windows, Apple (iOS/iPhone, macOS/Mac, iPadOS/iPad, tvOS/Ap
 Don't forget to show your appreciation by giving this repository a ⭐Star!
 
 Enjoy 🤩
+
 
 ---
 
@@ -931,8 +934,8 @@ Enjoy 🤩
 - [Lyra Music](https://apps.apple.com/us/app/lyra-music-radio-esound/id6747066887) (iOS) 社区推的音乐App，无订阅、播放含歌词
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vibe-music/vibe-music-web) [Vibe Music](https://github.com/vibe-music/vibe-music-web) 云音乐部署到服务器
 - [iGrooveMuse](https://apps.apple.com/us/app/igroovemuse/id6757769363) (iOS)
-- [LudyAmp - Offline Music Player](https://apps.apple.com/us/app/ludyamp-offline-music-player/id6759071307) (iOS)已内购
-- ![GitHub Repo stars](https://img.shields.io/github/stars/afkarxyz/SpotiFLAC) [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
+- [LudyAmp - Offline Music Player](https://apps.apple.com/us/app/ludyamp-offline-music-player/id6759071307) (iOS) 已内购
+- ![GitHub Repo stars](https://img.shields.io/github/stars/afkarxyz/SpotiFLAC) [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (iOS, Android) 
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -1715,6 +1718,7 @@ Enjoy 🤩
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Windows, macOS, Linux) 通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android) 搞快点，自动跳过开屏广告
+	- [GKD_subscription](https://github.com/Lin-arm/GKD_subscription) 用于安卓 GKD 的第三方订阅规则
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock Origin (uBO)](https://github.com/gorhill/uBlock) efficient blocker. Fast and lean. ⭐
 	- [uBlock Origin (uBO) MV3 Port](https://github.com/r58playz/uBlock-mv3) 第三方开发者
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions) ⭐
@@ -2031,6 +2035,7 @@ Enjoy 🤩
     - [Mozilla Firefox, Portable Edition](https://portableapps.com/apps/internet/firefox_portable)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
   - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://github.com/BrowserWorks/Waterfox) 水狐浏览器，基于Firefox，只提供64位版本，支持Widevine
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/minh-ton/reynard-browser) [Reynard Browser](https://github.com/minh-ton/reynard-browser) (iOS) Gecko-based web browser for iOS 13+ ⭐
   - [K-Meleon](https://kmeleonbrowser.org)
   - [LibreWolf](https://librewolf.net) 开源（Codeberg或GitLab社区支持），增强对跟踪和指纹技术的保护，distribution on Windows via the Microsoft Store
   - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
