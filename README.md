@@ -248,6 +248,7 @@ Enjoy 🤩
 ### 🚧Webstite Development 网站建设 网页开发 APP开发
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/typecho/typecho) [Typecho](https://github.com/typecho/typecho) 开源的PHP博客平台
+- ![GitHub Repo stars](https://img.shields.io/github/stars/microfeed/microfeed) [microfeed](https://github.com/microfeed/microfeed) an agentic cms self-hosted on cloudflare
 - [CloudFlare](https://dash.cloudflare.com) 域名解析服务，免费DNS加速，CDN ⭐
 - [Netlify](https://www.netlify.com) 静态站点托管平台，现代网站自动化系统
 - [Vercel](https://vercel.com) GitHub容器 ⭐
@@ -766,7 +767,7 @@ Enjoy 🤩
 - [Image Tuner](https://www.glorylogic.com/image-tuner.html) 图片大小批量转换
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sczhou/CodeFormer) [CodeFormer](https://github.com/sczhou/CodeFormer) AI视频图片修复软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/style2paints) [style2paints](https://github.com/lllyasviel/style2paints) 线描图画AI上色
-- ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl) [Upscayl](https://github.com/upscayl/upscayl) (Windows, Linux, macOS) 开源免费AI图像放大工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/upscayl/upscayl) [Upscayl](https://github.com/upscayl/upscayl) (Windows, Linux, macOS) 需付费, 图像放大
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio) [draw.io](https://github.com/jgraph/drawio) 开源跨平台绘图软件Drawio，基于Eelectron开发
 - ![GitHub Repo stars](https://img.shields.io/github/stars/flxzt/rnote) [Rnote](https://github.com/flxzt/rnote) 基于矢量的开源绘图应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/inpaint-web) [Inpaint-web](https://github.com/lxfater/inpaint-web) 图片修复、放大
@@ -937,6 +938,8 @@ Enjoy 🤩
 - [LudyAmp - Offline Music Player](https://apps.apple.com/us/app/ludyamp-offline-music-player/id6759071307) (iOS) 已内购
 - ![GitHub Repo stars](https://img.shields.io/github/stars/afkarxyz/SpotiFLAC) [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (iOS, Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHatDevX/openspot-music-app) [OpenSpot Music](https://github.com/BlackHatDevX/openspot-music-app)
+- [DeepMusic](https://apps.apple.com/us/app/deepmusic-immersive-lyrics/id6760999336) (iOS) 已内购
+- Telisten (iOS) 播放Telegram频道的音乐
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -1092,6 +1095,7 @@ Enjoy 🤩
 - [Catbox.moe](https://catbox.moe)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/SegoCode/AutoWall) [AutoWall](https://github.com/SegoCode/AutoWall) Live wallpapers on Windows
 - ![GitHub Repo stars](https://img.shields.io/github/stars/leminlimez/Nugget) [Nugget](https://github.com/leminlimez/Nugget)  设置iOS动画壁纸
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MarSeventh/CloudFlare-ImgBed) [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) built on Cloudflare
 
 ### 🎥Video Edit 音视频剪辑软件
 
@@ -2024,7 +2028,7 @@ Enjoy 🤩
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
-  - [Orion](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension
+  - [Orion browser](https://kagi.com/orion) (macOS, iOS, Linux, Windows) 来自Kagi，Support Chrome + Firefox Extension
   - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS) 集成了广告拦截，暗黑模式，不收集任何数据，注重隐私 Made in Tokyo🗼
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
@@ -2040,9 +2044,9 @@ Enjoy 🤩
   - [K-Meleon](https://kmeleonbrowser.org)
   - [LibreWolf](https://librewolf.net) 开源（Codeberg或GitLab社区支持），增强对跟踪和指纹技术的保护，distribution on Windows via the Microsoft Store
   - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) (Windows, macOS, Linux, iOS) 基于火狐, 支持鼠标手势, Privacy-preserving Firefox-based browser with Chromium-like UI and features ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) (Windows, macOS, Linux, iOS) 基于火狐, 支持鼠标手势, Floorp Notes, Privacy-preserving Firefox-based browser with Chromium-like UI and features ⭐
   - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) (Windows, macOS, Linux) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android) 原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%，on Sep 17, 2024
