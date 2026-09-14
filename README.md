@@ -2658,6 +2658,7 @@ Enjoy 🤩
 - [Dolphin Emulator](https://dolphin-emu.org) 海豚模拟器，对应任天堂游戏主机 GameCube和Wii 的模拟器
 - [Skyline Emulator](https://skyline-emu.com) Switch模拟器，被认为是安卓平台上最好的模拟器之一
 - ![GitHub Repo stars](https://img.shields.io/github/stars/shadps4-emu/shadPS4) [shadPS4](https://github.com/shadps4-emu/shadPS4) (Windows, Linux and macOS) PlayStation 4 emulator
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rommapp/romm) [romm](https://github.com/rommapp/romm) 自托管的 ROM 管理器
 
 ## 💾Resource Download Site 资源下载站
 
