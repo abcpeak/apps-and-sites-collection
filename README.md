@@ -512,6 +512,7 @@ Enjoy 🤩
 - [PlaynPlay](https://apps.apple.com/us/app/playnplay/id1664643965) (iOS, Android)
 - [zFuse](https://apps.apple.com/us/app/zfuse-media-player/id1054505347) (iOS)
 - [TracyPlayer](https://apps.apple.com/tr/app/tracyplayer/id6450770064) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/huynhsontung/Screenbox) [Screenbox](https://github.com/huynhsontung/Screenbox) (Windows)
 - [Potplayer](https://potplayer.tv) (Windows) 来自韩国 Kakao Corp. 支持播放WebDAV
 - ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc) [VLC media player](https://github.com/videolan/vlc) 开源免费的跨平台多媒体播放器 ![Latest Release Date](https://img.shields.io/github/last-commit/videolan/vlc)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vzhd1701/gridplayer) [Gridplayer](https://github.com/vzhd1701/gridplayer) (Linux, Mac, and Windows)  VLC 的媒体播放器，可以同时播放多个视频
