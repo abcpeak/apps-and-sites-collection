@@ -1481,6 +1481,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) (iOS) 免费版限制200个密码
 - [MEGA Pass](https://mega.io/pass) €0.99 per month
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tetherto/pearpass-app-mobile) [PearPass mobile](https://github.com/tetherto/pearpass-app-mobile) (Windows, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费
+- [aliasvault](https://github.com/aliasvault/aliasvault) Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 
 - 🗃️Archived
   - Dropbox Passwords 已关闭
@@ -2163,8 +2164,9 @@ Enjoy 🤩
 - [Keepa](https://keepa.com) Amazon Price Tracker
 - [Noir](https://getnoir.app) Safari黑暗模式
 - [Dark Reader](https://darkreader.org) Dark Mode 黑暗模式
-- [Vimium](https://vimium.github.io) 键盘快捷键
+- [Vimium](https://vimium.github.io) 键盘快捷键,支持chrome和firefox
 - [Osprey: Browser Protection](https://chromewebstore.google.com/detail/osprey-browser-protection/jmnpibhfpmpfjhhkmpadlbgjnbhpjgnd)
+- [Z-Library Finder](https://addons.mozilla.org/en-US/firefox/addon/z-library-url-finder/)
 - 浏览器主题 Theme
   - ![GitHub Repo stars](https://img.shields.io/github/stars/akkva/gwfox) [GWfox](https://github.com/akkva/gwfox) (macOS, Linux & Windows) This theme compatible with Firefox 143+， 果味🦊皮
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Godiesc/firefox-gx) [firefox-gx](https://github.com/Godiesc/firefox-gx)  Opera-GX Theme for Firefox Css
