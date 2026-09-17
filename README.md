@@ -428,6 +428,7 @@ Enjoy 🤩
 - [nasa.gov/stem/forstudents](https://www.nasa.gov/stem/forstudents) K-12 STEM教案、活动、视频，涵盖航天、宇宙等主题，免费无需注册。
 - [FunBrain](https://www.funbrain.com) 幼小至八年级，含英语、数学游戏、图书和视频，按年龄分类，无需注册，寓教于乐。
 - [Highlight Kids](https://www.highlightskids.com) 提供科学实验、手工、简单料理等动手活动资源，适合儿童在家学习，免费无需注册。
+- [StudyArena](https://studyarena.com) 学生可免费比较同一问题的三个匿名 AI 回答，投票后查看模型名称（需注册账号）。
 
 ### 🔣Translations 翻译 Translators
 
