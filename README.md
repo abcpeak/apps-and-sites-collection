@@ -1463,7 +1463,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
 - [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Windows, Linux, macOS) 开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) A KeePass/Password Safe Client 需付费
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) 需付费 A KeePass/Password Safe Client
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassium/KeePassium) [KeePassium](https://github.com/keepassium/KeePassium) (iOS, macOS) 需付费
 - ![GitHub Repo stars](https://img.shields.io/github/stars/authpass/authpass) [AuthPass](https://github.com/authpass/authpass) based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible
 - [Enpass](https://www.enpass.io) (Windows, macOS, Linux) 可以设置webdav同步
@@ -1480,7 +1480,6 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) (iOS) 免费版限制200个密码
 - [MEGA Pass](https://mega.io/pass) €0.99 per month
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tetherto/pearpass-app-mobile) [PearPass mobile](https://github.com/tetherto/pearpass-app-mobile) (Windows, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费
-- [aliasvault](https://github.com/aliasvault/aliasvault) Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 
 - 🗃️Archived
   - Dropbox Passwords 已关闭
