@@ -2327,7 +2327,7 @@ Enjoy 🤩
 
 > 下载视频工具，下载软件，YouTube, Bilibili, X, TikTok
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt) [cobalt](https://github.com/imputnet/cobalt) 没有广告、跟踪器的免费在线下载工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt) [cobalt](https://github.com/imputnet/cobalt) 没有广告、跟踪器的免费在线下载工具 ⭐
 - [iTubeGo](https://itubego.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT) [BiglyBT](https://www.github.com/BiglySoftware/BiglyBT) 开源免费BT种子客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl) [youtube-dl](https://github.com/ytdl-org/youtube-dl) YouTube download. Dec 17, 2021
