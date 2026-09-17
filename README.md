@@ -71,8 +71,6 @@ Enjoy 🤩
 - [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) (Android) 静读天下
 - [Thorium Reader](https://www.edrlab.org/software/thorium-reader) (Windows, macOS and Linux) EPUB reader
 - [Okular](https://okular.kde.org) (Android, Windows, Linux) PDF、漫画、Epub、图像、显示标记语言文档等
-- ![GitHub Repo stars](https://img.shields.io/github/stars/gedoor/legado) [Legado 3.0 Book Reader](https://github.com/gedoor/legado) (Android) 阅读3.0
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/aoaostar/legado) [legado](https://github.com/aoaostar/legado) 小说书源、订阅源、主题、排版配置
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kovidgoyal/calibre) [Calibre](https://github.com/kovidgoyal/calibre) 电子书制作及阅读软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/foobnix/LibreraReader) [LibreraReader](https://github.com/foobnix/LibreraReader)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/koodo-reader/koodo-reader) [Koodo Reader](https://github.com/koodo-reader/koodo-reader) (Windows, macOS, Linux, Web) EPUB, pdf, mobi
@@ -1458,7 +1456,8 @@ Enjoy 🤩
 - 密码泄露检测: [Firefox Monitor](https://monitor.firefox.com)、[HaveIbeenPwned](https://haveibeenpwned.com)、[Intelligence X](https://intelx.io)、[Dehashed](https://www.dehashed.com)
 
 - [Apple Passwords App](https://apps.apple.com/us/app/passwords/id6473799789) 导入仅支持Mac，iOS不能导入密码⭐
-- [Microsoft Password Manager in Edge](https://www.microsoft.com/en-us/edge/download)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/aliasvault/aliasvault) [aliasvault](https://github.com/aliasvault/aliasvault)  self-hostable
+- [Microsoft Password Manager in Edge](https://www.microsoft.com/en-us/edge/download) 
 - [Google Password Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager&pli=1) (Android)
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
