@@ -92,7 +92,8 @@ Enjoy 🤩
 - [读不舍手](https://apps.apple.com/app/id1662413517) (iOS) 仅支持txt
 - [iReadNote](https://apps.apple.com/gb/app/ireadnote/id6450734655) (iOS) 爱阅记
 - [MoboReader-The Alpha King](https://apps.apple.com/us/app/moboreader-the-alpha-king/id1291247971) (iOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/santinic/audiblez) [audiblez](https://github.com/santinic/audiblez)Generate audiobooks from e-books
+- ![GitHub Repo stars](https://img.shields.io/github/stars/santinic/audiblez) [audiblez](https://github.com/santinic/audiblez) Generate audiobooks from e-books
+- ![GitHub Repo stars](https://img.shields.io/github/stars/debpalash/VoiceStudio) [VoiceStudio](https://github.com/debpalash/VoiceStudio) audiobook creation
 
 ### 📓Library Resource Repository 图书资源库
 
@@ -2383,6 +2384,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/rayburst) [Rayburst](https://github.com/AnInsomniacy/rayburst) Motrix Next is now Rayburst⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，Motrix Turbo 2.0复活  ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zerx-lab/FluxDown) [FluxDown](https://github.com/zerx-lab/FluxDown) Rust 驱动的多协议下载管理器
 
 - 🗃️Archived
   - [XDown](https://xdown.org) 免费无广告的idm torrent合成体 最后更新2025-05-18
@@ -2524,6 +2526,7 @@ Enjoy 🤩
   - [LiveContainer](https://github.com/LiveContainer/LiveContainer) Run iOS apps without actually installing them
   - [iRingo](https://github.com/NSRingo) 解锁国行完整的Apple功能和集成服务
   - [IPA Installer](https://apps.apple.com/us/app/ipa-installer/id6748286191) 专门用来在 iPhone/iPad 上直接安装 .ipa 或 .iipa 格式文件的工具
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/vphone-cli) [vphone-cli](https://github.com/Lakr233/vphone-cli) (macOS) 开源命令行工具（MIT），在Mac上跑真实完整 iOS 虚拟机
 
 
   - IPA签名工具
