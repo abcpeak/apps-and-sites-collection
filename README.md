@@ -894,6 +894,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Miaoyww/NonsPlayer) [NonsPlayer](https://github.com/Miaoyww/NonsPlayer) (Windows) ![Last Commit](https://img.shields.io/github/release-date/Miaoyww/NonsPlayer)
 - [foobar2000](https://www.foobar2000.org) (Windows, iOS) 开源的音乐播放器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dream7180/foobox-cn) [foobox-cn](https://github.com/dream7180/foobox-cn) foobar2000 DUI配置 ![Last Commit](https://img.shields.io/github/release-date/dream7180/foobox-cn)
+  - [columns_ui](https://github.com/reupen/columns_ui/) Alternative UI for the foobar2000 audio player
 - ![GitHub Repo stars](https://img.shields.io/github/stars/digimezzo/dopamine) [Dopamine](https://github.com/digimezzo/dopamine) (Windows, Linux and Mac)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GStreamer/gstreamer) [GStreamer](https://github.com/GStreamer/gstreamer) GStreamer open-source multimedia framework
 - [Winamp](https://winamp.com) (Android, iOS)
@@ -2293,8 +2294,8 @@ Enjoy 🤩
 - [InfiniCLOUD](https://infini-cloud.net)
 - [Bitrix24](https://www.bitrix24.fr)
 - [PikPak](https://pikpak.me) 新加坡的团队开发
-- [Filen](https://filen.io) 2020年初在德国雷克林豪森成立，E2EE存储，3个月内活跃 ⭐
-- [Sync](https://www.sync.com)
+- [Filen](https://filen.io) 2020年初在德国雷克林豪森成立，E2EE存储。免费用户3个月内活跃；付费用户（如月付/年付）只要订阅有效无需担心 inactivity 问题；终身计划（lifetime）需每 3 年登录一次。 ⭐
+- [Sync](https://www.sync.com) 需付费
 - [Proton Drive](https://drive.proton.me) 免费5G，12个月内活跃 ⭐
 - [Rakuten Drive](https://www.rakuten-drive.com) 乐天网盘，免费10G
 - [TorBox](https://torbox.app) 免费10G
