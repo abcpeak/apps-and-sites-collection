@@ -61,6 +61,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DDULDDUCK/every-pdf) [Every-PDF](https://github.com/DDULDDUCK/every-pdf) (Windows, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/readur/readur) [readur](https://github.com/readur/readur) 文档管理系统，支持文件上传、OCR 提取文本、多语言搜索和同步，适用于需要快速处理 PDF、图像、Office 文档等的场景
 - [JOPDF](https://www.jopdf.com) (Windows, Linux, macOS) 免费的跨平台PDF编辑器
+- [PDFluent](https://pdfluent.com/) (Windows, macOS) PDF编辑器
 
 ### 📙Reading 看书软件 电子书
 
