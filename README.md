@@ -948,7 +948,8 @@ Enjoy 🤩
 - [DeepMusic](https://apps.apple.com/us/app/deepmusic-immersive-lyrics/id6760999336) (iOS) 已内购
 - Telisten (iOS) 播放Telegram频道的音乐
 - [Nobars](https://apps.apple.com/us/app/offline-music-player-nobars/id6805929959) (iOS)
-- [musicDownload](https://github.com/MrsEWE44/musicDownload) 音乐下载器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MrsEWE44/musicDownload) [musicDownload](https://github.com/MrsEWE44/musicDownload) 音乐下载器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sonorahq/sonora) [Sonora](https://github.com/sonorahq/sonora) A native music streaming client, built with Rust and GPUI
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -1401,6 +1402,7 @@ Enjoy 🤩
 - [Roundcube](https://roundcube.net)
 - [SnappyMail](https://github.com/the-djmaze/snappymail)
 - [Eppie](https://github.com/Eppie-io/Eppie-App) 来自爱沙尼亚（Estonia）
+- ![GitHub Repo stars](https://img.shields.io/github/stars/shrivatsav-org/monomail) [monomail](https://github.com/shrivatsav-org/monomail) (Android)
 
 #### Mail Forwarding 邮件转发 邮件别名（Alias）
 
