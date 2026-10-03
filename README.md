@@ -2047,7 +2047,7 @@ Enjoy 🤩
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
-  - [Orion browser](https://kagi.com/orion) (macOS, iOS, Linux, Windows) 来自Kagi，Support Chrome + Firefox Extension
+  - [Orion browser](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension，官方停止开发 的 Linux 和 Windows 版本
   - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS) 集成了广告拦截，暗黑模式，不收集任何数据，注重隐私 Made in Tokyo🗼
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
@@ -2108,7 +2108,7 @@ Enjoy 🤩
   - [Ghostery](https://www.ghostery.com/ghostery-private-browser) discontinued
   - [Puffin Cloud Browser](https://www.puffin.com/cloud-browser) (iOS)
   - [Arc Browser](https://arc.net) 不再有重大更新
-  - [Cent Browser](https://www.centbrowser.com) 百分浏览器
+  - [Cent Browser](https://www.centbrowser.com) 百分浏览器，更新缓慢，继续支持Win7/MV2/GDI
   - [Mull-Fenix](https://github.com/Divested-Mobile/mull-fenix) (Android) archived on Dec 23, 2024
   - [Avira Secure Browser](https://www.avira.com/en/avira-secure-browser) (Windows, macOS)
   - [Avast Secure Browser](https://www.avast.com/secure-browser#pc) (Windows, macOS, iOS, Android) 反网络钓鱼
