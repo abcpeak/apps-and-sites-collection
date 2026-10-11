@@ -327,7 +327,7 @@ Enjoy 🤩
   - [names.co.uk](https://www.names.co.uk) 英国公司
   - [freenom](https://www.freenom.com)
   - [pp.ua](https://pp.ua) Free pp.ua subdomains.
-  - [DigitalPlat](https://domain.digitalplat.org) Free dpdns.org subdomains. 前身是us.kg ⭐
+  - [DigitalPlat](https://domain.digitalplat.org) Free dpdns.org subdomains. (Cloudflare接管不支持kg和je域名)⭐
 - 域名价格比较：[domcomp](https://www.domcomp.com) 、[tld-list](https://zh-hans.tld-list.com)
 - 域名交易：[sedo](https://sedo.com/cn) 、[dan](https://dan.com)
 - SSL 证书：HubSpot, Let’s Encrypt, Comodo, Cloudflare Free SSL/TLS, GoDaddy, GoGetSSL, zerossl, Sectigo(COMODO), google gts, Buypass Go SSL,lookssl
@@ -1342,12 +1342,14 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/orayemre/Notemod) [Notemod](https://github.com/orayemre/Notemod)
 - [Digital Notes](https://apps.apple.com/app/id1480653765) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OmGodse/Notally) [Notally](https://github.com/OmGodse/Notally) (Android)
+- [HelixNotes](https://helixnotes.com/) (Linux, Windows, macOS, Android, iOS)
 
 ### 👩🏻‍💻Office 办公软件
 
 - [Microsoft Office](https://www.office.com) 微软Office
 - [LibreOffice](https://www.libreoffice.org/download/download-libreoffice)
 - [iWork](https://www.apple.com/iwork) (macOS) 免费办公套件
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tcchen2026/VibeOffice) [VibeOffice](https://github.com/tcchen2026/VibeOffice)
 - [OpenOffice](https://www.openoffice.org/download) 甲骨文和Apache基金会旗下
 - [Calligre Suite](https://calligra.org)
 - [KDE Office](https://apps.kde.org/categories/office)
@@ -1364,6 +1366,7 @@ Enjoy 🤩
 - [Mail.ru](https://mail.ru) 俄罗斯
 - [Yandex Mail](https://mail.yandex.com) 俄罗斯
 - [GMX Mail](https://signup.gmx.com) 德国
+- [Aster mail](https://astermail.org/) 美国公司,Servers in Germany
 - [Naver Mail](https://mail.naver.com) 韩国，36个月不登录会删除账号
 - [Posteo](https://posteo.de) 德国，每年12欧元，还有一个日历应用
 - [Soverin](https://soverin.net)
@@ -1965,7 +1968,7 @@ Enjoy 🤩
 
 ### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板 🖱️Remote Mouse 远程鼠标
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韻 Linux + IBus 輸入法框架) 跨平台开源免费 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韵 Linux + IBus 輸入法框架) 跨平台开源免费 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) (Android) 雨燕拼音输入法
 - [仓输入法](https://apps.apple.com/us/app/%E4%BB%93%E8%BE%93%E5%85%A5%E6%B3%95/id6446617683) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey) [AutoHotkey](https://www.autohotkey.com) a scripting language for desktop automation热键脚本语言
@@ -2359,7 +2362,8 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/NickvisionApps/Parabolic) [Parabolic](https://github.com/NickvisionApps/Parabolic) 基于 yt-dlp 项目的音视频下载工具 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/axcore/tartube) [Tartube](https://github.com/axcore/tartube) GUI for yt-dl and yt-dlp. Can download videos with segments cut out.
   - ![GitHub Repo stars](https://img.shields.io/github/stars/nexmoe/VidBee) [VidBee](https://github.com/nexmoe/VidBee) (macOS, Windows, Linux) Download videos from almost any website worldwide 界面现代化，支持通过 RSS 订阅自动下载 ⭐
-  - [ClipGrab](https://clipgrab.org) (Windows) 原理也是使用 youtube-dlp 下载视频，所以初次安装需要下载ytb-dlp
+  - [ClipGrab](https://clipgrab.org) (Windows) 原理是使用youtube-dlp下载视频，初次安装需要下载ytb-dlp
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/antonio-orionus/Arroxy) [Arroxy](https://github.com/antonio-orionus/Arroxy) (Windows, macOS, and Linux) YouTube and +2000 sites downloader GUI based on yt-dlp
 - ![GitHub Repo stars](https://img.shields.io/github/stars/transmission/transmission) [Transmission](https://github.com/transmission/transmission) Bittorrent客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/putyy/res-downloader) [res-downloader](https://github.com/putyy/res-downloader) 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载  ⭐
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
@@ -2387,6 +2391,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/rayburst) [Rayburst](https://github.com/AnInsomniacy/rayburst) Motrix Next is now Rayburst⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，Motrix Turbo 2.0复活  ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zerx-lab/FluxDown) [FluxDown](https://github.com/zerx-lab/FluxDown) Rust 驱动的多协议下载管理器
+
 
 - 🗃️Archived
   - [XDown](https://xdown.org) 免费无广告的idm torrent合成体 最后更新2025-05-18
