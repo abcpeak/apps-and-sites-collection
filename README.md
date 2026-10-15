@@ -1476,7 +1476,7 @@ Enjoy 🤩
 - [Microsoft Password Manager in Edge](https://www.microsoft.com/en-us/edge/download) 
 - [Google Password Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager&pli=1) (Android)
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 基于 GPLv3 协议开源，支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
 - [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Windows, Linux, macOS) 开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) 需付费 A KeePass/Password Safe Client
@@ -1887,6 +1887,7 @@ Enjoy 🤩
   - [ASUS Driver](https://www.asus.com.cn/support/download-center)
   - [Snappy Driver Installer](https://sdi-tool.org) 开源的驱动下载更新管理软件
 - 系统美化，系统个性化
+  - [Windhawk](https://windhawk.net) The customization marketplace for Windows and programs
   - ![GitHub Repo stars](https://img.shields.io/github/stars/icon11-community/Folder11-Ico) [Folder11 Community](https://github.com/icon11-community/Folder11-Ico) windows自定义文件夹目录图标
   - ![GitHub Repo stars](https://img.shields.io/github/stars/eythaann/Seelen-UI) [Seelen UI](https://github.com/eythaann/Seelen-UI) Windows桌面自定义，个性化桌面
   - [HiDock](https://hidock.app) (macOS) custom Dock settings
