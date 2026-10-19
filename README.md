@@ -1121,6 +1121,7 @@ Enjoy 🤩
 - [AudioMass](https://github.com/pkalogiros/AudioMass) 免费的全功能网页音频与波形编辑工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mifi/lossless-cut) [LosslessCut](https://github.com/mifi/lossless-cut) 无损剪辑
 - [vocalremover](https://vocalremover.org/zh) AI移除人声
+- [Vocal Separator](https://vocalseparator.com/) 在线人声/伴奏及四轨分离，WAV下载；有限匿名免费额度，可选预付分钟包
 - [Bandicam](https://www.bandicam.com/downloads) 由韩国开发的高清游戏及视频录制的电脑工具
 - [SAMPLITUDE](https://www.magix.com/us/music-editing/samplitude) 录音混响
 - [Wondershare Filmora](https://filmora.wondershare.com) 剪辑
