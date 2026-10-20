@@ -753,7 +753,8 @@ Enjoy 🤩
 > 图片处理 PS设计排版 Paint 绘图🖌️
 
 - [Photopea](https://www.photopea.com) (Web) ⭐
-- Adobe: [Photoshop](https://www.photoshop.com), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) ⭐
+- Adobe: [Photoshop](https://www.photoshop.com), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/storytold/photocraft) [PhotoCraft](https://github.com/storytold/photocraft)
 - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) 图像查看器
 - [Kiko Card](https://apps.apple.com/us/app/kiko-card-text-post-carousel/id6463467787) 文字生成图片
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MewPurPur/GodSVG) [GodSVG](https://github.com/MewPurPur/GodSVG) (Windows, Android) 免费开源SVG矢量图形编辑工具，支持在线编辑
@@ -2024,7 +2025,7 @@ Enjoy 🤩
   - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
   - [Ulaa Browser](https://ulaa.zoho.com) (Windows) 电子邮件提供商Zoho推出的全平台隐私安全浏览器
-  - [Dia](https://www.diabrowser.com)  (macOS) Atlassian Corporation在2025年9月收购了The Browser Company
+  - [Dia Browser](https://www.diabrowser.com)  (macOS, Windows) Atlassian Corporation在2025年9月收购了The Browser Company
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deta/surf) [Deta Surf Browser](https://github.com/deta/surf) Deta GmbH 个人AI笔记本应用
   - [Comet](https://www.perplexity.ai/comet) 搜索广告公司Perplexity推出的AI浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/iridium-browser/iridium-browser) [Iridium Browser](https://iridiumbrowser.de) Enhance the privacy
@@ -2128,6 +2129,7 @@ Enjoy 🤩
 - [Speedometer3.1](https://browserbench.org/Speedometer3.1) Browser Performance 网页浏览器的基准测试，通过对不同工作负载下的模拟用户交互进行时序来衡量网页应用响应速度
 - ![GitHub Repo stars](https://img.shields.io/github/stars/corbindavenport/just-the-browser) [Just the Browser](https://github.com/corbindavenport/just-the-browser) 移除桌面浏览器中的 AI 功能、遥测数据报告、赞助内容、产品集成
 - [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
+- [whatismybrowser](https://www.whatismybrowser.com/) 查看浏览器版本
 
 
 
@@ -2419,10 +2421,12 @@ Enjoy 🤩
 - [MeshCentral](https://meshcentral.com) 用于远程设备管理的开源、多平台、自托管、功能丰富的网站
 - [WireGuard](https://www.wireguard.com) 远程穿透
 - [woterm](https://github.com/aoyiduo/woterm) (Windows, Linux, macOS) 跨平台远程管理终端
-
+- [网易UU远程](https://uuyc.163.com/)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/H-M-H/Weylus) [Weylus](https://github.com/H-M-H/Weylus) 手机变成电脑的触控屏
 - [Deskreen](https://deskreen.com) 电脑的辅助屏幕 Turn any device into a secondary screen for your computer
-
+- [Lantunnel](https://github.com/lantunnel/lantunnel) 开源内网穿透，加密组网工具
+- [Sunshine](https://github.com/LizardByte/Sunshine) 安装在被控电脑上，负责捕获画面、编码和串流
+- [moonlight](https://github.com/moonlight-stream) 安装在控制端设备上，用来接收画面并传输键盘、鼠标等操作
 - ![GitHub Repo stars](https://img.shields.io/github/stars/deskflow/deskflow) [deskflow](https://github.com/deskflow/deskflow) Share a single keyboard and mouse between multiple computers
 - WOL Wake-on-LAN 局域网电脑唤醒
 - [ToDesk](https://todesk.com/?lang=en) 免费用户配额每月连接时长缩减至80小时
