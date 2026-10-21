@@ -881,6 +881,7 @@ Enjoy 🤩
 ### 🎶Music Player 音乐播放软件
 
 - [Audacious](https://audacious-media-player.org) (Linux, BSD derivatives, macOS and Windows) open source audio player，2025年还在更新
+- ![GitHub Repo stars](https://img.shields.io/github/stars/monochrome-music/desktop-app) [Monochrome](https://github.com/monochrome-music/desktop-app/) (Windows, Android, iOS) 
 - [Elisa（KDE出品）](https://apps.kde.org/elisa) 嵌入到文件中的歌词显示，不支持LRC歌词文件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DeaDBeeF-Player/deadbeef) [DeaDBeeF Player](https://github.com/DeaDBeeF-Player/deadbeef)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/strawberrymusicplayer/strawberry) [🍓 Strawberry Music Player](https://github.com/strawberrymusicplayer/strawberry) Clementine的升级版、专为无损发烧友设计
