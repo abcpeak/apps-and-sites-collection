@@ -2509,6 +2509,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts) [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zbezj/HEU_KMS_Activator) [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases) 可永久激活Windows 11和Microsoft Office
   - [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) 增强微软官方 Media Creation Tool (MCT) 媒体创建工具
+  - [Mocreak](https://github.com/OdysseusYuan/Mocreak) Automatically downloads, installs, and deploys genuine Windows and Office with one click
 - [LetRecovery](https://github.com/NORMAL-EX/LetRecovery) 重装系统
 
 ### 🍎Apple
