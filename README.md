@@ -1148,6 +1148,7 @@ Enjoy 🤩
 - [Cinema 4D (C4D)](https://www.maxon.net/cinema-4d)
 - [Houdini](https://www.sidefx.com)
 - [Shapr3D](https://www.shapr3d.com)
+- [Forma3D](https://forma3d.app) iOS 3D 建模与 STL/3MF 网格编辑应用，适合 3D 打印
 - [Lidar Scanner: 3D Snap & Ruler](https://apps.apple.com/us/app/3d-snap-lidar-scanner-ruler/id6477467417)
 
 ## ⚡Productivity 效率
