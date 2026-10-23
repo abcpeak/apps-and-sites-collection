@@ -2745,6 +2745,7 @@ Enjoy 🤩
 - [Onlyfans](https://onlyfans.com)
 
 ---
+## 🔚End
 
 | 0️⃣ | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
 | :---: | :---: | :---: | :---: | :---: |
@@ -2753,8 +2754,6 @@ Enjoy 🤩
 | 🛠️ | [📛Adblock](#adblock-去广告-block-ads) |  [📶Network](#network-dns-vpn-vps-idc)  | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) |
 | 🛠️ | [📂File Manager](#file-manager-文件管理) | [📥Downloader](#downloader-下载器) | [🖱️Remote](#%EF%B8%8Fremote-access-and-control-远程访问控制) | [🧱Firewall](#firewall-antivirus-malware-防火墙-杀毒软件) |
 | 💻 | [🪟Windows](#windows) | [🍎Apple](#apple) | [👾Android](#android) | [🐧Linux](#linux) |
-
-## 🔚End
 
 ### 🤝Contribute 贡献
 
@@ -2770,7 +2769,7 @@ Firstly, Thank you for expressing your interest in contributing to our repositor
 
 This work is licensed under [The MIT License (MIT)](https://opensource.org/licenses/MIT).
 
-Copyright © 2025 - 2026
+Copyright © 2025
 
 ---
 
