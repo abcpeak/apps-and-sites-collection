@@ -16,7 +16,6 @@ Don't forget to show your appreciation by giving this repository a ⭐Star!
 
 Enjoy 🤩
 
-
 ---
 
 ## Table of Contents
@@ -30,14 +29,6 @@ Enjoy 🤩
 | [🍿Entertainment](#entertainment-娱乐)            | [🗞️Magazines](#%EF%B8%8Fmagazines--newspapers-%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97) | [📖Reference](#reference-参考资料)                 | [💻OS](#os-操作系统)                            |
 | [💰Finance](#finance-财务)                        | [🏥Medical](#medical-医疗)                                                             | [🛍️Shopping](#%EF%B8%8Fshopping-购物)           | [🎮Games](#games-游戏)                        |
 | [🍔Food & Drink](#food--drink-美食佳饮)             | [🎵Music](#music-音乐)                                                                 | [💬Social Networking](#social-networking-社交网络) | [💾Resource](#resource-download-site-资源下载站) |
-
-| 0️⃣ | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
-| :---: | :---: | :---: | :---: | :---: |
-| 🍿 | [🎬Movies & TV](#movies--tv) | [▶️Video Player](#%EF%B8%8Fvideo-player-视频播放器) | [🎞️Emby](#%EF%B8%8Femby-plex-jellyfin-媒体服务器软件-流媒体服务器) | [🛑IPTV](#iptv) |
-| ⚡ | [🤖AI](#ai) | [📑Note Taking](#note-taking-笔记软件) | [📧Email](#email-电子邮箱) | [🔐Pass](#password-manager-密码管理-pwm) |
-| 🛠️ | [📛Adblock](#adblock-去广告-block-ads) |  [📶Network](#network-dns-vpn-vps-idc)  | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) |
-| 🛠️ | [📂File Manager](#file-manager-文件管理) | [📥Downloader](#downloader-下载器) | [🖱️Remote](#%EF%B8%8Fremote-access-and-control-远程访问控制) | [🧱Firewall](#firewall-antivirus-malware-防火墙-杀毒软件) |
-| 💻 | [🪟Windows](#windows) | [🍎Apple](#apple) | [👾Android](#android) | [🐧Linux](#linux) |
 
 ---
 
@@ -294,9 +285,9 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/electerious/Ackee) [Ackee](https://github.com/electerious/Ackee) 自托管的开源统计工具，个性化定制和隐私保护功能
   - [Clarity统计](https://clarity.microsoft.com) 微软推出的统计工具，大陆访问体验好 ⭐
 
-数据大屏
-- ![GitHub Repo stars](https://img.shields.io/github/stars/dataease/dataease) [dataease](https://github.com/dataease/dataease)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/metabase/metabase) [metabase](https://github.com/metabase/metabase)
+- 数据大屏
+ - ![GitHub Repo stars](https://img.shields.io/github/stars/dataease/dataease) [dataease](https://github.com/dataease/dataease)
+ - ![GitHub Repo stars](https://img.shields.io/github/stars/metabase/metabase) [metabase](https://github.com/metabase/metabase)
 
 ### 🔗Domain registration 域名注册
 
@@ -2752,6 +2743,16 @@ Enjoy 🤩
 > Porn, pornography, adult content, explicit sexual content
 
 - [Onlyfans](https://onlyfans.com)
+
+---
+
+| 0️⃣ | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
+| :---: | :---: | :---: | :---: | :---: |
+| 🍿 | [🎬Movies & TV](#movies--tv) | [▶️Video Player](#%EF%B8%8Fvideo-player-视频播放器) | [🎞️Emby](#%EF%B8%8Femby-plex-jellyfin-媒体服务器软件-流媒体服务器) | [🛑IPTV](#iptv) |
+| ⚡ | [🤖AI](#ai) | [📑Note Taking](#note-taking-笔记软件) | [📧Email](#email-电子邮箱) | [🔐Pass](#password-manager-密码管理-pwm) |
+| 🛠️ | [📛Adblock](#adblock-去广告-block-ads) |  [📶Network](#network-dns-vpn-vps-idc)  | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) |
+| 🛠️ | [📂File Manager](#file-manager-文件管理) | [📥Downloader](#downloader-下载器) | [🖱️Remote](#%EF%B8%8Fremote-access-and-control-远程访问控制) | [🧱Firewall](#firewall-antivirus-malware-防火墙-杀毒软件) |
+| 💻 | [🪟Windows](#windows) | [🍎Apple](#apple) | [👾Android](#android) | [🐧Linux](#linux) |
 
 ## 🔚End
 
