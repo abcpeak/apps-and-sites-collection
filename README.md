@@ -41,6 +41,7 @@ Enjoy 🤩
 - 压缩: [tinywow.com/pdf/compress](https://tinywow.com/pdf/compress)、[pdf2go.com/compress-pdf](https://www.pdf2go.com/compress-pdf)
 - 在线PDF转换工具: [Smallpdf](https://smallpdf.com)、[cleverpdf](https://www.cleverpdf.com/cn)
 - [PDF-XChange Editor Plus](https://www.tracker-software.com/product/downloads) PDF编辑
+- ![GitHub Repo stars](https://img.shields.io/github/stars/storytold/pdfcraft) [PdfCraft](https://github.com/storytold/pdfcraft) (Windows, Linux, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF) [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [PDFgear](https://www.pdfgear.com) 集合了多种 PDF 处理工具的软件套装
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf) [Sumatra pdf](https://github.com/sumatrapdfreader/sumatrapdf) 电子书阅读器 ⭐
@@ -1386,6 +1387,7 @@ Enjoy 🤩
 
 - [Thunderbird](https://www.thunderbird.net/en-US) 雷鸟邮件客户端
   - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android) Thunderbird
+  - [Clean themes for Thunderbird](https://celest-watches.com/clean-themes)
 - [Spark Mail](https://sparkmailapp.com) 乌克兰公司Readdle的邮箱产品
 - [Missive](https://missiveapp.com) 需付费
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Foundry376/Mailspring) [Mailspring](https://github.com/Foundry376/Mailspring) (macOS, Linux, Windows)
@@ -2064,6 +2066,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) (Windows, macOS, Linux, iOS) 基于火狐, 支持鼠标手势, Floorp Notes, Privacy-preserving Firefox-based browser with Chromium-like UI and features ⭐
   - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) (Windows, macOS, Linux) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/by-architect/Dejavu) [Dejavu](https://github.com/by-architect/Dejavu) (Android, iOS)
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android) 原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%，on Sep 17, 2024
@@ -2122,9 +2125,6 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/corbindavenport/just-the-browser) [Just the Browser](https://github.com/corbindavenport/just-the-browser) 移除桌面浏览器中的 AI 功能、遥测数据报告、赞助内容、产品集成
 - [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
 - [whatismybrowser](https://www.whatismybrowser.com/) 查看浏览器版本
-
-
-
 
 #### 🍭Browser Extensions (Plugins, add-ons) and Theme 浏览器插件(扩展)及主题
 
