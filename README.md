@@ -1856,6 +1856,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Rem0o/FanControl.Releases) [Fan Control](https://github.com/Rem0o/FanControl.Releases) Windows风扇控制软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kando-menu/kando) [kando](https://github.com/kando-menu/kando) The Cross-Platform Pie Menu 跨平台桌面饼图菜单工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner) [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
+- [MacClean](https://thulem.com/) (macOS) Free Mac disk cleaner for WeChat/QQ/WeCom media, Xcode/AI caches, large files, and Storage Map — review before clean
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer) [Optimizer](https://github.com/hellzerg/optimizer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Raphire/Win11Debloat) [Windows 11 Debloater Tool](https://github.com/Raphire/Win11Debloat) 删除预装的Windows臃肿软件 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/memstechtips/Winhance) [Winhance](https://github.com/memstechtips/Winhance) 删除Windows应用程序（永久）
