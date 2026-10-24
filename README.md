@@ -512,7 +512,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/huynhsontung/Screenbox) [Screenbox](https://github.com/huynhsontung/Screenbox) (Windows)
 - [Potplayer](https://potplayer.tv) (Windows) 来自韩国 Kakao Corp. 支持播放WebDAV
 - ![GitHub Repo stars](https://img.shields.io/github/stars/videolan/vlc) [VLC media player](https://github.com/videolan/vlc) 开源免费的跨平台多媒体播放器 ![Latest Release Date](https://img.shields.io/github/last-commit/videolan/vlc)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/vzhd1701/gridplayer) [Gridplayer](https://github.com/vzhd1701/gridplayer) (Linux, Mac, and Windows)  VLC 的媒体播放器，可以同时播放多个视频
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vzhd1701/gridplayer) [Gridplayer](https://github.com/vzhd1701/gridplayer) (Linux, macOS, and Windows)  VLC-based media player，可以同时播放多个视频
 - [PlayerFab Ultra HD Player](https://www.videohelp.com/software/DVDFab-Media-Player) 蓝光高清播放器
 - [GOM Player Plus](https://www.gomlab.com/gomplayerplus-media-player) 来自韩国播放器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Hiram-Wong/ZyPlayer) [ZyPlayer Hiram-Wong](https://github.com/Hiram-Wong/ZyPlayer) 支持IPTV、主流视频平台解析 ![Latest Release Date](https://img.shields.io/github/release-date/Hiram-Wong/ZyPlayer)
@@ -555,13 +555,13 @@ Enjoy 🤩
 - [Kodi](https://kodi.tv) 媒体中心，智能电视的播放软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tsukinaha/tsukimi) [Tsukimi](https://github.com/tsukinaha/tsukimi) (Windows, Linux) A simple third-party Emby client
 - [Infuse](https://firecore.com/infuse) (iOS, macOS, AppleTV) 支持HDR和杜比。不支持多版本选择，扫库机制体验较差
-- ![GitHub Repo stars](https://img.shields.io/github/stars/AttemptD/AfuseKt-release) [AfuseKt](https://github.com/AttemptD/AfuseKt-release/releases) 非开源，GitHub仅发布release版本，不包含任何代码。需安卓11以上，支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AttemptD/AfuseKt-release) [AfuseKt](https://github.com/AttemptD/AfuseKt-release/releases) (Android) 需安卓11以上，非开源，GitHub仅发布release版本，不包含任何代码。支持协议：Alist，SMB，Webdav，Emby(直连)，Local，jellyfin(直连)，阿里盘
 - [Plex Media Server](https://www.plex.tv/media-server-downloads) 看IPTV用 Cigaras 或 IPTV.bundle 插件
   - ![GitHub Repo stars](https://img.shields.io/github/stars/sct/overseerr) [Plex Overseerr](https://overseerr.dev) 与Plex搭配使用
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin) [Jellyfin](https://github.com/jellyfin/jellyfin) The Free Software Media System 官方称由于Emby 3.6开始闭源后，引起了一些核心开发人员的不满，所以最近在Emby的基础上单独开发了Jellyfin媒体服务器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/fredrikburmester/streamyfin) [Streamyfin](https://github.com/fredrikburmester/streamyfin) a simple and user-friendly Jellyfin client built with Expo
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jellyfin/jellyfin-media-player) [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) Jellyfin Desktop Client
-- [SenPlayer](https://apps.apple.com/app/id6443975850) (iOS, macOS, Apple TV) 支持8解码，长按最高8倍速，画中画播放；支持HDR10, HLG集成最新FFMPEG7.0，支持本地视频，相册视频，网络视频, KSPlayer项目的授权并基于该目开发，视频播放直接调用FFmpeg
+- [SenPlayer](https://apps.apple.com/app/id6443975850) (iOS, macOS, Apple TV) 支持8解码，长按最高8倍速，画中画播放；支持HDR10, HLG集成最新FFMPEG7.0，支持本地视频，相册视频，网络视频, KSPlayer项目的授权并基于该目开发，视频播放直接调用FFmpeg ⭐
 - [VidHub](https://apps.apple.com/cn/app/id1659622164) (iOS, macOS, Apple TV) 可连Trakt
 - [Reflix](https://apps.apple.com/app/id6621243955) (iOS)
 - [HamHub](https://apps.apple.com/app/id6458691598) (iOS, Apple TV)
@@ -746,7 +746,7 @@ Enjoy 🤩
 
 - [Photopea](https://www.photopea.com) (Web) ⭐
 - Adobe: [Photoshop](https://www.photoshop.com), [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/storytold/photocraft) [PhotoCraft](https://github.com/storytold/photocraft)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/storytold/photocraft) [PhotoCraft](https://github.com/storytold/photocraft) 取代PS
 - [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) 图像查看器
 - [Kiko Card](https://apps.apple.com/us/app/kiko-card-text-post-carousel/id6463467787) 文字生成图片
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MewPurPur/GodSVG) [GodSVG](https://github.com/MewPurPur/GodSVG) (Windows, Android) 免费开源SVG矢量图形编辑工具，支持在线编辑
@@ -770,17 +770,16 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio) [draw.io](https://github.com/jgraph/drawio) 开源跨平台绘图软件Drawio，基于Eelectron开发
 - ![GitHub Repo stars](https://img.shields.io/github/stars/flxzt/rnote) [Rnote](https://github.com/flxzt/rnote) 基于矢量的开源绘图应用程序
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/inpaint-web) [Inpaint-web](https://github.com/lxfater/inpaint-web) 图片修复、放大
-- [BandiView](https://www.bandisoft.com/bandiview) image viewer，HoneyView的升级版
-
+- [BandiView](https://www.bandisoft.com/bandiview) (Windows) image viewer，HoneyView的升级版
 - [FotoSketcher](https://fotosketcher.com) 免费软件，将普通照片转换为艺术作品
 - [iMazing Converter](https://imazing.com/zh/converter) 图片格式转换，转换HEIC至JPEG或PNG
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter) [File Converter](https://github.com/Tichau/FileConverter) 文件格式转换
 - ![GitHub Repo stars](https://img.shields.io/github/stars/joye61/pic-smaller) [Pic Smaller](https://github.com/joye61/pic-smaller) 图片压缩工具，支持WebP、PNG、JPEG和Gif图像在线压缩
 - [NXStudio](https://downloadcenter.nikonimglib.com/en/products/564/NX_Studio.html) 尼康的专业图像处理软件
 - [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645) (iOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/T8RIN/ImageToolbox) [ImageToolbox](https://github.com/T8RIN/ImageToolbox) 全能型图片处理工具
-- Scrollie (iOS)
-- StitchPics (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/T8RIN/ImageToolbox) [ImageToolbox](https://github.com/T8RIN/ImageToolbox) (Android) 全能型图片处理工具
+- [Scrollie](https://apps.apple.com/us/app/scrollie-long-screenshot/id6757146579) (iOS)
+- [StitchPics](https://apps.apple.com/us/app/stitchpics-stitch-screenshots/id1175878538) (iOS)
 
 ## 💪Health & Fitness 健康健美
 
@@ -2016,7 +2015,7 @@ Enjoy 🤩
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
   - [Vivaldi](https://vivaldi.com) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex自动翻译。建议至少每6个月登录一次 ⭐
   - [Yandex Browser](https://browser.yandex.com) 来自俄罗斯
-  - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock，敲门的意思
+  - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
   - [Ulaa Browser](https://ulaa.zoho.com) (Windows) 电子邮件提供商Zoho推出的全平台隐私安全浏览器
   - [Dia Browser](https://www.diabrowser.com)  (macOS, Windows) Atlassian Corporation在2025年9月收购了The Browser Company
@@ -2029,7 +2028,7 @@ Enjoy 🤩
   - [Opera](https://www.opera.com): [Opera GX](https://www.opera.com/gx) 针对游戏玩家；[Opera Air](https://www.opera.com/zh-cn/air)
   - [Epic Privacy Browser](https://epicbrowser.com) 始终在私密模式下运行
   - ![GitHub Repo stars](https://img.shields.io/github/stars/win32ss/supermium) [Supermium](https://github.com/win32ss/supermium) 兼容XP、2003、Vista、7 和 8.x
-  - [Samsung Internet Browser](https://www.samsung.com/us/support/owners/app/samsung-internet) Android, for your phone and tablet
+  - [Samsung Internet Browser](https://www.samsung.com/us/support/owners/app/samsung-internet) (Android) for your phone and tablet
   - [Tempest Browser](https://tempest.com/browser) 暴风雨浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
   - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Windows, Linux) Cromite是从Bromite fork（分支）出来的项目，内置广告拦截功能和隐私保护，Win版是绿色版
@@ -2051,21 +2050,21 @@ Enjoy 🤩
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
-  - [CrestBrowser](https://apps.apple.com/us/app/crest-browser/id6797335023) (iOS, macOS) 
-
+  - [CrestBrowser](https://apps.apple.com/us/app/crest-browser/id6797335023) (iOS, macOS)
+  - [Yab, Yet Another Browser: a free Mac browser like Arc, with AI](https://yetanotherbrowser.com/) (iOS, macOS)
 
 - **Firefox，Gecko 内核**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃 ⭐
     - [Mozilla Firefox Portable Edition](https://portableapps.com/apps/internet/firefox_portable)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/yokoffing/BetterFox) [BetterFox](https://github.com/yokoffing/BetterFox) Firefox user.js
   - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://github.com/BrowserWorks/Waterfox) 水狐浏览器，基于Firefox，只提供64位版本，支持Widevine
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/minh-ton/reynard-browser) [Reynard Browser](https://github.com/minh-ton/reynard-browser) (iOS) Gecko-based web browser for iOS 13+ ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/minh-ton/reynard-browser) [Reynard Browser](https://github.com/minh-ton/reynard-browser) (iOS) Gecko-based web browser for iOS 13+ 
   - [K-Meleon](https://kmeleonbrowser.org)
   - [LibreWolf](https://librewolf.net) 开源（Codeberg或GitLab社区支持），增强对跟踪和指纹技术的保护，distribution on Windows via the Microsoft Store
   - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) (Windows, macOS, Linux, iOS) 基于火狐, 支持鼠标手势, Floorp Notes, Privacy-preserving Firefox-based browser with Chromium-like UI and features ⭐
   - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) (Windows, macOS, Linux) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) (Windows, macOS, Linux) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务 ⭐⭐⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/by-architect/Dejavu) [Dejavu](https://github.com/by-architect/Dejavu) (Android, iOS)
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android) 原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
@@ -2078,21 +2077,22 @@ Enjoy 🤩
   - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://github.com/qutebrowser/qutebrowser) (Windows, macOS) QtWebEngine引擎，A keyboard-driven, vim-like browser based on Python and Qt.
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (Linux, macOS) using a novel engine based on web standards
+
 - [Mishmish](https://mishmish.io/download/rUVQGP0UBU5m) (Windows) 新概念浏览器 + 协作工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook Browser](https://github.com/nook-browser/Nook) (macOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) ( Linux, macOS and Windows) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
 - [Antidetect Browser](https://undetectable.io) Fingerprint browser
 - [Konqueror](https://apps.kde.org/konqueror) (Linux)
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) (Linux) for the GNOME desktop
-- ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (2026年夏季发布Linux和macOS) using a novel engine based on web standards
 - [Aloha Browser](https://apps.apple.com/app/id1105317682) (iOS, Android) 内置免费VPN
 - [GNU IceCat](https://icecatbrowser.org) (Windows, macOS, Linux)
 - [Basilisk](https://basilisk-browser.org) (Windows, macOS, Linux)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hyphanet/fred) [Hyphanet](https://github.com/hyphanet/fred) (Windows, macOS, Linux)
 - [Puma Browser](https://www.pumabrowser.com) (iOS, Android)
 - [IDENTORY](https://identory.com/en) (Windows) 指纹浏览器 Fingerprint browser
-- [Nyxt:](https://nyxt.atlas.engineer) the hacker's browser
+- [Nyxt:](https://nyxt.atlas.engineer) (Windows, macOS, Linux) the hacker's browser
 - [SeaMonkey](https://www.seamonkey-project.org/releases)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/garuda-linux/firedragon) [Firedragon](https://github.com/garuda-linux/firedragon) (Linux) A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 
@@ -2107,7 +2107,7 @@ Enjoy 🤩
   - [Sidekick](https://www.meetsidekick.com) 已停止维护
   - [Ghostery](https://www.ghostery.com/ghostery-private-browser) discontinued
   - [Puffin Cloud Browser](https://www.puffin.com/cloud-browser) (iOS)
-  - [Arc Browser](https://arc.net) 不再有重大更新
+  - [Arc Browser](https://arc.net) 已停止维护
   - [Cent Browser](https://www.centbrowser.com) 百分浏览器，更新缓慢，继续支持Win7/MV2/GDI
   - [Mull-Fenix](https://github.com/Divested-Mobile/mull-fenix) (Android) archived on Dec 23, 2024
   - [Avira Secure Browser](https://www.avira.com/en/avira-secure-browser) (Windows, macOS)
