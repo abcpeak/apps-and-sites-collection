@@ -1848,6 +1848,7 @@ Enjoy 🤩
 - [Revo Uninstaller](https://www.revouninstaller.com)
 - [Registry Finder](https://registry-finder.com)
 - [TweakPower](https://www.majorgeeks.com/files/details/tweakpower.html) (Windows) 系统清理、优化、调校工具箱
+- [Mole鼴](https://mole.fit/) (Windows, macOS) 需付费
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rayenghanmi/RyTuneX) [RyTuneX](https://github.com/rayenghanmi/RyTuneX) Windows 优化工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit) [BleachBit](https://www.bleachbit.org) 开源免费的系统清理工具
 - [Wise Registry Cleaner](https://www.wisecleaner.com/wise-registry-cleaner.html)
@@ -2004,13 +2005,14 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://github.com/chromium/chromium) The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。服务器仅用于临时中转加密数据包，服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave Browser](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。服务器仅用于临时中转加密数据包，服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
     - [Brave Origin](https://github.com/brave/brave-browser/releases) (Windows收费60美元，Linux免费) 只保留最底层隐私安全功能，砍掉所有附加功能
     - [Brave™ portable](https://github.com/portapps/brave-portable) (Windows)
     - [SlimBrave](https://github.com/ltx0101/SlimBrave) (Windows) 管理员权限运行command in PowerShell
     - [brave-extreme-debloat-privacy.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-extreme-debloat-privacy.reg) (Windows) 偏激进的 Brave 深度精简策略，最大化去功能和隐私保护。关闭了 AI、Rewards、钱包、VPN、新闻、通话、播放列表、Tor 等几乎所有附加服务，同时禁用遥测与统计上报，并强制启用加密 DNS 且指定固定提供商
     - [brave-minimal-debloat-daily.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-minimal-debloat-daily.reg) (Windows) 仅关闭 Rewards、钱包、VPN、AI Chat 和 Tor 等争议或非必要功能，保留大部分默认体验，新标签页指向 Brave Search，DNS 采用自动模式以保证兼容性
     - [brave-debloater](https://github.com/Anxarden/brave-debloater)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/dsfox-idea/brave-core) [Growser](https://github.com/dsfox-idea/brave-core) A fork of Brave-Browser. Remove: advertising and reward tokens, the wallet, the VPN, the AI assistant, the telemetry, the daily ping.
   - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
   - [Vivaldi](https://vivaldi.com) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex自动翻译。建议至少每6个月登录一次 ⭐
@@ -2065,7 +2067,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) (Windows, macOS, Linux, iOS) 基于火狐, 支持鼠标手势, Floorp Notes, Privacy-preserving Firefox-based browser with Chromium-like UI and features ⭐
   - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) (Windows, macOS, Linux) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务 ⭐⭐⭐
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/by-architect/Dejavu) [Dejavu](https://github.com/by-architect/Dejavu) (Android, iOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/by-architect/Dejavu) [Dejavu](https://github.com/by-architect/Dejavu) (Android)
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android) 原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%，on Sep 17, 2024
@@ -2091,7 +2093,7 @@ Enjoy 🤩
 - [Basilisk](https://basilisk-browser.org) (Windows, macOS, Linux)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hyphanet/fred) [Hyphanet](https://github.com/hyphanet/fred) (Windows, macOS, Linux)
 - [Puma Browser](https://www.pumabrowser.com) (iOS, Android)
-- [IDENTORY](https://identory.com/en) (Windows) 指纹浏览器 Fingerprint browser
+- [IDENTORY](https://identory.com/en) (Windows) Fingerprint browser
 - [Nyxt:](https://nyxt.atlas.engineer) (Windows, macOS, Linux) the hacker's browser
 - [SeaMonkey](https://www.seamonkey-project.org/releases)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/garuda-linux/firedragon) [Firedragon](https://github.com/garuda-linux/firedragon) (Linux) A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
