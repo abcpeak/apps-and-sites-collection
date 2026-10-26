@@ -1169,7 +1169,6 @@ Enjoy 🤩
 - [Monica](https://monica.im) (全平台) AI助手
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox) [Chatbox](https://github.com/Bin-Huang/chatbox) (全平台)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio) [Cherry Studio](https://github.com/CherryHQ/cherry-studio)
-
 - [OpenCat](https://opencat.app) (iOS, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ChatBot-All/chatbot-app) [ChatBot](https://github.com/ChatBot-All/chatbot-app) (iOS, macOS, Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ChatGPTNextWeb/NextChat) [NextChat](https://github.com/ChatGPTNextWeb/NextChat) (全平台)
@@ -1184,7 +1183,7 @@ Enjoy 🤩
 - [Perplexity](https://www.perplexity.ai)
 - [Google Gemini](https://gemini.google.com) 谷歌的人工智能Gemini ⭐
   - [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech)
-- [Claude](https://claude.ai) Anthropic公司研发，由前OpenAI工程师于2021年创立，谷歌和亚马逊都有投资
+- [Claude](https://claude.ai) Anthropic公司研发，由前OpenAI工程师于2021年创立，谷歌和亚马逊都有投资⭐⭐
 
 - [DuckDuckGo AI](https://duck.ai) Duck.ai can analyze PDFs
 - [Lumo](https://lumo.proton.me) Proton AI
@@ -1256,7 +1255,7 @@ Enjoy 🤩
 - [Microsoft To Do](https://to-do.live.com/tasks/inbox)
 - [Google Tasks](https://tasks.google.com/tasks)
 - [iCloud Reminders](https://www.icloud.com/reminders)
-- [Goblin Tools](https://apps.apple.com/us/app/goblin-tools/id6449003064)
+- [Goblin Tools](https://apps.apple.com/us/app/goblin-tools/id6449003064) (iOS)
 - 🗃️Archived
   - [gTasks Pro for Google Tasks](https://apps.apple.com/us/app/gtasks-pro-for-google-tasks/id672241079)
 
