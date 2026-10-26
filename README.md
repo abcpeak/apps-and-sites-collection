@@ -454,7 +454,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/fishjar/kiss-translator) [KISS Translator](https://github.com/fishjar/kiss-translator) translation extension & Greasemonkey script ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate) [libretranslate](https://github.com/LibreTranslate/LibreTranslate) Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup
 - [Trancy](https://www.trancy.org) 翻译插件
-- ![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator) [openai-translator](https://github.com/openai-translator/openai-translator) 2024.8.1
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator) [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator) [RTranslator](https://github.com/niedev/RTranslator) (Android) Offline real-time translation app
 - 🗃️Archived
 	- [Immersive Translate](https://immersivetranslate.com) 沉浸式翻译，非开源，不推荐
@@ -1184,6 +1184,8 @@ Enjoy 🤩
 
 - [Grok](https://grok.com) Grok是由xAI开发的人工智能聊天机器人，xAI是一家由Elon Musk于2023年3月创立的公司 ⭐
 - [ChatGPT](https://chat.openai.com) OpenAI公司研发的Chat Generative Pre-trained Transformer ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/openai/codex) [Codex](https://github.com/openai/codex) Lightweight coding agent that runs in your terminal
+
 - [Copilot](https://copilot.microsoft.com) Microsoft AI
   - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed) [DeepSpeed](https://github.com/microsoft/DeepSpeed) Microsoft DeepSpeed Chat
   - [Microsoft Azure](https://azure.microsoft.com/zh-cn/products/cognitive-services/text-to-speech/?speed=0&pitch=0#features) Azure AI 语音，微软文本转语音
@@ -1275,7 +1277,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/marktext/marktext) [Marktext](https://github.com/marktext/marktext) 搜索效率太慢
 - ![GitHub Repo stars](https://img.shields.io/github/stars/laurent22/joplin) [Joplin](https://joplinapp.org) (iOS, Windows, Android) E2EE端到端加密。安卓不支持笔记内搜索，附件管理比较混乱，且数据存储在数据库中，没有回收站，笔记删除或笔记同步丢失无法找回，界面简陋
 - ![GitHub Repo stars](https://img.shields.io/github/stars/toeverything/AFFiNE) [AFFiNE](https://github.com/toeverything/AFFiNE) 集写作、绘画、计划管理与一体的软件，免费10G，不支持国家emoji ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) [Logseq](https://logseq.com) 2022年获410万美元首轮融资，数据本地化。稳定性、同步bug较多 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) [Logseq](https://github.com/logseq/logseq) 2022年获410万美元首轮融资，数据本地化。稳定性、同步bug较多 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/usememos/memos) [memos](https://github.com/usememos/memos) 开源轻量级笔记服务
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium) [Trilium](https://github.com/zadam/trilium) (Windows, Linux) 笔记数据使用SQLite存储
 - ![GitHub Repo stars](https://img.shields.io/github/stars/outline/outline) [Outline](https://github.com/outline/outline) 成长型团队最快的知识库
@@ -1285,13 +1287,13 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vnotex/vnote) [Vnote](https://github.com/vnotex/vnote) 比较原生markdown 不支持扩展语法
 - ![GitHub Repo stars](https://img.shields.io/github/stars/overleaf/overleaf) [overleaf](https://github.com/overleaf/overleaf) A web-based collaborative LaTeX editor
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Zettlr/Zettlr) [Zettlr](https://github.com/Zettlr/Zettlr)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/streetwriters/notesnook) [Notesnook](https://github.com/streetwriters/notesnook) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/streetwriters/notesnook) [Notesnook](https://github.com/streetwriters/notesnook) 免费50M每月存储
 - ![GitHub Repo stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases) [Obsidian](https://obsidian.md) (macOS, iOS, Windows, Android, Linux) 闭源Freeware，官方同步收费。Obsidian LiveSync同步插件。同步手机端使用频率高不建议用obsidian-git 。remotely-save通过Cloudflare R2 (S3 API)在多个设备同步，免费每月10G。iCloud同步缺点: Linux 不好同步；每次打开都要同步 iCloud，vault 较大时间会很久；Home 等页面出现多文件的情况（如 Home Dashboard 2），原因是 iCloud 不会自己同步；iCloud 没有版本管理功能，如果不小心误删文件无法找回（设置删除文件时移动到回收站来解决）；没有数据库管理（当笔记数量很多的时候效率变慢）。无网页版。Obsidian插件：Code editor shortcuts, easy typing, kanban, surfing, advanced tables, better command palette, calendar
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pbek/QOwnNotes) [QOwnNotes](https://github.com/pbek/QOwnNotes)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/KDE/ghostwriter) [GhostWriter](https://github.com/KDE/ghostwriter)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nuttyartist/notes) [Notes](https://github.com/nuttyartist/notes) Version 2.2.1 Latest on 2024.10.11
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gsantner/markor) [Markor](https://github.com/gsantner/markor)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/anyproto/anytype-ts) [Anytype](https://anytype.io) 区块链技术多端同步，去中心化，本地存储，免费100M存储，没有文档的历史记录，不会有网页版，公司常小发展慢，开发团队佛系，iOS不能复制全部页面（只能复制一行）。database在Anytype中叫做sets。导出格式支持markdown和protobuf。protobuf是Google公司提出的一种轻便高效的结构化数据存储格式，常用于结构化数据的序列化，具有语言无关、平台无关、可扩展性特性，常用于通讯协议、服务端数据交换场景
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anyproto/anytype-ts) [Anytype](https://anytype.io) 免费100M存储，区块链技术多端同步，去中心化，本地存储，没有文档的历史记录，不会有网页版，公司常小发展慢，开发团队佛系，iOS不能复制全部页面（只能复制一行）。database在Anytype中叫做sets。导出格式支持markdown和protobuf。protobuf是Google公司提出的一种轻便高效的结构化数据存储格式，常用于结构化数据的序列化，具有语言无关、平台无关、可扩展性特性，常用于通讯协议、服务端数据交换场景
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Alexey-T/CudaText) [CudaText](https://github.com/Alexey-T/CudaText)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mayneyao/eidos) [Eidos](https://github.com/mayneyao/eidos) Offline alternative to Notion
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Beaver-Notes/Beaver-Notes) [Beaver Notes](https://github.com/Beaver-Notes/Beaver-Notes) 海狸笔记
@@ -2011,13 +2013,12 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/chromium/chromium) [Chromium](https://github.com/chromium/chromium) The Chromium Projects，遵循Berkeley Software Distribution (BSD)许可协议
   - [Google Chrome](https://www.google.com/intl/zh-CN/chrome) 谷歌浏览器，[Chrome status](https://chromestatus.com/roadmap)
   - [Microsoft Edge](https://www.microsoft.com/en-us/edge) 微软研发的浏览器，自带移除重复书签
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave Browser](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。服务器仅用于临时中转加密数据包，服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名 ⭐
-    - [Brave Origin](https://github.com/brave/brave-browser/releases) (Windows收费60美元，Linux免费) 只保留最底层隐私安全功能，砍掉所有附加功能
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/brave/brave-browser) [Brave Browser](https://github.com/brave/brave-browser) 🦁100%开源，支持IPFS协议，内置广告和跟踪器拦截，支持uBlock Origin、Privacy Badger等Manifest V2扩展。隐私优先的设计，不仅阻止广告，还阻止跟踪。边浏览边赚钱 – BAT（基本注意力代币）。服务器仅用于临时中转加密数据包，服务器不解密或存储明文数据；未访问的服务器数据在12个月后自动删除，以防长期闲置。无法修改同步的设备名。Brave Origin只保留最底层隐私安全功能，Windows收费60美元，Linux免费。 ⭐
     - [Brave™ portable](https://github.com/portapps/brave-portable) (Windows)
-    - [SlimBrave](https://github.com/ltx0101/SlimBrave) (Windows) 管理员权限运行command in PowerShell
+    - [SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) (Windows, macOS)
+    - [brave-debloater](https://github.com/Anxarden/brave-debloater)
     - [brave-extreme-debloat-privacy.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-extreme-debloat-privacy.reg) (Windows) 偏激进的 Brave 深度精简策略，最大化去功能和隐私保护。关闭了 AI、Rewards、钱包、VPN、新闻、通话、播放列表、Tor 等几乎所有附加服务，同时禁用遥测与统计上报，并强制启用加密 DNS 且指定固定提供商
     - [brave-minimal-debloat-daily.reg](https://github.com/abcpeak/apps-and-sites-collection/blob/main/small-lists/brave-minimal-debloat-daily.reg) (Windows) 仅关闭 Rewards、钱包、VPN、AI Chat 和 Tor 等争议或非必要功能，保留大部分默认体验，新标签页指向 Brave Search，DNS 采用自动模式以保证兼容性
-    - [brave-debloater](https://github.com/Anxarden/brave-debloater)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dsfox-idea/brave-core) [Growser](https://github.com/dsfox-idea/brave-core) A fork of Brave-Browser. Remove: advertising and reward tokens, the wallet, the VPN, the AI assistant, the telemetry, the daily ping.
   - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
@@ -2042,7 +2043,6 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Windows, Linux) Cromite是从Bromite fork（分支）出来的项目，内置广告拦截功能和隐私保护，Win版是绿色版
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gonzazoid/Ultimatum) [Ultimatum](https://github.com/gonzazoid/Ultimatum) (Android) Ultimatum is a chromium fork with webextensions support
   - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,来自imputnet团队(开发过cobalt.tools),based on ungoogled-chromium，不支持 Widevine DRM，支持MV2，内置uBO  ⭐
-  - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
   - [Wavebox](https://wavebox.io) 💵
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Windows, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
@@ -2059,7 +2059,8 @@ Enjoy 🤩
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
   - [CrestBrowser](https://apps.apple.com/us/app/crest-browser/id6797335023) (iOS, macOS)
-  - [Yab, Yet Another Browser: a free Mac browser like Arc, with AI](https://yetanotherbrowser.com/) (iOS, macOS)
+  - [Yab Browser](https://yetanotherbrowser.com/) (iOS, macOS) a free Mac browser like Arc, with AI
+  - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
 
 - **Firefox，Gecko 内核**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃 ⭐
@@ -2573,7 +2574,6 @@ Enjoy 🤩
   - [BlueStacks.com](https://www.bluestacks.com) 蓝叠模拟器 by now.gg ⭐
     - [MSI appplayer](https://www.msi.com/landing/appplayer)
 - [Google Play](https://play.google.com) 谷歌官方Android商店
-  - [Play games across your devices](https://play.google.com/googleplaygames) (Windows)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/microg/GmsCore) [GmsCore](https://github.com/microg/GmsCore) 开源的替代Google Play服务的解决方案
   - [APKMirror](https://www.apkmirror.com)
   - [Aptoide](https://www.aptoide.com)
@@ -2677,7 +2677,8 @@ Enjoy 🤩
 - [Warsow](https://www.warsow.net) 免费和快节奏的FPS游戏
 - [XBOX](https://www.xbox.com) 微软旗下的游戏主机品牌
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bobeff/open-source-games) [open-source-games](https://github.com/bobeff/open-source-games) 
-
+- [seedds/nxnative](https://github.com/seedds/nxnative)  Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA
+- [Play games across your devices](https://play.google.com/googleplaygames) (Windows)
 ### 🕹️Game Tool 游戏工具
 
 - [JoyToKey](https://joytokey.net/en) 游戏摇杆控制
