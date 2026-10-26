@@ -187,6 +187,13 @@ Enjoy 🤩
   - [Distill Web Monitor](https://distill.io) ⭐
   - [Spider_XHS](https://github.com/cv-cat/Spider_XHS) 小红书爬虫数据采集
 
+- Customizable GitHubStar History
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/star-history/star-history) [star-history](https://github.com/star-history/star-history)
+  - [star-chart](https://github.com/leereilly/star-chart)
+  - [GitHub Profile Stats & README Cards](https://ghstats.dev/)
+  - [Custom GitHub Stats Card Generator(https://www.readmecodegen.com/custom-github-card-generator)
+  - [GitHub Badge Generator | Reachism](https://reachism.com/tools/github-badge-generator)
+
 - Programming language 编程语言：JavaScript, C#, php, C++, Java, go...
   - ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react) [React](https://github.com/facebook/react) 用于构建用户界面的JavaScript框架
     - ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/react-native) [React-native](https://github.com/facebook/react-native) 跨平台移动应用开发框架
@@ -2768,8 +2775,13 @@ Firstly, Thank you for expressing your interest in contributing to our repositor
 
 ### 📈Star History
 
-
-[![Star History Chart](https://starhistory.link/abcpeak/apps-and-sites-collection.svg?theme=cyan)](https://starhistory.link/abcpeak/apps-and-sites-collection)
+<a href="https://www.star-history.com/?repos=abcpeak%2Fapps-and-sites-collection&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=abcpeak/apps-and-sites-collection&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=abcpeak/apps-and-sites-collection&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=abcpeak/apps-and-sites-collection&type=date&legend=top-left" />
+ </picture>
+</a>
 ### 📄License 许可证
 
 This work is licensed under [The MIT License (MIT)](https://opensource.org/licenses/MIT).
