@@ -278,7 +278,7 @@ Enjoy 🤩
 - [AWS Amplify](https://aws.amazon.com/amplify)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse) [Lighthouse](https://github.com/GoogleChrome/lighthouse) 网站性能测试，Chrome的产品
 - [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle) 网页离线保存工具
-- SEO工具：[serprobot](https://www.serprobot.com/serp-check) 、[Ahrefs站长工具](https://ahrefs.com/zh/webmaster-tools) 、[Google trends](https://trends.google.com/trends/?hl=zh-CN) 、[Wordtracker](https://www.wordtracker.com) 、[Soovle](https://soovle.com) 、[kwfinder](https://mangools.com/kwfinder)、[keywordseverywhere](https://keywordseverywhere.com)、[Meet Keyword Explorer](https://moz.com/explorer)、[keywordtool](https://keywordtool.io)、[answerthepublic](https://answerthepublic.com)
+- SEO工具：[serprobot](https://www.serprobot.com/serp-check), [Ahrefs站长工具](https://ahrefs.com/zh/webmaster-tools), [Google trends](https://trends.google.com/trends/?hl=zh-CN), [Wordtracker](https://www.wordtracker.com), [Soovle](https://soovle.com), [kwfinder](https://mangools.com/kwfinder)、[keywordseverywhere](https://keywordseverywhere.com)、[Meet Keyword Explorer](https://moz.com/explorer)、[keywordtool](https://keywordtool.io)、[answerthepublic](https://answerthepublic.com)
 - 邮件营销：[Convertkit](https://app.convertkit.com)、[Mailchimp](https://mailchimp.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LloydAsp/nfd) [NFD](https://github.com/LloydAsp/nfd) 一个基于cloudflare worker的Telegram消息转发bot，集成了反欺诈功能
 - 站点统计
@@ -320,8 +320,8 @@ Enjoy 🤩
   - [freenom](https://www.freenom.com)
   - [pp.ua](https://pp.ua) Free pp.ua subdomains.
   - [DigitalPlat](https://domain.digitalplat.org) Free dpdns.org subdomains. (Cloudflare接管不支持kg和je域名)⭐
-- 域名价格比较：[domcomp](https://www.domcomp.com) 、[tld-list](https://zh-hans.tld-list.com)
-- 域名交易：[sedo](https://sedo.com/cn) 、[dan](https://dan.com)
+- 域名价格比较：[domcomp](https://www.domcomp.com), [tld-list](https://zh-hans.tld-list.com)
+- 域名交易：[sedo](https://sedo.com/cn), [dan](https://dan.com)
 - SSL 证书：HubSpot, Let’s Encrypt, Comodo, Cloudflare Free SSL/TLS, GoDaddy, GoGetSSL, zerossl, Sectigo(COMODO), google gts, Buypass Go SSL,lookssl
 
 ### CSS framework CSS框架
@@ -522,7 +522,7 @@ Enjoy 🤩
 - [IINA](https://iina.io) (macOS) 现代媒体播放器
 - [Fig Player](https://zh.okaapps.com/product/1612400976#) (macOS) 的音视频播放器
 - [5kplayer](https://www.5kplayer.com) (Windows, macOS)
-- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) (Android, iOS) (💵)多媒体播放器
+- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928) (Android, iOS) 💵多媒体播放器
 - [HEVC Video Extension](https://www.free-codecs.com/download/hevc_video_extension.htm) 播放高效视频编码HEVC视频
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&gl=IN)  (Android)
 - [KMPlayer](https://www.kmplayer.com) KMPlayer64是新开发的软件，和32位版本完全不一样
@@ -531,8 +531,8 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kingslay/KSPlayer) [KSPlayer](https://github.com/kingslay/KSPlayer) TracyPlayer ![Latest Release Date](https://img.shields.io/github/last-commit/kingslay/KSPlayer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/wiliwili)  [wiliwili](https://github.com/xfangfang/wiliwili) (Windows, macOS, Linux)第三方B站客户端 ![Latest Release Date](https://img.shields.io/github/release-date/xfangfang/wiliwili)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe) [NewPipe](https://github.com/TeamNewPipe/NewPipe) (Android)第三方YouTube客户端 ![Latest Release Date](https://img.shields.io/github/release-date/TeamNewPipe/NewPipe)
-- [Vinegar - Tube Cleaner](https://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229) (iOS)(💵)picture-in-picture小窗播放
-- [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)(💵)
+- [Vinegar - Tube Cleaner](https://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229) (iOS)💵picture-in-picture小窗播放
+- [Baking Soda - Tube Cleaner](https://apps.apple.com/us/app/baking-soda-tube-cleaner/id1601151613) (iOS)💵
 - ![GitHub Repo stars](https://img.shields.io/github/stars/open-ani/animeko) [animeko](https://github.com/open-ani/animeko) 集找番、追番、看番的一站式弹幕追番平台
 - [Player Xtreme – Video Player](https://apps.apple.com/us/app/player-xtreme-video-player/id6737277424) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/yattee/yattee) [Yattee](https://github.com/yattee/yattee) (iOS, tvOS, macOS)
@@ -569,7 +569,7 @@ Enjoy 🤩
 - [DsCloud](https://apps.apple.com/us/app/id6476057278) (iOS, macOS)
 - [Yamby](https://t.me/yamby_release) (Android) 仅能连接Emby使用
 - [Optimus Player](https://www.optimusplayer.com) (macOS) 真正hdr支持，不是mp套壳，纯手动ffmpeg
-- 影音宝软件家族：[iemc](https://apps.apple.com/app/id1467462861) iOS/iPadOS；[EMTV](https://apps.apple.com/us/app/id1671608662) AppleTV；[yyb](https://apps.apple.com/cn/app/yyb/id1468401388) iOS/iPadOS/macOS/AppleTV；[yybx](https://apps.apple.com/cn/app/id1519723194) (💵)
+- 影音宝软件家族(iOS)💵: [iemc](https://apps.apple.com/app/id1467462861), [EMTV](https://apps.apple.com/us/app/id1671608662), [yyb](https://apps.apple.com/cn/app/yyb/id1468401388), [yybx](https://apps.apple.com/cn/app/id1519723194) 
 - [Filebar](https://apps.apple.com/cn/app/fileball/id1558391784) (iOS, AppleTV) 支持hdr，缓存，字幕，webdav可显示歌词，支持lrc歌词，长按播放按钮可跳转Infuse等外部播放器，可导入字幕
 - [网易爆米花](https://bmh.163.com) 来自网易团队
 - [BeeJoy](https://apps.apple.com/us/app/beejoy/id6670792086) (iOS)
@@ -591,13 +591,13 @@ Enjoy 🤩
 
 #### 📺IPTV 直播频道
 
-- IPTV直播源：[eja.tv](https://eja.tv) 、[iptv-org](https://iptv-org.github.io) 、[直播源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)、[iptv.shop](https://iptv.shop) 、[直播源搜索引擎](https://www.foodieguide.com/iptvsearch) 、[卫星电视频道的数据库LyngSat](https://www.lyngsat.com)、[iptv-sources](https://github.com/HerbertHe/iptv-sources)
+- IPTV直播源：[eja.tv](https://eja.tv), [iptv-org](https://iptv-org.github.io), [直播源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)、[iptv.shop](https://iptv.shop), [直播源搜索引擎](https://www.foodieguide.com/iptvsearch), [卫星电视频道的数据库LyngSat](https://www.lyngsat.com)、[iptv-sources](https://github.com/HerbertHe/iptv-sources)
 - [XPTV](https://apps.apple.com/us/app/xptv/id6459409368) ($7.99)
 - [IPTV Live](https://apps.apple.com/us/app/iptv-player-live-stream-m3u/id1662299469)
 - [X IPTV Player Pro](https://apps.apple.com/us/app/x-iptv-player-pro/id6714469354) (iOS)(🟢)IPTV播放器
 - [IPTV Xtream: TV Smart Player](https://apps.apple.com/us/app/iptv-xtream-tv-smart-player/id6744687571) (iOS)(🟢)
 - [Xtreme IPTV](https://apps.apple.com/us/app/iptv-smarters-xtream-iptv/id1573898785)
-- [APTV](https://apps.apple.com/us/app/aptv/id1630403500) (💵)
+- [APTV](https://apps.apple.com/us/app/aptv/id1630403500) 💵
 - [IPTV Player](https://apps.apple.com/us/app/iptv-m3u8-m3u-player/id1642581892) 带自动字幕
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xiaoyaocz/dart_simple_live) [Simple Live](https://github.com/xiaoyaocz/dart_simple_live) (全平台)
 - [TV Cast for Smart TV +](https://apps.apple.com/cn/app/tv-cast-for-smart-tv/id6450428119) (iOS)(🟢)
@@ -648,8 +648,8 @@ Enjoy 🤩
 - [N26](https://n26.com)
 - [Neverless](https://neverless.com)
 - [iFAST Global Bank](https://www.ifastgb.com)
-- [嘉信 Charles Schwab](https://client.schwab.com)
-- [盈透证券主页 Interactive Brokers LLC](https://www.interactivebrokers.com)
+- [Charles Schwab](https://client.schwab.com) 嘉信理财 证券
+- [Interactive Brokers LLC](https://www.interactivebrokers.com) 盈透证券
 
 ### 🪙Crypto 加密货币 ₿ Blockchain Web3
 
@@ -1127,8 +1127,8 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/babysor/MockingBird) [MockingBird](https://github.com/babysor/MockingBird) 5秒内克隆您的声音
 - [Shutter Encoder](https://www.shutterencoder.com) 视频转换器
 - [Any Video Converter Free](https://www.any-video-converter.com) AVC 免费视频转换器
-- [Vegas](https://www.vegas.com) (💵) 视频剪辑
-- [Adobe Premiere](https://www.adobe.com/products/premiere.html) (💵) 视频剪辑
+- [Vegas](https://www.vegas.com) 💵 视频剪辑
+- [Adobe Premiere](https://www.adobe.com/products/premiere.html) 💵 视频剪辑
 - [Final Cut Pro](https://www.apple.com/final-cut-pro) 视频创作 macOS视频剪辑，苹果店airdrop先到手机再到电脑
 - [Apple Creator Studio](https://www.apple.com/apple-creator-studio)
 - [VivaCut](https://apps.apple.com/tr/app/vivacut-ai-video-editor/id1489090374) (iOS)
@@ -1312,7 +1312,7 @@ Enjoy 🤩
 - [Roam Research](https://roamresearch.com) 付费，知识管理
 - [Simplenote](https://simplenote.com) (macOS, iOS, Windows, Android, Linux) 过于简陋，不能创建文件夹
 - [Standard Notes](https://standardnotes.com) Proton旗下，E2EE同步、静态加密、U2F 支持和独立安全审计 ⭐
-- [iA Writer](https://ia.net/writer) (macOS, Windows, iOS and Android) (💵)
+- [iA Writer](https://ia.net/writer) (macOS, Windows, iOS and Android) 💵
 - [EmEditor](https://www.emeditor.com)
 - [cherrytree](https://www.giuspen.net/cherrytree)
 - [RJ TextEd](https://www.rj-texted.se)
@@ -1322,7 +1322,7 @@ Enjoy 🤩
 - [brackets](https://brackets.io)
 - [Helix](https://helix-editor.com)
 - [Typora](https://typora.io) (Windows, macOS) ($14.99) Markdown工具
-- [Scrivener](https://www.literatureandlatte.com/scrivener/overview) (Windows, macOS, iOS) (💵) 长篇小说写作软件
+- [Scrivener](https://www.literatureandlatte.com/scrivener/overview) (Windows, macOS, iOS) 💵 长篇小说写作软件
 - [MarginNote](https://www.marginnote.com) (macOS, iOS)
 - [AsciiDoc](https://asciidoc.org)
 - [Marker](https://fabiocolacio.github.io/Marker) (Linux)
@@ -1434,7 +1434,7 @@ Enjoy 🤩
 - RSStoMail：[follow.it](https://follow.it/enter-website)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rss-translator/RSS-Translator) [RSS-Translator](https://github.com/rss-translator/RSS-Translator) 开源、简洁、可自部署的RSS翻译器
 - [FetchRSS](https://fetchrss.com) Generate RSS from any. 自动抓取任何网页变化，并将此变化生成RSS地址用于订阅。免费版本适用于低频监控网页变化，付费版本可实现更高频率的抓取。
-- [Feedbin](https://feedbin.com) Web三栏式 (💵) $5 a month
+- [Feedbin](https://feedbin.com) Web三栏式 💵 $5 a month
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Athou/commafeed) [CommaFeed](https://github.com/Athou/commafeed) Web展开式
 - ![GitHub Repo stars](https://img.shields.io/github/stars/miniflux/v2) [Miniflux 2](https://github.com/miniflux/v2) Web单栏式，自托管的项目
 - ![GitHub Repo stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS) [FreshRSS](https://github.com/FreshRSS/FreshRSS) 自建RSS
@@ -1793,7 +1793,7 @@ Enjoy 🤩
   - [Net Speed Meter](https://netspeedm.com) 显示网速的软件
   - [Test your IPv6](https://test-ipv6.com)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet) [sniffnet](https://github.com/GyulyVGC/sniffnet) 监控网络，互联网流量流向的国家和域名信息、使用的协议，了解哪些应用和程序正在占用你的带宽
-  - Speed Test 网速测试：[Speed Cloudflare](https://speed.cloudflare.com) 、[Speedtest](https://www.speedtest.net)、[fast](https://fast.com)、[LibreSpeed](https://librespeed.org)
+  - Speed Test 网速测试：[Speed Cloudflare](https://speed.cloudflare.com), [Speedtest](https://www.speedtest.net)、[fast](https://fast.com)、[LibreSpeed](https://librespeed.org)
   - 网络分析：[Network Analyzer App](https://techet.net/netanalyzer), [WiFiman](https://wifiman.com), [Fing](https://apps.apple.com/us/app/fing-network-scanner/id430921107), [iSocketTool](https://apps.apple.com/us/app/isockettool/id1461652639)
   - IP查询：[IPinfo](https://ipinfo.io/what-is-my-ip)、[IPCheck.ing](https://ipcheck.ing)、[WHOER](https://whoer.net/zh)、[ping.pe](https://ping.pe)、[IP Address details](https://ipleak.net)、[myip](https://www.myip.com)、[whatismyipaddress](https://whatismyipaddress.com)
   - Check browser fingerprints：[pixelscan.net](https://pixelscan.net)
@@ -1936,8 +1936,8 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/searxng/searxng) [SearXNG](https://searx.bndkt.io) a privacy-respecting, open metasearch engine
 - [Naver](https://www.naver.com) 韩国Naver公司旗下的搜索引擎
 - [Ecosia](https://www.ecosia.org) 环保的搜索引擎
-- [MetaGer](https://metager.org) (💵)位于德国，非营利组织运营的Metasearch引擎
-- [Kagi](https://kagi.com) (💵)无广告搜索引擎
+- [MetaGer](https://metager.org) 💵位于德国，非营利组织运营的Metasearch引擎
+- [Kagi](https://kagi.com) 💵无广告搜索引擎
 - [Swisscows](https://swisscows.com/en) private and anonymous search engine
 
 - Reverse Image Search 以图搜图（网站、插件、APP）
@@ -2037,7 +2037,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gonzazoid/Ultimatum) [Ultimatum](https://github.com/gonzazoid/Ultimatum) (Android) Ultimatum is a chromium fork with webextensions support
   - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,来自imputnet团队(开发过cobalt.tools),based on ungoogled-chromium，不支持 Widevine DRM，支持MV2，内置uBO  ⭐
   - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
-  - [Wavebox](https://wavebox.io) (💵)
+  - [Wavebox](https://wavebox.io) 💵
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Windows, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
   - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) (macOS, 即将支持 Linux) 在您的浏览器上运行的AI代理，而不是在云中运行
@@ -2221,7 +2221,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/srwi/EverythingToolbar) [EverythingToolbar](https://github.com/srwi/EverythingToolbar) Tweaked Taskbars
 - [Listary](https://www.listary.com) 第三方的文件管理系统 搜索实用程序
 - [once_power](https://github.com/ilgnefz/once_power) 文件批量重命名工具
-- [TextSeek](https://www.textseek.net/en) (💵)
+- [TextSeek](https://www.textseek.net/en) 💵
 - [Agent Ransack](https://www.mythicsoft.com/agentransack) 快速有效地查找硬盘驱动器上的文件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WinMerge/winmerge) [WinMerge](https://github.com/WinMerge/winmerge) differencing and merging tool
 - [Q-Dir](https://q-dir.com) Quad Explorer 免费软件
@@ -2258,7 +2258,7 @@ Enjoy 🤩
 - [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en_US) (Android) 快捷启动软件
 - [Lock Launcher](https://apps.apple.com/us/app/lock-launcher-screen-widgets/id1636719674) (iOS) 快捷启动软件
 - [Lock Launcher Widgets LockFlow](https://apps.apple.com/us/app/lock-launcher-widgets-lockflow/id1641012054?l=zh-Hans-CN) (iOS)
-- [Alfred](https://www.alfredapp.com) (macOS)(💵) 热键、关键字、文本扩展等效率工具，快捷启动
+- [Alfred](https://www.alfredapp.com) (macOS)💵 热键、关键字、文本扩展等效率工具，快捷启动
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gnachman/iTerm2) [iTerm2](https://github.com/gnachman/iTerm2) (macOS) 命令行控制电脑工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/cairoshell/cairoshell) [Cairo Desktop Environment](https://github.com/cairoshell/cairoshell) (Windows) 类macOS的顶部菜单栏
 - [Folder Preview](https://apps.apple.com/cn/app/folder-preview/id6698876601?mt=12) (macOS) 让文件夹也有快速查看功能
@@ -2645,7 +2645,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/vernesong/OpenClash) [OpenClash](https://github.com/vernesong/OpenClash) 在OpenWrt上运行的Clash客户端
   - ![GitHub Repo stars](https://img.shields.io/github/stars/nikkinikki-org/OpenWrt-nikki) [OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) 代理软件
 
-- 梅林(Merlin)路由器科学上网软件：[fancyss](https://github.com/hq450/fancyss) 、[梅林Clash教程](https://mcreadme.gitbook.io/mc)
+- 梅林(Merlin)路由器科学上网软件：[fancyss](https://github.com/hq450/fancyss), [梅林Clash教程](https://mcreadme.gitbook.io/mc)
   - Merlin Clash插件：运行在KoolCenter软件中心上的Clash GUI插件，支持SS/SSR/Trojan/V2Ray等多种协议
 - 华硕路由器固件：[Asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin)
 - WrtHub (iOS) OpenWrt管理应用
@@ -2749,6 +2749,8 @@ Enjoy 🤩
 ---
 ## 🔚End
 
+### 📝Note
+
 | 0️⃣ | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
 | :---: | :---: | :---: | :---: | :---: |
 | 🍿 | [🎬Movies & TV](#movies--tv) | [▶️Video Player](#%EF%B8%8Fvideo-player-视频播放器) | [🎞️Emby](#%EF%B8%8Femby-plex-jellyfin-媒体服务器软件-流媒体服务器) | [🛑IPTV](#iptv) |
@@ -2756,6 +2758,8 @@ Enjoy 🤩
 | 🛠️ | [📛Adblock](#adblock-去广告-block-ads) |  [📶Network](#network-dns-vpn-vps-idc)  | [🌐Browsers](#browsers-浏览器) | [🍭Extensions](#browser-extensions-浏览器插件扩展) |
 | 🛠️ | [📂File Manager](#file-manager-文件管理) | [📥Downloader](#downloader-下载器) | [🖱️Remote](#%EF%B8%8Fremote-access-and-control-远程访问控制) | [🧱Firewall](#firewall-antivirus-malware-防火墙-杀毒软件) |
 | 💻 | [🪟Windows](#windows) | [🍎Apple](#apple) | [👾Android](#android) | [🐧Linux](#linux) |
+
+💵Payment Required, 💳Paid
 
 ### 🤝Contribute 贡献
 
