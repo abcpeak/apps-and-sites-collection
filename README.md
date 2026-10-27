@@ -798,6 +798,7 @@ Enjoy 🤩
 - [GrowPal](https://apps.apple.com/us/app/growpal-health-fitness/id1560604814)
 - [Nike Run Club](https://apps.apple.com/us/app/nike-run-club-running-coach/id387771637)
 - [Cardiograph Heart Rate](https://apps.apple.com/us/app/cardiograph-heart-rate/id1369890321)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/DuarteSantos8/openGym) [openGym](https://github.com/DuarteSantos8/openGym) (iOS, Android)
 
 ### 💊Medicine 药
 
@@ -1018,6 +1019,7 @@ Enjoy 🤩
 - [Bye Bye Paywall](https://byebyepaywall.com/en)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/manualdousuario/marreta) [Marreta](https://github.com/manualdousuario/marreta)
 - [Medium Unlocker](https://github.com/inulute/medium-unlocker) (Android)
+- [Freedium](https://github.com/birmehto/Freedium) (Android)
 
 ## 📷Photo & Video 摄影与录像
 
@@ -2061,6 +2063,7 @@ Enjoy 🤩
   - [CrestBrowser](https://apps.apple.com/us/app/crest-browser/id6797335023) (iOS, macOS)
   - [Yab Browser](https://yetanotherbrowser.com/) (iOS, macOS) a free Mac browser like Arc, with AI
   - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/phibrowser/phibrowser-mac) [Phi Browser](https://github.com/phibrowser/phibrowser-mac) (macOS)
 
 - **Firefox，Gecko 内核**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃 ⭐
@@ -2376,6 +2379,7 @@ Enjoy 🤩
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
 - [Torrex Lite](https://apps.microsoft.com/store/detail/torrex-lite-torrent-downloader/9WZDNCRFJB3D)
 - [4K Video Downloader](https://www.4kdownload.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mediago-dev/mediago) [MediaGo](https://github.com/mediago-dev/mediago) Cross-platform video downloader
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qbittorrent/qBittorrent) [qBittorrent](https://github.com/qbittorrent/qBittorrent) 轻量级BitTorrent客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed) [Gopeed](https://www.gopeed.com) 开源免费下载器，支持HTTP, BitTorrent, Magnet
 - [By Click Downloader](https://www.byclickdownloader.com)
@@ -2395,7 +2399,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/rayburst) [Rayburst](https://github.com/AnInsomniacy/rayburst) Motrix Next is now Rayburst⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，Motrix Turbo 2.0复活  ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zerx-lab/FluxDown) [FluxDown](https://github.com/zerx-lab/FluxDown) Rust 驱动的多协议下载管理器
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/subhra74/xdm) [Xtreme Download Manager](https://github.com/subhra74/xdm) 
 
 - 🗃️Archived
   - [XDown](https://xdown.org) 免费无广告的idm torrent合成体 最后更新2025-05-18
