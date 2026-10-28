@@ -2567,6 +2567,7 @@ Enjoy 🤩
 - [Evolution X](https://evolution-x.org) 预装的Google应用程序和Pixel的应用程序
 - [ArrowOS](https://arrowos.net) 轻量级的ROM
 - ![GitHub Repo stars](https://img.shields.io/github/stars/termux/termux-app) [Termux](https://github.com/termux/termux-app) 安卓手机变成迷你Linux电脑
+- [涟漪 (Ripple)](https://ripplefocus.github.io/) 免费无广告的安卓戒短视频与防冲动卸载工具，支持单独拦截微信视频号/朋友圈/YouTube Shorts/Instagram Reels，自带 15 分钟单调时钟防反悔倒计时与本机无线调试 2.5 秒自愈防卸载
 - Android刷机工具
   - [TWRP](https://twrp.me) Android设备上进行备份、恢复、刷机
 
