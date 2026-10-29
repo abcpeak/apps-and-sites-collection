@@ -925,7 +925,7 @@ Enjoy 🤩
 - [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS) 拉动进度条有卡顿bug
 - [Anywhere - Music Player](https://apps.apple.com/us/app/anywhere-offline-music-player/id1669824656) (iOS)  文件夹上传限100个文件
 - [Wake Music：Offline Music](https://apps.apple.com/app/id6544783918) (iOS) 维克音乐，支持本地lrc歌词，自动转为内嵌歌词 ⭐
-- [Primuse](https://github.com/chenqi92/primuse) (iOS, macOS, Apple TV)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/chenqi92/primuse) [Primuse](https://github.com/chenqi92/primuse) (iOS, macOS, Apple TV)
 - [Ever Play](https://apps.apple.com/app/id1202642773) (iOS) 需付费支持歌词
 - [One Player](https://apps.apple.com/app/id1614115295) (iOS) 需付费支持歌词，免费没有歌词滚动
 - [Musixmatch](https://apps.apple.com/us/app/musixmatch-lyrics-finder/id448278467) (iOS)
@@ -946,7 +946,6 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vibe-music/vibe-music-web) [Vibe Music](https://github.com/vibe-music/vibe-music-web) 云音乐部署到服务器
 - [iGrooveMuse](https://apps.apple.com/us/app/igroovemuse/id6757769363) (iOS)
 - [LudyAmp - Offline Music Player](https://apps.apple.com/us/app/ludyamp-offline-music-player/id6759071307) (iOS) 已内购
-- ![GitHub Repo stars](https://img.shields.io/github/stars/afkarxyz/SpotiFLAC) [SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) (iOS, Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHatDevX/openspot-music-app) [OpenSpot Music](https://github.com/BlackHatDevX/openspot-music-app)
 - [DeepMusic](https://apps.apple.com/us/app/deepmusic-immersive-lyrics/id6760999336) (iOS) 已内购
 - Telisten (iOS) 播放Telegram频道的音乐
@@ -2066,11 +2065,11 @@ Enjoy 🤩
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
-  - [Orion browser](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension，官方停止开发 的 Linux 和 Windows 版本
+  - [Orion browser](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension，官方停止开发Linux和Windows版
   - [Quiche Browser](https://apps.apple.com/us/app/quiche-web-browser/id1668363952) (iOS) 集成了广告拦截，暗黑模式，不收集任何数据，注重隐私 Made in Tokyo🗼
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) WebKit-based，隐私基础
   - [Crest Browser](https://apps.apple.com/us/app/crest-browser/id6797335023) (iOS, macOS) WebKit
   - [Yab Browser](https://yetanotherbrowser.com/) (iOS, macOS) WebKit, a browser like Arc, with AI
   - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
@@ -2084,7 +2083,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/BrowserWorks/Waterfox) [Waterfox](https://github.com/BrowserWorks/Waterfox) 水狐浏览器，基于Firefox，只提供64位版本，支持Widevine
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minh-ton/reynard-browser) [Reynard Browser](https://github.com/minh-ton/reynard-browser) (iOS) Gecko-based web browser for iOS 13+ 
   - [K-Meleon](https://kmeleonbrowser.org)
-  - [LibreWolf](https://librewolf.net) 开源（Codeberg或GitLab社区支持），增强对跟踪和指纹技术的保护，distribution on Windows via the Microsoft Store
+  - [LibreWolf](https://librewolf.net) 开源（主仓库托管在Codeberg，避开美国GitHub商业平台管辖），增强对跟踪和指纹技术的保护，distribution on Windows via the Microsoft Store，默认砍掉 Widevine
   - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) (Windows, macOS, Linux, iOS) 基于火狐, 支持鼠标手势, Floorp Notes, Privacy-preserving Firefox-based browser with Chromium-like UI and features ⭐
   - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
@@ -2095,20 +2094,21 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Alex313031/Mercury) [Mercury](https://github.com/Alex313031/Mercury) 比普通Firefox的性能提高了8-20%，on Sep 17, 2024
   - [Pale Moon](https://www.palemoon.org) 苍月浏览器，基于几年前的Firefox/Mozilla源代码，后续自研了渲染引擎Goanna，Gecko的一个分支，并优化了布局系统
   - [Basilisk](https://www.basilisk-browser.org) 基于Goanna布局和渲染引擎，并建立在统一XUL平台（UXP）之上，由独立于Pale Moon项目的开发团队开发
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/greeeen-dev/natsumi-browser) [Natsumi](https://github.com/greeeen-dev/natsumi-browser) a skin made for Firefox and its forks. NOT a standalone browser.
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/greeeen-dev/natsumi-browser) [Natsumi](https://github.com/greeeen-dev/natsumi-browser) a skin made for Firefox and its forks. NOT a standalone browser.\
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) ( Linux, macOS and Windows) Gecko, Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
 
-- QtWebEngine
+- **QtWebEngine引擎**
   - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://github.com/qutebrowser/qutebrowser) (Windows, macOS) QtWebEngine引擎，A keyboard-driven, vim-like browser based on Python and Qt.
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (Linux, macOS) using a novel engine based on web standards
   - [Photon Browser](https://github.com/PhotonBrowser/photon) Built on Ladybird
 
-- [Mishmish](https://mishmish.io/download/rUVQGP0UBU5m) (Windows) 新概念浏览器 + 协作工具
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nook-browser/Nook) [Nook Browser](https://github.com/nook-browser/Nook) (macOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/mullvad/mullvad-browser) [Mullvad Browser](https://github.com/mullvad/mullvad-browser) ( Linux, macOS and Windows) Mullvad VPN和Tor项目合作开发的以隐私为中心的Web浏览器，无法支持高刷新率
-- [Antidetect Browser](https://undetectable.io) Fingerprint browser
+
+- [Antidetect Browser](https://undetectable.io) 需付费，Fingerprint browser
 - [Konqueror](https://apps.kde.org/konqueror) (Linux)
 - [GNOME Web](https://wiki.gnome.org/Apps/Web) (Linux) for the GNOME desktop
 - [Aloha Browser](https://apps.apple.com/app/id1105317682) (iOS, Android) 内置免费VPN
@@ -2118,7 +2118,7 @@ Enjoy 🤩
 - [Puma Browser](https://www.pumabrowser.com) (iOS, Android)
 - [IDENTORY](https://identory.com/en) (Windows) Fingerprint browser
 - [Nyxt:](https://nyxt.atlas.engineer) (Windows, macOS, Linux) the hacker's browser
-- [SeaMonkey](https://www.seamonkey-project.org/releases)
+- [SeaMonkey](https://www.seamonkey-project.org/releases) (Windows, macOS, Linux)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/garuda-linux/firedragon) [Firedragon](https://github.com/garuda-linux/firedragon) (Linux) A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 
 - [Slimjet](https://www.slimjet.com) (Windows, macOS, Linux)
@@ -2139,6 +2139,7 @@ Enjoy 🤩
   - [Avast Secure Browser](https://www.avast.com/secure-browser#pc) (Windows, macOS, iOS, Android) 反网络钓鱼
   - [AVG Secure Browser](https://www.avg.com/en-us/secure-browser#pc)  (Windows, macOS, Android)
   - [Board Browser](https://github.com/RicardoCA/board-browser)
+  - [Mishmish](https://mishmish.io/download/rUVQGP0UBU5m) (Windows) 新概念浏览器 + 协作工具
 
 #### 🚀Browser Speed Test浏览器速度测评、浏览器管理
 
@@ -2185,13 +2186,12 @@ Enjoy 🤩
 - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
 - [Stream Recorder](https://www.hlsloader.com) download HLS as MP4
 - [Silk - Privacy Pass Client](https://chromewebstore.google.com/detail/silk-privacy-pass-client/ajhmfdgkijocedmfjonnpjfojldioehi)
-- [Free Blocker - Ad blocker & Ads Remover](https://chromewebstore.google.com/detail/free-blocker-ad-blocker-a/ajmonbkfjffgdhhacjmlkfpdpbfnaeon)
 - 🔖Bookmark & Tab 书签和标签页
   - ![GitHub Repo stars](https://img.shields.io/github/stars/floccusaddon/floccus) [Floccus](https://github.com/floccusaddon/floccus) 跨浏览器书签同步 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/konabe-studio/konode) [konode](https://github.com/konabe-studio/konode) 跨浏览器书签&扩展同步
   - [EverSync everhelper](https://everhelper.me)
   - [xBrowserSync](https://www.xbrowsersync.org)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub) 新版本不开源
   - [raindrop](https://raindrop.io)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/linkwarden/linkwarden) [linkwarden](https://github.com/linkwarden/linkwarden)
   - [Bookmarks clean up](https://chrome.google.com/webstore/detail/oncbjlgldmiagjophlhobkogeladjijl) 书签清理
