@@ -1359,6 +1359,7 @@ Enjoy 🤩
 - [Google Docs](https://docs.google.com)
 - Proton Doc 不支持国家emoji
 - [Tally](https://tally.so) 在线表单服务，免费
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ELY-Open-Source/ElyOffice) [ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) offline-first desktop apps in Rust and GPUI
 
 ### 📧Email 电子邮箱
 
@@ -1394,7 +1395,7 @@ Enjoy 🤩
 
 #### Desktop Email Clients 邮件客户端
 
-- [Thunderbird](https://www.thunderbird.net/en-US) 雷鸟邮件客户端
+- [Thunderbird](https://www.thunderbird.net) 开源，雷鸟邮件客户端
   - ![GitHub Repo stars](https://img.shields.io/github/stars/thunderbird/thunderbird-android) [K-9 Mail](https://k9mail.app) (Android) Thunderbird
   - [Clean themes for Thunderbird](https://celest-watches.com/clean-themes)
 - [Spark Mail](https://sparkmailapp.com) 乌克兰公司Readdle的邮箱产品
@@ -1604,7 +1605,7 @@ Enjoy 🤩
   - [Lingogram](https://apps.apple.com/app/id6742133443) (Android, iOS)
     - ![GitHub Repo stars](https://img.shields.io/github/stars/groupultra/telegram-search) [Telegram Search](https://github.com/groupultra/telegram-search) Intent的一个开源项目
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Nekogram/Nekogram) [Nekogram](https://github.com/Nekogram/Nekogram) (Android)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/NextAlone/Nagram) [Nagram](https://github.com/NextAlone/Nagram) (Android) 轻量级客户端
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/NextAlone/Nagram) [Nagram](https://github.com/NextAlone/Nagram) (Windows, macOS, Linux, Android, iOS) 轻量级客户端
   - [Plus Messenger](https://plusmessenger.org)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/AyuGram/AyuGramDesktop) [AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop) (Windows, macOS, Linux, Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/signalapp/Signal-Android) [Signal](https://signal.org) 独立的非营利机构，加密通信
@@ -2044,14 +2045,17 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
   - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Windows, Linux) Cromite是从Bromite fork（分支）出来的项目，内置广告拦截功能和隐私保护，Win版是绿色版
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gonzazoid/Ultimatum) [Ultimatum](https://github.com/gonzazoid/Ultimatum) (Android) Ultimatum is a chromium fork with webextensions support
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,来自imputnet团队(开发过cobalt.tools),based on ungoogled-chromium，不支持 Widevine DRM，支持MV2，内置uBO  ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,来自imputnet团队(开发过cobalt.tools),based on ungoogled-chromium，将支持 Widevine DRM，支持MV2，内置uBO  ⭐
   - [Wavebox](https://wavebox.io) 💵
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Windows, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
   - ![GitHub Repo stars](https://img.shields.io/github/stars/browseros-ai/BrowserOS) [BrowserOS](https://github.com/browseros-ai/BrowserOS) (macOS, 即将支持 Linux) 在您的浏览器上运行的AI代理，而不是在云中运行
   - ![GitHub Repo stars](https://img.shields.io/github/stars/the-ora/browser) [Ora Browser](https://github.com/the-ora/browser) (macOS)
   - [AdsPower](https://www.adspower.com) 指纹浏览器
+  - [Sailfish](https://github.com/SailfishBrowser) (iOS, macOS) Open source Chromium Engine
   - [Elixir](https://github.com/SF-FLAM/ElixirBrowser) (Android) a Chromium-based browser with full extension support
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/VictorKildahl/cra) [Cra](https://github.com/VictorKildahl/cra) (macOS) Chromium-based
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/mantrakp04/ardia) [Ardia](https://github.com/mantrakp04/ardia) (macOS) Chromium-based
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
@@ -2060,10 +2064,11 @@ Enjoy 🤩
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) 基于WebKit，隐私基础
-  - [CrestBrowser](https://apps.apple.com/us/app/crest-browser/id6797335023) (iOS, macOS)
-  - [Yab Browser](https://yetanotherbrowser.com/) (iOS, macOS) a free Mac browser like Arc, with AI
+  - [Crest Browser](https://apps.apple.com/us/app/crest-browser/id6797335023) (iOS, macOS) WebKit
+  - [Yab Browser](https://yetanotherbrowser.com/) (iOS, macOS) WebKit, a browser like Arc, with AI
   - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/phibrowser/phibrowser-mac) [Phi Browser](https://github.com/phibrowser/phibrowser-mac) (macOS)
+
 
 - **Firefox，Gecko 内核**
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mozilla-firefox/firefox) [Firefox](https://github.com/mozilla-firefox/firefox) Gecko引擎，支持Widevine。建议至少每 2 年登录一次以保持活跃 ⭐
@@ -2090,6 +2095,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://github.com/qutebrowser/qutebrowser) (Windows, macOS) QtWebEngine引擎，A keyboard-driven, vim-like browser based on Python and Qt.
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (Linux, macOS) using a novel engine based on web standards
+  - [Photon Browser](https://github.com/PhotonBrowser/photon) Built on Ladybird
 
 - [Mishmish](https://mishmish.io/download/rUVQGP0UBU5m) (Windows) 新概念浏览器 + 协作工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
@@ -2314,7 +2320,8 @@ Enjoy 🤩
 - [Rakuten Drive](https://www.rakuten-drive.com) 乐天网盘，免费10G
 - [TorBox](https://torbox.app) 免费10G
 - [TeraBox](https://www.terabox.com)
-- [Watermelon Backup](https://apps.apple.com/app/id6762260596) 可备份到WebDav
+- [Watermelon Backup](https://apps.apple.com/app/id6762260596) (iOS) 可备份到WebDav
+- ![GitHub Repo stars](https://img.shields.io/github/stars/caamer20/Telegram-Drive) [Telegram-Drive](https://github.com/caamer20/Telegram-Drive) Turn your Telegram account into an unlimited, secure cloud storage drive.
 
 #### 💽 WebDAV 网盘挂载 Cloud drive mounting
 
