@@ -2194,11 +2194,11 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dudor/BookmarkHub) [BookmarkHub](https://github.com/dudor/BookmarkHub) 新版本不开源
   - [raindrop](https://raindrop.io)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/linkwarden/linkwarden) [linkwarden](https://github.com/linkwarden/linkwarden)
-  - [Bookmarks clean up](https://chrome.google.com/webstore/detail/oncbjlgldmiagjophlhobkogeladjijl) 书签清理
-  - [LazyCat](https://chromewebstore.google.com/detail/lazycat-bookmark-cleaner/aeehapalakdoclgmfeondmephgiandef) 书签清理
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dd3v/favbox) [favbox](https://github.com/dd3v/favbox) enhances and simplifies bookmark management
   - [Bookmarkie](https://chromewebstore.google.com/detail/bookmarkie-bookmarks-in-p/ahlphbdcaacfhkiajebghpngknafklbj) Bookmarks in popup
   - [Momentum](https://momentumdash.com) 定制新标签页 ⭐
+  - [anori](https://github.com/OlegWock/anori) 定制新标签页
+  - [fluent-new-tab](https://github.com/snw-mint/fluent-new-tab) 定制新标签页
   - [OneTab](https://www.one-tab.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dessant/search-by-image) [search-by-image](https://github.com/dessant/search-by-image)
 - [Glarity](https://glarity.app) 利用ChatGPT4生成摘要，支持YouTube和Google
