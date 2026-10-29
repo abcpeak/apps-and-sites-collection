@@ -10,7 +10,7 @@
 
 Welcome to the **Curated List of Best Awesome Apps & Sites Collection**!
 
-Multi-platform: Web, Windows, Apple (iOS/iPhone, macOS/Mac, iPadOS/iPad, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android (Android TV, Android Watch), Linux, ChromeOS
+Multi-platform: Web, Windows, Apple (iOS/iPhone, macOS/Mac, iPadOS/iPad, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android (Android TV, Android Watch), Linux, ChromeOS. Mobile and Desktop.
 
 Don't forget to show your appreciation by giving this repository a ⭐Star!
 
@@ -41,7 +41,7 @@ Enjoy 🤩
 - 压缩: [tinywow.com/pdf/compress](https://tinywow.com/pdf/compress)、[pdf2go.com/compress-pdf](https://www.pdf2go.com/compress-pdf)
 - 在线PDF转换工具: [Smallpdf](https://smallpdf.com)、[cleverpdf](https://www.cleverpdf.com/cn)
 - [PDF-XChange Editor Plus](https://www.tracker-software.com/product/downloads) PDF编辑
-- ![GitHub Repo stars](https://img.shields.io/github/stars/storytold/pdfcraft) [PdfCraft](https://github.com/storytold/pdfcraft) (Windows, Linux, macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/storytold/pdfcraft) [PdfCraft](https://github.com/storytold/pdfcraft) (Windows, Linux, macOS) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF) [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [PDFgear](https://www.pdfgear.com) 集合了多种 PDF 处理工具的软件套装
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sumatrapdfreader/sumatrapdf) [Sumatra pdf](https://github.com/sumatrapdfreader/sumatrapdf) 电子书阅读器 ⭐
@@ -58,7 +58,7 @@ Enjoy 🤩
 ### 📙Reading 看书软件 电子书
 
 - [Audible](https://www.audible.com) 有声电子书
-- ![GitHub Repo stars](https://img.shields.io/github/stars/readest/readest) [Readest](https://github.com/readest/readest) (全平台) 电子书阅读器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/readest/readest) [Readest](https://github.com/readest/readest) (全平台) 免费版500M存储⭐
 - [Libby, by OverDrive](https://libbyapp.com)
 - [Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011)
 - [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) (Android) 静读天下
@@ -70,7 +70,7 @@ Enjoy 🤩
 - [Skim](https://skim-app.sourceforge.io) (macOS) PDF reader and note-taker
 - [Evince](https://projects.gnome.org/evince) (Linux) The document viewer
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pacexy/flow) [Flow](https://github.com/pacexy/flow) Browser-based ePub reader
-- ![GitHub Repo stars](https://img.shields.io/github/stars/koreader/koreader) [KOReader](https://github.com/koreader/koreader) (Android, Linux)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/koreader/koreader) [KOReader](https://github.com/koreader/koreader) (Android, Linux) ⭐
 - [NeatReader](https://www.neat-reader.com) ePub Reader
 - [BookFusion](https://www.bookfusion.com) eBook Reader, Manager & Cloud
 - [ePubkit](https://epubkit.app) 将网页转换为EPUB电子书
@@ -86,6 +86,7 @@ Enjoy 🤩
 - [MoboReader-The Alpha King](https://apps.apple.com/us/app/moboreader-the-alpha-king/id1291247971) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/santinic/audiblez) [audiblez](https://github.com/santinic/audiblez) Generate audiobooks from e-books
 - ![GitHub Repo stars](https://img.shields.io/github/stars/debpalash/VoiceStudio) [VoiceStudio](https://github.com/debpalash/VoiceStudio) audiobook creation
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Anxcye/anx-reader) [Anx Reader](https://github.com/Anxcye/anx-reader) (Windows, macOS, iOS, Android) support various e-book formats ⭐
 
 ### 📓Library Resource Repository 图书资源库
 
@@ -455,7 +456,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate) [libretranslate](https://github.com/LibreTranslate/LibreTranslate) Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup
 - [Trancy](https://www.trancy.org) 翻译插件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/nextai-translator/nextai-translator) [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator) [RTranslator](https://github.com/niedev/RTranslator) (Android) Offline real-time translation app
+- ![GitHub Repo stars](https://img.shields.io/github/stars/niedev/RTranslator) [RTranslator](https://github.com/niedev/RTranslator) (Android) Offline real-time translation app ⭐
 - 🗃️Archived
 	- [Immersive Translate](https://immersivetranslate.com) 沉浸式翻译，非开源，不推荐
 
@@ -780,7 +781,7 @@ Enjoy 🤩
 - [BandiView](https://www.bandisoft.com/bandiview) (Windows) image viewer，HoneyView的升级版
 - [FotoSketcher](https://fotosketcher.com) 免费软件，将普通照片转换为艺术作品
 - [iMazing Converter](https://imazing.com/zh/converter) 图片格式转换，转换HEIC至JPEG或PNG
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter) [File Converter](https://github.com/Tichau/FileConverter) 文件格式转换
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter) [File Converter](https://github.com/Tichau/FileConverter) 文件格式转换 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/joye61/pic-smaller) [Pic Smaller](https://github.com/joye61/pic-smaller) 图片压缩工具，支持WebP、PNG、JPEG和Gif图像在线压缩
 - [NXStudio](https://downloadcenter.nikonimglib.com/en/products/564/NX_Studio.html) 尼康的专业图像处理软件
 - [Procreate Pocket](https://apps.apple.com/us/app/procreate-pocket/id916366645) (iOS)
@@ -889,6 +890,7 @@ Enjoy 🤩
 - [Cotton Music](https://apps.apple.com/app/id6752617064) 棉花音乐
 - [Musify](https://apps.apple.com/us/app/musify-music-player/id1575902185)
 - [Spotify](https://www.spotify.com/us/download/other)  (Windows, Android, iOS) 总部位于瑞典斯德哥尔摩，只有Spotify Premium用户可以在移动端播放本地文件
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/crmne/spotifast) [Spotifast](https://github.com/crmne/spotifast) (Linux, macOS, and Windows) Playback needs Spotify Premium. Free accounts can browse and search, but cannot play music through Spotifast.
   - ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube) [Spotube](https://github.com/KRTirtho/spotube) 开源免费跨平台 Spotify 第三方客户端 ⭐ ![Last Commit](https://img.shields.io/github/release-date/KRTirtho/spotube) ![commit-activity](https://img.shields.io/github/commit-activity/m/KRTirtho/spotube)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
 - [AIMP](https://www.aimp.ru) (Windows, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器 ⭐
@@ -995,6 +997,7 @@ Enjoy 🤩
 - [Latitude and Longitude](https://www.latlong.net) 纬度和经度
 - [Mapcarta - The Open Map](https://mapcarta.com)
 - [OpenStreetMap](https://www.openstreetmap.org)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PimpinPumpkin/Vela) [Vela](https://github.com/PimpinPumpkin/Vela) (Andorid)
 - [Noise Map](https://noise-map.com) 噪音地图
 - [mapy](https://mapy.com) 来自捷克Czechia的地图
 - [OsmAnd](https://f-droid.org/en/packages/net.osmand.plus) free, open source and usable online and offline.
@@ -1116,7 +1119,9 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OpenShot/openshot-qt) [OpenShot](https://github.com/OpenShot/openshot-qt) (Linux, macOS, and Windows) ⭐
 - [Lightworks](https://lwks.com)
 - [Shotcut](https://shotcut.org)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut) [OpenCut](https://github.com/OpenCut-app/OpenCut) (Web) 最接近剪映CapCut的开源平替
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut) [OpenCut](https://github.com/OpenCut-app/OpenCut) (Web, Linux, Windows) 最接近剪映CapCut的开源平替 ⭐![Last Commit](https://img.shields.io/github/release-date/OpenCut-app/OpenCut)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/CutWire-Studios/Drift) [CutWire Drift](https://github.com/CutWire-Studios/Drift) (Linux, macOS, Windows, Android) CapCut的开源平替
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jub0t/Concat) [Concat](https://github.com/jub0t/Concat) CapCut replacement ⭐
 - [CapCut](https://www.capcut.com/PC/download) 自动字幕和背景音乐要收费
 - [AVS Video ReMaker](https://www.avs4you.com/avs-video-remaker.aspx)
 - [Audacity](https://www.audacityteam.org) 音频处理软件
@@ -1158,6 +1163,7 @@ Enjoy 🤩
 - [Houdini](https://www.sidefx.com)
 - [Shapr3D](https://www.shapr3d.com)
 - [Lidar Scanner: 3D Snap & Ruler](https://apps.apple.com/us/app/3d-snap-lidar-scanner-ruler/id6477467417)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD) [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐
 
 ## ⚡Productivity 效率
 
@@ -1448,7 +1454,7 @@ Enjoy 🤩
 - [Feedbin](https://feedbin.com) Web三栏式 💵 $5 a month
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Athou/commafeed) [CommaFeed](https://github.com/Athou/commafeed) Web展开式
 - ![GitHub Repo stars](https://img.shields.io/github/stars/miniflux/v2) [Miniflux 2](https://github.com/miniflux/v2) Web单栏式，自托管的项目
-- ![GitHub Repo stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS) [FreshRSS](https://github.com/FreshRSS/FreshRSS) 自建RSS
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS) [FreshRSS](https://github.com/FreshRSS/FreshRSS) Self-hosted RSS，自建
 - [RSS.app](https://rss.app) 从任何URL即时生成RSS提要
 - [Inoreader](https://www.inoreader.com) 免费150个订阅
 - [Feedly](https://feedly.com) 对一些VPN节点会直接拒绝请求，就会报Invalid request，手机端不能直接导出
@@ -1859,7 +1865,8 @@ Enjoy 🤩
 - [Revo Uninstaller](https://www.revouninstaller.com)
 - [Registry Finder](https://registry-finder.com)
 - [TweakPower](https://www.majorgeeks.com/files/details/tweakpower.html) (Windows) 系统清理、优化、调校工具箱
-- [Mole鼴](https://mole.fit/) (Windows, macOS) 需付费
+- ![GitHub Repo stars](https://img.shields.io/github/stars/momenbasel/puremac) [PureMac](https://github.com/momenbasel/puremac) (macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tw93/Mole) [Mole](https://github.com/tw93/Mole) (Windows, macOS) 需付费
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rayenghanmi/RyTuneX) [RyTuneX](https://github.com/rayenghanmi/RyTuneX) Windows 优化工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bleachbit/bleachbit) [BleachBit](https://www.bleachbit.org) 开源免费的系统清理工具
 - [Wise Registry Cleaner](https://www.wisecleaner.com/wise-registry-cleaner.html)
@@ -2232,7 +2239,7 @@ Enjoy 🤩
 
 ### 📂File Manager 文件管理
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/files-community/Files) [Files](https://github.com/files-community/Files) 开源文件管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/files-community/Files) [Files](https://github.com/files-community/Files) 开源文件管理器 ⭐
 - [Everything](https://www.voidtools.com) (Windows)文件查找 文件重命名 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/srwi/EverythingToolbar) [EverythingToolbar](https://github.com/srwi/EverythingToolbar) Tweaked Taskbars
 - [Listary](https://www.listary.com) 第三方的文件管理系统 搜索实用程序
@@ -2358,7 +2365,9 @@ Enjoy 🤩
 - [Smash](https://fromsmash.com) 免费2G文件传输
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tailscale/tailcat) [tailcat](https://github.com/tailscale/tailcat)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/denislupookov/altersend) [altersend](https://github.com/denislupookov/altersend)Send files directly between devices over the internet - no cloud storage, no size limits.
--
+- ![GitHub Repo stars](https://img.shields.io/github/stars/jqssun/android-airplay-server) [AirPlay Receiver for Android](https://github.com/jqssun/android-airplay-server) (Android)
+
+
 - 🗃️Archived
   - [Destiny](https://f-droid.org/packages/com.leastauthority.destiny) (Android) 通过 Magic Wormhole 协议创建的应用程序，2023年最后更新
 
@@ -2405,7 +2414,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/rayburst) [Rayburst](https://github.com/AnInsomniacy/rayburst) Motrix Next is now Rayburst⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，Motrix Turbo 2.0复活  ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/zerx-lab/FluxDown) [FluxDown](https://github.com/zerx-lab/FluxDown) Rust 驱动的多协议下载管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zerx-lab/FluxDown) [FluxDown](https://github.com/zerx-lab/FluxDown) Rust 驱动的多协议下载管理器 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/subhra74/xdm) [Xtreme Download Manager](https://github.com/subhra74/xdm) 
 
 - 🗃️Archived
@@ -2448,7 +2457,7 @@ Enjoy 🤩
 
 ### 📲Screen Share 手机投屏 Screen Mirror
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Genymobile/scrcpy) [Scrcpy](https://github.com/Genymobile/scrcpy) (Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Genymobile/scrcpy) [Scrcpy](https://github.com/Genymobile/scrcpy) (Android) ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/viarotel-org/escrcpy) [Escrcpy](https://github.com/viarotel-org/escrcpy) (Android) 通过图形化的 Scrcpy 界面来显示和控制Android设备
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/Macast) [Macast](https://github.com/xfangfang/Macast) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/barry-ran/QtScrcpy) [QtScrcpy](https://github.com/barry-ran/QtScrcpy) (Android)
@@ -2540,7 +2549,7 @@ Enjoy 🤩
 - **📥iOS App Store**
   - [App Store 网页版](https://apps.apple.com)
   - [AppRaven: Apps Gone Free](https://apps.apple.com/us/app/appraven-apps-gone-free/id1490607195) (iOS) 限免 最后更新Oct 7, 2024
-  - [AltStore](https://altstore.io) 应用商店，欧盟地区可用
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/altstoreio/AltStore) [AltStore](https://github.com/altstoreio/AltStore) an alternative app store for non-jailbroken iOS devices. 欧盟地区可用 ⭐
   - [SideStore](https://sidestore.io/)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/opa334/TrollStore) [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店，需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
   - ![GitHub Repo stars](https://img.shields.io/github/stars/FrizzleM/SideInstaller) [SideInstaller](https://github.com/FrizzleM/SideInstaller) An an app that installs Sidestore on iOS 27, fully on-device
@@ -2693,7 +2702,7 @@ Enjoy 🤩
 ### 🕹️Game Tool 游戏工具
 
 - [JoyToKey](https://joytokey.net/en) 游戏摇杆控制
-- ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite) [Playnite](https://github.com/JosefNemec/Playnite) 开源视频游戏库管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/JosefNemec/Playnite) [Playnite](https://github.com/JosefNemec/Playnite) An open source video game library manager and launcher with support for 3rd party libraries like Steam, Epic, GOG, EA App, Battle.net ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Heroic-Games-Launcher/HeroicGamesLauncher) [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) (Windows, Linux, macOS) A games launcher for GOG, Amazon and Epic Games
 - [HsFreezer-Hidden-in-the-snow-](https://github.com/superDMS/HsFreezer-Hidden-in-the-snow-) 雪藏HsFreezer (Hidden in the snow)，游戏暂停冻结软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/game1024/Speedy) [Speedy](https://github.com/game1024/Speedy) 一款开源的游戏变速器
