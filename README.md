@@ -10,7 +10,7 @@
 
 Welcome to the **Curated List of Best Awesome Apps & Sites Collection**!
 
-Multi-platform: Web, Windows, Apple (iOS/iPhone, macOS/Mac, iPadOS/iPad, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android (Android TV, Android Watch), Linux, ChromeOS. Mobile and Desktop.
+Multi-platform: Web, Windows, Apple (iOS/iPhone, macOS/Mac, iPadOS/iPad, tvOS/Apple TV, watchOS/Apple Watch, visionOS/Apple Vision), Android (Android TV, Android Watch), Linux, ChromeOS. Extensions (Add-ons). Mobile and Desktop.
 
 Don't forget to show your appreciation by giving this repository a ⭐Star!
 
@@ -1397,6 +1397,8 @@ Enjoy 🤩
 - [Rackspace](https://apps.rackspace.com/login)
 - [Vivaldi Webmail](https://webmail.vivaldi.net) 位于冰岛
 - [Secria](https://secria.me) 完全加密的、注重隐私保护，无广告，无监控 free plan(1 GB, 2 aliases, 3 folders)
+- [Aster Mail](https://astermail.org/)
+- [Thundermail](https://webmail.thundermail.com/)
 
 #### Desktop Email Clients 邮件客户端
 
@@ -1507,23 +1509,24 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) (iOS) 免费版限制200个密码
 - [MEGA Pass](https://mega.io/pass) €0.99 per month
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tetherto/pearpass-app-mobile) [PearPass mobile](https://github.com/tetherto/pearpass-app-mobile) (Windows, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AChep/keyguard-app) [Keyguard](https://github.com/AChep/keyguard-app) (Windows, macOS, Linux, Android) a third-party client for the Bitwarden® platform and KeePass (KDBX) files
 
 - 🗃️Archived
   - Dropbox Passwords 已关闭
   - [Avira Password Manager](https://www.avira.com/en/password-manager)
   - [Dashlane Password Manager](https://www.dashlane.com) 宣布于2025年9月16日停止免费计划
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop) [Buttercup](https://github.com/buttercup/buttercup-desktop) (iOS, Android)Passwords & Secrets Vault 最后更新May 4, 2024, archived on Jun 27, 2025
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop) [Buttercup](https://github.com/buttercup/buttercup-desktop) (iOS, Android) Passwords & Secrets Vault 最后更新May 4, 2024, archived on Jun 27, 2025
   - [LastPass](https://www.lastpass.com) 不推荐
 
 ### 🗝️2FA secret key(TOTP) 二次验证 2步验证 双因素身份验证
 
 - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605)
 - [Proton Authenticator](https://proton.me/authenticator) ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://apps.apple.com/us/app/2fa-authenticator-2fas/id1217793794) (iOS, Apple Watch, Android) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://github.com/twofas/2fas-ios) (iOS, Apple Watch, Android, Extension) Two-Factor Authentication Service⭐
 - [Bitwarden Authenticator](https://apps.apple.com/us/app/bitwarden-authenticator/id6497335175) (iOS, Android) 不支持同步，只能导入
 - [Authy](https://authy.com) (iOS, Android)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/jamie-mh/AuthenticatorPro) [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) 适用于Android + Wear OS的2FA客户端
-- [Ente Auth](https://ente.io/auth)  (Web, iOS, Windows，Android) Ente是一家开源公司，两步认证 2 step verification ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/stratumauth/app) [Authenticator Pro](https://github.com/stratumauth/app) (Android) 适用于Android + Wear OS的2FA客户端
+- [Ente Auth](https://ente.io/auth)  (Web, iOS, Windows, Android) Ente是一家开源公司，两步认证 2 step verification ⭐⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/raivo-otp/ios-application) [RaivoOTP](https://github.com/raivo-otp/ios-application) iOS本地、轻量级和安全的一次性密码（OTP）解决方案
 - [Duo mobile](https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/freeotp/freeotp-ios) [FreeOTP](https://github.com/freeotp)
@@ -1568,9 +1571,11 @@ Enjoy 🤩
 - [Newegg](https://www.newegg.com) 新蛋
 - [Best Buy](https://www.bestbuy.com) 百思买
 - [Walmart](https://www.walmart.com) 沃尔玛
+  - [Sams Club](https://www.samsclub.com) 沃尔玛旗下
+  - [山姆会员商店](https://www.samsclub.cn) 山姆中国大陆
 - [RakutenGlobalMarket](https://globalexpress.rakuten.co.jp) 日本乐天市场国际版
-- [Sam&#39;s Club](https://www.samsclub.com) 山姆会员商店
-- [Costco](https://www.costco.com) 开市客
+- [Costco](https://www.costco.com)
+  - [Costco - 开市客](https://www.costco.com.cn) 开市客中国大陆
 - [eneba](https://www.eneba.com) 游戏、礼品卡
 - [AliExpress](https://best.aliexpress.com)
 - [Ozon](https://ozon.com) 俄罗斯本土头部综合电商平台
@@ -2442,7 +2447,7 @@ Enjoy 🤩
 - [MeshCentral](https://meshcentral.com) 用于远程设备管理的开源、多平台、自托管、功能丰富的网站
 - [WireGuard](https://www.wireguard.com) 远程穿透
 - [woterm](https://github.com/aoyiduo/woterm) (Windows, Linux, macOS) 跨平台远程管理终端
-- [网易UU远程](https://uuyc.163.com/)
+- [UU Remote](https://uuyc.163.com/) 网易UU远程
 - ![GitHub Repo stars](https://img.shields.io/github/stars/H-M-H/Weylus) [Weylus](https://github.com/H-M-H/Weylus) 手机变成电脑的触控屏
 - [Deskreen](https://deskreen.com) 电脑的辅助屏幕 Turn any device into a secondary screen for your computer
 - [Lantunnel](https://github.com/lantunnel/lantunnel) 开源内网穿透，加密组网工具
@@ -2457,7 +2462,7 @@ Enjoy 🤩
 
 ### 📲Screen Share 手机投屏 Screen Mirror
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Genymobile/scrcpy) [Scrcpy](https://github.com/Genymobile/scrcpy) (Android) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Genymobile/scrcpy) [Scrcpy](https://github.com/Genymobile/scrcpy) (Android) ⭐⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/viarotel-org/escrcpy) [Escrcpy](https://github.com/viarotel-org/escrcpy) (Android) 通过图形化的 Scrcpy 界面来显示和控制Android设备
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/Macast) [Macast](https://github.com/xfangfang/Macast) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/barry-ran/QtScrcpy) [QtScrcpy](https://github.com/barry-ran/QtScrcpy) (Android)
@@ -2479,7 +2484,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/safing/portmaster) [portmaster](https://github.com/safing/portmaster) firewall
 - [ZoneAlarm Free Firewall](https://www.zonealarm.com/software/free-firewall)
 - [RogueKiller](https://www.adlice.com/roguekiller)
-- [Avast](https://www.avast.com/en-us) Antivirus Software、[Avast anti-rootkit](https://www.avast.com/c-rootkit-scanner-tool)
+- [Avast](https://www.avast.com/en-us) Antivirus Software, [Avast anti-rootkit](https://www.avast.com/c-rootkit-scanner-tool)
 - [AVG](https://www.avg.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tnodir/fort) [Fort Firewall](https://github.com/tnodir/fort) 开源免费Windows防火墙
 - [Avira](https://www.avira.com) 小红伞
@@ -2504,8 +2509,8 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/breezy-weather/breezy-weather) [Breezy Weather](https://github.com/breezy-weather/breezy-weather)
 - [Air Pollution: Real-time Air Quality Index](https://aqicn.org)
 - [Windy](https://www.windy.com)
-- [Weather now](https://apps.apple.com/us/app/weather-now-forecast-widgets/id1371461117)
-- [Colorful pro(彩云天气Pro)](https://apps.apple.com/cn/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688) (iOS)
+- [Weather now](https://apps.apple.com/us/app/weather-now-forecast-widgets/id1371461117) (iOS)
+- [Colorful pro](https://apps.apple.com/cn/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94pro/id1067198688) (iOS) 彩云天气Pro
 - [AirVisual](https://www.iqair.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Akylas/oss-weather) [OSS Weather](https://github.com/Akylas/oss-weather) (iOS, Android) 天气数据由OpenWeatherMap或MeteoFrance提供
 - [SunSafe](https://apps.apple.com/us/app/uv-index-tanning-sunsafe/id6461573146) (iOS) UV Index & Tanning
@@ -2517,8 +2522,7 @@ Enjoy 🤩
 ### 🪟Windows
 
 - [Microsoft Store](https://apps.microsoft.com) 微软软件平台
-- [Playbook](https://www.revi.cc/docs/playbook/general)
-  - [ReviOS](https://www.revi.cc) (已停产) 转为Playbook
+- ![GitHub Repo stars](https://img.shields.io/github/stars/meetrevision/playbook) [Playbook](https://github.com/meetrevision/playbook) ReviOS is a customized version of Windows
 - [AtlasOS](https://atlasos.net) 基于Windows10精简定制，一个开源免费的项目，适合运行游戏。
 - [Tiny11](https://github.com/ntdevlabs/tiny11builder)  Win11的精简轻量级版本
   - Tiny11 Builder，NTDev制作，保留原有系统精简能力，可以选择版本，家庭版、专业版、教育版、企业版
