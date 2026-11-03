@@ -903,7 +903,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/digimezzo/dopamine) [Dopamine](https://github.com/digimezzo/dopamine) (Windows, Linux and Mac)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GStreamer/gstreamer) [GStreamer](https://github.com/GStreamer/gstreamer) GStreamer open-source multimedia framework
 - [Winamp](https://winamp.com) (Android, iOS)
-- [Qmmp](https://qmmp.yloftware.com) (Windows) 开源的音乐播放器Qt-based Multimedia Player
+- [Qmmp](https://qmmp.yloftware.com) (Windows) 开源的音乐播放器，Qt-based Multimedia Player，支持winamp的皮肤
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Greedysky/TTKMusicPlayer) [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) (Windows, Linux) ![Last Commit](https://img.shields.io/github/release-date/Greedysky/TTKMusicPlayer)
 - [EverPlay Music](https://everplay.mobi) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/any-listen/any-listen) [any-listen](https://github.com/any-listen/any-listen) 一个跨平台的私人音乐播放服务
@@ -1450,6 +1450,7 @@ Enjoy 🤩
 
 - MailtoRSS：[kill the newsletter](https://kill-the-newsletter.com)
 - RSStoMail：[follow.it](https://follow.it/enter-website)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yang991178/fluent-reader) [Fluent Reader](https://github.com/yang991178/fluent-reader) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rss-translator/RSS-Translator) [RSS-Translator](https://github.com/rss-translator/RSS-Translator) 开源、简洁、可自部署的RSS翻译器
 - [FetchRSS](https://fetchrss.com) Generate RSS from any. 自动抓取任何网页变化，并将此变化生成RSS地址用于订阅。免费版本适用于低频监控网页变化，付费版本可实现更高频率的抓取。
 - [Feedbin](https://feedbin.com) Web三栏式 💵 $5 a month
@@ -1488,7 +1489,8 @@ Enjoy 🤩
 - [Microsoft Password Manager in Edge](https://www.microsoft.com/en-us/edge/download) 
 - [Google Password Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager&pli=1) (Android)
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 基于 GPLv3 协议开源，支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 基于 GPLv3 协议开源，支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/shuaiplus/NodeWarden) [Nodewarden](https://github.com/shuaiplus/NodeWarden) Bitwarden-compatible server running on Cloudflare Workers
 - [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Windows, Linux, macOS) 开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) 需付费 A KeePass/Password Safe Client
@@ -1518,10 +1520,10 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop) [Buttercup](https://github.com/buttercup/buttercup-desktop) (iOS, Android) Passwords & Secrets Vault 最后更新May 4, 2024, archived on Jun 27, 2025
   - [LastPass](https://www.lastpass.com) 不推荐
 
-### 🗝️2FA secret key(TOTP) 二次验证 2步验证 双因素身份验证
+### 🗝️2FA secret key(TOTP/YubiKey/passkey) 二次验证 2步验证 双因素身份验证
 
 - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605)
-- [Proton Authenticator](https://proton.me/authenticator) ⭐
+- [Proton Authenticator](https://proton.me/authenticator) ⭐ 免费支持无限个Passkey 通行密钥
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-ios) [2FAS Auth](https://github.com/twofas/2fas-ios) (iOS, Apple Watch, Android, Extension) Two-Factor Authentication Service⭐
 - [Bitwarden Authenticator](https://apps.apple.com/us/app/bitwarden-authenticator/id6497335175) (iOS, Android) 不支持同步，只能导入
 - [Authy](https://authy.com) (iOS, Android)
@@ -1591,7 +1593,7 @@ Enjoy 🤩
   - [Facebook Messenger](https://www.messenger.com)
   - [Instagram](https://www.instagram.com)
   - [Threads](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002) built by the Instagram team
-  - [Whatsapp](https://www.whatsapp.com) Meta的产品
+  - [WhatAapp](https://www.whatsapp.com) Meta的产品
     - [ZapZap](https://github.com/rafatosta/zapzap) (Linux) WhatsApp Desktop
 - [What's going on? Friend Diary](https://apps.apple.com/ai/app/whats-going-on-journal-diary/id6471529194) (iOS) 你最社交的日记
 - [Gettr](https://gettr.com)
@@ -1666,7 +1668,7 @@ Enjoy 🤩
 
 ## 🏖️Travel 旅游
 
-- [无忧行-流量机票酒店火车票预订](https://apps.apple.com/cn/app/%E6%97%A0%E5%BF%A7%E8%A1%8C-%E6%B5%81%E9%87%8F%E6%9C%BA%E7%A5%A8%E9%85%92%E5%BA%97%E7%81%AB%E8%BD%A6%E7%A5%A8%E9%A2%84%E8%AE%A2/id1037589370) (iOS, Android) jegotrip⭐
+- [移动无忧行](https://apps.apple.com/cn/app/id1037589370) (iOS, Android) Jegotrip，流量机票酒店火车票预订⭐
 - [Uber - Request a ride](https://www.uber.com)
 - [Airbnb](https://www.airbnb.com)
 - [Lyft](https://www.lyft.com)
@@ -2729,6 +2731,9 @@ Enjoy 🤩
 - [Skyline Emulator](https://skyline-emu.com) Switch模拟器，被认为是安卓平台上最好的模拟器之一
 - ![GitHub Repo stars](https://img.shields.io/github/stars/shadps4-emu/shadPS4) [shadPS4](https://github.com/shadps4-emu/shadPS4) (Windows, Linux and macOS) PlayStation 4 emulator
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rommapp/romm) [romm](https://github.com/rommapp/romm) 自托管的 ROM 管理器
+
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/valentderah/totk-pc-recomp) [totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64
 
 ## 💾Resource Download Site 资源下载站
 
