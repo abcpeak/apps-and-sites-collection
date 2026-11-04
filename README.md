@@ -507,6 +507,7 @@ Enjoy 🤩
 - [Stremio Lite](https://apps.apple.com/us/app/stremio-lite/id6741710156) (iOS)官方或第三方插件来访问 YouTube、Netflix、公共领域内容等
 - [Popcorn Time](https://github.com/popcorntime/popcorntime) 其他平台如JustWatch或Reelgood充当目录，Popcorn Time可以播放自己的文件
 
+
 - [Trakt](https://trakt.tv) 剧集管理 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/michaldrabik/Showly-2.0) [Showly](https://github.com/michaldrabik/Showly-2.0) (Android) Trakt的第三方客户端
   - [FilmNoir TV Tracker for Trakt](https://apps.apple.com/us/app/filmnoir-tv-tracker-for-trakt/id1528417240) (iOS)
@@ -800,6 +801,7 @@ Enjoy 🤩
 - [Nike Run Club](https://apps.apple.com/us/app/nike-run-club-running-coach/id387771637)
 - [Cardiograph Heart Rate](https://apps.apple.com/us/app/cardiograph-heart-rate/id1369890321)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DuarteSantos8/openGym) [openGym](https://github.com/DuarteSantos8/openGym) (iOS, Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/InlitX/GymMane) [GymMane](https://github.com/InlitX/GymMane) (Android) Offline gym log
 
 ### 💊Medicine 药
 
@@ -2173,9 +2175,8 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xlch88/YoutubeTweak) [Youtube Tweak](https://github.com/xlch88/YoutubeTweak) 固定播放分辨率、快速调节播放速度
   - [YouTube AdBlock - Coffee Break for YouTube](https://chromewebstore.google.com/detail/youtube-adblock-coffee-br/famhaodemcealnpfepcfbnofjjcccjap)
   - [AdShield - Ultimate Ad Blocker for YouTube](https://chromewebstore.google.com/detail/adshield-ultimate-ad-bloc/gmjaaefflbggfiacjihajgijemdlhkeb)
-  - [GoodTube](https://github.com/goodtube4u/goodtube) 100% 免费使用，因为有盗版，开源仓库被作者摧毁了
   - [YouPlay](https://apps.apple.com/us/app/youplay-adblock-video-browser/id6751497996) (iOS) YouTube去广告
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/keleus/BewlyCat) [BewlyCat](https://github.com/keleus/BewlyCat) 优化B站官方网站的使用体验 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OspreyProject/Osprey) [Osprey](https://github.com/OspreyProject/Osprey) 保护你免受恶意网站的侵害
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
 - [RSS Feed Reader](https://chromewebstore.google.com/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?pli=1) 免费200feeds
@@ -2269,9 +2270,9 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kimlimjustin/xplorer) [Xplorer](https://github.com/kimlimjustin/xplorer) (Windows) a customizable, modern file manager
 - [File Pilot](https://filepilot.tech) (Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tablacus/TablacusExplorer) [Tablacus Explorer](https://github.com/tablacus/TablacusExplorer) (Windows) 标签文件管理器
-- [SpaceSniffer](https://www.uderzo.it/main_products/space_sniffer) 磁盘空间分析
+- [SpaceSniffer](https://www.uderzo.it/main_products/space_sniffer) (Windows) 磁盘空间分析
 - [Beyond Compare](https://www.scootersoftware.com) 文件及文件夹对比工具
-- [FreeCommander XE](https://freecommander.com) 已更新27.12.2024
+- [FreeCommander XE](https://freecommander.com) 2026更新
 - 🗃️Archived
   - [Total Commander](https://www.ghisler.com) 最后更新2022-07-07
   - [XYplorer](https://www.xyplorer.com) 最后更新Jan 12, 2022
@@ -2359,7 +2360,7 @@ Enjoy 🤩
 
 #### 🍉Cross-Platform File Transfer 跨平台文件传输
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend) [LocalSend](https://localsend.org) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend) [LocalSend](https://localsend.org) ⭐⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tonyantony300/alt-sendme) [AltSendme](https://github.com/tonyantony300/alt-sendme) (Windows, macOS, and Linux)
 - [KDE Connect](https://kdeconnect.kde.org)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/marchellodev/sharik) [Sharik](https://github.com/marchellodev/sharik) (Android, iOS, Windows, macOS, and Linux)
@@ -2380,10 +2381,11 @@ Enjoy 🤩
 
 ### 📥Downloader 下载器
 
-> 下载视频工具，下载软件，YouTube, Bilibili, X, TikTok
+> (YouTube, Bilibili, X, TikTok)视频下载工具 下载软件 
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt) [cobalt](https://github.com/imputnet/cobalt) 没有广告、跟踪器的免费在线下载工具 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/cobalt) [cobalt](https://github.com/imputnet/cobalt) (Web) 没有广告、跟踪器的免费在线下载工具 ⭐
 - [iTubeGo](https://itubego.com)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OpenSelena/omniget) [omniget](https://github.com/OpenSelena/omniget) (macOS, Windows, Linux) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT) [BiglyBT](https://www.github.com/BiglySoftware/BiglyBT) 开源免费BT种子客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl) [youtube-dl](https://github.com/ytdl-org/youtube-dl) YouTube download. Dec 17, 2021
   - ![GitHub Repo stars](https://img.shields.io/github/stars/alexta69/metube) [MeTube](https://github.com/alexta69/metube) Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
@@ -2396,7 +2398,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/antonio-orionus/Arroxy) [Arroxy](https://github.com/antonio-orionus/Arroxy) (Windows, macOS, and Linux) YouTube and +2000 sites downloader GUI based on yt-dlp
 - ![GitHub Repo stars](https://img.shields.io/github/stars/transmission/transmission) [Transmission](https://github.com/transmission/transmission) Bittorrent客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/putyy/res-downloader) [res-downloader](https://github.com/putyy/res-downloader) 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载  ⭐
-- [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) ⭐
+- [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) (Windows)⭐
 - [nexdm](https://nexdm.in) (Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/anmolkapil/plexo) [plexo](https://github.com/anmolkapil/plexo) (Windows, macOS, and Linux) 通过并行合并多个网络连接加快下载速度
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
@@ -2419,7 +2421,7 @@ Enjoy 🤩
 - [SaveTik](https://savetik.co/zh-cn) 下载Tiktok视频
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/rayburst) [Rayburst](https://github.com/AnInsomniacy/rayburst) Motrix Next is now Rayburst⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/rayburst) [Rayburst](https://github.com/AnInsomniacy/rayburst) Motrix Next is now Rayburst ⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，Motrix Turbo 2.0复活  ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zerx-lab/FluxDown) [FluxDown](https://github.com/zerx-lab/FluxDown) Rust 驱动的多协议下载管理器 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/subhra74/xdm) [Xtreme Download Manager](https://github.com/subhra74/xdm) 
@@ -2464,7 +2466,7 @@ Enjoy 🤩
 
 ### 📲Screen Share 手机投屏 Screen Mirror
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Genymobile/scrcpy) [Scrcpy](https://github.com/Genymobile/scrcpy) (Android) ⭐⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Genymobile/scrcpy) [Scrcpy](https://github.com/Genymobile/scrcpy) (Android) 老牌安卓投屏神器 ⭐⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/viarotel-org/escrcpy) [Escrcpy](https://github.com/viarotel-org/escrcpy) (Android) 通过图形化的 Scrcpy 界面来显示和控制Android设备
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xfangfang/Macast) [Macast](https://github.com/xfangfang/Macast) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/barry-ran/QtScrcpy) [QtScrcpy](https://github.com/barry-ran/QtScrcpy) (Android)
