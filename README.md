@@ -1492,7 +1492,7 @@ Enjoy 🤩
 - [Google Password Manager](https://play.google.com/store/apps/details?id=com.google.android.apps.credentialmanager&pli=1) (Android)
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 基于 GPLv3 协议开源，支持webdav的开源密码管理器，可自建服务器。成立于2016年，总部位于美国的堪萨斯州 ⭐⭐
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/shuaiplus/NodeWarden) [Nodewarden](https://github.com/shuaiplus/NodeWarden) Bitwarden-compatible server running on Cloudflare Workers
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/shuaiplus/NodeWarden) [Nodewarden](https://github.com/shuaiplus/NodeWarden) Bitwarden-compatible server running on Cloudflare Workers ⭐
 - [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Windows, Linux, macOS) 开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) 需付费 A KeePass/Password Safe Client
@@ -1509,7 +1509,7 @@ Enjoy 🤩
 - [Password Manager SafeInCloud 2](https://safe-in-cloud.com/en)
 - [Secrets](https://apps.apple.com/app/id1591056366) (macOS, iOS) [Chrome extension](https://chromewebstore.google.com/detail/secrets/nljhipdleaglbopomanmebenmiibbkmg) ⭐
 - [Norton Password](https://my.norton.com/extspa/passwordmanager)
-- [NordPass](https://app.nordpass.com) NordPass、NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
+- [NordPass](https://app.nordpass.com) NordPass, NordVPN和NordLocker都是由Nord Security提供的产品，不推荐，历史有数据泄露事件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/twofas/2fas-pass-ios) [2FAS Pass](https://github.com/twofas/2fas-pass-ios) (iOS) 免费版限制200个密码
 - [MEGA Pass](https://mega.io/pass) €0.99 per month
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tetherto/pearpass-app-mobile) [PearPass mobile](https://github.com/tetherto/pearpass-app-mobile) (Windows, macOS, iOS, Android) Tether公司开发，开源密码管理器，本地存储、点对点（P2P）同步，完全免费
@@ -2360,7 +2360,7 @@ Enjoy 🤩
 
 #### 🍉Cross-Platform File Transfer 跨平台文件传输
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend) [LocalSend](https://localsend.org) ⭐⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/localsend/localsend) [LocalSend](https://localsend.org) ([Web](https://web.localsend.org/), Android, iOS, Windows, macOS, and Linux)⭐⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tonyantony300/alt-sendme) [AltSendme](https://github.com/tonyantony300/alt-sendme) (Windows, macOS, and Linux)
 - [KDE Connect](https://kdeconnect.kde.org)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/marchellodev/sharik) [Sharik](https://github.com/marchellodev/sharik) (Android, iOS, Windows, macOS, and Linux)
