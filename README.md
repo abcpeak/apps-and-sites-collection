@@ -1880,7 +1880,7 @@ Enjoy 🤩
 - [Wise Registry Cleaner](https://www.wisecleaner.com/wise-registry-cleaner.html)
 - [HiBit Uninstaller](https://hibitsoft.ir) uninstalling Windows software
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller) [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) 卸载神器 ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher) [Flow-Launcher](https://github.com/Flow-Launcher/Flow.Launcher) Quick file search & app launcher  (Windows)
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Rem0o/FanControl.Releases) [Fan Control](https://github.com/Rem0o/FanControl.Releases) Windows风扇控制软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kando-menu/kando) [kando](https://github.com/kando-menu/kando) The Cross-Platform Pie Menu 跨平台桌面饼图菜单工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner) [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
@@ -2281,6 +2281,8 @@ Enjoy 🤩
 
 - [Flow Launcher](https://www.flowlauncher.com) 快捷启动工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Wox-launcher/Wox) [Wox](https://github.com/Wox-launcher/Wox) (Windows, macOS) 开源快速启动工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Flow-Launcher/Flow.Launcher) [Flow-Launcher](https://github.com/Flow-Launcher/Flow.Launcher) Quick file search & app launcher  (Windows) ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/oliverschwendener/ueli) [ueli](https://github.com/oliverschwendener/ueli) Cross-Platform Keystroke Launcher
 - [GeekDesk](https://github.com/BookerLiu/GeekDesk)
 - [Fences](https://www.stardock.com/products/fences) Stardock公司推出的软件
 - [Rolan](https://getrolan.com)
@@ -2733,6 +2735,7 @@ Enjoy 🤩
 - [Skyline Emulator](https://skyline-emu.com) Switch模拟器，被认为是安卓平台上最好的模拟器之一
 - ![GitHub Repo stars](https://img.shields.io/github/stars/shadps4-emu/shadPS4) [shadPS4](https://github.com/shadps4-emu/shadPS4) (Windows, Linux and macOS) PlayStation 4 emulator
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rommapp/romm) [romm](https://github.com/rommapp/romm) 自托管的 ROM 管理器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zortos293/Lichii) [Lichii](https://github.com/zortos293/Lichii)  Nintendo Switch and Switch 2 emulator written in C++
 
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/valentderah/totk-pc-recomp) [totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64
