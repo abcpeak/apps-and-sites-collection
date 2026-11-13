@@ -2557,7 +2557,7 @@ Enjoy 🤩
   - [awesome-open-source-mac-apps](https://indiegoodies.com/awesome-open-source-mac-apps)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Pyenb/macOS-ISOs) [macOS-ISOs](https://github.com/Pyenb/macOS-ISOs) macOS ISO Download Links
 - **📥iOS App Store**
-  - [App Store 网页版](https://apps.apple.com)
+  - [App Store Web](https://apps.apple.com)
   - [AppRaven: Apps Gone Free](https://apps.apple.com/us/app/appraven-apps-gone-free/id1490607195) (iOS) 限免 最后更新Oct 7, 2024
   - ![GitHub Repo stars](https://img.shields.io/github/stars/altstoreio/AltStore) [AltStore](https://github.com/altstoreio/AltStore) an alternative app store for non-jailbroken iOS devices. 欧盟地区可用 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/SideStore/SideStore) [SideStore](https://github.com/SideStore/SideStore) forked from AltStore
@@ -2565,15 +2565,13 @@ Enjoy 🤩
 	  - ![GitHub Repo stars](https://img.shields.io/github/stars/nab138/iloader) [iloader](https://github.com/nab138/iloader) (Windows, Linux, macOS) Install SideStore
   - ![GitHub Repo stars](https://img.shields.io/github/stars/opa334/TrollStore) [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店，需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
 
-  - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) 开源iOS应用程序
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/dkhamsing/open-source-ios-apps) [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) 开源iOS应用程序
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/Asspp) [Asspp](https://github.com/Lakr233/Asspp) 一个界面管理多个 Apple ID，还能获取历史版本
 
   - [Indie App Santa](https://apps.apple.com/us/app/indie-app-santa/id1594011307) APP限免
-  - [LiveContainer](https://github.com/LiveContainer/LiveContainer) Run iOS apps without actually installing them
-  - [iRingo](https://github.com/NSRingo) 解锁国行完整的Apple功能和集成服务
-  - [IPA Installer](https://apps.apple.com/us/app/ipa-installer/id6748286191) 专门用来在 iPhone/iPad 上直接安装 .ipa 或 .iipa 格式文件的工具
+  -  ![GitHub Repo stars](https://img.shields.io/github/stars/LiveContainer/LiveContainer) [LiveContainer](https://github.com/LiveContainer/LiveContainer) Run iOS apps without actually installing them
+  - [IPA Installer](https://apps.apple.com/us/app/ipa-installer/id6748286191) (iOS) 专门用来在 iPhone/iPad 上直接安装 .ipa 或 .iipa 格式文件的工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/vphone-cli) [vphone-cli](https://github.com/Lakr233/vphone-cli) (macOS) 开源命令行工具（MIT），在Mac上跑真实完整 iOS 虚拟机
-
 
 
   - IPA签名工具
