@@ -2055,7 +2055,7 @@ Enjoy 🤩
   - [Opera](https://www.opera.com): [Opera GX](https://www.opera.com/gx) 针对游戏玩家；[Opera Air](https://www.opera.com/zh-cn/air)
   - [Epic Privacy Browser](https://epicbrowser.com) 始终在私密模式下运行
   - ![GitHub Repo stars](https://img.shields.io/github/stars/win32ss/supermium) [Supermium](https://github.com/win32ss/supermium) 兼容XP、2003、Vista、7 和 8.x
-  - [Samsung Internet Browser](https://www.samsung.com/us/support/owners/app/samsung-internet) (Android) for your phone and tablet
+  - [Samsung Browser](https://browser.samsung.com/) (Windows, Android) 三星浏览器，桌面浏览器基于 Chromium
   - [Tempest Browser](https://tempest.com/browser) 暴风雨浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
   - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Windows, Linux) Cromite是从Bromite fork（分支）出来的项目，内置广告拦截功能和隐私保护，Win版是绿色版
