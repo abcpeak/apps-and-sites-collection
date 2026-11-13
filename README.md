@@ -1890,6 +1890,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jdm-contrib/jdm) [JustDeleteMe](https://github.com/jdm-contrib/jdm) 迅速找到要删除帐户的服务
 - [Doggy Cleaner](https://apps.apple.com/us/app/doggy-cleaner-photo-storage/id6747192774) (iOS) 相册清理
 - ![GitHub Repo stars](https://img.shields.io/github/stars/builtbybel/FluentCleaner) [FluentCleaner](https://github.com/builtbybel/FluentCleaner) A real WinUI desktop cleaner with terminal control and multi-database support
+- ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Procexp-Mac) [Process Explorer](https://github.com/microsoft/Procexp-Mac) (macOS) 微软 Sysinternals 官方出品，进程管理
 
 
 - Hardware 检测
@@ -2561,7 +2562,7 @@ Enjoy 🤩
   - [AppRaven: Apps Gone Free](https://apps.apple.com/us/app/appraven-apps-gone-free/id1490607195) (iOS) 限免 最后更新Oct 7, 2024
   - ![GitHub Repo stars](https://img.shields.io/github/stars/altstoreio/AltStore) [AltStore](https://github.com/altstoreio/AltStore) an alternative app store for non-jailbroken iOS devices. 欧盟地区可用 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/SideStore/SideStore) [SideStore](https://github.com/SideStore/SideStore) forked from AltStore
-	  - ![GitHub Repo stars](https://img.shields.io/github/stars/FrizzleM/SideInstaller) [SideInstaller](https://github.com/FrizzleM/SideInstaller) An an app that installs Sidestore on iOS 27, fully on-device， 网页上的企业证书几乎都失效
+	  - ![GitHub Repo stars](https://img.shields.io/github/stars/FrizzleM/SideInstaller) [SideInstaller](https://github.com/FrizzleM/SideInstaller) An an app that installs Sidestore on iOS 27, fully on-device
 	  - ![GitHub Repo stars](https://img.shields.io/github/stars/nab138/iloader) [iloader](https://github.com/nab138/iloader) (Windows, Linux, macOS) Install SideStore
   - ![GitHub Repo stars](https://img.shields.io/github/stars/opa334/TrollStore) [TrollStore](https://github.com/opa334/TrollStore) 巨魔商店，需越狱（电话录音，收费游戏免费装，无限制的音乐软件，强力去广告）
 
@@ -2573,6 +2574,13 @@ Enjoy 🤩
   - [IPA Installer](https://apps.apple.com/us/app/ipa-installer/id6748286191) (iOS) 专门用来在 iPhone/iPad 上直接安装 .ipa 或 .iipa 格式文件的工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/vphone-cli) [vphone-cli](https://github.com/Lakr233/vphone-cli) (macOS) 开源命令行工具（MIT），在Mac上跑真实完整 iOS 虚拟机
 
+- [Tetherless — Silzee](https://silzee.com/sideloading-tools/tetherless)  iPhone IPA 签名和安装工具
+- [iPASide](https://senumy.com/ipaside/) 基于 Windows 的 IPA 安装程序
+- [AirSign](https://tarplay.com/airsign/guide/) 无需PC或Mac，即可直接在设备上签名和安装应用
+- [AltLoad](https://github.com/mirazbakis/AltLoad) install AltStore and SideStore completely on-device
+
+- Source
+	- [AltDirect](https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/all-apps.json)
 
   - IPA签名工具
     - ![GitHub Repo stars](https://img.shields.io/github/stars/missuo/resign) [IPA-Resign](https://github.com/missuo/resign)
@@ -2720,9 +2728,9 @@ Enjoy 🤩
 
 ### 🎮Emulators 掌机模拟器
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/rileytestut/Delta) [Delta for iOS](https://github.com/rileytestut/Delta)
-- [Gamma for iOS](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870)
-- [iNES: NES Emulator Retro Emu for iOS](https://apps.apple.com/us/app/enes-nes-emulator-retro-emu/id6499447166)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rileytestut/Delta) [Delta for iOS](https://github.com/rileytestut/Delta) (iOS)
+- [Gamma for iOS](https://apps.apple.com/us/app/gamma-ps-1-game-emulator/id6499106870) (iOS)
+- [iNES: NES Emulator Retro Emu for iOS](https://apps.apple.com/us/app/enes-nes-emulator-retro-emu/id6499447166) (iOS)
 - [TinyEmulator](https://apps.apple.com/us/app/tinyemulator/id6667099562) 复古模拟器应用
 - [Retrofy](https://apps.apple.com/us/app/retrofy-retro-games-emulator/id6749502341) Retro Games Emulator
 - [Vita3K](https://vita3k.org) PSV掌机游戏模拟器
@@ -2740,6 +2748,21 @@ Enjoy 🤩
 
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/valentderah/totk-pc-recomp) [totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64
+
+
+- [iGBA](https://apps.apple.com/us/app/igba-gba-gbc-retro-emulator/id6482993626)：(iOS) Game Boy Advance、Game Boy Color 和 Game Boy
+- [FlashArch](https://flasharch.com/)：(iOS) 播放本地 Flash 游戏和动画
+- [EmulatorJS](https://emulatorjs.org/)：(iOS) 直接在浏览器中运行多个经典系统
+- [Yaba Sanshiro](https://www.yabasanshiro.com/)：(iOS) Sega Saturn
+- [StikNES](https://thunder.mac-emu.net/fr/emulateurs/nes/stiknes)：(iOS) Nintendo Entertainment System
+- [EmuSkins](https://emuskins.com/)：(iOS) 自定义模拟器控制器皮肤
+- [Provenance](https://provenance-emu.com/)：(iOS) 超过 38 个游戏系统，包括 NES、SNES 和 Genesis
+- [UTM SE](https://getutm.app/)：(iOS) 模拟运行 DOS 和 Linux 的电脑
+- [AD Boy](https://apps.apple.com/us/app/ad-boy-all-in-one-emulator/id6478694589)：(iOS) NES、SNES、Game Boy、GBA、DS 和 Sega Genesis
+- Ignited：(iOS) Nintendo 和 Sega 系统，包括 Genesis 和 N64
+- [Folium](https://folium.emuplace.app/)：(iOS) Nintendo 3DS、DS、GBA 和 PlayStation 1
+- [Altea](https://apps.apple.com/)：(iOS) 简化的多系统模拟器，支持 iCloud 同步
+- [Linking Boy](https://apps.apple.com/fr/app/linking-boy/id6695762604)：(iOS) Game Boy Advance，具备本地多人连接电缆模拟
 
 ## 💾Resource Download Site 资源下载站
 
