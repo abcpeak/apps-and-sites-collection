@@ -1948,6 +1948,7 @@ Enjoy 🤩
   - [Google Scholar](https://scholar.google.com) 谷歌学术
   - [imghp](https://google.com/imghp) 谷歌图片
 - [DuckDuckGo](https://duckduckgo.com) 位于美国，偏重隐私 ⭐
+ - [DuckDuckGo no AI](https://noai.duckduckgo.com/)
 - [Startpage](https://www.startpage.com) 总部位于荷兰，荷兰和欧盟的隐私保护法律
   - [Vanish AI](https://apps.apple.com/us/app/vanish-private-ai/id6747361472) Startpage的AI产品
 - [Bing](https://www.bing.com) Microsoft微软的搜索引擎
@@ -2080,10 +2081,10 @@ Enjoy 🤩
   - [Browser Watch](https://apps.apple.com/us/app/browser-watch-wrist-search/id6466570949) (Apple Watch⌚️)
   - [Gear Browser−Extension Engine](https://apps.apple.com/us/app/gear-browser-extension-engine/id1458962238) (iOS)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/OnionBrowser/OnionBrowser) [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) (iOS) WebKit-based，隐私基础
-  - [Crest Browser](https://apps.apple.com/us/app/crest-browser/id6797335023) (iOS, macOS) WebKit
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/pauljoda/Crest) [Crest Browser](https://github.com/pauljoda/Crest) (iOS, macOS) WebKit
   - [Yab Browser](https://yetanotherbrowser.com/) (iOS, macOS) WebKit, a browser like Arc, with AI
   - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/phibrowser/phibrowser-mac) [Phi Browser](https://github.com/phibrowser/phibrowser-mac) (macOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/phibrowser/phibrowser-mac) [Phi Browser](https://github.com/phibrowser/phibrowser-mac) (macOS, Windows)
 
 
 - **Firefox，Gecko 内核**
@@ -2161,6 +2162,8 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/corbindavenport/just-the-browser) [Just the Browser](https://github.com/corbindavenport/just-the-browser) 移除桌面浏览器中的 AI 功能、遥测数据报告、赞助内容、产品集成
 - [the arkenfox user.js](https://github.com/arkenfox/user.js) 隐私保护，控制 Firefox 设置的配置文件
 - [whatismybrowser](https://www.whatismybrowser.com/) 查看浏览器版本
+- [Awesome Arc Alternatives](https://igorsyrbu.github.io/awesome-arc-alternatives/)
+- [Browsers after Arc](https://www.byearc.workers.dev/)
 
 #### 🍭Browser Extensions (Plugins, add-ons) and Theme 浏览器插件(扩展)及主题
 
