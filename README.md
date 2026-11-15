@@ -880,6 +880,8 @@ Enjoy 🤩
 
 ## 🎵Music 音乐
 
+- [No Stairs Please](https://nostairsplease.com/) Independent live music venue directory covering 22,500+ venues across the US and Canada with booking contacts and tour routing
+
 ### 🎶Music Player 音乐播放软件
 
 - [Audacious](https://audacious-media-player.org) (Linux, BSD derivatives, macOS and Windows) open source audio player，2025年还在更新
