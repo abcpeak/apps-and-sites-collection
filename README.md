@@ -1447,6 +1447,7 @@ Enjoy 🤩
 - [SelfMailKit](https://selfmailkit.com) 免费Up to 5,000 emails/month
 - [flodesk](https://flodesk.com) 使用Flodesk获得更多打开次数、更多点击次数和更多销售额
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Gururagavendra/gmail-cleaner) [Gmail Bulk Unsubscribe & Cleanup Tool](https://github.com/Gururagavendra/gmail-cleaner)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hieunc229/mailflare) [Mailflare](https://github.com/hieunc229/mailflare) Run it on Cloudflare or Docker.
 
 ### 🆕RSS feed 订阅
 
@@ -1795,6 +1796,7 @@ Enjoy 🤩
   - [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) Unsafe Sites Filter
   - [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
   - [AdBlock_Rule_For_Clash](https://github.com/REIJI007/AdBlock_Rule_For_Clash)
+  - [秋风广告规则](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
 
 - 🗃️Archived
   - [Adblock For Safari - No Porn](https://apps.apple.com/us/app/adblock-for-safari-no-porn/id6737194096)
