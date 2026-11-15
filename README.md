@@ -2173,6 +2173,7 @@ Enjoy 🤩
   - [Checker Plus for Gmail™](https://jasonsavard.com)
   - [Black Menu for Google™](https://apps.jeurissen.co/black-menu-for-google)
   - [PocketTube](https://pockettube.io) YouTube Subscription Manager
+  - [YouTube Transcript: AI Summary & Chat](https://chromewebstore.google.com/detail/bbappnicmjmiliipjcmciaffiglmoekd) YouTube字幕/文字稿提取，AI总结与对话 Transcript, AI summary and chat for any YouTube video
   - [x.app](https://apps.apple.com/us/app/x-app/id1533525753) (iOS) YouTube背景播放
   - [PiP](https://apps.apple.com/app/id1635796246)(iOS) YouTube窗口化
   - [Tube PiP - PiP for YouTube](https://apps.apple.com/app/id6476895094) (iOS) YouTube窗口化
