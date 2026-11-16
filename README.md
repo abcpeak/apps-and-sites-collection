@@ -20,7 +20,7 @@ Enjoy 🤩
 
 ## Table of Contents
 
-| A                                               | B                                                                                    | C                                              | D                                           |
+| A-F                                             | G-M                                                                                  | N-S                                            | S-Z                                         |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------- |
 | [📚Books](#books-图书)                            | [🎨Graphics & Design](#graphics--design-图形和设计)                                       | [🗺️Navigation](#EF%B8%8Fnavigation-导航 )       | [⚽Sports](#sports-体育)                       |
 | [💼Business](#business-商务)                      | [💪Health & Fitness](#health--fitness-健康健美)                                          | [📰News](#news-新闻)                             | [🏖️Travel](#%EF%B8%8Ftravel-旅游)            |
@@ -62,7 +62,7 @@ Enjoy 🤩
 - [Libby, by OverDrive](https://libbyapp.com)
 - [Amazon Kindle](https://www.amazon.com/b?ie=UTF8&node=16571048011)
 - [Moon+ Reader Pro](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader) (Android) 静读天下
-- [Thorium Reader](https://www.edrlab.org/software/thorium-reader) (Windows, macOS and Linux) EPUB reader
+- [Thorium Reader](https://www.edrlab.org/software/thorium-reader) (Windows, macOS, Linux) EPUB reader
 - [Okular](https://okular.kde.org) (Android, Windows, Linux) PDF、漫画、Epub、图像、显示标记语言文档等
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kovidgoyal/calibre) [Calibre](https://github.com/kovidgoyal/calibre) 电子书制作及阅读软件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/foobnix/LibreraReader) [LibreraReader](https://github.com/foobnix/LibreraReader)
@@ -73,7 +73,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/koreader/koreader) [KOReader](https://github.com/koreader/koreader) (Android, Linux) ⭐
 - [NeatReader](https://www.neat-reader.com) ePub Reader
 - [BookFusion](https://www.bookfusion.com) eBook Reader, Manager & Cloud
-- [ePubkit](https://epubkit.app) 将网页转换为EPUB电子书
+- [ePubkit](https://epubkit.app) (Windows, macOS) 将网页转换为EPUB电子书
 - [Yomu EBook Reader](https://apps.apple.com/app/id562211012) (iOS)
 - [英阅阅读器(EReader)](https://apps.apple.com/app/id1558805880) (iOS, Android)
 - [PocketBook](https://pocketbook.ch/en-ch/app)
@@ -130,7 +130,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/massCodeIO/massCode) [massCode](https://github.com/massCodeIO/massCode) 代码片段管理器
 
 - [Xcode](https://developer.apple.com/xcode) 开发、测试和分发应用程序
-- [Swift](https://developer.apple.com/swift)、[SwiftUI](https://developer.apple.com/xcode/swiftui)、[Swift Playgrounds](https://developer.apple.com/swift-playgrounds)
+- [Swift](https://developer.apple.com/swift), [SwiftUI](https://developer.apple.com/xcode/swiftui), [Swift Playgrounds](https://developer.apple.com/swift-playgrounds) 苹果开发工具
 - [Dash](https://kapeli.com/dash) (macOS, Windows) API工具
 - [Rapidapi](https://rapidapi.com) API工具
 - [Docker](https://www.docker.com) Docker容器
@@ -157,7 +157,7 @@ Enjoy 🤩
   - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) 支持多种网络协议，包括 SCP、SSH、Telnet、rlogin 和raw socket connection
   - [Nezha](https://apps.apple.com/us/app/nezha-mobile/id6596729064) 哪吒监控
   - [iTerminus](https://apps.apple.com/us/app/sshterm-secure-terminal/id6447374195) (iOS)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/lollipopkit/flutter_server_box) [Serverbox](https://github.com/lollipopkit/flutter_server_box) (全平台)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/lollipopkit/flutter_server_box) [Flutter Server Box](https://github.com/lollipopkit/flutter_server_box) (全平台)
   - [SeverCat](https://apps.apple.com/us/app/servercat-ssh-terminal/id1501532023) (iOS)
   - [NeoServer - Docker·SSH·SFTP](https://apps.apple.com/us/app/neoserver-docker-ssh-sftp/id6448362669)
   - [Termius](https://termius.com) 跨平台的SSH客户端
@@ -330,7 +330,7 @@ Enjoy 🤩
   - [DigitalPlat](https://domain.digitalplat.org) Free dpdns.org subdomains. (Cloudflare接管不支持kg和je域名)⭐
 - 域名价格比较：[domcomp](https://www.domcomp.com), [tld-list](https://zh-hans.tld-list.com)
 - 域名交易：[sedo](https://sedo.com/cn), [dan](https://dan.com)
-- SSL 证书：HubSpot, Let’s Encrypt, Comodo, Cloudflare Free SSL/TLS, GoDaddy, GoGetSSL, zerossl, Sectigo(COMODO), google gts, Buypass Go SSL,lookssl
+- SSL 证书：HubSpot, Let’s Encrypt, Comodo, Cloudflare Free SSL/TLS, GoDaddy, GoGetSSL, zerossl, Sectigo(COMODO), google gts, Buypass Go SSL, lookssl
 
 ### CSS framework CSS框架
 
@@ -444,7 +444,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/CopyTranslator/CopyTranslator) [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) 最后更新2023.2.27
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mengxi-ream/read-frog) [Read Frog](https://github.com/mengxi-ream/read-frog) 陪读蛙，开源沉浸式翻译
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Bistutu/FluentRead) [FluentRead](https://github.com/Bistutu/FluentRead)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FluentRead/FluentRead) [FluentRead](https://github.com/FluentRead/FluentRead) bilingual translation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/xiao-zaiyi/illa-helper) [illa-helper](https://github.com/xiao-zaiyi/illa-helper)
 - [Eudic](https://apps.apple.com/app/id367278030) 欧路词典，[LuLu Translate](https://chromewebstore.google.com/detail/djbfechcnkppbknmlhfcaoifgnicolin) 欧路翻译
 - [ImTranslator](https://imtranslator.net)
@@ -600,7 +600,7 @@ Enjoy 🤩
 
 #### 📺IPTV 直播频道
 
-- IPTV直播源：[eja.tv](https://eja.tv), [iptv-org](https://iptv-org.github.io), [直播源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)、[iptv.shop](https://iptv.shop), [直播源搜索引擎](https://www.foodieguide.com/iptvsearch), [卫星电视频道的数据库LyngSat](https://www.lyngsat.com)、[iptv-sources](https://github.com/HerbertHe/iptv-sources)
+- IPTV直播源：[eja.tv](https://eja.tv), [iptv-org](https://iptv-org.github.io), [直播源汇总](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8), [iptv.shop](https://iptv.shop), [直播源搜索引擎](https://www.foodieguide.com/iptvsearch), [卫星电视频道的数据库LyngSat](https://www.lyngsat.com), [iptv-sources](https://github.com/HerbertHe/iptv-sources)
 - [XPTV](https://apps.apple.com/us/app/xptv/id6459409368) ($7.99)
 - [IPTV Live](https://apps.apple.com/us/app/iptv-player-live-stream-m3u/id1662299469)
 - [X IPTV Player Pro](https://apps.apple.com/us/app/x-iptv-player-pro/id6714469354) (iOS)(🟢)IPTV播放器
@@ -695,7 +695,7 @@ Enjoy 🤩
 
 ### 👛Crypto Wallet 加密货币钱包
 
-> 钱包搜索：[Find an Ethereum Wallet ethereum.org](https://ethereum.org/en/wallets/find-wallet)、[选择钱包 - 比特币](https://bitcoin.org/zh_CN/choose-your-wallet?step=5&platform=android)、[BiotcoinCash 钱包](https://bch.info/zh/wallets)
+> 钱包怎么选：[Find an Ethereum Wallet ethereum.org](https://ethereum.org/en/wallets/find-wallet)、[选择钱包 - 比特币](https://bitcoin.org/zh_CN/choose-your-wallet?step=5&platform=android)、[BiotcoinCash 钱包](https://bch.info/zh/wallets)
 
 - [Trezor](https://trezor.io) 提供加密货币硬件钱包
 - [Ledger](https://shop.ledger.com/zh-cn) 一家领先的硬件钱包供应商，这些钱包从未连接到互联网
@@ -781,7 +781,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/inpaint-web) [Inpaint-web](https://github.com/lxfater/inpaint-web) 图片修复、放大
 - [BandiView](https://www.bandisoft.com/bandiview) (Windows) image viewer，HoneyView的升级版
 - [FotoSketcher](https://fotosketcher.com) 免费软件，将普通照片转换为艺术作品
-- [iMazing Converter](https://imazing.com/zh/converter) 图片格式转换，转换HEIC至JPEG或PNG
+- [iMazing Converter](https://imazing.com/zh/converter) (macOS, Windows) 图片格式转换，HEIC转至JPEG或PNG
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Tichau/FileConverter) [File Converter](https://github.com/Tichau/FileConverter) 文件格式转换 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/joye61/pic-smaller) [Pic Smaller](https://github.com/joye61/pic-smaller) 图片压缩工具，支持WebP、PNG、JPEG和Gif图像在线压缩
 - [NXStudio](https://downloadcenter.nikonimglib.com/en/products/564/NX_Studio.html) 尼康的专业图像处理软件
@@ -950,7 +950,6 @@ Enjoy 🤩
 - [LudyAmp - Offline Music Player](https://apps.apple.com/us/app/ludyamp-offline-music-player/id6759071307) (iOS) 已内购
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHatDevX/openspot-music-app) [OpenSpot Music](https://github.com/BlackHatDevX/openspot-music-app)
 - [DeepMusic](https://apps.apple.com/us/app/deepmusic-immersive-lyrics/id6760999336) (iOS) 已内购
-- Telisten (iOS) 播放Telegram频道的音乐
 - [Nobars](https://apps.apple.com/us/app/offline-music-player-nobars/id6805929959) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MrsEWE44/musicDownload) [musicDownload](https://github.com/MrsEWE44/musicDownload) 音乐下载器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sonorahq/sonora) [Sonora](https://github.com/sonorahq/sonora) A native music streaming client, built with Rust and GPUI
@@ -1447,8 +1446,8 @@ Enjoy 🤩
 - [SelfMailKit](https://selfmailkit.com) 免费Up to 5,000 emails/month
 - [flodesk](https://flodesk.com) 使用Flodesk获得更多打开次数、更多点击次数和更多销售额
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Gururagavendra/gmail-cleaner) [Gmail Bulk Unsubscribe & Cleanup Tool](https://github.com/Gururagavendra/gmail-cleaner)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/hieunc229/mailflare) [Mailflare](https://github.com/hieunc229/mailflare) Run it on Cloudflare or Docker.
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hieunc229/mailflare) [Mailflare](https://github.com/hieunc229/mailflare) Run it on Cloudflare or Docker
+- ![GitHub Repo stars](https://img.shields.io/github/stars/maillab/cloud-mail) [Cloud Mail](https://github.com/maillab/cloud-mail) 基于 Cloudflare 的一站式邮箱服务平台
 ### 🆕RSS feed 订阅
 
 - MailtoRSS：[kill the newsletter](https://kill-the-newsletter.com)
@@ -2579,6 +2578,7 @@ Enjoy 🤩
 - [Tetherless — Silzee](https://silzee.com/sideloading-tools/tetherless)  iPhone IPA 签名和安装工具
 - [iPASide](https://senumy.com/ipaside/) 基于 Windows 的 IPA 安装程序
 - [AirSign](https://tarplay.com/airsign/guide) 无需PC或Mac，即可直接在设备上签名和安装应用
+- [ForgeSign](https://github.com/Mesutcydev/ForgeSign-iOS) iPhone和iPad的设备内IPA重签名器
 - [AltLoad](https://github.com/mirazbakis/AltLoad) install AltStore and SideStore completely on-device
 - [AltDirect](https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/all-apps.json) SideStore Source
 - ![GitHub Repo stars](https://img.shields.io/github/stars/missuo/resign) [IPA-Resign](https://github.com/missuo/resign) IPA签名工具
