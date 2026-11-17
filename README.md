@@ -921,7 +921,7 @@ Enjoy 🤩
   - [Evermusic](https://apps.apple.com/us/app/evermusic-cloud-music-player/id885367198) (iOS) 支持WebDAV，适合MP3
   - [Flacbox](https://apps.apple.com/jp/app/id1097564256) (iOS) 适合无损 Hi-Res，用FFMPEG解码稀有格式，支持WebDAV，
   - [Evertag](https://apps.apple.com/app/id1450763230) (iOS) 音乐标签（Metadata）编辑器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Windows) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
+
 - [LMP Music Hub](https://apps.apple.com/app/id6451009326) (iOS) 支持歌词API，支持本地lrc歌词，灵动岛歌词，不支持infini-cloud，支持koofr ⭐
 - [Music Downloader / MP3 Player](https://apps.apple.com/us/app/music-downloader-mp3-player/id1447312762)  (iOS)(🟢)
 - [BTR AMP Advanced Music Player](https://apps.apple.com/app/id1489180128) (iOS) 拉动进度条有卡顿bug
@@ -957,6 +957,7 @@ Enjoy 🤩
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/maotoumao/MusicFree) [MusicFree](https://github.com/maotoumao/MusicFree) (Android, Windows) ![Last Commit](https://img.shields.io/github/release-date/maotoumao/MusicFree)
   - [Fiiomusic](https://apps.apple.com/us/app/fiio-music-for-audiophiles/id1235959662) (iOS) (最后更新2023.8)
   - [Grover Podcast](https://apps.microsoft.com/detail/9nblggh6c4bc?hl=en-us&gl=US) manage your favorite podcasts on Windows
   - [Doppler](https://brushedtype.co/doppler) (iOS, macOS)
@@ -2106,7 +2107,7 @@ Enjoy 🤩
   - [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid) (Android) 火狐的更纯净开源版本
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Floorp-Projects/Floorp) [Floorp](https://github.com/Floorp-Projects/Floorp) (Windows, macOS, Linux, iOS) 基于火狐, 支持鼠标手势, Floorp Notes, Privacy-preserving Firefox-based browser with Chromium-like UI and features ⭐
   - [Tor Browser](https://www.torproject.org) 开源免费，Firefox的修改版本，访问暗网（.onion网站），不支持Widevine
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) (Windows, macOS, Linux) 缺少Widevine DRM（数字版权管理）许可证，无法访问Netflix、Spotify等需要DRM的流媒体服务 ⭐⭐⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/zen-browser/desktop) [Zen Browser](https://github.com/zen-browser/desktop) (Windows, macOS, Linux) 支持Widevine DRM ⭐⭐⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/by-architect/Dejavu) [Dejavu](https://github.com/by-architect/Dejavu) (Android)
   - [IronFox](https://gitlab.com/ironfox-oss/IronFox) (Android) 原[Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos)的延续
   - [Kito Browser](https://play.google.com/store/apps/details?id=com.yjllqint.kito&hl=en) (Android)
