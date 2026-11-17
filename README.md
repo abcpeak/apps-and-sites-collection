@@ -953,6 +953,7 @@ Enjoy 🤩
 - [Nobars](https://apps.apple.com/us/app/offline-music-player-nobars/id6805929959) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MrsEWE44/musicDownload) [musicDownload](https://github.com/MrsEWE44/musicDownload) 音乐下载器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sonorahq/sonora) [Sonora](https://github.com/sonorahq/sonora) A native music streaming client, built with Rust and GPUI
+- ![GitHub Repo stars](https://img.shields.io/github/stars/unchihugo/FluentFlyout) [FluentFlyout](https://github.com/unchihugo/FluentFlyout) (Windows)
 
 - 🗃️Archived
   - [Moosync](https://github.com/Moosync/Moosync) (最后更新2024.12)
@@ -1993,9 +1994,15 @@ Enjoy 🤩
 
 ### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板 🖱️Remote Mouse 远程鼠标
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime](https://github.com/rime/weasel) (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韵 Linux + IBus 輸入法框架) 跨平台开源免费 ⭐
+- [中文输入法](https://apps.microsoft.com/detail/xpfpt96q7b9s4n?launch=true&hl=zh-CN&gl=CN) (Windows) 微软全新升级的一款输入法。简单，准确，更懂中文
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime 中州韻輸入法引擎](https://github.com/rime/weasel) (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韵 Linux + IBus 輸入法框架) 跨平台开源免费 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) (Android) 雨燕拼音输入法
 - [仓输入法](https://apps.apple.com/us/app/%E4%BB%93%E8%BE%93%E5%85%A5%E6%B3%95/id6446617683) (iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/qingjian-team/qingjian) [青简 Qingjian](https://github.com/qingjian-team/qingjian/) (Windows, macOS, Linux, Android)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/metasequoiaime/MSIME-Windows) [水杉输入法](https://github.com/metasequoiaime/MSIME-Windows) (Windows)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/iDvel/rime-ice) [雾凇拼音](https://github.com/iDvel/rime-ice) 简体中文 Rime 输入法配置
+- ![GitHub Repo stars](https://img.shields.io/github/stars/aardio/ImTip) [ImTip](https://github.com/aardio/ImTip) 输入法状态提示工具
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey) [AutoHotkey](https://www.autohotkey.com) a scripting language for desktop automation热键脚本语言
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xianyukang/MyKeymap) [MyKeymap](https://github.com/xianyukang/MyKeymap) 一款基于AutoHotkey的键盘映射工具
 - [Clavier+](https://gryder.org/software/clavier-plus) 键盘全局快捷键工具
@@ -2010,7 +2017,7 @@ Enjoy 🤩
 - [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) (macOS) 一键启用或禁用键盘
 - ![GitHub Repo stars](https://img.shields.io/github/stars/CrossPaste/crosspaste-desktop) [CrossPaste](https://github.com/CrossPaste/crosspaste-desktop) 跨设备的通用粘贴板
 - ![GitHub Repo stars](https://img.shields.io/github/stars/urikdev/Urik) [Urik](https://github.com/urikdev/Urik) (Android) Privacy-first keyboard
-- ![GitHub Repo stars](https://img.shields.io/github/stars/aardio/ImTip) [ImTip](https://github.com/aardio/ImTip) 输入法状态提示工具
+
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PinchToDebug/DragWin) [DragWin](https://github.com/PinchToDebug/DragWin) (Windows) 使用鼠标右键移动窗口
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alirezagsm/Trayy) [Trayy](https://github.com/alirezagsm/Trayy) (Windows) 程序关闭时自动最小化到托盘图标
 - ![GitHub Repo stars](https://img.shields.io/github/stars/feschber/lan-mouse) [Lan Mouse](https://github.com/feschber/lan-mouse) (Windows, Linux, macOS) 跨平台鼠标和键盘共享软件，通过一套鼠标和键盘使用多台电脑
@@ -2636,7 +2643,7 @@ Enjoy 🤩
 - [Ubuntu](https://ubuntu.com) 基于Debian，以桌面应用为主的Linux发行版。使用GNOME桌面环境
   - [Linux Mint](https://linuxmint.com) 基于Ubuntu的Linux发行版，由Linux Mint Team团队于2006年开始发行
   - [elementary OS](https://elementary.io) 基于Ubuntu的桌面Linux发行版。采用自有的基于GNOME的名为Pantheon的桌面环境
-  - [Zorin OS](https://zorinos.com) (需付费)基于Ubuntu的Linux发行版。其目的是尽可能的模拟Windows的操作习惯，让用户可以方便的使用
+  - [Zorin OS](https://zorinos.com) 基于Ubuntu的Linux发行版，模拟Windows的操作习惯
   - [Xubuntu](https://xubuntu.org) Ubuntu操作系统的衍生版本。Xubuntu使用Xfce桌面环境，而不是Ubuntu的GNOME桌面环境
 - [Debian](https://www.debian.org) Linux开源社区项目，项目的一切都由其社区成员管理
   - [Vanilla OS](https://vanillaos.org) 新版基于Debian Sid
