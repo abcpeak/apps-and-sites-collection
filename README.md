@@ -2414,8 +2414,9 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/transmission/transmission) [Transmission](https://github.com/transmission/transmission) Bittorrent客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/putyy/res-downloader) [res-downloader](https://github.com/putyy/res-downloader) 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载  ⭐
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) (Windows)⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anefzaoui/misterdownloadmanager) [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) (Windows, macOS, Linux) Faster than IDM ⭐⭐
 - [nexdm](https://nexdm.in) (Windows)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/anmolkapil/plexo) [plexo](https://github.com/anmolkapil/plexo) (Windows, macOS, and Linux) 通过并行合并多个网络连接加快下载速度
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anmolkapil/plexo) [plexo](https://github.com/anmolkapil/plexo) (Windows, macOS, Linux) 通过并行合并多个网络连接加快下载速度
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
 - [Torrex Lite](https://apps.microsoft.com/store/detail/torrex-lite-torrent-downloader/9WZDNCRFJB3D)
 - [4K Video Downloader](https://www.4kdownload.com)
