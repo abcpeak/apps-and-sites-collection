@@ -484,6 +484,7 @@ Enjoy 🤩
 
 - [YouTube](https://youtube.com) 油管
   - ![GitHub Repo stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube) [FreeTube](https://github.com/FreeTubeApp/FreeTube) (Windows, macOS, Linux) YouTube第三方客户端去广告 ⭐
+  - [TubeHaus](https://github.com/biolend83/tubehaus) A private YouTube client
 - [Odysee](https://odysee.com)
 - [Rumble](https://rumble.com)
 - [Max: Stream HBO, TV, &amp; Movies](https://www.max.com)
@@ -1271,12 +1272,13 @@ Enjoy 🤩
 ### ✅To do list, Task, Reminder
 
 - [Clear](https://apps.apple.com/app/id493136154)
-- [Microsoft To Do](https://to-do.live.com/tasks/inbox)
+
 - [Google Tasks](https://tasks.google.com/tasks)
 - [iCloud Reminders](https://www.icloud.com/reminders)
 - [Goblin Tools](https://apps.apple.com/us/app/goblin-tools/id6449003064) (iOS)
 - 🗃️Archived
   - [gTasks Pro for Google Tasks](https://apps.apple.com/us/app/gtasks-pro-for-google-tasks/id672241079)
+  - [Microsoft To Do](https://to-do.live.com/tasks/inbox) 2027.6 关停
 
 ### 📑Note Taking 笔记软件
 
@@ -1439,7 +1441,7 @@ Enjoy 🤩
 - [10 Minute Mail](https://10minutemail.com)
 - [temp-mail.org](https://temp-mail.org/en)
 
-#### 邮箱工具
+#### 邮箱工具 Mail tools
 
 - [SOGo](https://www.sogo.nu) SOGo相比Roundcube邮箱界面更加简洁
 - [Roundcube](https://roundcube.net) 免费、开源的Webmail程序，很多著名的安全类邮箱都使用Roundcube作为邮箱的Webmail，如Riseup、A/I、cock.li等
@@ -1450,6 +1452,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Gururagavendra/gmail-cleaner) [Gmail Bulk Unsubscribe & Cleanup Tool](https://github.com/Gururagavendra/gmail-cleaner)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hieunc229/mailflare) [Mailflare](https://github.com/hieunc229/mailflare) Run it on Cloudflare or Docker
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maillab/cloud-mail) [Cloud Mail](https://github.com/maillab/cloud-mail) 基于 Cloudflare 的一站式邮箱服务平台
+- [openwren](https://github.com/VinceGHER/openwren) (Linux, Windows and macOS)
 ### 🆕RSS feed 订阅
 
 - MailtoRSS：[kill the newsletter](https://kill-the-newsletter.com)
@@ -1483,6 +1486,11 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/johnwarne/upvote-rss) [upvote-rss](https://github.com/johnwarne/upvote-rss) 从 Reddit、Hacker News、Lemmy、Mbin 等网站生成个性化的 RSS 订阅源
 - ![GitHub Repo stars](https://img.shields.io/github/stars/WCY-dt/MrRSS) [MrRSS](https://github.com/WCY-dt/MrRSS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/quick-rss) [Quick RSS](https://github.com/jaywcjlove/quick-rss) (macOS, iOS)RSS reader
+
+订阅源
+- [tidings-rss](https://github.com/fuxiaoai/tidings-rss)
+
+
 
 ### 🔐Password Manager 密码管理 PWM
 
@@ -1762,7 +1770,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop) [Zen](https://github.com/ZenPrivacy/zen-desktop) (Windows, macOS, Linux) 通过代理阻止广告
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gkd-kit/gkd) [gkd](https://github.com/gkd-kit/gkd) (Android) 搞快点，自动跳过开屏广告
 	- [GKD_subscription](https://github.com/Lin-arm/GKD_subscription) 用于安卓 GKD 的第三方订阅规则
-- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock Origin (uBO)](https://github.com/gorhill/uBlock) efficient blocker. Fast and lean. ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gorhill/uBlock) [uBlock Origin (uBO)](https://github.com/gorhill/uBlock) efficient blocker. Fast and lean. 扩展页面限制大陆IP访问⭐
 	- [uBlock Origin (uBO) MV3 Port](https://github.com/r58playz/uBlock-mv3) 第三方开发者
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iorate/ublacklist) [uBlacklist](https://github.com/iorate/ublacklist) Search filter [Subscriptions](https://iorate.github.io/ublacklist/subscriptions) ⭐
 - [Vivaldi-Tracker_Ad_Blocking_Lists-Customized](https://github.com/dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized)
@@ -1889,6 +1897,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner) [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer) [Optimizer](https://github.com/hellzerg/optimizer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Raphire/Win11Debloat) [Windows 11 Debloater Tool](https://github.com/Raphire/Win11Debloat) 删除预装的Windows臃肿软件 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ChrisTitusTech/winutil) [winutil](https://github.com/ChrisTitusTech/winutil)⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/memstechtips/Winhance) [Winhance](https://github.com/memstechtips/Winhance) 删除Windows应用程序（永久）
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jdm-contrib/jdm) [JustDeleteMe](https://github.com/jdm-contrib/jdm) 迅速找到要删除帐户的服务
 - [Doggy Cleaner](https://apps.apple.com/us/app/doggy-cleaner-photo-storage/id6747192774) (iOS) 相册清理
@@ -1995,14 +2004,15 @@ Enjoy 🤩
 
 ### ⌨️Input Method 输入法和键盘 Clipboard 剪贴板 🖱️Remote Mouse 远程鼠标
 
-- [中文输入法](https://apps.microsoft.com/detail/xpfpt96q7b9s4n?launch=true&hl=zh-CN&gl=CN) (Windows) 微软全新升级的一款输入法。简单，准确，更懂中文
+- [中文输入法](https://apps.microsoft.com/detail/xpfpt96q7b9s4n?launch=true&hl=zh-CN&gl=CN) (Windows) 微软出的输入法。简单，准确，更懂中文
 - ![GitHub Repo stars](https://img.shields.io/github/stars/rime/weasel) [Rime 中州韻輸入法引擎](https://github.com/rime/weasel) (小狼毫 weasel for Win；鼠须管 squirrel for macOS；中州韵 Linux + IBus 輸入法框架) 跨平台开源免费 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gurecn/YuyanIme) [YuyanIme](https://github.com/gurecn/YuyanIme) (Android) 雨燕拼音输入法
 - [仓输入法](https://apps.apple.com/us/app/%E4%BB%93%E8%BE%93%E5%85%A5%E6%B3%95/id6446617683) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/qingjian-team/qingjian) [青简 Qingjian](https://github.com/qingjian-team/qingjian/) (Windows, macOS, Linux, Android)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/metasequoiaime/MSIME-Windows) [水杉输入法](https://github.com/metasequoiaime/MSIME-Windows) (Windows)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/metasequoiaime/MSIME-Windows) [水杉输入法](https://github.com/metasequoiaime/MSIME-Windows) (Windows, macOS, iOS, Linux, Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iDvel/rime-ice) [雾凇拼音](https://github.com/iDvel/rime-ice) 简体中文 Rime 输入法配置
 - ![GitHub Repo stars](https://img.shields.io/github/stars/aardio/ImTip) [ImTip](https://github.com/aardio/ImTip) 输入法状态提示工具
+- ![GitHub Repo stars](https://img.shields.io/github/stars/huanfeng/WindInput) [清风输入法](https://github.com/huanfeng/WindInput)
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey) [AutoHotkey](https://www.autohotkey.com) a scripting language for desktop automation热键脚本语言
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xianyukang/MyKeymap) [MyKeymap](https://github.com/xianyukang/MyKeymap) 一款基于AutoHotkey的键盘映射工具
@@ -2071,7 +2081,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/minbrowser/min) [Min Browser](https://github.com/minbrowser/min) 开源，Chromium 内核
   - ![GitHub Repo stars](https://img.shields.io/github/stars/uazo/cromite) [Cromite](https://github.com/uazo/cromite) (Android, Windows, Linux) Cromite是从Bromite fork（分支）出来的项目，内置广告拦截功能和隐私保护，Win版是绿色版
   - ![GitHub Repo stars](https://img.shields.io/github/stars/gonzazoid/Ultimatum) [Ultimatum](https://github.com/gonzazoid/Ultimatum) (Android) Ultimatum is a chromium fork with webextensions support
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) 氦气,来自imputnet团队(开发过cobalt.tools),based on ungoogled-chromium，将支持 Widevine DRM，支持MV2，内置uBO  ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/imputnet/helium) [Helium](https://github.com/imputnet/helium) Chromium (fork), 氦气, 来自imputnet团队(开发过cobalt.tools), based on ungoogled-chromium，将支持 Widevine DRM，支持MV2，内置uBO  ⭐
   - [Wavebox](https://wavebox.io) 💵
   - ![GitHub Repo stars](https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser) [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser) (Windows, macOS, Linux) 绕过 Cloudflare、Shape、PerimeterX、Datadome、Akamai、Kasada、hCaptcha、FunCaptcha 和 reCAPTCHA
   - ![GitHub Repo stars](https://img.shields.io/github/stars/multiboxlabs/flow-browser) [Flow Browser](https://github.com/multiboxlabs/flow-browser) built on Electron.由于 Electron 的存在，性能会有所下降
@@ -2083,6 +2093,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/VictorKildahl/cra) [Cra](https://github.com/VictorKildahl/cra) (macOS) Chromium-based
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mantrakp04/ardia) [Ardia](https://github.com/mantrakp04/ardia) (macOS) Chromium-based
 
+
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
   - [SigmaOS](https://sigmaos.com) (macOS) Sigma OS is a browser that uses WebKit, SwiftUI, and A1Kit to offer a fresh and smart browsing experience
   - [Orion browser](https://kagi.com/orion) (macOS, iOS) 来自Kagi，Support Chrome + Firefox Extension，官方停止开发Linux和Windows版
@@ -2093,7 +2104,9 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/pauljoda/Crest) [Crest Browser](https://github.com/pauljoda/Crest) (iOS, macOS) WebKit
   - [Yab Browser](https://yetanotherbrowser.com/) (iOS, macOS) WebKit, a browser like Arc, with AI
   - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/phibrowser/phibrowser-mac) [Phi Browser](https://github.com/phibrowser/phibrowser-mac) (macOS, Windows)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/phibrowser/phibrowser-mac) [Phi Browser](https://github.com/phibrowser/phibrowser-mac) (macOS, Windows) Chromium (fork)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/zephium-browser/zephium) [Zephium](https://github.com/zephium-browser/zephium) (Windows, macOS) Chromium (fork), WebKit on macOS, the engine Safari uses, and WebView2 on Windows
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/driceroland/Search) [Search](https://github.com/driceroland/Search)
 
 
 - **Firefox，Gecko 内核**
@@ -2614,6 +2627,7 @@ Enjoy 🤩
   - [TWRP](https://twrp.me) Android设备上进行备份、恢复、刷机
 
 - Android Simulator 安卓模拟器 虚拟化
+  - [WSABuilds](https://github.com/MustardChef/WSABuilds) Run Windows Subsystem For Android on Windows 10/11
   - [腾讯手游助手](https://syzs.qq.com) 腾讯收购了[GameLoop](https://gameloop.fun)
   - [LDplayer](https://www.ldplayer.net)
   - [Android Studio’s](https://developer.android.com/studio)
