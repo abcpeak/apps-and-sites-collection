@@ -644,6 +644,7 @@ Enjoy 🤩
 
 ## 💰Finance 财务
 
+- [Google Wallet](https://apps.apple.com/us/app/google-wallet/id6761386270?l=zh-Hant-TW) (iOS) Google钱包, 集中管理购物记录、门票和登机牌
 - [Cash App](https://apps.apple.com/us/app/cash-app/id711923939)
 - [PayPal](https://www.paypal.com)
 - [Venmo](https://venmo.com) American mobile payment service
@@ -2444,13 +2445,13 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zhiyiYo/Fluent-M3U8) [Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) M3U8下载器
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mikf/gallery-dl) [gallery-dl](https://github.com/mikf/gallery-dl) 命令行程序，用于从多个图像托管站点下载图像库和集合
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Ftbom/Aria2Manager) [Aria2Manager](https://github.com/Ftbom/Aria2Manager)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/XiaoYouChR/Ghost-Downloader-3) [Ghost Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/XiaoYouChR/Ghost-Downloader-3) [Ghost Downloader 3](https://github.com/XiaoYouChR/Ghost-Downloader-3) 支持 ED2K
 - [TwitterDown](https://www.twitterdown.com) 下载X视频
 - [DownLoadPanda](https://dlpanda.com) DL熊猫
 - [SaveTik](https://savetik.co/zh-cn) 下载Tiktok视频
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iyear/tdl) [tdl](https://github.com/iyear/tdl) A Telegram toolkit written in Golang
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krau/SaveAny-Bot) [SaveAny-Bot](https://github.com/krau/SaveAny-Bot) Save Any Telegram File to Anywhere ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/rayburst) [Rayburst](https://github.com/AnInsomniacy/rayburst) Motrix Next is now Rayburst ⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AnInsomniacy/rayburst) [Rayburst](https://github.com/AnInsomniacy/rayburst) Motrix Next is now Rayburst, support ed2k ⭐ ![Last Commit](https://img.shields.io/github/release-date/AnInsomniacy/motrix-next)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agalwood/Motrix) [Motrix](https://github.com/agalwood/Motrix) 基于electron，Motrix Turbo 2.0复活  ⭐⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zerx-lab/FluxDown) [FluxDown](https://github.com/zerx-lab/FluxDown) Rust 驱动的多协议下载管理器 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/subhra74/xdm) [Xtreme Download Manager](https://github.com/subhra74/xdm) 
