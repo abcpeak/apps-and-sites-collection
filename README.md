@@ -890,11 +890,11 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DeaDBeeF-Player/deadbeef) [DeaDBeeF Player](https://github.com/DeaDBeeF-Player/deadbeef)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/strawberrymusicplayer/strawberry) [🍓 Strawberry Music Player](https://github.com/strawberrymusicplayer/strawberry) Clementine的升级版、专为无损发烧友设计
 - [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) 库乐队，制作手机铃声🎧
-- ![GitHub Repo stars](https://img.shields.io/github/stars/mostafaalagamy/Metrolist) [Metrolist](https://github.com/mostafaalagamy/Metrolist) YouTube Music client for Android
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MetrolistGroup/Metrolist) [Metrolist](https://github.com/MetrolistGroup/Metrolist) (Windows, macOS, Android, iOS) YouTube Music client ⭐
 - [Cotton Music](https://apps.apple.com/app/id6752617064) 棉花音乐
 - [Musify](https://apps.apple.com/us/app/musify-music-player/id1575902185)
 - [Spotify](https://www.spotify.com/us/download/other)  (Windows, Android, iOS) 总部位于瑞典斯德哥尔摩，只有Spotify Premium用户可以在移动端播放本地文件
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/crmne/spotifast) [Spotifast](https://github.com/crmne/spotifast) (Linux, macOS, and Windows) Playback needs Spotify Premium. Free accounts can browse and search, but cannot play music through Spotifast.
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/crmne/spotifast) [Spotifast](https://github.com/crmne/spotifast) (Linux, macOS, Windows) Playback needs Spotify Premium. Free accounts can browse and search, but cannot play music through Spotifast.
   - ![GitHub Repo stars](https://img.shields.io/github/stars/KRTirtho/spotube) [Spotube](https://github.com/KRTirtho/spotube) 开源免费跨平台 Spotify 第三方客户端 ⭐ ![Last Commit](https://img.shields.io/github/release-date/KRTirtho/spotube) ![commit-activity](https://img.shields.io/github/commit-activity/m/KRTirtho/spotube)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sjdonado/idonthavespotify) [I Don't Have Spotify](https://github.com/sjdonado/idonthavespotify) Effortlessly convert Spotify links to your preferred streaming service ![Last Commit](https://img.shields.io/github/release-date/sjdonado/idonthavespotify)
 - [AIMP](https://www.aimp.ru) (Windows, Android, Linux) Artem Izmaylov Media Player 来自俄罗斯的免费专业级音频播放器 ⭐
@@ -904,7 +904,7 @@ Enjoy 🤩
 - [foobar2000](https://www.foobar2000.org) (Windows, iOS) 开源的音乐播放器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dream7180/foobox-cn) [foobox-cn](https://github.com/dream7180/foobox-cn) foobar2000 DUI配置 ![Last Commit](https://img.shields.io/github/release-date/dream7180/foobox-cn)
   - [columns_ui](https://github.com/reupen/columns_ui/) Alternative UI for the foobar2000 audio player
-- ![GitHub Repo stars](https://img.shields.io/github/stars/digimezzo/dopamine) [Dopamine](https://github.com/digimezzo/dopamine) (Windows, Linux and Mac)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/digimezzo/dopamine) [Dopamine](https://github.com/digimezzo/dopamine) (Windows, Linux, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GStreamer/gstreamer) [GStreamer](https://github.com/GStreamer/gstreamer) GStreamer open-source multimedia framework
 - [Winamp](https://winamp.com) (Android, iOS)
 - [Qmmp](https://qmmp.yloftware.com) (Windows) 开源的音乐播放器，Qt-based Multimedia Player，支持winamp的皮肤
@@ -1873,10 +1873,11 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/XTLS/Xray-core) [Xray-core](https://github.com/XTLS/Xray-core)
   - [SwitchHosts](https://swh.app) HOST管理
 
-### 🧹Clean 软件卸载&优化
+### 🧹Clean 软件清理&卸载&优化
 
 - [CCleaner](https://www.ccleaner.com/ccleaner) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/itsfatduck/optimizerDuck) [optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/TuguiDragos/Peel) [Peel](https://github.com/TuguiDragos/Peel) (macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/harry0703/MangoDisk) [MangoDisk](https://github.com/harry0703/MangoDisk) (Windows, macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AdventDevInc/kudu) [kudu](https://github.com/AdventDevInc/kudu) (Windows, macOS and Linux) system cleaner and security scanner
 - [Geek Uninstaller](https://geekuninstaller.com)
@@ -2033,7 +2034,9 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/PinchToDebug/DragWin) [DragWin](https://github.com/PinchToDebug/DragWin) (Windows) 使用鼠标右键移动窗口
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alirezagsm/Trayy) [Trayy](https://github.com/alirezagsm/Trayy) (Windows) 程序关闭时自动最小化到托盘图标
 - ![GitHub Repo stars](https://img.shields.io/github/stars/feschber/lan-mouse) [Lan Mouse](https://github.com/feschber/lan-mouse) (Windows, Linux, macOS) 跨平台鼠标和键盘共享软件，通过一套鼠标和键盘使用多台电脑
+- [鼠标·键盘](https://apps.apple.com/cn/app/%E9%BC%A0%E6%A0%87-%E9%94%AE%E7%9B%98/id1515294700) iPhone 或 iPad 变成电脑的无线鼠标和键盘
 - [Spatial Pointer](https://apps.apple.com/sk/app/spatial-pointer/id6759103550) (iOS) iPhone手机变成鼠标
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MicYou-Dev/MicYou) [MicYou](https://github.com/MicYou-Dev/MicYou)(Windows, Android) 手机当做麦克风
 - [Remote Mouse](https://www.remotemouse.net) 远程鼠标控制
 - [synergy](https://symless.com/synergy) 多电脑屏幕共享键盘鼠标
 - [Remote Mouse](https://apps.apple.com/us/app/remote-mouse/id385894596) (iOS)
@@ -2482,7 +2485,8 @@ Enjoy 🤩
 - [MeshCentral](https://meshcentral.com) 用于远程设备管理的开源、多平台、自托管、功能丰富的网站
 - [WireGuard](https://www.wireguard.com) 远程穿透
 - [woterm](https://github.com/aoyiduo/woterm) (Windows, Linux, macOS) 跨平台远程管理终端
-- [UU Remote](https://uuyc.163.com/) 网易UU远程
+- [UU Remote](https://uuyc.163.com/) 网易UU远程，付费
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sqlpxc/airhand) [Airhand](https://github.com/sqlpxc/airhand) (Windows, macOS, Linux, Android) 采用 QUIC 传输协议，支持硬件编解码，最高可达 120fps
 - ![GitHub Repo stars](https://img.shields.io/github/stars/H-M-H/Weylus) [Weylus](https://github.com/H-M-H/Weylus) 手机变成电脑的触控屏
 - [Deskreen](https://deskreen.com) 电脑的辅助屏幕 Turn any device into a secondary screen for your computer
 - [Lantunnel](https://github.com/lantunnel/lantunnel) 开源内网穿透，加密组网工具
@@ -2595,6 +2599,8 @@ Enjoy 🤩
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/Asspp) [Asspp](https://github.com/Lakr233/Asspp) 一个界面管理多个 Apple ID，还能获取历史版本
 
+- [ESign Reborn](https://esignreborn.com/zh-hans/) ESign iOS 的替代品
+
 -  ![GitHub Repo stars](https://img.shields.io/github/stars/LiveContainer/LiveContainer) [LiveContainer](https://github.com/LiveContainer/LiveContainer) Run iOS apps without actually installing them
 - [IPA Installer](https://apps.apple.com/us/app/ipa-installer/id6748286191) (iOS) 专门用来在 iPhone/iPad 上直接安装 .ipa 或 .iipa 格式文件的工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Lakr233/vphone-cli) [vphone-cli](https://github.com/Lakr233/vphone-cli) (macOS) 开源命令行工具（MIT），在Mac上跑真实完整 iOS 虚拟机
@@ -2609,6 +2615,10 @@ Enjoy 🤩
 - [Sideloadly](https://sideloadly.io) IPA签名工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DanTheMan827/ios-app-signer) [iOS App Signer](https://dantheman827.github.io/ios-app-signer) IPA签名工具
 
+
+
+- [Twoyi](https://twoyi.app/) (iOS, Android) runs a separate Android system on iPhone or Android phone
+- Andarium (iOS) iOS运行安卓
 ### 👾Android
 
 - [Android](https://android.com)
@@ -2650,6 +2660,9 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xlucn/oh-my-foss-android) [oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/offa/android-foss) [android-foss](https://github.com/offa/android-foss)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/offa/android-foss) [Awesome Android Apps](https://github.com/Psyhackological/AAA)
+
+
+
 
 ### 🐧Linux
 
@@ -2739,7 +2752,7 @@ Enjoy 🤩
 - [Warsow](https://www.warsow.net) 免费和快节奏的FPS游戏
 - [XBOX](https://www.xbox.com) 微软旗下的游戏主机品牌
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bobeff/open-source-games) [open-source-games](https://github.com/bobeff/open-source-games) 
-- [seedds/nxnative](https://github.com/seedds/nxnative)  Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA
+- ![GitHub Repo stars](https://img.shields.io/github/stars/seedds/nxnative) [seedds/nxnative](https://github.com/seedds/nxnative)  Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA ，把 Switch 游戏打包成 IPA，苹果设备运行任天堂游戏的新方案
 - [Play games across your devices](https://play.google.com/googleplaygames) (Windows)
 ### 🕹️Game Tool 游戏工具
 
