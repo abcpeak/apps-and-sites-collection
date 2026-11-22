@@ -1356,7 +1356,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/orayemre/Notemod) [Notemod](https://github.com/orayemre/Notemod)
 - [Digital Notes](https://apps.apple.com/app/id1480653765) (iOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OmGodse/Notally) [Notally](https://github.com/OmGodse/Notally) (Android)
-- [HelixNotes](https://helixnotes.com/) (Linux, Windows, macOS, Android, iOS)
+- [HelixNotes](https://helixnotes.com/) (Linux, Windows, macOS, Android, iOS) GitLab开源
 
 ### 👩🏻‍💻Office 办公软件
 
@@ -1622,9 +1622,10 @@ Enjoy 🤩
 - [Parler](https://parler.com)
 - [MeWe](https://mewe.com)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/HuLaSpark/HuLa) [HuLa](https://github.com/HuLaSpark/HuLa) 基于Tauri v2+Vue3的跨平台即时通讯
-- ![GitHub Repo stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop) [Telegram](https://github.com/telegramdesktop/tdesktop) 来自俄罗斯的加密通讯软件 ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop) [Telegram](https://github.com/telegramdesktop/tdesktop) 官方版，来自俄罗斯的加密通讯软件 ⭐
   - [iMe](https://apps.apple.com/us/app/ime-ai-messenger-for-telegram/id1450480822) (Android, iOS)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/Swiftgram/Telegram-iOS) [Swiftgram](https://swiftgram.app)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Swiftgram/Telegram-iOS) [Swiftgram](https://swiftgram.app) (iOS)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/iebb/mithka) [Mithka](https://github.com/iebb/mithka) (Android, iOS, macOS, Windows, Linux)
   - [Nicegram](https://nicegram.app) 开发者频道有2百多万订阅
   - [Turrit](https://apps.apple.com/us/app/turrit-messenger-for-telegram/id6471781238?mt=8) (Android, iOS) 位于新加坡的独立开发团队
   - [Lingogram](https://apps.apple.com/app/id6742133443) (Android, iOS)
