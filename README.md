@@ -2111,7 +2111,7 @@ Enjoy 🤩
   - [Quetta Browser](https://www.quetta.net) (Windows, macOS, iOS, Android)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/phibrowser/phibrowser-mac) [Phi Browser](https://github.com/phibrowser/phibrowser-mac) (macOS, Windows) Chromium (fork)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zephium-browser/zephium) [Zephium](https://github.com/zephium-browser/zephium) (Windows, macOS) Chromium (fork), WebKit on macOS, the engine Safari uses, and WebView2 on Windows
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/driceroland/Search) [Search](https://github.com/driceroland/Search)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/driceroland/Search) [Search](https://github.com/driceroland/Search) (macOS, iOS)
 
 
 - **Firefox，Gecko 内核**
