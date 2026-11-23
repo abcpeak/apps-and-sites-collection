@@ -1726,6 +1726,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MrKai77/Loop) [Loop](https://github.com/MrKai77/Loop) (macOS) 窗口管理
 - [ShortCat](https://shortcat.app) (macOS) 用键盘操作mac电脑
 - ![GitHub Repo stars](https://img.shields.io/github/stars/noah-nuebling/mac-mouse-fix) [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix) (macOS) makes your mouse better
+- [Headphone Control](https://kulaklikkontrol.github.io/) (macOS) Free native menu bar app to switch ANC, ambient sound, EQ, and multipoint for Sony headphones (tested on WH-1000XM5 hardware only; other models untested and unverified)
 - OCR 图片文字识别
   - ![GitHub Repo stars](https://img.shields.io/github/stars/hiroi-sora/Umi-OCR) [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) 文字识别工具
   - ![GitHub Repo stars](https://img.shields.io/github/stars/TheJoeFin/Text-Grab) [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
