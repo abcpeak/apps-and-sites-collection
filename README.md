@@ -1798,7 +1798,7 @@ Enjoy 🤩
 
 - Adblock Filters
   - [QuantumultX 小白2.0配置](https://github.com/ddgksf2013) 去广告配置
-  - [Shadowrocket 去广告配置](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、[shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) ⭐
+  - [Shadowrocket 去广告配置](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)、[shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) 、[出国规则](https://github.com/uxudjs/Shadowrocket)⭐
   - [AdRules](https://github.com/Cats-Team/AdRules) List for blocking ads in the Chinese region
   - [AdGuard Chinese filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) 中文广告
   - [LegitimateURLShortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) Query Parameter Cleaning Rules
@@ -1900,11 +1900,11 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/alienator88/Pearcleaner) [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hellzerg/optimizer) [Optimizer](https://github.com/hellzerg/optimizer)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Raphire/Win11Debloat) [Windows 11 Debloater Tool](https://github.com/Raphire/Win11Debloat) 删除预装的Windows臃肿软件 ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ChrisTitusTech/winutil) [winutil](https://github.com/ChrisTitusTech/winutil)⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ChrisTitusTech/winutil) [winutil](https://github.com/ChrisTitusTech/winutil) (Windows) 系统优化与配置工具⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/memstechtips/Winhance) [Winhance](https://github.com/memstechtips/Winhance) 删除Windows应用程序（永久）
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jdm-contrib/jdm) [JustDeleteMe](https://github.com/jdm-contrib/jdm) 迅速找到要删除帐户的服务
 - [Doggy Cleaner](https://apps.apple.com/us/app/doggy-cleaner-photo-storage/id6747192774) (iOS) 相册清理
-- ![GitHub Repo stars](https://img.shields.io/github/stars/builtbybel/FluentCleaner) [FluentCleaner](https://github.com/builtbybel/FluentCleaner) A real WinUI desktop cleaner with terminal control and multi-database support
+- ![GitHub Repo stars](https://img.shields.io/github/stars/builtbybel/FluentCleaner) [FluentCleaner](https://github.com/builtbybel/FluentCleaner) (Windows) A real WinUI desktop cleaner with terminal control and multi-database support
 - ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Procexp-Mac) [Process Explorer](https://github.com/microsoft/Procexp-Mac) (macOS) 微软 Sysinternals 官方出品，进程管理
 
 
@@ -2099,6 +2099,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mantrakp04/ardia) [Ardia](https://github.com/mantrakp04/ardia) (macOS) Chromium-based
   - [Compass](https://github.com/Compass-Browser/Compass)
   - [ilo](https://github.com/MartinPTielemans/ilo)
+  - [Slimjet](https://www.slimjet.com) (Windows, macOS, Linux) Blink，FlashPeak Inc.总部在美国得克萨斯州奥斯丁市
 
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
@@ -2142,7 +2143,7 @@ Enjoy 🤩
   - [Falkon](https://www.falkon.org) 使用QtWebEngine渲染引擎的KDE Web浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://github.com/qutebrowser/qutebrowser) (Windows, macOS) QtWebEngine引擎，A keyboard-driven, vim-like browser based on Python and Qt.
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (Linux, macOS) using a novel engine based on web standards
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (Linux, macOS) using a novel engine based on web standards ⭐⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/elarisbrowser/elaris) [Elaris web browser](https://github.com/elarisbrowser/elaris) (Linux, macOS)
 
 
@@ -2162,10 +2163,10 @@ Enjoy 🤩
 - [SeaMonkey](https://www.seamonkey-project.org/releases) (Windows, macOS, Linux)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/garuda-linux/firedragon) [Firedragon](https://github.com/garuda-linux/firedragon) (Linux) A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 
-- [Slimjet](https://www.slimjet.com) (Windows, macOS, Linux)
+
 - [ArcSphere](https://apps.apple.com/us/app/arcsphere-ai-native-browser/id6502280398) (iOS, Android) AI浏览器
-- ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium)  [GrapheneOS](https://github.com/GrapheneOS)用户的浏览器，未正式提供给GrapheneOS以外的用户
-	- ![GitHub Repo stars](https://img.shields.io/github/stars/jqssun/android-titanium-browser) [Titanium Browser for Android](https://github.com/jqssun/android-titanium-browser) 基于GrapheneOS的 Vanadium
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GrapheneOS/Vanadium) [Vanadium](https://github.com/GrapheneOS/Vanadium)  未提供给[GrapheneOS](https://github.com/GrapheneOS)以外的用户
+	- ![GitHub Repo stars](https://img.shields.io/github/stars/jqssun/android-titanium-browser) [Titanium Browser for Android](https://github.com/jqssun/android-titanium-browser) (Android) 基于GrapheneOS的 Vanadium
 - [WebLibre](https://github.com/FaFre/WebLibre)
 
 - 🗃️Archived
