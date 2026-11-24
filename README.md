@@ -1877,9 +1877,9 @@ Enjoy 🤩
 ### 🧹Clean 软件清理&卸载&优化
 
 - [CCleaner](https://www.ccleaner.com/ccleaner) ⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/itsfatduck/optimizerDuck) [optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/itsfatduck/optimizerDuck) [optimizerDuck](https://github.com/itsfatduck/optimizerDuck) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/TuguiDragos/Peel) [Peel](https://github.com/TuguiDragos/Peel) (macOS)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/harry0703/MangoDisk) [MangoDisk](https://github.com/harry0703/MangoDisk) (Windows, macOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/harry0703/MangoDisk) [MangoDisk](https://github.com/harry0703/MangoDisk) (Windows, macOS) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AdventDevInc/kudu) [kudu](https://github.com/AdventDevInc/kudu) (Windows, macOS and Linux) system cleaner and security scanner
 - [Geek Uninstaller](https://geekuninstaller.com)
 - [Winslop](https://www.neowin.net/software/winslop-03550) (Windows) 去除不必要的系统冗余
@@ -2097,6 +2097,8 @@ Enjoy 🤩
   - [Elixir](https://github.com/SF-FLAM/ElixirBrowser) (Android) a Chromium-based browser with full extension support
   - ![GitHub Repo stars](https://img.shields.io/github/stars/VictorKildahl/cra) [Cra](https://github.com/VictorKildahl/cra) (macOS) Chromium-based
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mantrakp04/ardia) [Ardia](https://github.com/mantrakp04/ardia) (macOS) Chromium-based
+  - [Compass](https://github.com/Compass-Browser/Compass)
+  - [ilo](https://github.com/MartinPTielemans/ilo)
 
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
@@ -2112,6 +2114,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/phibrowser/phibrowser-mac) [Phi Browser](https://github.com/phibrowser/phibrowser-mac) (macOS, Windows) Chromium (fork)
   - ![GitHub Repo stars](https://img.shields.io/github/stars/zephium-browser/zephium) [Zephium](https://github.com/zephium-browser/zephium) (Windows, macOS) Chromium (fork), WebKit on macOS, the engine Safari uses, and WebView2 on Windows
   - ![GitHub Repo stars](https://img.shields.io/github/stars/driceroland/Search) [Search](https://github.com/driceroland/Search) (macOS, iOS)
+
 
 
 - **Firefox，Gecko 内核**
@@ -2140,7 +2143,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/qutebrowser/qutebrowser) [qutebrowser](https://github.com/qutebrowser/qutebrowser) (Windows, macOS) QtWebEngine引擎，A keyboard-driven, vim-like browser based on Python and Qt.
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird) [Ladybird](https://github.com/LadybirdBrowser/ladybird) (Linux, macOS) using a novel engine based on web standards
-  - [Photon Browser](https://github.com/PhotonBrowser/photon) Built on Ladybird
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/elarisbrowser/elaris) [Elaris web browser](https://github.com/elarisbrowser/elaris) (Linux, macOS)
 
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/duckduckgo/apple-browsers) [DuckDuckGo](https://github.com/duckduckgo/apple-browsers) Windows based on Edge WebView2，故意设计不支持扩展，优先极致隐私而非灵活性
@@ -2619,7 +2622,7 @@ Enjoy 🤩
 
 
 - [Twoyi](https://twoyi.app/) (iOS, Android) runs a separate Android system on iPhone or Android phone
-- Andarium (iOS) iOS运行安卓
+- ![GitHub Repo stars](https://img.shields.io/github/stars/imxieyi/Kernarium) [Andarium](https://github.com/imxieyi/Kernarium) (iOS) iOS运行安卓
 ### 👾Android
 
 - [Android](https://android.com)
