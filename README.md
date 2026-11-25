@@ -480,6 +480,8 @@ Enjoy 🤩
 
 ## 🍿Entertainment 娱乐
 
+- [StagePeek](https://stagepeek.live/) — 全球 201 座演唱会场馆 2D 座位图与 3D 舞台视角模拟器（免登录免费浏览，支持 1x–10x 手机变焦预览）
+
 ### 🎬Movies & TV
 
 - [YouTube](https://youtube.com) 油管
