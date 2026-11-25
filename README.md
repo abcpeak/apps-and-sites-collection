@@ -791,6 +791,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/T8RIN/ImageToolbox) [ImageToolbox](https://github.com/T8RIN/ImageToolbox) (Android) 全能型图片处理工具
 - [Scrollie](https://apps.apple.com/us/app/scrollie-long-screenshot/id6757146579) (iOS)
 - [StitchPics](https://apps.apple.com/us/app/stitchpics-stitch-screenshots/id1175878538) (iOS)
+- [Kite](https://kite.new) (Web, macOS, Windows) AI 设计工具，Claude/ChatGPT/Cursor 通过 MCP 在团队共享的设计文件中绘制可编辑图层，可复制到 Figma 或导出 HTML/React/Tailwind，有免费版
 
 ## 💪Health & Fitness 健康健美
 
