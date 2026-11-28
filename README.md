@@ -885,7 +885,8 @@ Enjoy 🤩
 ### 🎶Music Player 音乐播放软件
 
 - [Audacious](https://audacious-media-player.org) (Linux, BSD derivatives, macOS and Windows) open source audio player，2025年还在更新
-- ![GitHub Repo stars](https://img.shields.io/github/stars/monochrome-music/desktop-app) [Monochrome](https://github.com/monochrome-music/desktop-app/) (Windows, Android, iOS) 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/monochrome-music/desktop-app) [Monochrome](https://github.com/monochrome-music/desktop-app/) (Windows, Android, iOS)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/qier222/YesPlayMusic) [YesPlayMusic](https://github.com/qier222/YesPlayMusic) (macOS, Windows, Linux)
 - [Elisa（KDE出品）](https://apps.kde.org/elisa) 嵌入到文件中的歌词显示，不支持LRC歌词文件
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DeaDBeeF-Player/deadbeef) [DeaDBeeF Player](https://github.com/DeaDBeeF-Player/deadbeef)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/strawberrymusicplayer/strawberry) [🍓 Strawberry Music Player](https://github.com/strawberrymusicplayer/strawberry) Clementine的升级版、专为无损发烧友设计
@@ -1320,6 +1321,7 @@ Enjoy 🤩
 - [UpNote](https://getupnote.com) 免费版本只能导入TXT和导出TXT与HTML格式，The free version allows up to 50 notes with basic features.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/docmost/docmost) [docmost](https://github.com/docmost/docmost) 协作 wiki 和文档软件
 - [Notion](https://www.notion.com) (cross-platform) Note-Taking ⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/tianma-if/edgeever) [edgeever](https://github.com/tianma-if/edgeever) AI-native note-taking app 利用 Cloudflare 免费额度就能部署
 - [Tana](https://tana.inc)
 - [Coda](https://coda.io) All-in-One Doc for Teams，基于Chrome，类似Notion
 - [Bear](https://bear.app/cn) (macOS, iOS) 熊掌记
@@ -1881,8 +1883,9 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/TuguiDragos/Peel) [Peel](https://github.com/TuguiDragos/Peel) (macOS)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/harry0703/MangoDisk) [MangoDisk](https://github.com/harry0703/MangoDisk) (Windows, macOS) ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AdventDevInc/kudu) [kudu](https://github.com/AdventDevInc/kudu) (Windows, macOS and Linux) system cleaner and security scanner
+- ![GitHub Repo stars](https://img.shields.io/github/stars/flick9000/winscript) [winscript](https://github.com/flick9000/winscript) (Windows) 从 Windows 中移除预装的冗余软件和不必要的组件。卸载 Microsoft Store、OneDrive、Copilot 和 Edge;禁用小部件、召回和消费者功能;把不需要的都去掉
 - [Geek Uninstaller](https://geekuninstaller.com)
-- [Winslop](https://www.neowin.net/software/winslop-03550) (Windows) 去除不必要的系统冗余
+- ![GitHub Repo stars](https://img.shields.io/github/stars/builtbybel/FluentTweaker) [FluentTweaker](https://github.com/builtbybel/FluentTweaker) (Windows) 去除不必要的系统冗余
 - ![GitHub Repo stars](https://img.shields.io/github/stars/guhcostan/windows-cleaner-cli) [Windows Cleaner CLI](https://github.com/guhcostan/windows-cleaner-cli) Windows cleanup tool
 - [Revo Uninstaller](https://www.revouninstaller.com)
 - [Registry Finder](https://registry-finder.com)
@@ -2066,12 +2069,12 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/dsfox-idea/brave-core) [Growser](https://github.com/dsfox-idea/brave-core) A fork of Brave-Browser. Remove: advertising and reward tokens, the wallet, the VPN, the AI assistant, the telemetry, the daily ping.
   - [Thorium Browser](https://thorium.rocks) 比普通Chromium的性能提高了8-38%
   - [SRWare Iron](https://www.srware.net/iron) 德国安全公司srware开发，去除了使用追踪等功能，增强隐私
-  - [Vivaldi](https://vivaldi.com) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex自动翻译。建议至少每6个月登录一次 ⭐
+  - [Vivaldi](https://vivaldi.com) Base in Norway挪威，修改的Chromium开源，用户界面闭源，Lingvanex自动翻译。建议至少每6个月登录一次，缺点是内核更新比较慢。 ⭐
   - [Yandex Browser](https://browser.yandex.com) 来自俄罗斯
   - [Coc Coc Browser](https://coccoc.com/en) 来自越南，in Vietnamese Cốc cốc means that Knock Knock
   - ![GitHub Repo stars](https://img.shields.io/github/stars/tuyafeng/Via) [Via Browser](https://github.com/tuyafeng/Via) (iOS, Android)
   - [Ulaa Browser](https://ulaa.zoho.com) (Windows) 电子邮件提供商Zoho推出的全平台隐私安全浏览器
-  - [Dia Browser](https://www.diabrowser.com)  (macOS, Windows) Atlassian Corporation在2025年9月收购了The Browser Company
+  - [Dia Browser](https://www.diabrowser.com)  (macOS, Windows) Atlassian Corporation在2025年9月收购了The Browser Company ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/deta/surf) [Deta Surf Browser](https://github.com/deta/surf) Deta GmbH 个人AI笔记本应用
   - [Comet](https://www.perplexity.ai/comet) 搜索广告公司Perplexity推出的AI浏览器
   - ![GitHub Repo stars](https://img.shields.io/github/stars/iridium-browser/iridium-browser) [Iridium Browser](https://iridiumbrowser.de) Enhance the privacy
@@ -2095,11 +2098,15 @@ Enjoy 🤩
   - [AdsPower](https://www.adspower.com) 指纹浏览器
   - [Sailfish](https://github.com/SailfishBrowser) (iOS, macOS) Open source Chromium Engine
   - [Elixir](https://github.com/SF-FLAM/ElixirBrowser) (Android) a Chromium-based browser with full extension support
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/VictorKildahl/cra) [Cra](https://github.com/VictorKildahl/cra) (macOS) Chromium-based
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/VictorKildahl/cra) [Cra Browser](https://github.com/VictorKildahl/cra) (macOS, iOS) Chromium-based, solo developer
   - ![GitHub Repo stars](https://img.shields.io/github/stars/mantrakp04/ardia) [Ardia](https://github.com/mantrakp04/ardia) (macOS) Chromium-based
-  - [Compass](https://github.com/Compass-Browser/Compass)
-  - [ilo](https://github.com/MartinPTielemans/ilo)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/razegrowth/Quo) [Quo](https://github.com/razegrowth/Quo)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/Compass-Browser/Compass) [Compass](https://github.com/Compass-Browser/Compass)
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/MartinPTielemans/ilo) [ilo] (https://github.com/MartinPTielemans/ilo)
   - [Slimjet](https://www.slimjet.com) (Windows, macOS, Linux) Blink，FlashPeak Inc.总部在美国得克萨斯州奥斯丁市
+  - [Luma](https://lumabrowser.dev/)  (Windows) from Italy
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/magnetite-browser/magnetite) [Magnetite](https://github.com/magnetite-browser/magnetite)
+
 
 
 - [Safari](https://www.apple.com/safari) (macOS, iOS) WebKit引擎，Apple公司开发
@@ -2366,7 +2373,8 @@ Enjoy 🤩
 - [InfiniCLOUD](https://infini-cloud.net)
 - [Bitrix24](https://www.bitrix24.fr)
 - [PikPak](https://pikpak.me) 新加坡的团队开发
-- [Filen](https://filen.io) 2020年初在德国雷克林豪森成立，E2EE存储。免费用户3个月内活跃；付费用户（如月付/年付）只要订阅有效无需担心 inactivity 问题；终身计划（lifetime）需每 3 年登录一次。 ⭐
+	- ![GitHub Repo stars](https://img.shields.io/github/stars/NihilDigit/piko) [piko](https://github.com/NihilDigit/piko)
+- [Filen](https://filen.io) 2020年初在德国雷克林豪森成立，E2EE存储。免费用户3个月内活跃；付费用户（如月付/年付）只要订阅有效无需担心 inactivity 问题；lifetime需每 3 年登录一次 ⭐
 - [Sync](https://www.sync.com) 需付费
 - [Proton Drive](https://drive.proton.me) 免费5G，12个月内活跃 ⭐
 - [Rakuten Drive](https://www.rakuten-drive.com) 乐天网盘，免费10G
@@ -2394,6 +2402,7 @@ Enjoy 🤩
 - [Cloudreve](https://github.com/cloudreve/Cloudreve) Self-hosted file management and sharing system, supports multiple storage providers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lithium0003/ccViewer) [CryptCloudViewer](https://github.com/lithium0003/ccViewer) 可以在 Filen.io 云端播放音乐
 - [LitePan](https://github.com/Ponphil/LitePan) 多网盘聚合与管理工具，支持 Web 界面、WebDAV、STRM 生成、媒体整理等
+- [drivecraft](https://github.com/fballiano/drivecraft) replacement for the apps of OneDrive, Dropbox, Box, and more，rust写的
 
 #### 🍉Cross-Platform File Transfer 跨平台文件传输
 
@@ -2464,6 +2473,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/zerx-lab/FluxDown) [FluxDown](https://github.com/zerx-lab/FluxDown) Rust 驱动的多协议下载管理器 ⭐
 - ![GitHub Repo stars](https://img.shields.io/github/stars/subhra74/xdm) [Xtreme Download Manager](https://github.com/subhra74/xdm) 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BrisklyDev/brisk) [brisk](https://github.com/BrisklyDev/brisk) Ultra-fast, modern download manager
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FortoGraphy/prism-download-manager) [Prism](https://github.com/FortoGraphy/prism-download-manager) (Windows, macOS and Linux) IDM alternative, 它会把一个文件拆成最多 32 路同时下载，碰上对单个连接限速的服务器，比浏览器直接下载快到 15 倍
 
 - 🗃️Archived
   - [XDown](https://xdown.org) 免费无广告的idm torrent合成体 最后更新2025-05-18
