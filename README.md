@@ -1506,6 +1506,7 @@ Enjoy 🤩
 - [Samsung Pass](https://www.samsung.com/us/support/owners/app/samsung-pass) (Android)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bitwarden/clients) [Bitwarden](https://github.com/bitwarden/clients) 支持webdav，可自建服务器，支持 Windows 11 原生通行密钥 ⭐⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/shuaiplus/NodeWarden) [Nodewarden](https://github.com/shuaiplus/NodeWarden) Bitwarden-compatible server running on Cloudflare Workers ⭐
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden) [vaultwarden](https://github.com/dani-garcia/vaultwarden) Unofficial Bitwarden compatible server，Rust写的 ⭐⭐⭐
 - [KeePass](https://keepass.info) 开源免费，可以设置webdav同步，使用C#开发
   - ![GitHub Repo stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org) (Windows, Linux, macOS) 开源免费，采用C++开发，在KeePassX的基础上添加了许多新功能 ⭐
   - ![GitHub Repo stars](https://img.shields.io/github/stars/strongbox-password-safe/Strongbox) [Strongbox](https://github.com/strongbox-password-safe/Strongbox) (iOS, macOS) 需付费 A KeePass/Password Safe Client
@@ -1832,7 +1833,7 @@ Enjoy 🤩
   - ![GitHub Repo stars](https://img.shields.io/github/stars/Diorser/LiteMonitor) [LiteMonitor](https://github.com/Diorser/LiteMonitor) 桌面硬件监控软件，实时监测 CPU、GPU、内存、磁盘、网络等系统性能
   - [Net Speed Meter](https://netspeedm.com) 显示网速的软件
   - [Test your IPv6](https://test-ipv6.com)
-  - ![GitHub Repo stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet) [sniffnet](https://github.com/GyulyVGC/sniffnet) 监控网络，互联网流量流向的国家和域名信息、使用的协议，了解哪些应用和程序正在占用你的带宽
+  - ![GitHub Repo stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet) [sniffnet](https://github.com/GyulyVGC/sniffnet) 监控网络，互联网流量流向的国家和域名信息、使用的协议，了解哪些应用和程序正在占用你的带宽，Rust写的 ⭐
   - Speed Test 网速测试：[Speed Cloudflare](https://speed.cloudflare.com), [Speedtest](https://www.speedtest.net)、[fast](https://fast.com)、[LibreSpeed](https://librespeed.org)
   - 网络分析：[Network Analyzer App](https://techet.net/netanalyzer), [WiFiman](https://wifiman.com), [Fing](https://apps.apple.com/us/app/fing-network-scanner/id430921107), [iSocketTool](https://apps.apple.com/us/app/isockettool/id1461652639)
   - IP查询：[IPinfo](https://ipinfo.io/what-is-my-ip)、[IPCheck.ing](https://ipcheck.ing)、[WHOER](https://whoer.net/zh)、[ping.pe](https://ping.pe)、[IP Address details](https://ipleak.net)、[myip](https://www.myip.com)、[whatismyipaddress](https://whatismyipaddress.com)
@@ -2019,6 +2020,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/iDvel/rime-ice) [雾凇拼音](https://github.com/iDvel/rime-ice) 简体中文 Rime 输入法配置
 - ![GitHub Repo stars](https://img.shields.io/github/stars/aardio/ImTip) [ImTip](https://github.com/aardio/ImTip) 输入法状态提示工具
 - ![GitHub Repo stars](https://img.shields.io/github/stars/huanfeng/WindInput) [清风输入法](https://github.com/huanfeng/WindInput)
+- [微明 Glimmer](https://github.com/OpenFabrica/glimmer) (Windows, macOS)
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey) [AutoHotkey](https://www.autohotkey.com) a scripting language for desktop automation热键脚本语言
   - ![GitHub Repo stars](https://img.shields.io/github/stars/xianyukang/MyKeymap) [MyKeymap](https://github.com/xianyukang/MyKeymap) 一款基于AutoHotkey的键盘映射工具
@@ -2106,6 +2108,7 @@ Enjoy 🤩
   - [Slimjet](https://www.slimjet.com) (Windows, macOS, Linux) Blink，FlashPeak Inc.总部在美国得克萨斯州奥斯丁市
   - [Luma](https://lumabrowser.dev/)  (Windows) from Italy
   - ![GitHub Repo stars](https://img.shields.io/github/stars/magnetite-browser/magnetite) [Magnetite](https://github.com/magnetite-browser/magnetite)
+  - [Strawberry browser](https://strawberrybrowser.com/)
 
 
 
@@ -2300,7 +2303,7 @@ Enjoy 🤩
 - [FastCopy](https://fastcopy.jp) 复制增强工具 ⭐
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk) 文件重命名
 - [ReNamer](https://www.den4b.com/products/renamer) (Windows) 文件重命名
-- ![GitHub Repo stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive) [Spacedrive](https://github.com/spacedriveapp/spacedrive) (Windows)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/spacedriveapp/spacedrive) [Spacedrive](https://github.com/spacedriveapp/spacedrive) (Windows) Rust写的，最近更新Mar 3, 2025
 - [OneCommander](https://www.onecommander.com) (Windows) 分免费版和Pro版
 - [Marta](https://marta.sh) (macOS) File Manager
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MHNightCat/superfile) [superfile](https://github.com/MHNightCat/superfile) (Linux, macOS, Windows) 终端文件管理器
@@ -2400,7 +2403,7 @@ Enjoy 🤩
 - [Cloudreve](https://github.com/cloudreve/Cloudreve) Self-hosted file management and sharing system, supports multiple storage providers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lithium0003/ccViewer) [CryptCloudViewer](https://github.com/lithium0003/ccViewer) 可以在 Filen.io 云端播放音乐
 - [LitePan](https://github.com/Ponphil/LitePan) 多网盘聚合与管理工具，支持 Web 界面、WebDAV、STRM 生成、媒体整理等
-- [drivecraft](https://github.com/fballiano/drivecraft) replacement for the apps of OneDrive, Dropbox, Box, and more，rust写的
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fballiano/drivecraft) [drivecraft](https://github.com/fballiano/drivecraft) replacement for the apps of OneDrive, Dropbox, Box, and more，Rust写的 ⭐
 
 #### 🍉Cross-Platform File Transfer 跨平台文件传输
 
@@ -2443,7 +2446,7 @@ Enjoy 🤩
 - ![GitHub Repo stars](https://img.shields.io/github/stars/transmission/transmission) [Transmission](https://github.com/transmission/transmission) Bittorrent客户端
 - ![GitHub Repo stars](https://img.shields.io/github/stars/putyy/res-downloader) [res-downloader](https://github.com/putyy/res-downloader) 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载  ⭐
 - [Internet Download Manager (IDM)](https://www.internetdownloadmanager.com) (Windows)⭐
-- ![GitHub Repo stars](https://img.shields.io/github/stars/anefzaoui/misterdownloadmanager) [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) (Windows, macOS, Linux) Faster than IDM ⭐⭐
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anefzaoui/misterdownloadmanager) [Mister Download Manager](https://github.com/anefzaoui/misterdownloadmanager) (Windows, macOS, Linux) Faster than IDM，Rust写的⭐⭐
 - [nexdm](https://nexdm.in) (Windows)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/anmolkapil/plexo) [plexo](https://github.com/anmolkapil/plexo) (Windows, macOS, Linux) 通过并行合并多个网络连接加快下载速度
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en)
@@ -2486,7 +2489,7 @@ Enjoy 🤩
 - [AnyDesk](https://anydesk.com/zhs) 德国公司 ⭐
 - [Anyviewer](https://www.anyviewer.com) 傲梅免费远程桌面软件
 - [Chrome Remote Desktop](https://remotedesktop.google.com/access)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/rustdesk/rustdesk) [RustDesk](https://rustdesk.com) 开源远程桌面客户端软件，可以把中继服务器改成自己的服务器
+- ![GitHub Repo stars](https://img.shields.io/github/stars/rustdesk/rustdesk) [RustDesk](https://rustdesk.com) 开源远程桌面客户端软件，可以把中继服务器改成自己的服务器，Rust写的 ⭐
 - [HelpWire](https://www.helpwire.app)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/galaxy-s10/billd-desk) [BilldDesk](https://github.com/galaxy-s10/billd-desk) 远程桌面控制，Pro版本需付费
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dchapyshev/aspia) [aspia](https://github.com/dchapyshev/aspia)
